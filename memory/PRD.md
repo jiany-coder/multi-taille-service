@@ -16,19 +16,19 @@ Créer un site SEO premium pour Multi Taille Services, élagueur/jardinier/paysa
 - Conversion : CallButton (tel:+33767234123) dans header, hero, CTA bands, footer + bouton flottant mobile (fixed bottom, md:hidden).
 - Backend FastAPI : inchangé, non utilisé par le site (pas de données dynamiques requises).
 
-## Pages livrées (24/08/2026) — 26 URLs
-Accueil / ; services : elagage, abattage-arbres, dessouchage, taille-de-haie, debroussaillage, jardinier, paysagiste, entretien-de-jardin, entretien-espaces-verts, tonte-de-pelouse, entretien-exterieur ; locales : elagage/jardinier/paysagiste × lisieux/orbec/vimoutiers/falaise + taille-de-haie-lisieux ; blog : /conseils (6 catégories, structure seule, aucun article).
+## Pages livrées — 32 URLs
+Accueil / ; services : elagage, abattage-arbres, dessouchage, taille-de-haie, debroussaillage, jardinier, paysagiste, entretien-de-jardin, entretien-espaces-verts, tonte-de-pelouse, entretien-exterieur ; locales : elagage/jardinier/paysagiste × lisieux/orbec/vimoutiers/falaise + taille-de-haie-lisieux + elagage/jardinier/paysagiste × livarot-pays-d-auge (URLs /elagage-livarot, /jardinier-livarot, /paysagiste-livarot) ; blog : /conseils + 3 articles (24/08/2026) : quand-tailler-sa-haie-en-normandie, tailler-un-pommier-pays-d-auge, elagage-ou-abattage-que-choisir. Articles dans src/data/articles.js avec schema Article + FAQ + maillage vers services.
 
-## Vérifié
+## Vérifié (24/08/2026)
 - Compilation OK, 0 erreur console (hors warning framer-motion bénin).
 - Home, /elagage, /elagage-lisieux testés (titres, H1, FAQ accordéon OK, maillage OK).
 - Mobile : bouton flottant tel: visible, menu mobile OK.
-- robots.txt et sitemap.xml : HTTP 200.
+- robots.txt et sitemap.xml : HTTP 200, sitemap à jour (32 URLs).
 
 ## Backlog priorisé
-- P0 : Ajouter pages Livarot-Pays-d'Auge & Saint-Pierre-en-Auge (élagueur/jardinier/paysagiste) quand le client le demande — mécanisme prêt (données + route auto).
-- P1 : Rédiger les premiers articles de blog (6 catégories prêtes). Vraies photos de réalisations client (remplacer les illustrations).
-- P2 : Mézidon Vallée d'Auge, Cambremer, Pont-l'Évêque ; avis clients vérifiés ; version anglaise non pertinente. Page Contact/Mentions légales si besoin réglementaire.
+- P0 : Saint-Pierre-en-Auge (élagueur/jardinier/paysagiste) — même mécanisme que Livarot.
+- P1 : Vraies photos de réalisations client (remplacer les illustrations WebP). Nouveaux articles de blog au fil des saisons.
+- P2 : Mézidon Vallée d'Auge, Cambremer, Pont-l'Évêque ; avis clients vérifiés ; page Mentions légales si besoin.
 
 ## Personas
 - Particulier 40-70 ans, propriété avec jardin/arbres dans le Pays d'Auge, cherche "élagueur Lisieux" sur mobile → veut appeler vite.

@@ -8,6 +8,7 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Faq } from "@/components/Faq";
 import { SITE, CITIES, breadcrumbSchema, faqSchema, serviceSchema, localBusinessSchema } from "@/data/site";
 import { SERVICES } from "@/data/services";
+import { LOCAL_PAGES } from "@/data/localPages";
 
 export default function ServicePage({ service }) {
   const others = SERVICES.filter((s) => s.slug !== service.slug).slice(0, 4);
@@ -121,7 +122,7 @@ export default function ServicePage({ service }) {
           <Reveal>
             <p className="overline-tag mb-4">Près de chez vous</p>
             <h2 className="font-serif text-3xl font-semibold tracking-tight text-forest sm:text-4xl">
-              {service.name} à Lisieux, Orbec, Vimoutiers et Falaise
+              {service.name} : trouvez-nous près de chez vous
             </h2>
             <p className="mt-4 max-w-2xl text-base leading-relaxed text-charcoal/70">
               Nous intervenons dans tout le Pays d'Auge. Retrouvez nos prestations de {service.name.toLowerCase()} ville par ville :
@@ -130,11 +131,12 @@ export default function ServicePage({ service }) {
           <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
             {service.cities.map((citySlug) => {
               const city = CITIES.find((c) => c.slug === citySlug);
+              const lp = LOCAL_PAGES.find((p) => p.serviceSlug === service.slug && p.citySlug === citySlug);
               return (
                 <Reveal key={citySlug} delay={0.05}>
                   <Link
-                    to={`/${service.slug}-${citySlug}`}
-                    data-testid={`local-link-${service.slug}-${citySlug}`}
+                    to={`/${lp.slug}`}
+                    data-testid={`local-link-${lp.slug}`}
                     className="group flex h-full flex-col justify-between rounded-lg border border-charcoal/10 bg-bone p-6 transition-[transform,box-shadow,border-color] duration-300 hover:-translate-y-1 hover:border-ember/40 hover:shadow-[0_16px_40px_rgba(10,42,26,0.12)]"
                   >
                     <span>

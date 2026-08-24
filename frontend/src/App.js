@@ -7,6 +7,7 @@ import Home from "@/pages/Home";
 import ServicePage from "@/pages/ServicePage";
 import LocalPage from "@/pages/LocalPage";
 import BlogIndex from "@/pages/BlogIndex";
+import ArticlePage from "@/pages/ArticlePage";
 import NotFound from "@/pages/NotFound";
 import { SERVICES } from "@/data/services";
 import { LOCAL_PAGES } from "@/data/localPages";
@@ -46,6 +47,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/conseils" element={<BlogIndex />} />
+            <Route path="/conseils/:slug" element={<ArticlePage />} />
             {SERVICES.map((s) => (
               <Route key={s.slug} path={`/${s.slug}`} element={<ServicePage service={s} />} />
             ))}

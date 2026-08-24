@@ -14,6 +14,7 @@ export const CITIES = [
   { slug: "orbec", name: "Orbec" },
   { slug: "vimoutiers", name: "Vimoutiers" },
   { slug: "falaise", name: "Falaise" },
+  { slug: "livarot-pays-d-auge", name: "Livarot-Pays-d'Auge" },
 ];
 
 export const ZONES = [

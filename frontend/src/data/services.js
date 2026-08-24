@@ -65,7 +65,7 @@ export const SERVICES = [
       { q: "Pouvez-vous tailler un arbre proche d'une maison ou d'une ligne ?", a: "Oui. Nous pratiquons la taille sur cordes et le démontage contrôlé lorsque l'arbre surplombe une toiture, une véranda ou des câbles. Les branches sont retenues et descendues par morceaux pour ne rien abîmer." },
       { q: "Que faites-vous des branches et des déchets de taille ?", a: "Nous les évacuons systématiquement. Sur demande, les branches peuvent être broyées sur place et les copeaux laissés à votre disposition pour pailler vos massifs : c'est un excellent amendement pour le jardin." },
     ],
-    cities: ["lisieux", "orbec", "vimoutiers", "falaise"],
+    cities: ["lisieux", "orbec", "vimoutiers", "falaise", "livarot-pays-d-auge"],
   },
   {
     slug: "abattage-arbres",
@@ -350,7 +350,7 @@ export const SERVICES = [
       { q: "Faut-il que je sois présent pendant vos interventions ?", a: "Non, pas nécessairement. Beaucoup de nos clients nous laissent l'accès au jardin et retrouvent le travail fait en rentrant le soir. Nous convenons ensemble des modalités lors de la première visite." },
       { q: "Apportez-vous votre propre matériel ?", a: "Oui. Tondeuses, taille-haies, débroussailleuses, outils à main : tout est fourni, entretenu et professionnel. Vous n'avez ni matériel à acheter, ni carburant à gérer, ni lames à affûter." },
     ],
-    cities: ["lisieux", "orbec", "vimoutiers", "falaise"],
+    cities: ["lisieux", "orbec", "vimoutiers", "falaise", "livarot-pays-d-auge"],
   },
   {
     slug: "paysagiste",
@@ -406,7 +406,7 @@ export const SERVICES = [
       { q: "Quels végétaux choisir pour un jardin sans entretien ?", a: "Aucun jardin n'est totalement sans entretien, mais certains s'en approchent : haies champêtres taillées une fois par an, massifs d'arbustes persistants paillés, graminées, gazon extensif. Nous concevons l'aménagement en fonction du temps que vous voulez — ou ne voulez pas — y passer." },
       { q: "Travaillez-vous aussi pour les petits jardins de ville ?", a: "Oui. Les cours et jardins de ville de Lisieux, Orbec ou Falaise sont même de beaux terrains d'exercice : chaque mètre carré compte, et un aménagement malin — haie brise-vue, massif généreux, arbre bien placé — transforme complètement un petit extérieur." },
     ],
-    cities: ["lisieux", "orbec", "vimoutiers", "falaise"],
+    cities: ["lisieux", "orbec", "vimoutiers", "falaise", "livarot-pays-d-auge"],
   },
   {
     slug: "entretien-de-jardin",
