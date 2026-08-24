@@ -169,7 +169,7 @@ export default function LocalPage({ page }) {
           {sameService.length > 0 && (
             <Reveal delay={0.1}>
               <h2 className="font-serif text-2xl font-semibold tracking-tight text-forest">
-                {page.shortName} dans les autres villes du Pays d'Auge
+                {page.shortName} dans nos autres secteurs
               </h2>
               <div className="mt-5 space-y-3">
                 {sameService.map((p) => (

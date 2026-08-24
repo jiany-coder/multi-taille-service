@@ -16,8 +16,8 @@ Créer un site SEO premium pour Multi Taille Services, élagueur/jardinier/paysa
 - Conversion : CallButton (tel:+33767234123) dans header, hero, CTA bands, footer + bouton flottant mobile (fixed bottom, md:hidden).
 - Backend FastAPI : inchangé, non utilisé par le site (pas de données dynamiques requises).
 
-## Pages livrées — 32 URLs
-Accueil / ; services : elagage, abattage-arbres, dessouchage, taille-de-haie, debroussaillage, jardinier, paysagiste, entretien-de-jardin, entretien-espaces-verts, tonte-de-pelouse, entretien-exterieur ; locales : elagage/jardinier/paysagiste × lisieux/orbec/vimoutiers/falaise + taille-de-haie-lisieux + elagage/jardinier/paysagiste × livarot-pays-d-auge (URLs /elagage-livarot, /jardinier-livarot, /paysagiste-livarot) ; blog : /conseils + 3 articles (24/08/2026) : quand-tailler-sa-haie-en-normandie, tailler-un-pommier-pays-d-auge, elagage-ou-abattage-que-choisir. Articles dans src/data/articles.js avec schema Article + FAQ + maillage vers services.
+## Pages livrées — 35 URLs
+Accueil / ; services : elagage, abattage-arbres, dessouchage, taille-de-haie, debroussaillage, jardinier, paysagiste, entretien-de-jardin, entretien-espaces-verts, tonte-de-pelouse, entretien-exterieur ; locales : elagage/jardinier/paysagiste × lisieux/orbec/vimoutiers/falaise/livarot-pays-d-auge/argences + taille-de-haie-lisieux (URLs courtes : /elagage-livarot, /elagage-argences...) ; blog : /conseils + 3 articles (24/08/2026) : quand-tailler-sa-haie-en-normandie, tailler-un-pommier-pays-d-auge, elagage-ou-abattage-que-choisir. Articles dans src/data/articles.js avec schema Article + FAQ + maillage vers services.
 
 ## Vérifié (24/08/2026)
 - Compilation OK, 0 erreur console (hors warning framer-motion bénin).

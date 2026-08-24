@@ -15,12 +15,13 @@ export const CITIES = [
   { slug: "vimoutiers", name: "Vimoutiers" },
   { slug: "falaise", name: "Falaise" },
   { slug: "livarot-pays-d-auge", name: "Livarot-Pays-d'Auge" },
+  { slug: "argences", name: "Argences" },
 ];
 
 export const ZONES = [
   "Lisieux", "Orbec", "Vimoutiers", "Falaise", "Livarot-Pays-d'Auge",
   "Saint-Pierre-en-Auge", "Mézidon Vallée d'Auge", "Cambremer", "Pont-l'Évêque",
-  "Cormeilles", "Moyaux", "Thiberville", "Dozulé", "Cabourg", "Dives-sur-Mer",
+  "Cormeilles", "Moyaux", "Thiberville", "Dozulé", "Cabourg", "Dives-sur-Mer", "Argences",
 ];
 
 export const BLOG_CATEGORIES = [
