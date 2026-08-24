@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        --background: 40 14% 97%;
+        --foreground: 0 0% 10%;
+        --card: 0 0% 100%;
+        --card-foreground: 0 0% 10%;
+        --popover: 0 0% 100%;
+        --popover-foreground: 0 0% 10%;
+        --primary: 152 62% 10%;
+        --primary-foreground: 40 14% 97%;
+        --secondary: 40 8% 93%;
+        --secondary-foreground: 0 0% 10%;
+        --muted: 40 8% 93%;
+        --muted-foreground: 30 4% 38%;
+        --accent: 22 100% 50%;
+        --accent-foreground: 0 0% 100%;
+        --destructive: 0 84.2% 60.2%;
+        --destructive-foreground: 0 0% 98%;
+        --border: 36 8% 86%;
+        --input: 36 8% 86%;
+        --ring: 22 100% 50%;
+        --radius: 0.5rem;
+    }
+}
+
+@layer base {
+    * {
+        @apply border-border;
+    }
+    html {
+        scroll-behavior: smooth;
+    }
+    html.lenis, html.lenis body {
+        height: auto;
+    }
+    .lenis.lenis-smooth {
+        scroll-behavior: auto !important;
+    }
+    body {
+        @apply bg-bone text-charcoal font-sans antialiased;
+        text-rendering: optimizeLegibility;
+    }
+    ::selection {
+        background: #FF5A00;
+        color: #ffffff;
+    }
+    a:focus-visible, button:focus-visible {
+        outline: 2px solid #FF5A00;
+        outline-offset: 2px;
+    }
+}
+
+@layer components {
+    .grain {
+        position: relative;
+    }
+    .grain::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        pointer-events: none;
+        opacity: 0.06;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+    }
+    .overline-tag {
+        @apply text-xs tracking-[0.25em] uppercase font-sans font-bold text-ember;
+    }
+    .clip-frame {
+        border-radius: 6px;
+        overflow: hidden;
+    }
+    .link-underline {
+        background-image: linear-gradient(currentColor, currentColor);
+        background-size: 0% 1px;
+        background-repeat: no-repeat;
+        background-position: 0 100%;
+        transition: background-size 0.35s ease;
+    }
+    .link-underline:hover {
+        background-size: 100% 1px;
+    }
+}
+
+@layer base {
+    [data-debug-wrapper="true"] {
+        display: contents !important;
+    }
+}

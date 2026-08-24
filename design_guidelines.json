@@ -1,0 +1,140 @@
+{
+  "brand": {
+    "name": "Multi Taille Services",
+    "industry": "Tree Pruning & Landscaping (Élagueur & Paysagiste)",
+    "location": "Lisieux, Pays d'Auge, Normandy, France",
+    "aesthetic": "Premium, moderne, professionnel, rassurant, naturel, field manual / Pays d'Auge terroir",
+    "core_goal": "OBTENIR DES APPELS. Phone calls only (tel:0767234123). No forms, emails, or chat."
+  },
+  "typography": {
+    "heading_font": "Cormorant Garamond",
+    "body_font": "Manrope",
+    "hierarchy": {
+      "h1": "text-5xl sm:text-6xl+ tracking-tighter font-serif text-forest-green",
+      "h2": "text-4xl sm:text-5xl tracking-tight font-serif text-forest-green",
+      "h3": "text-2xl sm:text-3xl font-serif text-forest-green",
+      "body": "text-base leading-relaxed font-sans text-charcoal",
+      "small": "text-sm tracking-wide font-sans text-stone-500",
+      "overline": "text-xs tracking-[0.2em] uppercase font-sans font-semibold text-vivid-orange"
+    },
+    "rules": [
+      "Never use Inter or Roboto.",
+      "Headings must use tight letter spacing (tracking-tight or tracking-tighter).",
+      "Always use Serif (Cormorant Garamond) for headings and clear geometric Sans (Manrope) for body.",
+      "Numbered manifesto-style chapters for sections (e.g., '01. Élagage', '02. Abattage')."
+    ]
+  },
+  "colors": {
+    "variables": {
+      "--color-forest-green": "#0A2A1A",
+      "--color-forest-green-light": "#15422B",
+      "--color-vivid-orange": "#FF5A00",
+      "--color-vivid-orange-hover": "#E65000",
+      "--color-bone-white": "#F9F8F6",
+      "--color-stone": "#E5E4E2",
+      "--color-charcoal": "#1A1A1A"
+    },
+    "rules": [
+      "Use Deep Forest Green for backgrounds of dark sections and large typography.",
+      "Vivid Orange MUST be reserved ONLY for Call-to-Action buttons and phone numbers to draw the eye purely for conversion.",
+      "Backgrounds should be Bone White/Off-White for a natural, organic 'terroir' feel, avoiding stark sterile white (#FFFFFF).",
+      "No muddy gradients. Stick to solid colors and sharp contrasts."
+    ]
+  },
+  "visual_enhancers": {
+    "textures": "Subtle SVG grain or noise overlay on Forest Green sections to remove digital flatness.",
+    "shapes": "Clipped frames with slight border radius (max 8px) for photography. No excessive rounding.",
+    "shadows": "Minimalist. Use sharp drop shadows or optical clarity (glassmorphism with subtle border) for sticky elements.",
+    "parallax": "Subtle parallax on hero images and large image breaks.",
+    "marquee": "One slow editorial marquee (e.g., 'Appel direct, réponse rapide • Devis gratuit • Interventions Lisieux et Pays d\\'Auge') using a serif font."
+  },
+  "motion": {
+    "scrolling": "MANDATORY: Use `lenis` for smooth momentum scrolling. It gives the site a premium weight.",
+    "reveal": "Masked line-by-line text reveals on headings using framer-motion (e.g., intersection observer + translateY).",
+    "hover": "Image zoom on hover within clipped bounds. CTAs scale up slightly with an inner glow or solid shadow offset."
+  },
+  "layouts": {
+    "spacing": "Generous asymmetric spacing. Use Tailwind's p-12, p-24, p-32. Let elements breathe.",
+    "grid": "Bento Grid Protocol: Mode A (Tetris grid) for galleries. Overlapping elements for the hero section.",
+    "pages": {
+      "home": "Large kinetic hero -> Services Grid (editorial cards) -> Zone d'intervention (map/list) -> Réalisations (masonry gallery) -> Avantages (manifesto list) -> FAQ -> Final CTA band.",
+      "service": "Service Hero -> Intro & Benefits -> Before/After or Process -> Internal links to Local Pages -> CTA -> FAQ.",
+      "local": "Local Hero -> Tailored content for the specific city -> Services offered here -> Testimonials/Réalisations -> CTA."
+    }
+  },
+  "components": {
+    "buttons": {
+      "primary": "Pill-shaped or slightly rounded, Vivid Orange background, White text, high contrast. Must say 'Appeler maintenant' with phone icon (tel:0767234123).",
+      "floating_mobile": "Fixed bottom-right or full width bottom bar on mobile. Extremely visible and persistent."
+    },
+    "header": {
+      "style": "Sticky header. Solid Bone White background or Glassmorphism (backdrop-blur-md + border-b). Never fully transparent.",
+      "content": "Logo (left), minimal nav (center), Vivid Orange CTA button with phone number (right)."
+    },
+    "cards": {
+      "style": "Flat design, 1px subtle stone border, Bone White or Forest Green background. Hover: slight lift and border darken."
+    },
+    "faq": {
+      "style": "Shadcn accordion customized with large serif typography for questions, thin border-bottom separators, + / - toggle icon."
+    },
+    "breadcrumbs": {
+      "style": "Small, muted text (stone-500) at the top of service/local pages for heavy SEO internal linking."
+    }
+  },
+  "instructions_to_main_agent": [
+    "NO FORMS. NO EMAILS. NO CHAT. The only conversion mechanism is the phone number (tel:0767234123).",
+    "Focus heavily on Mobile First design. The floating mobile call button is critical.",
+    "Ensure SEO structure is semantic: exactly one H1 per page, logical H2/H3s.",
+    "Use Phosphor Icons or Lucide-React for crisp, premium icons.",
+    "Implement Framer Motion for scroll-reveals but keep it highly performant.",
+    "Use standard semantic HTML sections, styled via Tailwind. Extract standard components into the `components/ui` folder. Ensure usage of .js (JSX) extensions rather than .tsx.",
+    "Maintain the strict Color Palette (Forest Green + Bone White + Vivid Orange). Do not invent new colors.",
+    "Implement the 'editorial marquee' feature natively or with `react-fast-marquee`."
+  ],
+  "accessibility": {
+    "contrast": "Ensure Vivid Orange against White/Bone meets 3:1 for large text or buttons. Ensure White against Forest Green meets 4.5:1.",
+    "aria": "Use aria-labels for the phone buttons indicating 'Call Multi Taille Services now'.",
+    "focus": "All interactive elements must have a visible focus state (ring-vivid-orange)."
+  },
+  "testing": {
+    "data_testid_conventions": "All interactive/important elements MUST have a data-testid attribute in kebab-case. Examples: 'call-cta-header', 'service-card-elagage', 'faq-accordion-item', 'floating-call-button'."
+  },
+  "media": {
+    "image_urls": [
+      {
+        "url": "https://images.pexels.com/photos/35089307/pexels-photo-35089307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "description": "Arborist expertly climbing a tall bare tree",
+        "category": "Hero / Élagage Service"
+      },
+      {
+        "url": "https://images.pexels.com/photos/34674271/pexels-photo-34674271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "description": "Skilled arborist with chainsaw",
+        "category": "Abattage / Réalisations"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1761637823730-fab1f300084d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1ODR8MHwxfHNlYXJjaHw0fHxsYW5kc2NhcGluZyUyMG1vZGVybiUyMGdhcmRlbiUyMGdyZWVufGVufDB8fHx8MTc4NzU2MTk3M3ww&ixlib=rb-4.1.0&q=85",
+        "description": "Stone wall with plants and narrow window",
+        "category": "Paysagiste Service"
+      },
+      {
+        "url": "https://images.pexels.com/photos/32427439/pexels-photo-32427439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "description": "Gardener trimming lush green hedges",
+        "category": "Taille de haie Service"
+      }
+    ],
+    "usage_rules": "Images must look like real job sites (réalisations) with a premium photography treatment. Avoid generic overly stocky looks where possible. Use clipped frames with minimal border radius to frame images elegantly."
+  },
+  "UNIVERSAL_GUIDELINES_FOR_MAIN_AGENT": [
+    "You tend to converge toward generic outputs. Avoid this: make creative, distinctive frontends that surprise and delight.",
+    "Do not use dark colors as gradients.",
+    "Don't make generic centered layouts. Create depth with overlapping elements and z-index.",
+    "Never apply universal transition (transition: all).",
+    "Never center align the app container (.App { text-align: center; }).",
+    "Always use modern button styles with interaction animations.",
+    "NEVER use AI assistant Emoji characters (🤖🧠💭).",
+    "Every interaction needs micro-animations.",
+    "Use 2-3x more spacing than feels comfortable.",
+    "Subtle grain textures, custom cursors, and loading animations separate good from extraordinary.",
+    "Use provided image URLs. NEVER use placeholder text for images."
+  ]
+}
