@@ -20,6 +20,12 @@ export const CITIES = [
   { slug: "mezidon-vallee-d-auge", name: "Mézidon Vallée d'Auge" },
   { slug: "cambremer", name: "Cambremer" },
   { slug: "pont-l-eveque", name: "Pont-l'Évêque" },
+  { slug: "dives-sur-mer", name: "Dives-sur-Mer" },
+  { slug: "cabourg", name: "Cabourg" },
+  { slug: "dozule", name: "Dozulé" },
+  { slug: "thiberville", name: "Thiberville" },
+  { slug: "cormeilles", name: "Cormeilles" },
+  { slug: "moyaux", name: "Moyaux" },
 ];
 
 export const ZONES = [

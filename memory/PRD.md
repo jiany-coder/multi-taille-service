@@ -16,8 +16,8 @@ Créer un site SEO premium pour Multi Taille Services, élagueur/jardinier/paysa
 - Conversion : CallButton (tel:+33767234123) dans header, hero, CTA bands, footer + bouton flottant mobile (fixed bottom, md:hidden).
 - Backend FastAPI : inchangé, non utilisé par le site (pas de données dynamiques requises).
 
-## Pages livrées — 48 URLs
-Accueil / ; services : elagage, abattage-arbres, dessouchage, taille-de-haie, debroussaillage, jardinier, paysagiste, entretien-de-jardin, entretien-espaces-verts, tonte-de-pelouse, entretien-exterieur ; locales : elagage/jardinier/paysagiste × lisieux/orbec/vimoutiers/falaise/livarot-pays-d-auge/argences/saint-pierre-en-auge/mezidon-vallee-d-auge/cambremer/pont-l-eveque + taille-de-haie-lisieux ; blog : /conseils + 4 articles (24/08/2026) : quand-tailler-sa-haie-en-normandie, tailler-un-pommier-pays-d-auge, elagage-ou-abattage-que-choisir, entretenir-arbres-propriete-en-vallee. Articles dans src/data/articles.js avec schema Article + FAQ + maillage vers services.
+## Pages livrées — 66 URLs
+Accueil / ; services : elagage, abattage-arbres, dessouchage, taille-de-haie, debroussaillage, jardinier, paysagiste, entretien-de-jardin, entretien-espaces-verts, tonte-de-pelouse, entretien-exterieur ; locales : elagage/jardinier/paysagiste × lisieux/orbec/vimoutiers/falaise/livarot-pays-d-auge/argences/saint-pierre-en-auge/mezidon-vallee-d-auge/cambremer/pont-l-eveque/dives-sur-mer/cabourg/dozule/thiberville/cormeilles/moyaux + taille-de-haie-lisieux ; blog : /conseils + 4 articles (24/08/2026) : quand-tailler-sa-haie-en-normandie, tailler-un-pommier-pays-d-auge, elagage-ou-abattage-que-choisir, entretenir-arbres-propriete-en-vallee. Domaine production : https://elagage-local.emergent.host (sitemap/robots mis à jour, vérification GSC googledfc6086c13b069e6.html à la racine).
 
 ## Vérifié (24/08/2026)
 - Compilation OK, 0 erreur console (hors warning framer-motion bénin).
