@@ -18,6 +18,8 @@ export const CITIES = [
   { slug: "argences", name: "Argences" },
   { slug: "saint-pierre-en-auge", name: "Saint-Pierre-en-Auge" },
   { slug: "mezidon-vallee-d-auge", name: "Mézidon Vallée d'Auge" },
+  { slug: "cambremer", name: "Cambremer" },
+  { slug: "pont-l-eveque", name: "Pont-l'Évêque" },
 ];
 
 export const ZONES = [
