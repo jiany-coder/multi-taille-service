@@ -16,6 +16,8 @@ export const CITIES = [
   { slug: "falaise", name: "Falaise" },
   { slug: "livarot-pays-d-auge", name: "Livarot-Pays-d'Auge" },
   { slug: "argences", name: "Argences" },
+  { slug: "saint-pierre-en-auge", name: "Saint-Pierre-en-Auge" },
+  { slug: "mezidon-vallee-d-auge", name: "Mézidon Vallée d'Auge" },
 ];
 
 export const ZONES = [
