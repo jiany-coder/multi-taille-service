@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://elagage-local.preview.emergentagent.com/sitemap.xml
+Sitemap: https://elagage-local.emergent.host/sitemap.xml
