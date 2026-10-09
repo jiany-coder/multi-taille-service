@@ -1,4 +1,5 @@
-export const LOCAL_PAGES = [
+import { LOCAL_PAGES_RING } from "./localPagesRing";
+const BASE_LOCAL_PAGES = [
   {
     slug: "elagage-lisieux",
     serviceSlug: "elagage",
@@ -1617,5 +1618,8 @@ export const LOCAL_PAGES = [
     ],
   },
 ];
+
+const _seen = new Set(BASE_LOCAL_PAGES.map((p) => p.slug));
+export const LOCAL_PAGES = [...BASE_LOCAL_PAGES, ...LOCAL_PAGES_RING.filter((p) => !_seen.has(p.slug))];
 
 export const LOCAL_PAGES_BY_SLUG = Object.fromEntries(LOCAL_PAGES.map((p) => [p.slug, p]));

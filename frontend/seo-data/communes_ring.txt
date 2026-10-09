@@ -1,0 +1,24 @@
+Saint-Désir|1756|3|14|à l'ouest|Lisieux,Ouilly-le-Vicomte,Le Pré-d'Auge,Saint-Pierre-des-Ifs,Saint-Martin-de-la-Lieue
+Valorbiquet|2439|12|14|au sud-est|Saint-Martin-de-Bienfaite-la-Cressonnière,Courtonne-les-Deux-Églises,Saint-Martin-de-Mailloc,Orbec,Saint-Germain-la-Campagne
+Épaignes|1597|22|27|au nord-est|La Chapelle-Bayvel,Selles,Saint-Symphorien,Saint-Siméon,Cormeilles
+Beuzeville|4704|23|27|au nord|Quetteville,Le Torpt,Manneville-la-Raoult,Fort-Moville,Saint-Benoît-d'Hébertot
+Blonville-sur-Mer|1621|24|14|au nord-ouest|Benerville-sur-Mer,Villers-sur-Mer,Tourgéville,Saint-Arnoult,Auberville
+Villers-sur-Mer|2440|24|14|au nord-ouest|Blonville-sur-Mer,Auberville,Gonneville-sur-Mer,Benerville-sur-Mer,Houlgate
+Touques|3913|25|14|au nord|Trouville-sur-Mer,Deauville,Saint-Arnoult,Bonneville-sur-Touques,Villerville
+Deauville|3539|26|14|au nord-ouest|Touques,Benerville-sur-Mer,Saint-Arnoult,Trouville-sur-Mer,Tourgéville
+Trouville-sur-Mer|4619|27|14|au nord|Touques,Villerville,Deauville,Saint-Arnoult,Bonneville-sur-Touques
+Houlgate|1834|27|14|au nord-ouest|Dives-sur-Mer,Gonneville-sur-Mer,Auberville,Cabourg,Villers-sur-Mer
+Bernay|9765|28|27|à l'est|Menneval,Valailles,Caorches-Saint-Nicolas,Treis-Sants-en-Ouche,Courbépine
+Équemauville|1574|29|14|au nord|Honfleur,Gonneville-sur-Honfleur,Pennedepie,La Rivière-Saint-Sauveur,Ablon
+Honfleur|6640|29|14|au nord|Équemauville,La Rivière-Saint-Sauveur,Gonneville-sur-Honfleur,Ablon,Pennedepie
+Menneval|1527|29|27|à l'est|Valailles,Bernay,Saint-Léger-de-Rôtes,Plasnes,Fontaine-l'Abbé
+La Rivière-Saint-Sauveur|2527|29|14|au nord|Ablon,Honfleur,Gonneville-sur-Honfleur,Équemauville,Fiquefleur-Équainville
+Troarn|3439|30|14|à l'ouest|Saint-Samson,Touffréville,Sannerville,Janville,Bavent
+Moult-Chicheboville|3441|31|14|à l'ouest|Valambray,Vimont,Bellengreville,Argences,Frénouville
+Bavent|1885|31|14|à l'ouest|Petiville,Bréville-les-Monts,Gonneville-en-Auge,Troarn,Touffréville
+Valambray|1682|31|14|à l'ouest|Moult-Chicheboville,Saint-Sylvain,Bellengreville,Cesny-aux-Vignes,Vimont
+Pont-Audemer|10023|31|27|au nord-est|Manneville-sur-Risle,Tourville-sur-Pont-Audemer,Saint-Mards-de-Blacarville,Les Préaux,Campigny
+Sannerville|1905|33|14|à l'ouest|Touffréville,Cuverville,Escoville,Démouville,Troarn
+Bellengreville|1598|34|14|à l'ouest|Frénouville,Moult-Chicheboville,Vimont,Émiéville,Bourguébus
+Merville-Franceville-Plage|2231|34|14|au nord-ouest|Gonneville-en-Auge,Amfreville,Bréville-les-Monts,Petiville,Varaville
+Frénouville|2050|34|14|à l'ouest|Bellengreville,Cagny,Émiéville,Soliers,Bourguébus
