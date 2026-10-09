@@ -58,7 +58,7 @@ export default function ZonePage() {
         </h1>
         <FadeIn delay={0.25}>
           <p className="mt-6 max-w-3xl text-base leading-relaxed text-charcoal/75 sm:text-lg">
-            Multi Taille Services est basé à Lisieux. Nous intervenons dans les communes du Pays d'Auge, de la vallée de la Touques, de la Côte Fleurie, de la plaine de Caen et de l'Eure voisine : élagage, taille de haie, entretien de jardin, tonte, débroussaillage et récupération de chat dans un arbre. Les distances ci-dessous sont à vol d'oiseau, donc approximatives. Dans le doute, appelez-nous au {SITE.phoneDisplay} : nous vous répondons directement.
+            Multi Taille Services est basé à Lisieux. Nous intervenons dans les communes du Pays d'Auge, de la vallée de la Touques, de la Côte Fleurie, de la plaine de Caen et de l'Eure voisine : élagage, taille de haie, entretien de jardin, tonte et débroussaillage. Les distances ci-dessous sont à vol d'oiseau, donc approximatives. Dans le doute, appelez-nous au {SITE.phoneDisplay} : nous vous répondons directement.
           </p>
         </FadeIn>
         <a href={SITE.tel} className="mt-8 inline-flex items-center gap-2 rounded-full bg-ember px-6 py-3 font-semibold text-white">

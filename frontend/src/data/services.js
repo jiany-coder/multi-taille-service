@@ -624,66 +624,6 @@ export const SERVICES = [
     ],
     cities: [],
   },
-  {
-    slug: "recuperation-chat-arbre",
-    num: "12",
-    name: "Récupération de chat dans un arbre",
-    short: "Un chat bloqué en hauteur ? Nous montons le chercher avec cordes et matériel de grimpe, calmement et sans le brusquer.",
-    title: "Chat bloqué dans un arbre à Lisieux | Multi Taille",
-    meta: "Chat bloqué dans un arbre à Lisieux et dans le Pays d'Auge : un élagueur grimpeur vient le récupérer en sécurité. Appelez-nous sans attendre : 07 67 23 41 23.",
-    h1: "Chat bloqué dans un arbre : un élagueur grimpeur à votre service",
-    overline: "Service n°12: Récupération de chat en hauteur",
-    image: "/images/elagage.webp",
-    imageAlt: "Élagueur grimpeur encordé dans un arbre pour récupérer un chat bloqué en hauteur",
-    intro: "Votre chat est monté dans un arbre et n'ose plus redescendre ? Multi Taille Services intervient à Lisieux et dans le Pays d'Auge : nous sommes élagueurs et grimpeurs, nous travaillons chaque jour en hauteur avec cordes, baudrier et matériel de grimpe, et nous savons approcher un animal apeuré sans le brusquer. Appelez-nous, nous vous disons rapidement si nous pouvons venir et dans quel délai.",
-    sections: [
-      {
-        h2: "Pourquoi un chat reste bloqué en hauteur",
-        paras: [
-          "Un chat monte facilement mais redescend mal : ses griffes sont faites pour s'accrocher en montant, et la descente à reculons ne lui est pas naturelle. Poursuivi par un chien, effrayé par un bruit ou attiré par un oiseau, il grimpe parfois bien plus haut qu'il ne l'aurait voulu, puis reste figé sur une branche.",
-          "La plupart du temps, il finit par redescendre seul. Quand il miaule depuis plus d'une journée, que l'arbre est très haut ou que la branche est fine, mieux vaut ne pas tenter de monter soi-même : une chute de l'échelle est bien plus dangereuse que l'attente.",
-        ],
-      },
-      {
-        h2: "Comment nous intervenons",
-        paras: [
-          "Nous évaluons d'abord l'arbre, la hauteur, la position du chat et son état de stress. Nous montons ensuite en sécurité, encordés, en choisissant un itinéraire de grimpe qui ne secoue pas la branche, puis nous récupérons l'animal avec un sac ou une couverture avant de le redescendre dans vos bras.",
-          "Nous sommes élagueurs, pas vétérinaires : si le chat semble blessé, nous vous conseillons de le faire examiner une fois au sol. Et si l'accès est impossible ou trop risqué pour lui comme pour nous, nous vous le disons honnêtement.",
-        ],
-      },
-      {
-        h2: "En attendant que nous arrivions",
-        paras: [
-          "Gardez le calme, éloignez les chiens et les enfants, évitez de secouer l'arbre ou d'appeler très fort. Posez de la nourriture ou une gamelle au pied du tronc : un chat rassuré tente parfois de descendre seul. Ne montez pas sur une échelle instable pour un arbre de plus de quelques mètres.",
-        ],
-      },
-    ],
-    prestations: [
-      "Récupération de chat dans un arbre, avec cordes et matériel de grimpe",
-      "Évaluation de l'accès et de la sécurité avant de monter",
-      "Intervention dans les jardins, cours, vergers et bords de chemin",
-      "Conseils pour rassurer l'animal en attendant notre arrivée",
-      "Possibilité de combiner avec un élagage de sécurité de l'arbre",
-    ],
-    avantages: [
-      "Des grimpeurs professionnels, formés au travail en hauteur",
-      "Une approche calme, adaptée à un animal stressé",
-      "Un seul appel : nous vous répondons directement",
-      "Honnêteté sur ce qui est faisable ou non en sécurité",
-    ],
-    steps: [
-      { t: "Appel", d: "Décrivez-nous l'arbre, la hauteur approximative, l'endroit et depuis quand le chat est bloqué." },
-      { t: "Évaluation", d: "Nous vous disons si nous pouvons intervenir, dans quel délai et à quelles conditions." },
-      { t: "Montée en sécurité", d: "Nous grimpons encordés, en limitant le stress de l'animal et le risque pour l'arbre." },
-      { t: "Retour au sol", d: "Le chat est redescendu dans vos bras. Si besoin, nous vous conseillons de le faire examiner." },
-    ],
-    faq: [
-      { q: "Combien coûte la récupération d'un chat dans un arbre ?", a: "Cela dépend de la hauteur, de l'accès et du temps nécessaire. Appelez-nous au 07 67 23 41 23 : nous vous donnons le tarif avant de nous déplacer, pour que vous décidiez en connaissance de cause." },
-      { q: "Faut-il attendre avant d'appeler ?", a: "Un chat redescend parfois seul au bout de quelques heures, surtout si on le laisse tranquille. S'il est encore là le lendemain, s'il miaule beaucoup ou s'il est très haut, il vaut mieux nous appeler." },
-      { q: "Pouvez-vous intervenir en urgence ?", a: "Nous faisons au mieux selon notre planning et la météo : pas d'intervention en grimpe par grand vent, pluie battante ou orage. Appelez-nous et nous vous répondons franchement sur le délai possible." },
-    ],
-    cities: [],
-  },
 ];
 
 export const SERVICES_BY_SLUG = Object.fromEntries(SERVICES.map((s) => [s.slug, s]));
