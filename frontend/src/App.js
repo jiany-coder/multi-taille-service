@@ -8,6 +8,7 @@ import ServicePage from "@/pages/ServicePage";
 import LocalPage from "@/pages/LocalPage";
 import BlogIndex from "@/pages/BlogIndex";
 import ArticlePage from "@/pages/ArticlePage";
+import ZonePage from "@/pages/ZonePage";
 import NotFound from "@/pages/NotFound";
 import { SERVICES } from "@/data/services";
 import { LOCAL_PAGES } from "@/data/localPages";
@@ -43,6 +44,7 @@ export function AppRoutes() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/conseils" element={<BlogIndex />} />
+            <Route path="/zone-d-intervention" element={<ZonePage />} />
             <Route path="/conseils/:slug" element={<ArticlePage />} />
             {SERVICES.map((s) => (
               <Route key={s.slug} path={`/${s.slug}`} element={<ServicePage service={s} />} />

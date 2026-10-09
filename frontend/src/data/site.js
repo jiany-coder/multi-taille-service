@@ -5,7 +5,7 @@ export const SITE = {
   phoneIntl: "+33767234123",
   city: "Lisieux",
   region: "Pays d'Auge",
-  slogan: "Appel direct, réponse rapide — Devis gratuit",
+  slogan: "Appel direct, réponse rapide, Devis gratuit",
   // Domaine définitif : à confirmer à l'achat (une seule source de vérité, utilisée par le canonical, le sitemap et les schémas).
   baseUrl: "https://multi-taille-services.online",
 };

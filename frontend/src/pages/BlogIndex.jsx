@@ -21,8 +21,8 @@ export default function BlogIndex() {
   return (
     <>
       <Seo
-        title="Conseils jardin, élagage et paysage | Multi Taille Services — Lisieux, Pays d'Auge"
-        description="Conseils de professionnels pour vos arbres, haies et jardins dans le Pays d'Auge : élagage, jardinage, taille de haie, paysagisme. Les premiers articles arrivent bientôt."
+        title="Conseils jardin et élagage | Multi Taille Services"
+        description="Conseils de professionnels pour vos arbres, haies et jardins dans le Pays d'Auge : élagage, jardinage, taille de haie, paysagisme. Appelez le 07 67 23 41 23 pour un devis."
         path="/conseils"
         schemas={[localBusinessSchema(), breadcrumbSchema([{ label: "Accueil", to: "/" }, { label: "Conseils jardin" }])]}
       />
@@ -97,7 +97,7 @@ export default function BlogIndex() {
           <p className="mt-12 max-w-2xl rounded-lg border border-ember/25 bg-ember/5 p-6 text-sm leading-relaxed text-charcoal/75">
             <span className="font-bold text-forest">Une question en attendant ?</span> Rien ne remplace un diagnostic sur place : appelez-nous au{" "}
             <a href={SITE.tel} data-testid="blog-call-link" className="font-bold text-ember link-underline">{SITE.phoneDisplay}</a>{" "}
-            — appel direct, réponse rapide, devis gratuit.
+           , appel direct, réponse rapide, devis gratuit.
           </p>
         </Reveal>
       </section>

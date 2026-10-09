@@ -4,6 +4,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "elagage-saint-desir",
     "serviceSlug": "elagage",
     "citySlug": "saint-desir",
+    "km": 3,
+    "pop": 1756,
     "city": "Saint-Désir",
     "shortName": "Élagage",
     "title": "Élagage à Saint-Désir | Multi Taille Services",
@@ -53,6 +55,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-saint-desir",
     "serviceSlug": "jardinier",
     "citySlug": "saint-desir",
+    "km": 3,
+    "pop": 1756,
     "city": "Saint-Désir",
     "shortName": "Jardinier",
     "title": "Jardinier à Saint-Désir | Multi Taille Services",
@@ -102,6 +106,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-saint-desir",
     "serviceSlug": "taille-de-haie",
     "citySlug": "saint-desir",
+    "km": 3,
+    "pop": 1756,
     "city": "Saint-Désir",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Saint-Désir | Multi Taille Services",
@@ -148,9 +154,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-saint-desir",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "saint-desir",
+    "km": 3,
+    "pop": 1756,
+    "city": "Saint-Désir",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Saint-Désir | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Saint-Désir ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Saint-Désir : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Saint-Désir, aux portes de Lisieux",
+    "intro": "À Saint-Désir, 1 756 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Tondre à Saint-Désir : ce qu'il faut savoir",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Saint-Désir compte 1 756 habitants et se situe aux portes de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge, Saint-Pierre-des-Ifs et Saint-Martin-de-la-Lieue. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence"
+    ],
+    "communes": [
+      "Lisieux",
+      "Ouilly-le-Vicomte",
+      "Le Pré-d'Auge",
+      "Saint-Pierre-des-Ifs",
+      "Saint-Martin-de-la-Lieue"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Saint-Désir ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Saint-Désir, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Désir ?",
+        "a": "Nous desservons Saint-Désir et ses environs : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-saint-desir",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "saint-desir",
+    "km": 3,
+    "pop": 1756,
+    "city": "Saint-Désir",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Saint-Désir | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Saint-Désir (à l'ouest de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Saint-Désir : on reprend votre terrain",
+    "overline": "Débroussaillage à Saint-Désir, aux portes de Lisieux",
+    "intro": "Un terrain envahi à Saint-Désir ? Nous intervenons aux portes de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Débroussailler à Saint-Désir : ce qu'il faut savoir",
+      "paras": [
+        "Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Saint-Désir compte 1 756 habitants et se situe aux portes de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge, Saint-Pierre-des-Ifs et Saint-Martin-de-la-Lieue. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Lisieux",
+      "Ouilly-le-Vicomte",
+      "Le Pré-d'Auge",
+      "Saint-Pierre-des-Ifs",
+      "Saint-Martin-de-la-Lieue"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Saint-Désir ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Saint-Désir sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Désir ?",
+        "a": "Nous desservons Saint-Désir et ses environs : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-saint-desir",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "saint-desir",
+    "km": 3,
+    "pop": 1756,
+    "city": "Saint-Désir",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Saint-Désir | Multi Taille Services",
+    "meta": "Un jardinier pour entretenir votre jardin à Saint-Désir : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Saint-Désir : toute l'année",
+    "overline": "Entretien de jardin à Saint-Désir, aux portes de Lisieux",
+    "intro": "À Saint-Désir, 1 756 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Saint-Désir",
+      "paras": [
+        "Une propriété de campagne se gère par saison. Nous nous occupons de l'entretien courant pour que vous profitiez du jardin au lieu de le subir.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Saint-Désir compte 1 756 habitants et se situe aux portes de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge, Saint-Pierre-des-Ifs et Saint-Martin-de-la-Lieue. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées"
+    ],
+    "communes": [
+      "Lisieux",
+      "Ouilly-le-Vicomte",
+      "Le Pré-d'Auge",
+      "Saint-Pierre-des-Ifs",
+      "Saint-Martin-de-la-Lieue"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Saint-Désir ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Désir ?",
+        "a": "Nous desservons Saint-Désir et ses environs : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
     "slug": "elagage-valorbiquet",
     "serviceSlug": "elagage",
     "citySlug": "valorbiquet",
+    "km": 12,
+    "pop": 2439,
     "city": "Valorbiquet",
     "shortName": "Élagage",
     "title": "Élagage à Valorbiquet | Multi Taille Services",
@@ -200,6 +361,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-valorbiquet",
     "serviceSlug": "jardinier",
     "citySlug": "valorbiquet",
+    "km": 12,
+    "pop": 2439,
     "city": "Valorbiquet",
     "shortName": "Jardinier",
     "title": "Jardinier à Valorbiquet | Multi Taille Services",
@@ -249,6 +412,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-valorbiquet",
     "serviceSlug": "taille-de-haie",
     "citySlug": "valorbiquet",
+    "km": 12,
+    "pop": 2439,
     "city": "Valorbiquet",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Valorbiquet | Multi Taille Services",
@@ -295,9 +460,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-valorbiquet",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "valorbiquet",
+    "km": 12,
+    "pop": 2439,
+    "city": "Valorbiquet",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Valorbiquet | Multi Taille Services",
+    "meta": "Tonte de pelouse à Valorbiquet : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Valorbiquet : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Valorbiquet, à 12 km de Lisieux",
+    "intro": "À Valorbiquet, 2 439 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Tondre à Valorbiquet : ce qu'il faut savoir",
+      "paras": [
+        "Les grands jardins du bocage demandent du temps et du matériel : nous prenons la tonte en charge, du simple passage mensuel au suivi hebdomadaire en pleine pousse.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Valorbiquet compte 2 439 habitants et se situe à environ 12 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc, Orbec et Saint-Germain-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence"
+    ],
+    "communes": [
+      "Saint-Martin-de-Bienfaite-la-Cressonnière",
+      "Courtonne-les-Deux-Églises",
+      "Saint-Martin-de-Mailloc",
+      "Orbec",
+      "Saint-Germain-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Valorbiquet ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Valorbiquet, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Quelles communes autour de Valorbiquet desservez-vous ?",
+        "a": "Oui : nous intervenons à Valorbiquet et dans les communes voisines, notamment Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-valorbiquet",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "valorbiquet",
+    "km": 12,
+    "pop": 2439,
+    "city": "Valorbiquet",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Valorbiquet | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Valorbiquet (au sud-est de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Valorbiquet : on reprend votre terrain",
+    "overline": "Débroussaillage à Valorbiquet, à 12 km de Lisieux",
+    "intro": "À Valorbiquet, 2 439 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Un terrain propre à Valorbiquet",
+      "paras": [
+        "Un terrain laissé plusieurs années demande souvent deux passages : un premier pour ouvrir, un second pour reprendre proprement. Nous vous le disons dès la visite.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Valorbiquet compte 2 439 habitants et se situe à environ 12 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc, Orbec et Saint-Germain-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état"
+    ],
+    "communes": [
+      "Saint-Martin-de-Bienfaite-la-Cressonnière",
+      "Courtonne-les-Deux-Églises",
+      "Saint-Martin-de-Mailloc",
+      "Orbec",
+      "Saint-Germain-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Valorbiquet ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Valorbiquet desservez-vous ?",
+        "a": "Oui : nous intervenons à Valorbiquet et dans les communes voisines, notamment Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-valorbiquet",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "valorbiquet",
+    "km": 12,
+    "pop": 2439,
+    "city": "Valorbiquet",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Valorbiquet | Multi Taille Services",
+    "meta": "Entretien de jardin à Valorbiquet (au sud-est de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Valorbiquet : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Valorbiquet, à 12 km de Lisieux",
+    "intro": "À Valorbiquet, 2 439 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Valorbiquet",
+      "paras": [
+        "Au printemps, remise en ordre et premières tontes ; en été, tonte et taille légère ; à l'automne, ramassage des feuilles et taille de saison. Chaque passage est planifié.",
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Valorbiquet compte 2 439 habitants et se situe à environ 12 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc, Orbec et Saint-Germain-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "Saint-Martin-de-Bienfaite-la-Cressonnière",
+      "Courtonne-les-Deux-Églises",
+      "Saint-Martin-de-Mailloc",
+      "Orbec",
+      "Saint-Germain-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Valorbiquet ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Quelles communes autour de Valorbiquet desservez-vous ?",
+        "a": "Oui : nous intervenons à Valorbiquet et dans les communes voisines, notamment Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
     "slug": "elagage-epaignes",
     "serviceSlug": "elagage",
     "citySlug": "epaignes",
+    "km": 22,
+    "pop": 1597,
     "city": "Épaignes",
     "shortName": "Élagage",
     "title": "Élagage à Épaignes | Multi Taille Services",
@@ -347,6 +667,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-epaignes",
     "serviceSlug": "jardinier",
     "citySlug": "epaignes",
+    "km": 22,
+    "pop": 1597,
     "city": "Épaignes",
     "shortName": "Jardinier",
     "title": "Jardinier à Épaignes | Multi Taille Services",
@@ -396,6 +718,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-epaignes",
     "serviceSlug": "taille-de-haie",
     "citySlug": "epaignes",
+    "km": 22,
+    "pop": 1597,
     "city": "Épaignes",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Épaignes | Multi Taille Services",
@@ -442,9 +766,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-epaignes",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "epaignes",
+    "km": 22,
+    "pop": 1597,
+    "city": "Épaignes",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Épaignes | Multi Taille Services",
+    "meta": "Tonte à Épaignes (au nord-est de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Épaignes : on s'en charge",
+    "overline": "Tonte de pelouse à Épaignes, à 22 km de Lisieux",
+    "intro": "À Épaignes, 1 597 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Votre pelouse à Épaignes",
+      "paras": [
+        "Nous tondons aussi dans ce secteur de l'Eure : petits jardins de bourg comme grandes pelouses de propriété, avec des passages planifiés.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Épaignes compte 1 597 habitants et se situe à environ 22 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien, Saint-Siméon et Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "La Chapelle-Bayvel",
+      "Selles",
+      "Saint-Symphorien",
+      "Saint-Siméon",
+      "Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Épaignes ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Épaignes, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Épaignes desservez-vous ?",
+        "a": "Oui : nous intervenons à Épaignes et dans les communes voisines, notamment La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-epaignes",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "epaignes",
+    "km": 22,
+    "pop": 1597,
+    "city": "Épaignes",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Épaignes | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Épaignes (au nord-est de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Épaignes : on reprend votre terrain",
+    "overline": "Débroussaillage à Épaignes, à 22 km de Lisieux",
+    "intro": "Un terrain envahi à Épaignes ? Nous intervenons à environ 22 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de Épaignes",
+      "paras": [
+        "Visite sur place, devis, puis intervention à la date convenue : la méthode est la même de chaque côté de la limite départementale.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Épaignes compte 1 597 habitants et se situe à environ 22 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien, Saint-Siméon et Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver"
+    ],
+    "communes": [
+      "La Chapelle-Bayvel",
+      "Selles",
+      "Saint-Symphorien",
+      "Saint-Siméon",
+      "Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Épaignes ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Épaignes desservez-vous ?",
+        "a": "Oui : nous intervenons à Épaignes et dans les communes voisines, notamment La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-epaignes",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "epaignes",
+    "km": 22,
+    "pop": 1597,
+    "city": "Épaignes",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Épaignes | Multi Taille Services",
+    "meta": "Entretien de jardin à Épaignes : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Épaignes : saison par saison",
+    "overline": "Entretien de jardin à Épaignes, à 22 km de Lisieux",
+    "intro": "Épaignes (au nord-est, à environ 22 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Un jardin suivi à Épaignes",
+      "paras": [
+        "Nous entretenons aussi les jardins de ce secteur de l'Eure, de la maison de bourg à la propriété de campagne, avec des passages planifiés.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Épaignes compte 1 597 habitants et se situe à environ 22 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien, Saint-Siméon et Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures"
+    ],
+    "communes": [
+      "La Chapelle-Bayvel",
+      "Selles",
+      "Saint-Symphorien",
+      "Saint-Siméon",
+      "Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Épaignes ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Épaignes pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Quelles communes autour de Épaignes desservez-vous ?",
+        "a": "Oui : nous intervenons à Épaignes et dans les communes voisines, notamment La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
     "slug": "elagage-beuzeville",
     "serviceSlug": "elagage",
     "citySlug": "beuzeville",
+    "km": 23,
+    "pop": 4704,
     "city": "Beuzeville",
     "shortName": "Élagage",
     "title": "Élagage à Beuzeville | Multi Taille Services",
@@ -494,6 +973,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-beuzeville",
     "serviceSlug": "jardinier",
     "citySlug": "beuzeville",
+    "km": 23,
+    "pop": 4704,
     "city": "Beuzeville",
     "shortName": "Jardinier",
     "title": "Jardinier à Beuzeville | Multi Taille Services",
@@ -543,6 +1024,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-beuzeville",
     "serviceSlug": "taille-de-haie",
     "citySlug": "beuzeville",
+    "km": 23,
+    "pop": 4704,
     "city": "Beuzeville",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Beuzeville | Multi Taille Services",
@@ -589,9 +1072,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-beuzeville",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "beuzeville",
+    "km": 23,
+    "pop": 4704,
+    "city": "Beuzeville",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Beuzeville | Multi Taille Services",
+    "meta": "Tonte de pelouse à Beuzeville : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Beuzeville : on s'en charge",
+    "overline": "Tonte de pelouse à Beuzeville, à 23 km de Lisieux",
+    "intro": "Besoin d'une tonte à Beuzeville ? Nous intervenons à environ 23 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Votre pelouse à Beuzeville",
+      "paras": [
+        "Nous tondons aussi dans ce secteur de l'Eure : petits jardins de bourg comme grandes pelouses de propriété, avec des passages planifiés.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Beuzeville compte 4 704 habitants et se situe à environ 23 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult, Fort-Moville et Saint-Benoît-d'Hébertot. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle"
+    ],
+    "communes": [
+      "Quetteville",
+      "Le Torpt",
+      "Manneville-la-Raoult",
+      "Fort-Moville",
+      "Saint-Benoît-d'Hébertot"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Beuzeville ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Beuzeville, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Quelles communes autour de Beuzeville desservez-vous ?",
+        "a": "Oui : nous intervenons à Beuzeville et dans les communes voisines, notamment Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-beuzeville",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "beuzeville",
+    "km": 23,
+    "pop": 4704,
+    "city": "Beuzeville",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Beuzeville | Multi Taille Services",
+    "meta": "Débroussaillage à Beuzeville : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Beuzeville : on reprend votre terrain",
+    "overline": "Débroussaillage à Beuzeville, à 23 km de Lisieux",
+    "intro": "À Beuzeville, 4 704 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Les terrains de Beuzeville",
+      "paras": [
+        "Visite sur place, devis, puis intervention à la date convenue : la méthode est la même de chaque côté de la limite départementale.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Beuzeville compte 4 704 habitants et se situe à environ 23 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult, Fort-Moville et Saint-Benoît-d'Hébertot. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures"
+    ],
+    "communes": [
+      "Quetteville",
+      "Le Torpt",
+      "Manneville-la-Raoult",
+      "Fort-Moville",
+      "Saint-Benoît-d'Hébertot"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Beuzeville ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Beuzeville desservez-vous ?",
+        "a": "Oui : nous intervenons à Beuzeville et dans les communes voisines, notamment Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-beuzeville",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "beuzeville",
+    "km": 23,
+    "pop": 4704,
+    "city": "Beuzeville",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Beuzeville | Multi Taille Services",
+    "meta": "Entretien de jardin à Beuzeville : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Beuzeville : saison par saison",
+    "overline": "Entretien de jardin à Beuzeville, à 23 km de Lisieux",
+    "intro": "Beuzeville (au nord, à environ 23 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Beuzeville",
+      "paras": [
+        "Un seul interlocuteur pour la tonte, les haies et les massifs : c'est plus simple pour vous, et le jardin est cohérent d'un passage à l'autre.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Beuzeville compte 4 704 habitants et se situe à environ 23 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult, Fort-Moville et Saint-Benoît-d'Hébertot. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "Quetteville",
+      "Le Torpt",
+      "Manneville-la-Raoult",
+      "Fort-Moville",
+      "Saint-Benoît-d'Hébertot"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Beuzeville ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Beuzeville pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Quelles communes autour de Beuzeville desservez-vous ?",
+        "a": "Oui : nous intervenons à Beuzeville et dans les communes voisines, notamment Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
     "slug": "elagage-blonville-sur-mer",
     "serviceSlug": "elagage",
     "citySlug": "blonville-sur-mer",
+    "km": 24,
+    "pop": 1621,
     "city": "Blonville-sur-Mer",
     "shortName": "Élagage",
     "title": "Élagage à Blonville-sur-Mer | Multi Taille Services",
@@ -641,10 +1279,12 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-blonville-sur-mer",
     "serviceSlug": "jardinier",
     "citySlug": "blonville-sur-mer",
+    "km": 24,
+    "pop": 1621,
     "city": "Blonville-sur-Mer",
     "shortName": "Jardinier",
     "title": "Jardinier à Blonville-sur-Mer | Multi Taille Services",
-    "meta": "Jardinier à Blonville-sur-Mer : tonte, taille de haies, désherbage, évacuation des déchets verts. Passage ponctuel ou régulier, devis gratuit. Appelez le 07 67 23 41 23.",
+    "meta": "Entretien de jardin à Blonville-sur-Mer (au nord-ouest de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
     "h1": "Jardinier à Blonville-sur-Mer : entretien régulier ou ponctuel",
     "overline": "Jardinier à Blonville-sur-Mer, à 24 km de Lisieux",
     "intro": "Besoin d'un jardinier à Blonville-sur-Mer ? Nous intervenons à environ 24 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
@@ -690,6 +1330,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-blonville-sur-mer",
     "serviceSlug": "taille-de-haie",
     "citySlug": "blonville-sur-mer",
+    "km": 24,
+    "pop": 1621,
     "city": "Blonville-sur-Mer",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Blonville-sur-Mer | Multi Taille Services",
@@ -736,9 +1378,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-blonville-sur-mer",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "blonville-sur-mer",
+    "km": 24,
+    "pop": 1621,
+    "city": "Blonville-sur-Mer",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Blonville-sur-Mer | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Blonville-sur-Mer ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte à Blonville-sur-Mer : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Blonville-sur-Mer, à 24 km de Lisieux",
+    "intro": "Blonville-sur-Mer (au nord-ouest, à environ 24 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Votre pelouse à Blonville-sur-Mer",
+      "paras": [
+        "Résidence secondaire sur la côte : nous tondons à la fréquence convenue pour que le jardin soit net à votre arrivée, y compris en votre absence.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Blonville-sur-Mer compte 1 621 habitants et se situe à environ 24 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville, Saint-Arnoult et Auberville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces"
+    ],
+    "communes": [
+      "Benerville-sur-Mer",
+      "Villers-sur-Mer",
+      "Tourgéville",
+      "Saint-Arnoult",
+      "Auberville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Blonville-sur-Mer ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Quelles communes autour de Blonville-sur-Mer desservez-vous ?",
+        "a": "Oui : nous intervenons à Blonville-sur-Mer et dans les communes voisines, notamment Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-blonville-sur-mer",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "blonville-sur-mer",
+    "km": 24,
+    "pop": 1621,
+    "city": "Blonville-sur-Mer",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Blonville-sur-Mer | Multi Taille Services",
+    "meta": "Terrain envahi à Blonville-sur-Mer ? Débroussaillage, broyage et évacuation. Visite gratuite. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Débroussailler à Blonville-sur-Mer : ronces et broussailles",
+    "overline": "Débroussaillage à Blonville-sur-Mer, à 24 km de Lisieux",
+    "intro": "Un terrain envahi à Blonville-sur-Mer ? Nous intervenons à environ 24 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de Blonville-sur-Mer",
+      "paras": [
+        "Sur la côte, les friches se referment vite : ronces, prunelliers et orties profitent d'un sol léger. Nous les reprenons avant qu'elles ne gagnent les clôtures et les accès.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Blonville-sur-Mer compte 1 621 habitants et se situe à environ 24 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville, Saint-Arnoult et Auberville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures"
+    ],
+    "communes": [
+      "Benerville-sur-Mer",
+      "Villers-sur-Mer",
+      "Tourgéville",
+      "Saint-Arnoult",
+      "Auberville"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Blonville-sur-Mer ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Blonville-sur-Mer sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Blonville-sur-Mer desservez-vous ?",
+        "a": "Oui : nous intervenons à Blonville-sur-Mer et dans les communes voisines, notamment Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-blonville-sur-mer",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "blonville-sur-mer",
+    "km": 24,
+    "pop": 1621,
+    "city": "Blonville-sur-Mer",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Blonville-sur-Mer | Multi Taille",
+    "meta": "Entretien de jardin à Blonville-sur-Mer (au nord-ouest de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Blonville-sur-Mer : toute l'année",
+    "overline": "Entretien de jardin à Blonville-sur-Mer, à 24 km de Lisieux",
+    "intro": "Blonville-sur-Mer (au nord-ouest, à environ 24 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Un jardin suivi à Blonville-sur-Mer",
+      "paras": [
+        "Entretenir un jardin près de la mer, c'est composer avec le vent et le sel : nous choisissons les périodes de taille et la hauteur de tonte en conséquence.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Blonville-sur-Mer compte 1 621 habitants et se situe à environ 24 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville, Saint-Arnoult et Auberville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes"
+    ],
+    "communes": [
+      "Benerville-sur-Mer",
+      "Villers-sur-Mer",
+      "Tourgéville",
+      "Saint-Arnoult",
+      "Auberville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Blonville-sur-Mer ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Blonville-sur-Mer pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Quelles communes autour de Blonville-sur-Mer desservez-vous ?",
+        "a": "Oui : nous intervenons à Blonville-sur-Mer et dans les communes voisines, notamment Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
     "slug": "elagage-villers-sur-mer",
     "serviceSlug": "elagage",
     "citySlug": "villers-sur-mer",
+    "km": 24,
+    "pop": 2440,
     "city": "Villers-sur-Mer",
     "shortName": "Élagage",
     "title": "Élagage à Villers-sur-Mer | Multi Taille Services",
@@ -788,10 +1585,12 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-villers-sur-mer",
     "serviceSlug": "jardinier",
     "citySlug": "villers-sur-mer",
+    "km": 24,
+    "pop": 2440,
     "city": "Villers-sur-Mer",
     "shortName": "Jardinier",
     "title": "Jardinier à Villers-sur-Mer | Multi Taille Services",
-    "meta": "Jardinier à Villers-sur-Mer : tonte, taille de haies, désherbage, évacuation des déchets verts. Passage ponctuel ou régulier, devis gratuit. Appelez le 07 67 23 41 23.",
+    "meta": "Entretien de jardin à Villers-sur-Mer (au nord-ouest de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
     "h1": "Jardinier à Villers-sur-Mer : entretien régulier ou ponctuel",
     "overline": "Jardinier à Villers-sur-Mer, à 24 km de Lisieux",
     "intro": "Besoin d'un jardinier à Villers-sur-Mer ? Nous intervenons à environ 24 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
@@ -837,6 +1636,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-villers-sur-mer",
     "serviceSlug": "taille-de-haie",
     "citySlug": "villers-sur-mer",
+    "km": 24,
+    "pop": 2440,
     "city": "Villers-sur-Mer",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Villers-sur-Mer | Multi Taille Services",
@@ -883,9 +1684,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-villers-sur-mer",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "villers-sur-mer",
+    "km": 24,
+    "pop": 2440,
+    "city": "Villers-sur-Mer",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Villers-sur-Mer | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Villers-sur-Mer ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Villers-sur-Mer : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Villers-sur-Mer, à 24 km de Lisieux",
+    "intro": "À Villers-sur-Mer, 2 440 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Un gazon net à Villers-sur-Mer",
+      "paras": [
+        "Les pelouses du littoral souffrent du sel et du sable : nous évitons la tonte rase, qui les affaiblit, et nous soignons les bordures le long des allées et des terrasses.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Villers-sur-Mer compte 2 440 habitants et se situe à environ 24 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer, Benerville-sur-Mer et Houlgate. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence"
+    ],
+    "communes": [
+      "Blonville-sur-Mer",
+      "Auberville",
+      "Gonneville-sur-Mer",
+      "Benerville-sur-Mer",
+      "Houlgate"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Villers-sur-Mer ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Villers-sur-Mer ?",
+        "a": "Nous desservons Villers-sur-Mer et ses environs : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-villers-sur-mer",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "villers-sur-mer",
+    "km": 24,
+    "pop": 2440,
+    "city": "Villers-sur-Mer",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Villers-sur-Mer | Multi Taille Services",
+    "meta": "Débroussaillage à Villers-sur-Mer : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussailler à Villers-sur-Mer : ronces et broussailles",
+    "overline": "Débroussaillage à Villers-sur-Mer, à 24 km de Lisieux",
+    "intro": "À Villers-sur-Mer, 2 440 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Les terrains de Villers-sur-Mer",
+      "paras": [
+        "Sur la côte, les friches se referment vite : ronces, prunelliers et orties profitent d'un sol léger. Nous les reprenons avant qu'elles ne gagnent les clôtures et les accès.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Villers-sur-Mer compte 2 440 habitants et se situe à environ 24 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer, Benerville-sur-Mer et Houlgate. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers"
+    ],
+    "communes": [
+      "Blonville-sur-Mer",
+      "Auberville",
+      "Gonneville-sur-Mer",
+      "Benerville-sur-Mer",
+      "Houlgate"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Villers-sur-Mer ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Villers-sur-Mer sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Villers-sur-Mer ?",
+        "a": "Nous desservons Villers-sur-Mer et ses environs : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-villers-sur-mer",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "villers-sur-mer",
+    "km": 24,
+    "pop": 2440,
+    "city": "Villers-sur-Mer",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Villers-sur-Mer | Multi Taille",
+    "meta": "Entretien de jardin à Villers-sur-Mer (au nord-ouest de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Villers-sur-Mer : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Villers-sur-Mer, à 24 km de Lisieux",
+    "intro": "À Villers-sur-Mer, 2 440 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Villers-sur-Mer",
+      "paras": [
+        "Résidence secondaire ou maison principale : nous proposons un forfait de passages réguliers, y compris en votre absence, avec compte rendu si vous le souhaitez.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Villers-sur-Mer compte 2 440 habitants et se situe à environ 24 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer, Benerville-sur-Mer et Houlgate. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages"
+    ],
+    "communes": [
+      "Blonville-sur-Mer",
+      "Auberville",
+      "Gonneville-sur-Mer",
+      "Benerville-sur-Mer",
+      "Houlgate"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Villers-sur-Mer ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Villers-sur-Mer ?",
+        "a": "Nous desservons Villers-sur-Mer et ses environs : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
     "slug": "elagage-touques",
     "serviceSlug": "elagage",
     "citySlug": "touques",
+    "km": 25,
+    "pop": 3913,
     "city": "Touques",
     "shortName": "Élagage",
     "title": "Élagage à Touques | Multi Taille Services",
@@ -935,6 +1891,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-touques",
     "serviceSlug": "jardinier",
     "citySlug": "touques",
+    "km": 25,
+    "pop": 3913,
     "city": "Touques",
     "shortName": "Jardinier",
     "title": "Jardinier à Touques | Multi Taille Services",
@@ -984,6 +1942,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-touques",
     "serviceSlug": "taille-de-haie",
     "citySlug": "touques",
+    "km": 25,
+    "pop": 3913,
     "city": "Touques",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Touques | Multi Taille Services",
@@ -1030,9 +1990,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-touques",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "touques",
+    "km": 25,
+    "pop": 3913,
+    "city": "Touques",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Touques | Multi Taille Services",
+    "meta": "Tonte de pelouse à Touques : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Touques : on s'en charge",
+    "overline": "Tonte de pelouse à Touques, à 25 km de Lisieux",
+    "intro": "Touques (au nord, à environ 25 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Tondre à Touques : ce qu'il faut savoir",
+      "paras": [
+        "Les pelouses du littoral souffrent du sel et du sable : nous évitons la tonte rase, qui les affaiblit, et nous soignons les bordures le long des allées et des terrasses.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Touques compte 3 913 habitants et se situe à environ 25 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult, Bonneville-sur-Touques et Villerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence"
+    ],
+    "communes": [
+      "Trouville-sur-Mer",
+      "Deauville",
+      "Saint-Arnoult",
+      "Bonneville-sur-Touques",
+      "Villerville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Touques ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Touques desservez-vous ?",
+        "a": "Oui : nous intervenons à Touques et dans les communes voisines, notamment Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-touques",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "touques",
+    "km": 25,
+    "pop": 3913,
+    "city": "Touques",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Touques | Multi Taille Services",
+    "meta": "Terrain envahi à Touques ? Débroussaillage, broyage et évacuation. Visite gratuite. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Touques : terrains, talus et friches",
+    "overline": "Débroussaillage à Touques, à 25 km de Lisieux",
+    "intro": "Un terrain envahi à Touques ? Nous intervenons à environ 25 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Un terrain propre à Touques",
+      "paras": [
+        "Sur la côte, les friches se referment vite : ronces, prunelliers et orties profitent d'un sol léger. Nous les reprenons avant qu'elles ne gagnent les clôtures et les accès.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Touques compte 3 913 habitants et se situe à environ 25 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult, Bonneville-sur-Touques et Villerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins"
+    ],
+    "communes": [
+      "Trouville-sur-Mer",
+      "Deauville",
+      "Saint-Arnoult",
+      "Bonneville-sur-Touques",
+      "Villerville"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Touques ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Touques sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Quelles communes autour de Touques desservez-vous ?",
+        "a": "Oui : nous intervenons à Touques et dans les communes voisines, notamment Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-touques",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "touques",
+    "km": 25,
+    "pop": 3913,
+    "city": "Touques",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Touques | Multi Taille Services",
+    "meta": "Entretien de jardin à Touques : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Touques : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Touques, à 25 km de Lisieux",
+    "intro": "Touques (au nord, à environ 25 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Les jardins de Touques",
+      "paras": [
+        "Résidence secondaire ou maison principale : nous proposons un forfait de passages réguliers, y compris en votre absence, avec compte rendu si vous le souhaitez.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Touques compte 3 913 habitants et se situe à environ 25 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult, Bonneville-sur-Touques et Villerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages"
+    ],
+    "communes": [
+      "Trouville-sur-Mer",
+      "Deauville",
+      "Saint-Arnoult",
+      "Bonneville-sur-Touques",
+      "Villerville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Touques ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Touques pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Touques desservez-vous ?",
+        "a": "Oui : nous intervenons à Touques et dans les communes voisines, notamment Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
     "slug": "elagage-deauville",
     "serviceSlug": "elagage",
     "citySlug": "deauville",
+    "km": 26,
+    "pop": 3539,
     "city": "Deauville",
     "shortName": "Élagage",
     "title": "Élagage à Deauville | Multi Taille Services",
@@ -1082,6 +2197,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-deauville",
     "serviceSlug": "jardinier",
     "citySlug": "deauville",
+    "km": 26,
+    "pop": 3539,
     "city": "Deauville",
     "shortName": "Jardinier",
     "title": "Jardinier à Deauville | Multi Taille Services",
@@ -1131,6 +2248,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-deauville",
     "serviceSlug": "taille-de-haie",
     "citySlug": "deauville",
+    "km": 26,
+    "pop": 3539,
     "city": "Deauville",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Deauville | Multi Taille Services",
@@ -1177,9 +2296,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-deauville",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "deauville",
+    "km": 26,
+    "pop": 3539,
+    "city": "Deauville",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Deauville | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Deauville ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte à Deauville : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Deauville, à 26 km de Lisieux",
+    "intro": "À Deauville, 3 539 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Votre pelouse à Deauville",
+      "paras": [
+        "Près de la mer, le sol léger et le vent assèchent vite la pelouse en été. Nous relevons la hauteur de coupe dès les beaux jours et tondons plus souvent au printemps et à l'automne, quand l'herbe pousse.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Deauville compte 3 539 habitants et se situe à environ 26 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult, Trouville-sur-Mer et Tourgéville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces"
+    ],
+    "communes": [
+      "Touques",
+      "Benerville-sur-Mer",
+      "Saint-Arnoult",
+      "Trouville-sur-Mer",
+      "Tourgéville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Deauville ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Deauville desservez-vous ?",
+        "a": "Oui : nous intervenons à Deauville et dans les communes voisines, notamment Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-deauville",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "deauville",
+    "km": 26,
+    "pop": 3539,
+    "city": "Deauville",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Deauville | Multi Taille Services",
+    "meta": "Débroussaillage à Deauville : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussailler à Deauville : ronces et broussailles",
+    "overline": "Débroussaillage à Deauville, à 26 km de Lisieux",
+    "intro": "Deauville (au nord-ouest, à environ 26 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Un terrain propre à Deauville",
+      "paras": [
+        "Terrain de résidence secondaire laissé fermé plusieurs mois : nous le débroussaillons en un passage, puis proposons un entretien régulier.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Deauville compte 3 539 habitants et se situe à environ 26 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult, Trouville-sur-Mer et Tourgéville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente"
+    ],
+    "communes": [
+      "Touques",
+      "Benerville-sur-Mer",
+      "Saint-Arnoult",
+      "Trouville-sur-Mer",
+      "Tourgéville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Deauville ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Deauville desservez-vous ?",
+        "a": "Oui : nous intervenons à Deauville et dans les communes voisines, notamment Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-deauville",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "deauville",
+    "km": 26,
+    "pop": 3539,
+    "city": "Deauville",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Deauville | Multi Taille Services",
+    "meta": "Entretien de jardin à Deauville (au nord-ouest de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Deauville : toute l'année",
+    "overline": "Entretien de jardin à Deauville, à 26 km de Lisieux",
+    "intro": "À Deauville, 3 539 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Deauville",
+      "paras": [
+        "Entretenir un jardin près de la mer, c'est composer avec le vent et le sel : nous choisissons les périodes de taille et la hauteur de tonte en conséquence.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Deauville compte 3 539 habitants et se situe à environ 26 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult, Trouville-sur-Mer et Tourgéville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes"
+    ],
+    "communes": [
+      "Touques",
+      "Benerville-sur-Mer",
+      "Saint-Arnoult",
+      "Trouville-sur-Mer",
+      "Tourgéville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Deauville ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Deauville pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Quelles communes autour de Deauville desservez-vous ?",
+        "a": "Oui : nous intervenons à Deauville et dans les communes voisines, notamment Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
     "slug": "elagage-trouville-sur-mer",
     "serviceSlug": "elagage",
     "citySlug": "trouville-sur-mer",
+    "km": 27,
+    "pop": 4619,
     "city": "Trouville-sur-Mer",
     "shortName": "Élagage",
     "title": "Élagage à Trouville-sur-Mer | Multi Taille Services",
@@ -1229,6 +2503,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-trouville-sur-mer",
     "serviceSlug": "jardinier",
     "citySlug": "trouville-sur-mer",
+    "km": 27,
+    "pop": 4619,
     "city": "Trouville-sur-Mer",
     "shortName": "Jardinier",
     "title": "Jardinier à Trouville-sur-Mer | Multi Taille Services",
@@ -1278,6 +2554,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-trouville-sur-mer",
     "serviceSlug": "taille-de-haie",
     "citySlug": "trouville-sur-mer",
+    "km": 27,
+    "pop": 4619,
     "city": "Trouville-sur-Mer",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Trouville-sur-Mer | Multi Taille Services",
@@ -1324,9 +2602,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-trouville-sur-mer",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "trouville-sur-mer",
+    "km": 27,
+    "pop": 4619,
+    "city": "Trouville-sur-Mer",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Trouville-sur-Mer | Multi Taille Services",
+    "meta": "Tonte de pelouse à Trouville-sur-Mer : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Trouville-sur-Mer : on s'en charge",
+    "overline": "Tonte de pelouse à Trouville-sur-Mer, à 27 km de Lisieux",
+    "intro": "À Trouville-sur-Mer, 4 619 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Votre pelouse à Trouville-sur-Mer",
+      "paras": [
+        "Résidence secondaire sur la côte : nous tondons à la fréquence convenue pour que le jardin soit net à votre arrivée, y compris en votre absence.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Trouville-sur-Mer compte 4 619 habitants et se situe à environ 27 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Touques, Villerville, Deauville, Saint-Arnoult et Bonneville-sur-Touques. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe"
+    ],
+    "communes": [
+      "Touques",
+      "Villerville",
+      "Deauville",
+      "Saint-Arnoult",
+      "Bonneville-sur-Touques"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Trouville-sur-Mer ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Trouville-sur-Mer, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Quelles communes autour de Trouville-sur-Mer desservez-vous ?",
+        "a": "Nous desservons Trouville-sur-Mer et ses environs : Touques, Villerville, Deauville et Saint-Arnoult, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-trouville-sur-mer",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "trouville-sur-mer",
+    "km": 27,
+    "pop": 4619,
+    "city": "Trouville-sur-Mer",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Trouville-sur-Mer | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Trouville-sur-Mer (au nord de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussailler à Trouville-sur-Mer : ronces et broussailles",
+    "overline": "Débroussaillage à Trouville-sur-Mer, à 27 km de Lisieux",
+    "intro": "À Trouville-sur-Mer, 4 619 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Un terrain propre à Trouville-sur-Mer",
+      "paras": [
+        "Sur la côte, les friches se referment vite : ronces, prunelliers et orties profitent d'un sol léger. Nous les reprenons avant qu'elles ne gagnent les clôtures et les accès.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Trouville-sur-Mer compte 4 619 habitants et se situe à environ 27 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Touques, Villerville, Deauville, Saint-Arnoult et Bonneville-sur-Touques. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place"
+    ],
+    "communes": [
+      "Touques",
+      "Villerville",
+      "Deauville",
+      "Saint-Arnoult",
+      "Bonneville-sur-Touques"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Trouville-sur-Mer ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Trouville-sur-Mer desservez-vous ?",
+        "a": "Nous desservons Trouville-sur-Mer et ses environs : Touques, Villerville, Deauville et Saint-Arnoult, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-trouville-sur-mer",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "trouville-sur-mer",
+    "km": 27,
+    "pop": 4619,
+    "city": "Trouville-sur-Mer",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Trouville-sur-Mer | Multi Taille",
+    "meta": "Un jardinier pour entretenir votre jardin à Trouville-sur-Mer : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Trouville-sur-Mer : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Trouville-sur-Mer, à 27 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Trouville-sur-Mer ? Nous intervenons à environ 27 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Les jardins de Trouville-sur-Mer",
+      "paras": [
+        "Entretenir un jardin près de la mer, c'est composer avec le vent et le sel : nous choisissons les périodes de taille et la hauteur de tonte en conséquence.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Trouville-sur-Mer compte 4 619 habitants et se situe à environ 27 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Touques, Villerville, Deauville, Saint-Arnoult et Bonneville-sur-Touques. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Touques",
+      "Villerville",
+      "Deauville",
+      "Saint-Arnoult",
+      "Bonneville-sur-Touques"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Trouville-sur-Mer ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Trouville-sur-Mer pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Trouville-sur-Mer desservez-vous ?",
+        "a": "Nous desservons Trouville-sur-Mer et ses environs : Touques, Villerville, Deauville et Saint-Arnoult, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
     "slug": "elagage-houlgate",
     "serviceSlug": "elagage",
     "citySlug": "houlgate",
+    "km": 27,
+    "pop": 1834,
     "city": "Houlgate",
     "shortName": "Élagage",
     "title": "Élagage à Houlgate | Multi Taille Services",
@@ -1376,6 +2809,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-houlgate",
     "serviceSlug": "jardinier",
     "citySlug": "houlgate",
+    "km": 27,
+    "pop": 1834,
     "city": "Houlgate",
     "shortName": "Jardinier",
     "title": "Jardinier à Houlgate | Multi Taille Services",
@@ -1425,6 +2860,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-houlgate",
     "serviceSlug": "taille-de-haie",
     "citySlug": "houlgate",
+    "km": 27,
+    "pop": 1834,
     "city": "Houlgate",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Houlgate | Multi Taille Services",
@@ -1471,9 +2908,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-houlgate",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "houlgate",
+    "km": 27,
+    "pop": 1834,
+    "city": "Houlgate",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Houlgate | Multi Taille Services",
+    "meta": "Tonte à Houlgate (au nord-ouest de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tonte à Houlgate : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Houlgate, à 27 km de Lisieux",
+    "intro": "À Houlgate, 1 834 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Votre pelouse à Houlgate",
+      "paras": [
+        "Les pelouses du littoral souffrent du sel et du sable : nous évitons la tonte rase, qui les affaiblit, et nous soignons les bordures le long des allées et des terrasses.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Houlgate compte 1 834 habitants et se situe à environ 27 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville, Cabourg et Villers-sur-Mer. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément"
+    ],
+    "communes": [
+      "Dives-sur-Mer",
+      "Gonneville-sur-Mer",
+      "Auberville",
+      "Cabourg",
+      "Villers-sur-Mer"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Houlgate ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Houlgate, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Quelles communes autour de Houlgate desservez-vous ?",
+        "a": "Oui : nous intervenons à Houlgate et dans les communes voisines, notamment Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-houlgate",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "houlgate",
+    "km": 27,
+    "pop": 1834,
+    "city": "Houlgate",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Houlgate | Multi Taille Services",
+    "meta": "Débroussaillage à Houlgate : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Houlgate : on reprend votre terrain",
+    "overline": "Débroussaillage à Houlgate, à 27 km de Lisieux",
+    "intro": "Houlgate (au nord-ouest, à environ 27 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les terrains de Houlgate",
+      "paras": [
+        "Terrain de résidence secondaire laissé fermé plusieurs mois : nous le débroussaillons en un passage, puis proposons un entretien régulier.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Houlgate compte 1 834 habitants et se situe à environ 27 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville, Cabourg et Villers-sur-Mer. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins"
+    ],
+    "communes": [
+      "Dives-sur-Mer",
+      "Gonneville-sur-Mer",
+      "Auberville",
+      "Cabourg",
+      "Villers-sur-Mer"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Houlgate ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Houlgate sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Houlgate desservez-vous ?",
+        "a": "Oui : nous intervenons à Houlgate et dans les communes voisines, notamment Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-houlgate",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "houlgate",
+    "km": 27,
+    "pop": 1834,
+    "city": "Houlgate",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Houlgate | Multi Taille Services",
+    "meta": "Entretien de jardin à Houlgate : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Houlgate : toute l'année",
+    "overline": "Entretien de jardin à Houlgate, à 27 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Houlgate ? Nous intervenons à environ 27 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Houlgate",
+      "paras": [
+        "Entretenir un jardin près de la mer, c'est composer avec le vent et le sel : nous choisissons les périodes de taille et la hauteur de tonte en conséquence.",
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Houlgate compte 1 834 habitants et se situe à environ 27 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville, Cabourg et Villers-sur-Mer. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Dives-sur-Mer",
+      "Gonneville-sur-Mer",
+      "Auberville",
+      "Cabourg",
+      "Villers-sur-Mer"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Houlgate ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Houlgate desservez-vous ?",
+        "a": "Oui : nous intervenons à Houlgate et dans les communes voisines, notamment Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
     "slug": "elagage-bernay",
     "serviceSlug": "elagage",
     "citySlug": "bernay",
+    "km": 28,
+    "pop": 9765,
     "city": "Bernay",
     "shortName": "Élagage",
     "title": "Élagage à Bernay | Multi Taille Services",
@@ -1523,6 +3115,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-bernay",
     "serviceSlug": "jardinier",
     "citySlug": "bernay",
+    "km": 28,
+    "pop": 9765,
     "city": "Bernay",
     "shortName": "Jardinier",
     "title": "Jardinier à Bernay | Multi Taille Services",
@@ -1572,6 +3166,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-bernay",
     "serviceSlug": "taille-de-haie",
     "citySlug": "bernay",
+    "km": 28,
+    "pop": 9765,
     "city": "Bernay",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Bernay | Multi Taille Services",
@@ -1618,9 +3214,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-bernay",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "bernay",
+    "km": 28,
+    "pop": 9765,
+    "city": "Bernay",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Bernay | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Bernay ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte à Bernay : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Bernay, à 28 km de Lisieux",
+    "intro": "Besoin d'une tonte à Bernay ? Nous intervenons à environ 28 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Votre pelouse à Bernay",
+      "paras": [
+        "Nous tondons aussi dans ce secteur de l'Eure : petits jardins de bourg comme grandes pelouses de propriété, avec des passages planifiés.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Bernay compte 9 765 habitants et se situe à environ 28 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas, Treis-Sants-en-Ouche et Courbépine. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure"
+    ],
+    "communes": [
+      "Menneval",
+      "Valailles",
+      "Caorches-Saint-Nicolas",
+      "Treis-Sants-en-Ouche",
+      "Courbépine"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Bernay ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Bernay, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Bernay desservez-vous ?",
+        "a": "Nous desservons Bernay et ses environs : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-bernay",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "bernay",
+    "km": 28,
+    "pop": 9765,
+    "city": "Bernay",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Bernay | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Bernay (à l'est de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Bernay : on reprend votre terrain",
+    "overline": "Débroussaillage à Bernay, à 28 km de Lisieux",
+    "intro": "Un terrain envahi à Bernay ? Nous intervenons à environ 28 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de Bernay",
+      "paras": [
+        "Visite sur place, devis, puis intervention à la date convenue : la méthode est la même de chaque côté de la limite départementale.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Bernay compte 9 765 habitants et se situe à environ 28 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas, Treis-Sants-en-Ouche et Courbépine. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers"
+    ],
+    "communes": [
+      "Menneval",
+      "Valailles",
+      "Caorches-Saint-Nicolas",
+      "Treis-Sants-en-Ouche",
+      "Courbépine"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Bernay ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Bernay desservez-vous ?",
+        "a": "Nous desservons Bernay et ses environs : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-bernay",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "bernay",
+    "km": 28,
+    "pop": 9765,
+    "city": "Bernay",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Bernay | Multi Taille Services",
+    "meta": "Entretien de jardin à Bernay (à l'est de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Bernay : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Bernay, à 28 km de Lisieux",
+    "intro": "Bernay (à l'est, à environ 28 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Bernay",
+      "paras": [
+        "Nous entretenons aussi les jardins de ce secteur de l'Eure, de la maison de bourg à la propriété de campagne, avec des passages planifiés.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Bernay compte 9 765 habitants et se situe à environ 28 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas, Treis-Sants-en-Ouche et Courbépine. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Menneval",
+      "Valailles",
+      "Caorches-Saint-Nicolas",
+      "Treis-Sants-en-Ouche",
+      "Courbépine"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Bernay ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Bernay desservez-vous ?",
+        "a": "Nous desservons Bernay et ses environs : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
     "slug": "elagage-equemauville",
     "serviceSlug": "elagage",
     "citySlug": "equemauville",
+    "km": 29,
+    "pop": 1574,
     "city": "Équemauville",
     "shortName": "Élagage",
     "title": "Élagage à Équemauville | Multi Taille Services",
@@ -1670,6 +3421,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-equemauville",
     "serviceSlug": "jardinier",
     "citySlug": "equemauville",
+    "km": 29,
+    "pop": 1574,
     "city": "Équemauville",
     "shortName": "Jardinier",
     "title": "Jardinier à Équemauville | Multi Taille Services",
@@ -1719,6 +3472,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-equemauville",
     "serviceSlug": "taille-de-haie",
     "citySlug": "equemauville",
+    "km": 29,
+    "pop": 1574,
     "city": "Équemauville",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Équemauville | Multi Taille Services",
@@ -1765,9 +3520,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-equemauville",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "equemauville",
+    "km": 29,
+    "pop": 1574,
+    "city": "Équemauville",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Équemauville | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Équemauville ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Équemauville : on s'en charge",
+    "overline": "Tonte de pelouse à Équemauville, à 29 km de Lisieux",
+    "intro": "Équemauville (au nord, à environ 29 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Votre pelouse à Équemauville",
+      "paras": [
+        "Les jardins du pays d'Honfleur mêlent pelouses de plein soleil et zones d'ombre sous les arbres : la hauteur de coupe n'est pas la même partout, et nous la modulons.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Équemauville compte 1 574 habitants et se situe à environ 29 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie, La Rivière-Saint-Sauveur et Ablon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence"
+    ],
+    "communes": [
+      "Honfleur",
+      "Gonneville-sur-Honfleur",
+      "Pennedepie",
+      "La Rivière-Saint-Sauveur",
+      "Ablon"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Équemauville ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Quelles communes autour de Équemauville desservez-vous ?",
+        "a": "Nous desservons Équemauville et ses environs : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-equemauville",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "equemauville",
+    "km": 29,
+    "pop": 1574,
+    "city": "Équemauville",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Équemauville | Multi Taille Services",
+    "meta": "Terrain envahi à Équemauville ? Débroussaillage, broyage et évacuation. Visite gratuite. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Équemauville : terrains, talus et friches",
+    "overline": "Débroussaillage à Équemauville, à 29 km de Lisieux",
+    "intro": "Un terrain envahi à Équemauville ? Nous intervenons à environ 29 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Débroussailler à Équemauville : ce qu'il faut savoir",
+      "paras": [
+        "Autour de l'estuaire, talus et fossés se couvrent de végétation dense. Nous les dégageons pour retrouver l'écoulement des eaux et l'accès aux parcelles.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Équemauville compte 1 574 habitants et se situe à environ 29 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie, La Rivière-Saint-Sauveur et Ablon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Honfleur",
+      "Gonneville-sur-Honfleur",
+      "Pennedepie",
+      "La Rivière-Saint-Sauveur",
+      "Ablon"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Équemauville ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Quelles communes autour de Équemauville desservez-vous ?",
+        "a": "Nous desservons Équemauville et ses environs : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-equemauville",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "equemauville",
+    "km": 29,
+    "pop": 1574,
+    "city": "Équemauville",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Équemauville | Multi Taille Services",
+    "meta": "Entretien de jardin à Équemauville : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Équemauville : saison par saison",
+    "overline": "Entretien de jardin à Équemauville, à 29 km de Lisieux",
+    "intro": "À Équemauville, 1 574 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Les jardins de Équemauville",
+      "paras": [
+        "Un entretien régulier évite les grosses remises en état : un passage toutes les deux ou trois semaines suffit souvent à tenir un jardin net.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Équemauville compte 1 574 habitants et se situe à environ 29 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie, La Rivière-Saint-Sauveur et Ablon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires"
+    ],
+    "communes": [
+      "Honfleur",
+      "Gonneville-sur-Honfleur",
+      "Pennedepie",
+      "La Rivière-Saint-Sauveur",
+      "Ablon"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Équemauville ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Quelles communes autour de Équemauville desservez-vous ?",
+        "a": "Nous desservons Équemauville et ses environs : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
     "slug": "elagage-honfleur",
     "serviceSlug": "elagage",
     "citySlug": "honfleur",
+    "km": 29,
+    "pop": 6640,
     "city": "Honfleur",
     "shortName": "Élagage",
     "title": "Élagage à Honfleur | Multi Taille Services",
@@ -1817,6 +3727,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-honfleur",
     "serviceSlug": "jardinier",
     "citySlug": "honfleur",
+    "km": 29,
+    "pop": 6640,
     "city": "Honfleur",
     "shortName": "Jardinier",
     "title": "Jardinier à Honfleur | Multi Taille Services",
@@ -1866,6 +3778,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-honfleur",
     "serviceSlug": "taille-de-haie",
     "citySlug": "honfleur",
+    "km": 29,
+    "pop": 6640,
     "city": "Honfleur",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Honfleur | Multi Taille Services",
@@ -1912,9 +3826,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-honfleur",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "honfleur",
+    "km": 29,
+    "pop": 6640,
+    "city": "Honfleur",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Honfleur | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Honfleur ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Honfleur : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Honfleur, à 29 km de Lisieux",
+    "intro": "Honfleur (au nord, à environ 29 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Un gazon net à Honfleur",
+      "paras": [
+        "Les jardins du pays d'Honfleur mêlent pelouses de plein soleil et zones d'ombre sous les arbres : la hauteur de coupe n'est pas la même partout, et nous la modulons.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Honfleur compte 6 640 habitants et se situe à environ 29 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur, Ablon et Pennedepie. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue"
+    ],
+    "communes": [
+      "Équemauville",
+      "La Rivière-Saint-Sauveur",
+      "Gonneville-sur-Honfleur",
+      "Ablon",
+      "Pennedepie"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Honfleur ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Honfleur desservez-vous ?",
+        "a": "Oui : nous intervenons à Honfleur et dans les communes voisines, notamment Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-honfleur",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "honfleur",
+    "km": 29,
+    "pop": 6640,
+    "city": "Honfleur",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Honfleur | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Honfleur (au nord de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussailler à Honfleur : ronces et broussailles",
+    "overline": "Débroussaillage à Honfleur, à 29 km de Lisieux",
+    "intro": "À Honfleur, 6 640 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Les terrains de Honfleur",
+      "paras": [
+        "Autour de l'estuaire, talus et fossés se couvrent de végétation dense. Nous les dégageons pour retrouver l'écoulement des eaux et l'accès aux parcelles.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Honfleur compte 6 640 habitants et se situe à environ 29 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur, Ablon et Pennedepie. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente"
+    ],
+    "communes": [
+      "Équemauville",
+      "La Rivière-Saint-Sauveur",
+      "Gonneville-sur-Honfleur",
+      "Ablon",
+      "Pennedepie"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Honfleur ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Honfleur sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Quelles communes autour de Honfleur desservez-vous ?",
+        "a": "Oui : nous intervenons à Honfleur et dans les communes voisines, notamment Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-honfleur",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "honfleur",
+    "km": 29,
+    "pop": 6640,
+    "city": "Honfleur",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Honfleur | Multi Taille Services",
+    "meta": "Entretien de jardin à Honfleur : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Honfleur : saison par saison",
+    "overline": "Entretien de jardin à Honfleur, à 29 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Honfleur ? Nous intervenons à environ 29 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Les jardins de Honfleur",
+      "paras": [
+        "Un entretien régulier évite les grosses remises en état : un passage toutes les deux ou trois semaines suffit souvent à tenir un jardin net.",
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Honfleur compte 6 640 habitants et se situe à environ 29 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur, Ablon et Pennedepie. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Équemauville",
+      "La Rivière-Saint-Sauveur",
+      "Gonneville-sur-Honfleur",
+      "Ablon",
+      "Pennedepie"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Honfleur ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Honfleur pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Honfleur desservez-vous ?",
+        "a": "Oui : nous intervenons à Honfleur et dans les communes voisines, notamment Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
     "slug": "elagage-menneval",
     "serviceSlug": "elagage",
     "citySlug": "menneval",
+    "km": 29,
+    "pop": 1527,
     "city": "Menneval",
     "shortName": "Élagage",
     "title": "Élagage à Menneval | Multi Taille Services",
@@ -1964,6 +4033,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-menneval",
     "serviceSlug": "jardinier",
     "citySlug": "menneval",
+    "km": 29,
+    "pop": 1527,
     "city": "Menneval",
     "shortName": "Jardinier",
     "title": "Jardinier à Menneval | Multi Taille Services",
@@ -2013,6 +4084,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-menneval",
     "serviceSlug": "taille-de-haie",
     "citySlug": "menneval",
+    "km": 29,
+    "pop": 1527,
     "city": "Menneval",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Menneval | Multi Taille Services",
@@ -2059,13 +4132,168 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-menneval",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "menneval",
+    "km": 29,
+    "pop": 1527,
+    "city": "Menneval",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Menneval | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Menneval ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Menneval : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Menneval, à 29 km de Lisieux",
+    "intro": "Besoin d'une tonte à Menneval ? Nous intervenons à environ 29 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Votre pelouse à Menneval",
+      "paras": [
+        "Nous tondons aussi dans ce secteur de l'Eure : petits jardins de bourg comme grandes pelouses de propriété, avec des passages planifiés.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Menneval compte 1 527 habitants et se situe à environ 29 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes, Plasnes et Fontaine-l'Abbé. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure"
+    ],
+    "communes": [
+      "Valailles",
+      "Bernay",
+      "Saint-Léger-de-Rôtes",
+      "Plasnes",
+      "Fontaine-l'Abbé"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Menneval ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Menneval, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Menneval ?",
+        "a": "Oui : nous intervenons à Menneval et dans les communes voisines, notamment Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-menneval",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "menneval",
+    "km": 29,
+    "pop": 1527,
+    "city": "Menneval",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Menneval | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Menneval (à l'est de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Menneval : on reprend votre terrain",
+    "overline": "Débroussaillage à Menneval, à 29 km de Lisieux",
+    "intro": "À Menneval, 1 527 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Débroussailler à Menneval : ce qu'il faut savoir",
+      "paras": [
+        "Visite sur place, devis, puis intervention à la date convenue : la méthode est la même de chaque côté de la limite départementale.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Menneval compte 1 527 habitants et se situe à environ 29 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes, Plasnes et Fontaine-l'Abbé. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins"
+    ],
+    "communes": [
+      "Valailles",
+      "Bernay",
+      "Saint-Léger-de-Rôtes",
+      "Plasnes",
+      "Fontaine-l'Abbé"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Menneval ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Menneval ?",
+        "a": "Oui : nous intervenons à Menneval et dans les communes voisines, notamment Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-menneval",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "menneval",
+    "km": 29,
+    "pop": 1527,
+    "city": "Menneval",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Menneval | Multi Taille Services",
+    "meta": "Entretien de jardin à Menneval (à l'est de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Menneval : toute l'année",
+    "overline": "Entretien de jardin à Menneval, à 29 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Menneval ? Nous intervenons à environ 29 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Les jardins de Menneval",
+      "paras": [
+        "Un seul interlocuteur pour la tonte, les haies et les massifs : c'est plus simple pour vous, et le jardin est cohérent d'un passage à l'autre.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Menneval compte 1 527 habitants et se situe à environ 29 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes, Plasnes et Fontaine-l'Abbé. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes"
+    ],
+    "communes": [
+      "Valailles",
+      "Bernay",
+      "Saint-Léger-de-Rôtes",
+      "Plasnes",
+      "Fontaine-l'Abbé"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Menneval ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Menneval pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Menneval ?",
+        "a": "Oui : nous intervenons à Menneval et dans les communes voisines, notamment Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
     "slug": "elagage-la-riviere-saint-sauveur",
     "serviceSlug": "elagage",
     "citySlug": "la-riviere-saint-sauveur",
+    "km": 29,
+    "pop": 2527,
     "city": "La Rivière-Saint-Sauveur",
     "shortName": "Élagage",
     "title": "Élagage à La Rivière-Saint-Sauveur | Multi Taille Services",
-    "meta": "Élagueur à La Rivière-Saint-Sauveur (au nord de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le 07 67 23 41 23.",
+    "meta": "Besoin d'un élagueur à La Rivière-Saint-Sauveur ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
     "h1": "Élagage à La Rivière-Saint-Sauveur : vos arbres entre de bonnes mains",
     "overline": "Élagueur à La Rivière-Saint-Sauveur, à 29 km de Lisieux",
     "intro": "À La Rivière-Saint-Sauveur, 2 527 habitants, les arbres des jardins demandent un suivi régulier. Nous nous déplaçons à environ 29 km de Lisieux pour évaluer vos arbres, proposer la taille adaptée et réaliser le chantier en sécurité.",
@@ -2111,6 +4339,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-la-riviere-saint-sauveur",
     "serviceSlug": "jardinier",
     "citySlug": "la-riviere-saint-sauveur",
+    "km": 29,
+    "pop": 2527,
     "city": "La Rivière-Saint-Sauveur",
     "shortName": "Jardinier",
     "title": "Jardinier à La Rivière-Saint-Sauveur | Multi Taille Services",
@@ -2160,6 +4390,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-la-riviere-saint-sauveur",
     "serviceSlug": "taille-de-haie",
     "citySlug": "la-riviere-saint-sauveur",
+    "km": 29,
+    "pop": 2527,
     "city": "La Rivière-Saint-Sauveur",
     "shortName": "Taille de haie",
     "title": "Taille de haie à La Rivière-Saint-Sauveur | Multi Taille",
@@ -2206,9 +4438,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-la-riviere-saint-sauveur",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "la-riviere-saint-sauveur",
+    "km": 29,
+    "pop": 2527,
+    "city": "La Rivière-Saint-Sauveur",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à La Rivière-Saint-Sauveur | Multi Taille",
+    "meta": "Tonte à La Rivière-Saint-Sauveur (au nord de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à La Rivière-Saint-Sauveur : on s'en charge",
+    "overline": "Tonte de pelouse à La Rivière-Saint-Sauveur, à 29 km de Lisieux",
+    "intro": "À La Rivière-Saint-Sauveur, 2 527 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Tondre à La Rivière-Saint-Sauveur : ce qu'il faut savoir",
+      "paras": [
+        "Les jardins du pays d'Honfleur mêlent pelouses de plein soleil et zones d'ombre sous les arbres : la hauteur de coupe n'est pas la même partout, et nous la modulons.",
+        "Mulching ou ramassage : le mulching nourrit la pelouse quand l'herbe est régulièrement coupée, le ramassage convient aux pelouses longues ou très denses. Nous choisissons avec vous.",
+        "La Rivière-Saint-Sauveur compte 2 527 habitants et se situe à environ 29 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur, Équemauville et Fiquefleur-Équainville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe"
+    ],
+    "communes": [
+      "Ablon",
+      "Honfleur",
+      "Gonneville-sur-Honfleur",
+      "Équemauville",
+      "Fiquefleur-Équainville"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à La Rivière-Saint-Sauveur ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à La Rivière-Saint-Sauveur, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de La Rivière-Saint-Sauveur ?",
+        "a": "Nous desservons La Rivière-Saint-Sauveur et ses environs : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-la-riviere-saint-sauveur",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "la-riviere-saint-sauveur",
+    "km": 29,
+    "pop": 2527,
+    "city": "La Rivière-Saint-Sauveur",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à La Rivière-Saint-Sauveur | Multi Taille",
+    "meta": "Débroussailler un terrain à La Rivière-Saint-Sauveur (au nord de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussailler à La Rivière-Saint-Sauveur : ronces et broussailles",
+    "overline": "Débroussaillage à La Rivière-Saint-Sauveur, à 29 km de Lisieux",
+    "intro": "Un terrain envahi à La Rivière-Saint-Sauveur ? Nous intervenons à environ 29 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de La Rivière-Saint-Sauveur",
+      "paras": [
+        "Terrains en pente, fonds de jardin, anciennes parcelles : le débroussaillage se prépare selon le relief et ce que l'on veut conserver.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "La Rivière-Saint-Sauveur compte 2 527 habitants et se situe à environ 29 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur, Équemauville et Fiquefleur-Équainville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles"
+    ],
+    "communes": [
+      "Ablon",
+      "Honfleur",
+      "Gonneville-sur-Honfleur",
+      "Équemauville",
+      "Fiquefleur-Équainville"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à La Rivière-Saint-Sauveur ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de La Rivière-Saint-Sauveur ?",
+        "a": "Nous desservons La Rivière-Saint-Sauveur et ses environs : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-la-riviere-saint-sauveur",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "la-riviere-saint-sauveur",
+    "km": 29,
+    "pop": 2527,
+    "city": "La Rivière-Saint-Sauveur",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à La Rivière-Saint-Sauveur",
+    "meta": "Entretien de jardin à La Rivière-Saint-Sauveur : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à La Rivière-Saint-Sauveur : toute l'année",
+    "overline": "Entretien de jardin à La Rivière-Saint-Sauveur, à 29 km de Lisieux",
+    "intro": "La Rivière-Saint-Sauveur (au nord, à environ 29 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Un jardin suivi à La Rivière-Saint-Sauveur",
+      "paras": [
+        "Le jardin d'une maison du pays d'Honfleur mêle pelouse, haies, massifs et fruitiers : nous planifions les travaux saison par saison, sans que rien ne soit oublié.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "La Rivière-Saint-Sauveur compte 2 527 habitants et se situe à environ 29 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur, Équemauville et Fiquefleur-Équainville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures"
+    ],
+    "communes": [
+      "Ablon",
+      "Honfleur",
+      "Gonneville-sur-Honfleur",
+      "Équemauville",
+      "Fiquefleur-Équainville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à La Rivière-Saint-Sauveur ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à La Rivière-Saint-Sauveur pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de La Rivière-Saint-Sauveur ?",
+        "a": "Nous desservons La Rivière-Saint-Sauveur et ses environs : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
     "slug": "elagage-troarn",
     "serviceSlug": "elagage",
     "citySlug": "troarn",
+    "km": 30,
+    "pop": 3439,
     "city": "Troarn",
     "shortName": "Élagage",
     "title": "Élagage à Troarn | Multi Taille Services",
@@ -2258,6 +4645,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-troarn",
     "serviceSlug": "jardinier",
     "citySlug": "troarn",
+    "km": 30,
+    "pop": 3439,
     "city": "Troarn",
     "shortName": "Jardinier",
     "title": "Jardinier à Troarn | Multi Taille Services",
@@ -2307,6 +4696,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-troarn",
     "serviceSlug": "taille-de-haie",
     "citySlug": "troarn",
+    "km": 30,
+    "pop": 3439,
     "city": "Troarn",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Troarn | Multi Taille Services",
@@ -2353,9 +4744,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-troarn",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "troarn",
+    "km": 30,
+    "pop": 3439,
+    "city": "Troarn",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Troarn | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Troarn ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte à Troarn : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Troarn, à 30 km de Lisieux",
+    "intro": "À Troarn, 3 439 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Tondre à Troarn : ce qu'il faut savoir",
+      "paras": [
+        "Les terrains plats et dégagés se tondent vite, mais exigent de la régularité : un passage toutes les une à deux semaines en pleine pousse évite les reprises compliquées.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Troarn compte 3 439 habitants et se situe à environ 30 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Saint-Samson, Touffréville, Sannerville, Janville et Bavent. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure"
+    ],
+    "communes": [
+      "Saint-Samson",
+      "Touffréville",
+      "Sannerville",
+      "Janville",
+      "Bavent"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Troarn ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Troarn, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Troarn desservez-vous ?",
+        "a": "Nous desservons Troarn et ses environs : Saint-Samson, Touffréville, Sannerville et Janville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-troarn",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "troarn",
+    "km": 30,
+    "pop": 3439,
+    "city": "Troarn",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Troarn | Multi Taille Services",
+    "meta": "Terrain envahi à Troarn ? Débroussaillage, broyage et évacuation. Visite gratuite. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Troarn : terrains, talus et friches",
+    "overline": "Débroussaillage à Troarn, à 30 km de Lisieux",
+    "intro": "Troarn (à l'ouest, à environ 30 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Un terrain propre à Troarn",
+      "paras": [
+        "Un terrain constructible, une parcelle à vendre ou un fond de propriété : nous le rendons propre et accessible.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Troarn compte 3 439 habitants et se situe à environ 30 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Saint-Samson, Touffréville, Sannerville, Janville et Bavent. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction"
+    ],
+    "communes": [
+      "Saint-Samson",
+      "Touffréville",
+      "Sannerville",
+      "Janville",
+      "Bavent"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Troarn ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Troarn desservez-vous ?",
+        "a": "Nous desservons Troarn et ses environs : Saint-Samson, Touffréville, Sannerville et Janville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-troarn",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "troarn",
+    "km": 30,
+    "pop": 3439,
+    "city": "Troarn",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Troarn | Multi Taille Services",
+    "meta": "Un jardinier pour entretenir votre jardin à Troarn : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Troarn : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Troarn, à 30 km de Lisieux",
+    "intro": "À Troarn, 3 439 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Un jardin suivi à Troarn",
+      "paras": [
+        "Dans les lotissements et les maisons de plaine, le jardin se résume souvent à une grande pelouse, des haies et quelques massifs. Nous les entretenons à un rythme fixe.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Troarn compte 3 439 habitants et se situe à environ 30 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Saint-Samson, Touffréville, Sannerville, Janville et Bavent. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires"
+    ],
+    "communes": [
+      "Saint-Samson",
+      "Touffréville",
+      "Sannerville",
+      "Janville",
+      "Bavent"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Troarn ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Troarn desservez-vous ?",
+        "a": "Nous desservons Troarn et ses environs : Saint-Samson, Touffréville, Sannerville et Janville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
     "slug": "elagage-moult-chicheboville",
     "serviceSlug": "elagage",
     "citySlug": "moult-chicheboville",
+    "km": 31,
+    "pop": 3441,
     "city": "Moult-Chicheboville",
     "shortName": "Élagage",
     "title": "Élagage à Moult-Chicheboville | Multi Taille Services",
@@ -2405,6 +4951,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-moult-chicheboville",
     "serviceSlug": "jardinier",
     "citySlug": "moult-chicheboville",
+    "km": 31,
+    "pop": 3441,
     "city": "Moult-Chicheboville",
     "shortName": "Jardinier",
     "title": "Jardinier à Moult-Chicheboville | Multi Taille Services",
@@ -2454,6 +5002,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-moult-chicheboville",
     "serviceSlug": "taille-de-haie",
     "citySlug": "moult-chicheboville",
+    "km": 31,
+    "pop": 3441,
     "city": "Moult-Chicheboville",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Moult-Chicheboville | Multi Taille Services",
@@ -2500,9 +5050,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-moult-chicheboville",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "moult-chicheboville",
+    "km": 31,
+    "pop": 3441,
+    "city": "Moult-Chicheboville",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Moult-Chicheboville | Multi Taille",
+    "meta": "Une pelouse à tondre à Moult-Chicheboville ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Moult-Chicheboville : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Moult-Chicheboville, à 31 km de Lisieux",
+    "intro": "Moult-Chicheboville (à l'ouest, à environ 31 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Votre pelouse à Moult-Chicheboville",
+      "paras": [
+        "Dans la plaine, les pelouses sont souvent vastes et ouvertes. Nous travaillons avec des tondeuses adaptées aux grandes surfaces pour tenir un rythme régulier sans épuiser le gazon.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Moult-Chicheboville compte 3 441 habitants et se situe à environ 31 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Valambray, Vimont, Bellengreville, Argences et Frénouville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe"
+    ],
+    "communes": [
+      "Valambray",
+      "Vimont",
+      "Bellengreville",
+      "Argences",
+      "Frénouville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Moult-Chicheboville ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Quelles communes autour de Moult-Chicheboville desservez-vous ?",
+        "a": "Nous desservons Moult-Chicheboville et ses environs : Valambray, Vimont, Bellengreville et Argences, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-moult-chicheboville",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "moult-chicheboville",
+    "km": 31,
+    "pop": 3441,
+    "city": "Moult-Chicheboville",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Moult-Chicheboville | Multi Taille",
+    "meta": "Débroussailler un terrain à Moult-Chicheboville (à l'ouest de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Moult-Chicheboville : on reprend votre terrain",
+    "overline": "Débroussaillage à Moult-Chicheboville, à 31 km de Lisieux",
+    "intro": "Moult-Chicheboville (à l'ouest, à environ 31 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Un terrain propre à Moult-Chicheboville",
+      "paras": [
+        "Un terrain constructible, une parcelle à vendre ou un fond de propriété : nous le rendons propre et accessible.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Moult-Chicheboville compte 3 441 habitants et se situe à environ 31 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Valambray, Vimont, Bellengreville, Argences et Frénouville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures"
+    ],
+    "communes": [
+      "Valambray",
+      "Vimont",
+      "Bellengreville",
+      "Argences",
+      "Frénouville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Moult-Chicheboville ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Moult-Chicheboville desservez-vous ?",
+        "a": "Nous desservons Moult-Chicheboville et ses environs : Valambray, Vimont, Bellengreville et Argences, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-moult-chicheboville",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "moult-chicheboville",
+    "km": 31,
+    "pop": 3441,
+    "city": "Moult-Chicheboville",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Moult-Chicheboville | Multi Taille",
+    "meta": "Un jardinier pour entretenir votre jardin à Moult-Chicheboville : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Moult-Chicheboville : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Moult-Chicheboville, à 31 km de Lisieux",
+    "intro": "Moult-Chicheboville (à l'ouest, à environ 31 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Les jardins de Moult-Chicheboville",
+      "paras": [
+        "Dans les lotissements et les maisons de plaine, le jardin se résume souvent à une grande pelouse, des haies et quelques massifs. Nous les entretenons à un rythme fixe.",
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Moult-Chicheboville compte 3 441 habitants et se situe à environ 31 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Valambray, Vimont, Bellengreville, Argences et Frénouville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages"
+    ],
+    "communes": [
+      "Valambray",
+      "Vimont",
+      "Bellengreville",
+      "Argences",
+      "Frénouville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Moult-Chicheboville ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Moult-Chicheboville desservez-vous ?",
+        "a": "Nous desservons Moult-Chicheboville et ses environs : Valambray, Vimont, Bellengreville et Argences, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
     "slug": "elagage-bavent",
     "serviceSlug": "elagage",
     "citySlug": "bavent",
+    "km": 31,
+    "pop": 1885,
     "city": "Bavent",
     "shortName": "Élagage",
     "title": "Élagage à Bavent | Multi Taille Services",
@@ -2552,6 +5257,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-bavent",
     "serviceSlug": "jardinier",
     "citySlug": "bavent",
+    "km": 31,
+    "pop": 1885,
     "city": "Bavent",
     "shortName": "Jardinier",
     "title": "Jardinier à Bavent | Multi Taille Services",
@@ -2601,6 +5308,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-bavent",
     "serviceSlug": "taille-de-haie",
     "citySlug": "bavent",
+    "km": 31,
+    "pop": 1885,
     "city": "Bavent",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Bavent | Multi Taille Services",
@@ -2647,9 +5356,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-bavent",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "bavent",
+    "km": 31,
+    "pop": 1885,
+    "city": "Bavent",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Bavent | Multi Taille Services",
+    "meta": "Tonte à Bavent (à l'ouest de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Bavent : on s'en charge",
+    "overline": "Tonte de pelouse à Bavent, à 31 km de Lisieux",
+    "intro": "Bavent (à l'ouest, à environ 31 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Un gazon net à Bavent",
+      "paras": [
+        "Dans la plaine, les pelouses sont souvent vastes et ouvertes. Nous travaillons avec des tondeuses adaptées aux grandes surfaces pour tenir un rythme régulier sans épuiser le gazon.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Bavent compte 1 885 habitants et se situe à environ 31 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge, Troarn et Touffréville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence"
+    ],
+    "communes": [
+      "Petiville",
+      "Bréville-les-Monts",
+      "Gonneville-en-Auge",
+      "Troarn",
+      "Touffréville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Bavent ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Bavent ?",
+        "a": "Nous desservons Bavent et ses environs : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-bavent",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "bavent",
+    "km": 31,
+    "pop": 1885,
+    "city": "Bavent",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Bavent | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Bavent (à l'ouest de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussailler à Bavent : ronces et broussailles",
+    "overline": "Débroussaillage à Bavent, à 31 km de Lisieux",
+    "intro": "À Bavent, 1 885 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Les terrains de Bavent",
+      "paras": [
+        "Un terrain constructible, une parcelle à vendre ou un fond de propriété : nous le rendons propre et accessible.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Bavent compte 1 885 habitants et se situe à environ 31 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge, Troarn et Touffréville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place"
+    ],
+    "communes": [
+      "Petiville",
+      "Bréville-les-Monts",
+      "Gonneville-en-Auge",
+      "Troarn",
+      "Touffréville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Bavent ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Bavent ?",
+        "a": "Nous desservons Bavent et ses environs : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-bavent",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "bavent",
+    "km": 31,
+    "pop": 1885,
+    "city": "Bavent",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Bavent | Multi Taille Services",
+    "meta": "Entretien de jardin à Bavent : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Bavent : toute l'année",
+    "overline": "Entretien de jardin à Bavent, à 31 km de Lisieux",
+    "intro": "À Bavent, 1 885 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Un jardin suivi à Bavent",
+      "paras": [
+        "Dans les lotissements et les maisons de plaine, le jardin se résume souvent à une grande pelouse, des haies et quelques massifs. Nous les entretenons à un rythme fixe.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Bavent compte 1 885 habitants et se situe à environ 31 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge, Troarn et Touffréville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées"
+    ],
+    "communes": [
+      "Petiville",
+      "Bréville-les-Monts",
+      "Gonneville-en-Auge",
+      "Troarn",
+      "Touffréville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Bavent ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Bavent ?",
+        "a": "Nous desservons Bavent et ses environs : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
     "slug": "elagage-valambray",
     "serviceSlug": "elagage",
     "citySlug": "valambray",
+    "km": 31,
+    "pop": 1682,
     "city": "Valambray",
     "shortName": "Élagage",
     "title": "Élagage à Valambray | Multi Taille Services",
@@ -2699,6 +5563,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-valambray",
     "serviceSlug": "jardinier",
     "citySlug": "valambray",
+    "km": 31,
+    "pop": 1682,
     "city": "Valambray",
     "shortName": "Jardinier",
     "title": "Jardinier à Valambray | Multi Taille Services",
@@ -2748,6 +5614,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-valambray",
     "serviceSlug": "taille-de-haie",
     "citySlug": "valambray",
+    "km": 31,
+    "pop": 1682,
     "city": "Valambray",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Valambray | Multi Taille Services",
@@ -2794,9 +5662,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-valambray",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "valambray",
+    "km": 31,
+    "pop": 1682,
+    "city": "Valambray",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Valambray | Multi Taille Services",
+    "meta": "Tonte à Valambray (à l'ouest de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tonte à Valambray : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Valambray, à 31 km de Lisieux",
+    "intro": "À Valambray, 1 682 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Un gazon net à Valambray",
+      "paras": [
+        "Dans la plaine, les pelouses sont souvent vastes et ouvertes. Nous travaillons avec des tondeuses adaptées aux grandes surfaces pour tenir un rythme régulier sans épuiser le gazon.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Valambray compte 1 682 habitants et se situe à environ 31 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville, Cesny-aux-Vignes et Vimont. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément"
+    ],
+    "communes": [
+      "Moult-Chicheboville",
+      "Saint-Sylvain",
+      "Bellengreville",
+      "Cesny-aux-Vignes",
+      "Vimont"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Valambray ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Valambray, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Quelles communes autour de Valambray desservez-vous ?",
+        "a": "Nous desservons Valambray et ses environs : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-valambray",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "valambray",
+    "km": 31,
+    "pop": 1682,
+    "city": "Valambray",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Valambray | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Valambray (à l'ouest de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Valambray : terrains, talus et friches",
+    "overline": "Débroussaillage à Valambray, à 31 km de Lisieux",
+    "intro": "À Valambray, 1 682 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Les terrains de Valambray",
+      "paras": [
+        "Dans la plaine, les friches et les bordures de champs s'embroussaillent vite. Nous les reprenons avec le matériel adapté, y compris sur de grandes surfaces.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Valambray compte 1 682 habitants et se situe à environ 31 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville, Cesny-aux-Vignes et Vimont. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins"
+    ],
+    "communes": [
+      "Moult-Chicheboville",
+      "Saint-Sylvain",
+      "Bellengreville",
+      "Cesny-aux-Vignes",
+      "Vimont"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Valambray ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Valambray sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Valambray desservez-vous ?",
+        "a": "Nous desservons Valambray et ses environs : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-valambray",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "valambray",
+    "km": 31,
+    "pop": 1682,
+    "city": "Valambray",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Valambray | Multi Taille Services",
+    "meta": "Un jardinier pour entretenir votre jardin à Valambray : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Valambray : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Valambray, à 31 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Valambray ? Nous intervenons à environ 31 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Valambray",
+      "paras": [
+        "Dans les lotissements et les maisons de plaine, le jardin se résume souvent à une grande pelouse, des haies et quelques massifs. Nous les entretenons à un rythme fixe.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Valambray compte 1 682 habitants et se situe à environ 31 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville, Cesny-aux-Vignes et Vimont. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes"
+    ],
+    "communes": [
+      "Moult-Chicheboville",
+      "Saint-Sylvain",
+      "Bellengreville",
+      "Cesny-aux-Vignes",
+      "Vimont"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Valambray ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Valambray pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Quelles communes autour de Valambray desservez-vous ?",
+        "a": "Nous desservons Valambray et ses environs : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
     "slug": "elagage-pont-audemer",
     "serviceSlug": "elagage",
     "citySlug": "pont-audemer",
+    "km": 31,
+    "pop": 10023,
     "city": "Pont-Audemer",
     "shortName": "Élagage",
     "title": "Élagage à Pont-Audemer | Multi Taille Services",
@@ -2846,6 +5869,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-pont-audemer",
     "serviceSlug": "jardinier",
     "citySlug": "pont-audemer",
+    "km": 31,
+    "pop": 10023,
     "city": "Pont-Audemer",
     "shortName": "Jardinier",
     "title": "Jardinier à Pont-Audemer | Multi Taille Services",
@@ -2895,6 +5920,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-pont-audemer",
     "serviceSlug": "taille-de-haie",
     "citySlug": "pont-audemer",
+    "km": 31,
+    "pop": 10023,
     "city": "Pont-Audemer",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Pont-Audemer | Multi Taille Services",
@@ -2941,9 +5968,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-pont-audemer",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "pont-audemer",
+    "km": 31,
+    "pop": 10023,
+    "city": "Pont-Audemer",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Pont-Audemer | Multi Taille Services",
+    "meta": "Tonte à Pont-Audemer (au nord-est de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tonte à Pont-Audemer : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Pont-Audemer, à 31 km de Lisieux",
+    "intro": "Pont-Audemer (au nord-est, à environ 31 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Votre pelouse à Pont-Audemer",
+      "paras": [
+        "Qu'il s'agisse d'une tonte ponctuelle avant un événement ou d'un suivi régulier, nous nous adaptons à la surface et à l'accès.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Pont-Audemer compte 10 023 habitants et se situe à environ 31 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville, Les Préaux et Campigny. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces"
+    ],
+    "communes": [
+      "Manneville-sur-Risle",
+      "Tourville-sur-Pont-Audemer",
+      "Saint-Mards-de-Blacarville",
+      "Les Préaux",
+      "Campigny"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Pont-Audemer ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Pont-Audemer, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Pont-Audemer ?",
+        "a": "Oui : nous intervenons à Pont-Audemer et dans les communes voisines, notamment Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-pont-audemer",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "pont-audemer",
+    "km": 31,
+    "pop": 10023,
+    "city": "Pont-Audemer",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Pont-Audemer | Multi Taille Services",
+    "meta": "Débroussaillage à Pont-Audemer : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussailler à Pont-Audemer : ronces et broussailles",
+    "overline": "Débroussaillage à Pont-Audemer, à 31 km de Lisieux",
+    "intro": "Un terrain envahi à Pont-Audemer ? Nous intervenons à environ 31 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de Pont-Audemer",
+      "paras": [
+        "Visite sur place, devis, puis intervention à la date convenue : la méthode est la même de chaque côté de la limite départementale.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Pont-Audemer compte 10 023 habitants et se situe à environ 31 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville, Les Préaux et Campigny. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente"
+    ],
+    "communes": [
+      "Manneville-sur-Risle",
+      "Tourville-sur-Pont-Audemer",
+      "Saint-Mards-de-Blacarville",
+      "Les Préaux",
+      "Campigny"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Pont-Audemer ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Pont-Audemer ?",
+        "a": "Oui : nous intervenons à Pont-Audemer et dans les communes voisines, notamment Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-pont-audemer",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "pont-audemer",
+    "km": 31,
+    "pop": 10023,
+    "city": "Pont-Audemer",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Pont-Audemer | Multi Taille Services",
+    "meta": "Un jardinier pour entretenir votre jardin à Pont-Audemer : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Pont-Audemer : saison par saison",
+    "overline": "Entretien de jardin à Pont-Audemer, à 31 km de Lisieux",
+    "intro": "À Pont-Audemer, 10 023 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Pont-Audemer",
+      "paras": [
+        "Nous entretenons aussi les jardins de ce secteur de l'Eure, de la maison de bourg à la propriété de campagne, avec des passages planifiés.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Pont-Audemer compte 10 023 habitants et se situe à environ 31 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville, Les Préaux et Campigny. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes"
+    ],
+    "communes": [
+      "Manneville-sur-Risle",
+      "Tourville-sur-Pont-Audemer",
+      "Saint-Mards-de-Blacarville",
+      "Les Préaux",
+      "Campigny"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Pont-Audemer ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Pont-Audemer ?",
+        "a": "Oui : nous intervenons à Pont-Audemer et dans les communes voisines, notamment Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
     "slug": "elagage-sannerville",
     "serviceSlug": "elagage",
     "citySlug": "sannerville",
+    "km": 33,
+    "pop": 1905,
     "city": "Sannerville",
     "shortName": "Élagage",
     "title": "Élagage à Sannerville | Multi Taille Services",
@@ -2993,6 +6175,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-sannerville",
     "serviceSlug": "jardinier",
     "citySlug": "sannerville",
+    "km": 33,
+    "pop": 1905,
     "city": "Sannerville",
     "shortName": "Jardinier",
     "title": "Jardinier à Sannerville | Multi Taille Services",
@@ -3042,6 +6226,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-sannerville",
     "serviceSlug": "taille-de-haie",
     "citySlug": "sannerville",
+    "km": 33,
+    "pop": 1905,
     "city": "Sannerville",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Sannerville | Multi Taille Services",
@@ -3088,9 +6274,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-sannerville",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "sannerville",
+    "km": 33,
+    "pop": 1905,
+    "city": "Sannerville",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Sannerville | Multi Taille Services",
+    "meta": "Tonte à Sannerville (à l'ouest de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Sannerville : on s'en charge",
+    "overline": "Tonte de pelouse à Sannerville, à 33 km de Lisieux",
+    "intro": "Sannerville (à l'ouest, à environ 33 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Un gazon net à Sannerville",
+      "paras": [
+        "Les terrains plats et dégagés se tondent vite, mais exigent de la régularité : un passage toutes les une à deux semaines en pleine pousse évite les reprises compliquées.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Sannerville compte 1 905 habitants et se situe à environ 33 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Touffréville, Cuverville, Escoville, Démouville et Troarn. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe"
+    ],
+    "communes": [
+      "Touffréville",
+      "Cuverville",
+      "Escoville",
+      "Démouville",
+      "Troarn"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Sannerville ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Sannerville, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Quelles communes autour de Sannerville desservez-vous ?",
+        "a": "Oui : nous intervenons à Sannerville et dans les communes voisines, notamment Touffréville, Cuverville, Escoville et Démouville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-sannerville",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "sannerville",
+    "km": 33,
+    "pop": 1905,
+    "city": "Sannerville",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Sannerville | Multi Taille Services",
+    "meta": "Débroussaillage à Sannerville : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Sannerville : on reprend votre terrain",
+    "overline": "Débroussaillage à Sannerville, à 33 km de Lisieux",
+    "intro": "À Sannerville, 1 905 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Débroussailler à Sannerville : ce qu'il faut savoir",
+      "paras": [
+        "Un terrain constructible, une parcelle à vendre ou un fond de propriété : nous le rendons propre et accessible.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Sannerville compte 1 905 habitants et se situe à environ 33 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Touffréville, Cuverville, Escoville, Démouville et Troarn. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures"
+    ],
+    "communes": [
+      "Touffréville",
+      "Cuverville",
+      "Escoville",
+      "Démouville",
+      "Troarn"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Sannerville ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Sannerville sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Sannerville desservez-vous ?",
+        "a": "Oui : nous intervenons à Sannerville et dans les communes voisines, notamment Touffréville, Cuverville, Escoville et Démouville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-sannerville",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "sannerville",
+    "km": 33,
+    "pop": 1905,
+    "city": "Sannerville",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Sannerville | Multi Taille Services",
+    "meta": "Un jardinier pour entretenir votre jardin à Sannerville : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Sannerville : toute l'année",
+    "overline": "Entretien de jardin à Sannerville, à 33 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Sannerville ? Nous intervenons à environ 33 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Sannerville",
+      "paras": [
+        "Jardin de week-end ou de tous les jours : nous adaptons la fréquence de passage à votre usage et à votre budget.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Sannerville compte 1 905 habitants et se situe à environ 33 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Touffréville, Cuverville, Escoville, Démouville et Troarn. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Touffréville",
+      "Cuverville",
+      "Escoville",
+      "Démouville",
+      "Troarn"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Sannerville ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Sannerville desservez-vous ?",
+        "a": "Oui : nous intervenons à Sannerville et dans les communes voisines, notamment Touffréville, Cuverville, Escoville et Démouville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
     "slug": "elagage-bellengreville",
     "serviceSlug": "elagage",
     "citySlug": "bellengreville",
+    "km": 34,
+    "pop": 1598,
     "city": "Bellengreville",
     "shortName": "Élagage",
     "title": "Élagage à Bellengreville | Multi Taille Services",
@@ -3140,6 +6481,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-bellengreville",
     "serviceSlug": "jardinier",
     "citySlug": "bellengreville",
+    "km": 34,
+    "pop": 1598,
     "city": "Bellengreville",
     "shortName": "Jardinier",
     "title": "Jardinier à Bellengreville | Multi Taille Services",
@@ -3189,6 +6532,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-bellengreville",
     "serviceSlug": "taille-de-haie",
     "citySlug": "bellengreville",
+    "km": 34,
+    "pop": 1598,
     "city": "Bellengreville",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Bellengreville | Multi Taille Services",
@@ -3235,13 +6580,168 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-bellengreville",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "bellengreville",
+    "km": 34,
+    "pop": 1598,
+    "city": "Bellengreville",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Bellengreville | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Bellengreville ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Bellengreville : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Bellengreville, à 34 km de Lisieux",
+    "intro": "Besoin d'une tonte à Bellengreville ? Nous intervenons à environ 34 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Votre pelouse à Bellengreville",
+      "paras": [
+        "Les terrains plats et dégagés se tondent vite, mais exigent de la régularité : un passage toutes les une à deux semaines en pleine pousse évite les reprises compliquées.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Bellengreville compte 1 598 habitants et se situe à environ 34 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Frénouville, Moult-Chicheboville, Vimont, Émiéville et Bourguébus. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces"
+    ],
+    "communes": [
+      "Frénouville",
+      "Moult-Chicheboville",
+      "Vimont",
+      "Émiéville",
+      "Bourguébus"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Bellengreville ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Bellengreville, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Quelles communes autour de Bellengreville desservez-vous ?",
+        "a": "Nous desservons Bellengreville et ses environs : Frénouville, Moult-Chicheboville, Vimont et Émiéville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-bellengreville",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "bellengreville",
+    "km": 34,
+    "pop": 1598,
+    "city": "Bellengreville",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Bellengreville | Multi Taille Services",
+    "meta": "Débroussaillage à Bellengreville : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Bellengreville : terrains, talus et friches",
+    "overline": "Débroussaillage à Bellengreville, à 34 km de Lisieux",
+    "intro": "Bellengreville (à l'ouest, à environ 34 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les terrains de Bellengreville",
+      "paras": [
+        "Un terrain constructible, une parcelle à vendre ou un fond de propriété : nous le rendons propre et accessible.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Bellengreville compte 1 598 habitants et se situe à environ 34 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Frénouville, Moult-Chicheboville, Vimont, Émiéville et Bourguébus. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente"
+    ],
+    "communes": [
+      "Frénouville",
+      "Moult-Chicheboville",
+      "Vimont",
+      "Émiéville",
+      "Bourguébus"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Bellengreville ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Bellengreville desservez-vous ?",
+        "a": "Nous desservons Bellengreville et ses environs : Frénouville, Moult-Chicheboville, Vimont et Émiéville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-bellengreville",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "bellengreville",
+    "km": 34,
+    "pop": 1598,
+    "city": "Bellengreville",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Bellengreville | Multi Taille Services",
+    "meta": "Entretien de jardin à Bellengreville : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Bellengreville : saison par saison",
+    "overline": "Entretien de jardin à Bellengreville, à 34 km de Lisieux",
+    "intro": "À Bellengreville, 1 598 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Bellengreville",
+      "paras": [
+        "Jardin de week-end ou de tous les jours : nous adaptons la fréquence de passage à votre usage et à votre budget.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Bellengreville compte 1 598 habitants et se situe à environ 34 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Frénouville, Moult-Chicheboville, Vimont, Émiéville et Bourguébus. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles"
+    ],
+    "communes": [
+      "Frénouville",
+      "Moult-Chicheboville",
+      "Vimont",
+      "Émiéville",
+      "Bourguébus"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Bellengreville ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Quelles communes autour de Bellengreville desservez-vous ?",
+        "a": "Nous desservons Bellengreville et ses environs : Frénouville, Moult-Chicheboville, Vimont et Émiéville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
     "slug": "elagage-merville-franceville-plage",
     "serviceSlug": "elagage",
     "citySlug": "merville-franceville-plage",
+    "km": 34,
+    "pop": 2231,
     "city": "Merville-Franceville-Plage",
     "shortName": "Élagage",
     "title": "Élagage à Merville-Franceville-Plage | Multi Taille Services",
-    "meta": "Élagage d'arbres à Merville-Franceville-Plage : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "meta": "Besoin d'un élagueur à Merville-Franceville-Plage ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
     "h1": "Élagage d'arbres à Merville-Franceville-Plage : diagnostic gratuit",
     "overline": "Élagueur à Merville-Franceville-Plage, à 34 km de Lisieux",
     "intro": "Merville-Franceville-Plage (au nord-ouest, à environ 34 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
@@ -3287,6 +6787,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-merville-franceville-plage",
     "serviceSlug": "jardinier",
     "citySlug": "merville-franceville-plage",
+    "km": 34,
+    "pop": 2231,
     "city": "Merville-Franceville-Plage",
     "shortName": "Jardinier",
     "title": "Jardinier à Merville-Franceville-Plage | Multi Taille",
@@ -3336,10 +6838,12 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-merville-franceville-plage",
     "serviceSlug": "taille-de-haie",
     "citySlug": "merville-franceville-plage",
+    "km": 34,
+    "pop": 2231,
     "city": "Merville-Franceville-Plage",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Merville-Franceville-Plage | Multi Taille",
-    "meta": "Taille de haies à Merville-Franceville-Plage (au nord-ouest de Lisieux) : matériel adapté aux grandes hauteurs, chantier propre. Multi Taille Services : 07 67 23 41 23.",
+    "meta": "Taille de haie à Merville-Franceville-Plage : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
     "h1": "Taille de haie à Merville-Franceville-Plage : des lignes nettes",
     "overline": "Taille de haie à Merville-Franceville-Plage, à 34 km de Lisieux",
     "intro": "Merville-Franceville-Plage (au nord-ouest, à environ 34 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
@@ -3382,9 +6886,164 @@ export const LOCAL_PAGES_RING = [
     ]
   },
   {
+    "slug": "tonte-de-pelouse-merville-franceville-plage",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "merville-franceville-plage",
+    "km": 34,
+    "pop": 2231,
+    "city": "Merville-Franceville-Plage",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Merville-Franceville-Plage | Multi Taille",
+    "meta": "Tonte de pelouse à Merville-Franceville-Plage : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Merville-Franceville-Plage : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Merville-Franceville-Plage, à 34 km de Lisieux",
+    "intro": "Merville-Franceville-Plage (au nord-ouest, à environ 34 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Votre pelouse à Merville-Franceville-Plage",
+      "paras": [
+        "Près de la mer, le sol léger et le vent assèchent vite la pelouse en été. Nous relevons la hauteur de coupe dès les beaux jours et tondons plus souvent au printemps et à l'automne, quand l'herbe pousse.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Merville-Franceville-Plage compte 2 231 habitants et se situe à environ 34 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts, Petiville et Varaville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément"
+    ],
+    "communes": [
+      "Gonneville-en-Auge",
+      "Amfreville",
+      "Bréville-les-Monts",
+      "Petiville",
+      "Varaville"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Merville-Franceville-Plage ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Merville-Franceville-Plage desservez-vous ?",
+        "a": "Oui : nous intervenons à Merville-Franceville-Plage et dans les communes voisines, notamment Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-merville-franceville-plage",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "merville-franceville-plage",
+    "km": 34,
+    "pop": 2231,
+    "city": "Merville-Franceville-Plage",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Merville-Franceville-Plage | Multi Taille",
+    "meta": "Débroussailler un terrain à Merville-Franceville-Plage (au nord-ouest de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Merville-Franceville-Plage : on reprend votre terrain",
+    "overline": "Débroussaillage à Merville-Franceville-Plage, à 34 km de Lisieux",
+    "intro": "Un terrain envahi à Merville-Franceville-Plage ? Nous intervenons à environ 34 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Un terrain propre à Merville-Franceville-Plage",
+      "paras": [
+        "Terrain de résidence secondaire laissé fermé plusieurs mois : nous le débroussaillons en un passage, puis proposons un entretien régulier.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Merville-Franceville-Plage compte 2 231 habitants et se situe à environ 34 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts, Petiville et Varaville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Gonneville-en-Auge",
+      "Amfreville",
+      "Bréville-les-Monts",
+      "Petiville",
+      "Varaville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Merville-Franceville-Plage ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Merville-Franceville-Plage desservez-vous ?",
+        "a": "Oui : nous intervenons à Merville-Franceville-Plage et dans les communes voisines, notamment Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-merville-franceville-plage",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "merville-franceville-plage",
+    "km": 34,
+    "pop": 2231,
+    "city": "Merville-Franceville-Plage",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Merville-Franceville-Plage",
+    "meta": "Entretien de jardin à Merville-Franceville-Plage : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Merville-Franceville-Plage : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Merville-Franceville-Plage, à 34 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Merville-Franceville-Plage ? Nous intervenons à environ 34 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Les jardins de Merville-Franceville-Plage",
+      "paras": [
+        "Résidence secondaire ou maison principale : nous proposons un forfait de passages réguliers, y compris en votre absence, avec compte rendu si vous le souhaitez.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Merville-Franceville-Plage compte 2 231 habitants et se situe à environ 34 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts, Petiville et Varaville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "Gonneville-en-Auge",
+      "Amfreville",
+      "Bréville-les-Monts",
+      "Petiville",
+      "Varaville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Merville-Franceville-Plage ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Merville-Franceville-Plage pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Merville-Franceville-Plage desservez-vous ?",
+        "a": "Oui : nous intervenons à Merville-Franceville-Plage et dans les communes voisines, notamment Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
     "slug": "elagage-frenouville",
     "serviceSlug": "elagage",
     "citySlug": "frenouville",
+    "km": 34,
+    "pop": 2050,
     "city": "Frénouville",
     "shortName": "Élagage",
     "title": "Élagage à Frénouville | Multi Taille Services",
@@ -3434,6 +7093,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "jardinier-frenouville",
     "serviceSlug": "jardinier",
     "citySlug": "frenouville",
+    "km": 34,
+    "pop": 2050,
     "city": "Frénouville",
     "shortName": "Jardinier",
     "title": "Jardinier à Frénouville | Multi Taille Services",
@@ -3483,6 +7144,8 @@ export const LOCAL_PAGES_RING = [
     "slug": "taille-de-haie-frenouville",
     "serviceSlug": "taille-de-haie",
     "citySlug": "frenouville",
+    "km": 34,
+    "pop": 2050,
     "city": "Frénouville",
     "shortName": "Taille de haie",
     "title": "Taille de haie à Frénouville | Multi Taille Services",
@@ -3525,6 +7188,13317 @@ export const LOCAL_PAGES_RING = [
       {
         "q": "Quelles communes autour de Frénouville desservez-vous ?",
         "a": "Oui : nous intervenons à Frénouville et dans les communes voisines, notamment Bellengreville, Cagny, Émiéville et Soliers. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-frenouville",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "frenouville",
+    "km": 34,
+    "pop": 2050,
+    "city": "Frénouville",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Frénouville | Multi Taille Services",
+    "meta": "Tonte de pelouse à Frénouville : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte à Frénouville : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Frénouville, à 34 km de Lisieux",
+    "intro": "Besoin d'une tonte à Frénouville ? Nous intervenons à environ 34 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Votre pelouse à Frénouville",
+      "paras": [
+        "Dans la plaine, les pelouses sont souvent vastes et ouvertes. Nous travaillons avec des tondeuses adaptées aux grandes surfaces pour tenir un rythme régulier sans épuiser le gazon.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Frénouville compte 2 050 habitants et se situe à environ 34 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Bellengreville, Cagny, Émiéville, Soliers et Bourguébus. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément"
+    ],
+    "communes": [
+      "Bellengreville",
+      "Cagny",
+      "Émiéville",
+      "Soliers",
+      "Bourguébus"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Frénouville ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Frénouville, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Quelles communes autour de Frénouville desservez-vous ?",
+        "a": "Oui : nous intervenons à Frénouville et dans les communes voisines, notamment Bellengreville, Cagny, Émiéville et Soliers. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-frenouville",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "frenouville",
+    "km": 34,
+    "pop": 2050,
+    "city": "Frénouville",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Frénouville | Multi Taille Services",
+    "meta": "Débroussaillage à Frénouville : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Frénouville : on reprend votre terrain",
+    "overline": "Débroussaillage à Frénouville, à 34 km de Lisieux",
+    "intro": "Un terrain envahi à Frénouville ? Nous intervenons à environ 34 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Un terrain propre à Frénouville",
+      "paras": [
+        "Dans la plaine, les friches et les bordures de champs s'embroussaillent vite. Nous les reprenons avec le matériel adapté, y compris sur de grandes surfaces.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Frénouville compte 2 050 habitants et se situe à environ 34 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Bellengreville, Cagny, Émiéville, Soliers et Bourguébus. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures"
+    ],
+    "communes": [
+      "Bellengreville",
+      "Cagny",
+      "Émiéville",
+      "Soliers",
+      "Bourguébus"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Frénouville ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Frénouville desservez-vous ?",
+        "a": "Oui : nous intervenons à Frénouville et dans les communes voisines, notamment Bellengreville, Cagny, Émiéville et Soliers. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-frenouville",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "frenouville",
+    "km": 34,
+    "pop": 2050,
+    "city": "Frénouville",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Frénouville | Multi Taille Services",
+    "meta": "Entretien de jardin à Frénouville : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Frénouville : toute l'année",
+    "overline": "Entretien de jardin à Frénouville, à 34 km de Lisieux",
+    "intro": "À Frénouville, 2 050 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Un jardin suivi à Frénouville",
+      "paras": [
+        "Jardin de week-end ou de tous les jours : nous adaptons la fréquence de passage à votre usage et à votre budget.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Frénouville compte 2 050 habitants et se situe à environ 34 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Bellengreville, Cagny, Émiéville, Soliers et Bourguébus. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Bellengreville",
+      "Cagny",
+      "Émiéville",
+      "Soliers",
+      "Bourguébus"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Frénouville ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Quelles communes autour de Frénouville desservez-vous ?",
+        "a": "Oui : nous intervenons à Frénouville et dans les communes voisines, notamment Bellengreville, Cagny, Émiéville et Soliers. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-brionne",
+    "serviceSlug": "elagage",
+    "citySlug": "brionne",
+    "km": 35,
+    "pop": 4185,
+    "city": "Brionne",
+    "shortName": "Élagage",
+    "title": "Élagage à Brionne | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Brionne ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Brionne : diagnostic gratuit",
+    "overline": "Élagueur à Brionne, à 35 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Brionne ? Nous intervenons à environ 35 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Les arbres de Brionne",
+      "paras": [
+        "De l'autre côté de la limite départementale, dans l'Eure, nous intervenons comme dans le Calvados : diagnostic gratuit, taille adaptée à l'essence, chantier propre. Les jardins du secteur mêlent feuillus de belle taille et arbres fruitiers.",
+        "Une taille raisonnée vaut mieux qu'une coupe radicale : elle préserve la santé de l'arbre, limite les rejets et reste discrète dans le paysage. C'est notre principe sur tous nos chantiers.",
+        "Brionne compte 4 185 habitants et se situe à environ 35 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Franqueville, Aclou, Hecmanville, Calleville et Saint-Cyr-de-Salerne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux"
+    ],
+    "communes": [
+      "Franqueville",
+      "Aclou",
+      "Hecmanville",
+      "Calleville",
+      "Saint-Cyr-de-Salerne"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un élagage à Brionne ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Brionne, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Brionne ?",
+        "a": "Nous desservons Brionne et ses environs : Franqueville, Aclou, Hecmanville et Calleville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-brionne",
+    "serviceSlug": "jardinier",
+    "citySlug": "brionne",
+    "km": 35,
+    "pop": 4185,
+    "city": "Brionne",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Brionne | Multi Taille Services",
+    "meta": "Entretien de jardin à Brionne (à l'est de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Brionne : appelez, on passe",
+    "overline": "Jardinier à Brionne, à 35 km de Lisieux",
+    "intro": "Brionne (à l'est, à environ 35 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Brionne",
+      "paras": [
+        "Qu'il s'agisse d'une remise en ordre ou d'un entretien suivi, nous prenons le jardin tel qu'il est : tonte, haies, massifs et évacuation complète des déchets verts.",
+        "Débroussaillage d'un terrain laissé à l'abandon, remise en état d'une pelouse, taille d'arbustes : nous prenons aussi les gros chantiers de remise en état avant un entretien régulier.",
+        "Brionne compte 4 185 habitants et se situe à environ 35 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Franqueville, Aclou, Hecmanville, Calleville et Saint-Cyr-de-Salerne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées"
+    ],
+    "communes": [
+      "Franqueville",
+      "Aclou",
+      "Hecmanville",
+      "Calleville",
+      "Saint-Cyr-de-Salerne"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Brionne ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Brionne, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Brionne ?",
+        "a": "Nous desservons Brionne et ses environs : Franqueville, Aclou, Hecmanville et Calleville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-brionne",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "brionne",
+    "km": 35,
+    "pop": 4185,
+    "city": "Brionne",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Brionne | Multi Taille Services",
+    "meta": "Une haie à tailler à Brionne ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Brionne : des lignes nettes",
+    "overline": "Taille de haie à Brionne, à 35 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Brionne ? Nous intervenons à environ 35 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les haies de Brionne",
+      "paras": [
+        "Nous taillons aussi les haies de ce secteur de l'Eure : thuyas, lauriers, charmilles, haies champêtres. Devis gratuit après visite, intervention à la date convenue, déchets évacués.",
+        "Nous intervenons ponctuellement ou chaque année : une haie taillée à intervalles réguliers reste dense, solide et facile à entretenir.",
+        "Brionne compte 4 185 habitants et se situe à environ 35 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Franqueville, Aclou, Hecmanville, Calleville et Saint-Cyr-de-Salerne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets"
+    ],
+    "communes": [
+      "Franqueville",
+      "Aclou",
+      "Hecmanville",
+      "Calleville",
+      "Saint-Cyr-de-Salerne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Brionne ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Brionne ?",
+        "a": "Nous desservons Brionne et ses environs : Franqueville, Aclou, Hecmanville et Calleville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-brionne",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "brionne",
+    "km": 35,
+    "pop": 4185,
+    "city": "Brionne",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Brionne | Multi Taille Services",
+    "meta": "Tonte de pelouse à Brionne : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Brionne : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Brionne, à 35 km de Lisieux",
+    "intro": "Besoin d'une tonte à Brionne ? Nous intervenons à environ 35 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Tondre à Brionne : ce qu'il faut savoir",
+      "paras": [
+        "Qu'il s'agisse d'une tonte ponctuelle avant un événement ou d'un suivi régulier, nous nous adaptons à la surface et à l'accès.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Brionne compte 4 185 habitants et se situe à environ 35 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Franqueville, Aclou, Hecmanville, Calleville et Saint-Cyr-de-Salerne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue"
+    ],
+    "communes": [
+      "Franqueville",
+      "Aclou",
+      "Hecmanville",
+      "Calleville",
+      "Saint-Cyr-de-Salerne"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Brionne ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Brionne, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Brionne ?",
+        "a": "Nous desservons Brionne et ses environs : Franqueville, Aclou, Hecmanville et Calleville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-brionne",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "brionne",
+    "km": 35,
+    "pop": 4185,
+    "city": "Brionne",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Brionne | Multi Taille Services",
+    "meta": "Débroussaillage à Brionne : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Brionne : on reprend votre terrain",
+    "overline": "Débroussaillage à Brionne, à 35 km de Lisieux",
+    "intro": "À Brionne, 4 185 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Débroussailler à Brionne : ce qu'il faut savoir",
+      "paras": [
+        "Nous débroussaillons aussi les terrains de ce secteur de l'Eure : talus, bordures de chemins, anciens vergers, friches de fond de jardin.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Brionne compte 4 185 habitants et se situe à environ 35 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Franqueville, Aclou, Hecmanville, Calleville et Saint-Cyr-de-Salerne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état"
+    ],
+    "communes": [
+      "Franqueville",
+      "Aclou",
+      "Hecmanville",
+      "Calleville",
+      "Saint-Cyr-de-Salerne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Brionne ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Brionne ?",
+        "a": "Nous desservons Brionne et ses environs : Franqueville, Aclou, Hecmanville et Calleville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-brionne",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "brionne",
+    "km": 35,
+    "pop": 4185,
+    "city": "Brionne",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Brionne | Multi Taille Services",
+    "meta": "Un jardinier pour entretenir votre jardin à Brionne : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Brionne : toute l'année",
+    "overline": "Entretien de jardin à Brionne, à 35 km de Lisieux",
+    "intro": "À Brionne, 4 185 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Brionne",
+      "paras": [
+        "Nous entretenons aussi les jardins de ce secteur de l'Eure, de la maison de bourg à la propriété de campagne, avec des passages planifiés.",
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Brionne compte 4 185 habitants et se situe à environ 35 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Franqueville, Aclou, Hecmanville, Calleville et Saint-Cyr-de-Salerne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages"
+    ],
+    "communes": [
+      "Franqueville",
+      "Aclou",
+      "Hecmanville",
+      "Calleville",
+      "Saint-Cyr-de-Salerne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Brionne ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Brionne ?",
+        "a": "Nous desservons Brionne et ses environs : Franqueville, Aclou, Hecmanville et Calleville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-serquigny",
+    "serviceSlug": "elagage",
+    "citySlug": "serquigny",
+    "km": 35,
+    "pop": 1754,
+    "city": "Serquigny",
+    "shortName": "Élagage",
+    "title": "Élagage à Serquigny | Multi Taille Services",
+    "meta": "Élagueur à Serquigny (à l'est de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le 07 67 23 41 23.",
+    "h1": "Élagueur à Serquigny : taille soignée et chantier propre",
+    "overline": "Élagueur à Serquigny, à 35 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Serquigny ? Nous intervenons à environ 35 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Des arbres bien taillés à Serquigny",
+      "paras": [
+        "Les vallées et plateaux de ce secteur de l'Eure comptent de grands arbres de parc et de nombreux fruitiers. Nous les taillons selon leur âge et leur état, avec le souci de préserver l'arbre.",
+        "Une taille raisonnée vaut mieux qu'une coupe radicale : elle préserve la santé de l'arbre, limite les rejets et reste discrète dans le paysage. C'est notre principe sur tous nos chantiers.",
+        "Serquigny compte 1 754 habitants et se situe à environ 35 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle, Saint-Léger-de-Rôtes et Goupil-Othon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures"
+    ],
+    "communes": [
+      "Launay",
+      "Fontaine-l'Abbé",
+      "Nassandres sur Risle",
+      "Saint-Léger-de-Rôtes",
+      "Goupil-Othon"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Serquigny ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Serquigny ?",
+        "a": "Oui : nous intervenons à Serquigny et dans les communes voisines, notamment Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-serquigny",
+    "serviceSlug": "jardinier",
+    "citySlug": "serquigny",
+    "km": 35,
+    "pop": 1754,
+    "city": "Serquigny",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Serquigny | Multi Taille Services",
+    "meta": "Jardinier à Serquigny : tonte, taille de haies, désherbage, évacuation des déchets verts. Passage ponctuel ou régulier, devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Jardinier à Serquigny : un jardin net, toute l'année",
+    "overline": "Jardinier à Serquigny, à 35 km de Lisieux",
+    "intro": "À Serquigny, 1 754 habitants, l'entretien d'un jardin prend vite du temps. Nous prenons le relais : passages réguliers, remise en état avant l'été, ramassage de fin de saison.",
+    "besoins": {
+      "h2": "Un jardin net à Serquigny",
+      "paras": [
+        "Qu'il s'agisse d'une remise en ordre ou d'un entretien suivi, nous prenons le jardin tel qu'il est : tonte, haies, massifs et évacuation complète des déchets verts.",
+        "Débroussaillage d'un terrain laissé à l'abandon, remise en état d'une pelouse, taille d'arbustes : nous prenons aussi les gros chantiers de remise en état avant un entretien régulier.",
+        "Serquigny compte 1 754 habitants et se situe à environ 35 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle, Saint-Léger-de-Rôtes et Goupil-Othon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains"
+    ],
+    "communes": [
+      "Launay",
+      "Fontaine-l'Abbé",
+      "Nassandres sur Risle",
+      "Saint-Léger-de-Rôtes",
+      "Goupil-Othon"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Serquigny ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Évacuez-vous les déchets verts ?",
+        "a": "Oui, les déchets verts sont évacués ou broyés selon le devis. Vous retrouvez un jardin propre après chaque passage."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Serquigny ?",
+        "a": "Oui : nous intervenons à Serquigny et dans les communes voisines, notamment Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-serquigny",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "serquigny",
+    "km": 35,
+    "pop": 1754,
+    "city": "Serquigny",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Serquigny | Multi Taille Services",
+    "meta": "Une haie à tailler à Serquigny ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haies à Serquigny : thuyas, lauriers, charmilles",
+    "overline": "Taille de haie à Serquigny, à 35 km de Lisieux",
+    "intro": "Serquigny (à l'est, à environ 35 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Les haies de Serquigny",
+      "paras": [
+        "Que votre haie soit récente ou ancienne, la bonne taille dépend de l'essence. Nous respectons le port de chaque haie, y compris pour les haies champêtres qui demandent une taille moins sévère.",
+        "Taille au cordeau, finitions à la cisaille, évacuation ou broyage des déchets : le chantier est conduit jusqu'au bout et le jardin laissé propre.",
+        "Serquigny compte 1 754 habitants et se situe à environ 35 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle, Saint-Léger-de-Rôtes et Goupil-Othon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle"
+    ],
+    "communes": [
+      "Launay",
+      "Fontaine-l'Abbé",
+      "Nassandres sur Risle",
+      "Saint-Léger-de-Rôtes",
+      "Goupil-Othon"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Serquigny ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Serquigny sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Pouvez-vous tailler une haie très haute ?",
+        "a": "Oui, avec le matériel adapté et en sécurité. Pour les résineux comme le thuya, nous évaluons d'abord la haie : ils ne repoussent pas depuis le vieux bois, donc nous ne descendons pas la hauteur n'importe comment."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Serquigny ?",
+        "a": "Oui : nous intervenons à Serquigny et dans les communes voisines, notamment Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-serquigny",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "serquigny",
+    "km": 35,
+    "pop": 1754,
+    "city": "Serquigny",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Serquigny | Multi Taille Services",
+    "meta": "Tonte à Serquigny (à l'est de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Serquigny : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Serquigny, à 35 km de Lisieux",
+    "intro": "Serquigny (à l'est, à environ 35 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Tondre à Serquigny : ce qu'il faut savoir",
+      "paras": [
+        "Qu'il s'agisse d'une tonte ponctuelle avant un événement ou d'un suivi régulier, nous nous adaptons à la surface et à l'accès.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Serquigny compte 1 754 habitants et se situe à environ 35 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle, Saint-Léger-de-Rôtes et Goupil-Othon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue"
+    ],
+    "communes": [
+      "Launay",
+      "Fontaine-l'Abbé",
+      "Nassandres sur Risle",
+      "Saint-Léger-de-Rôtes",
+      "Goupil-Othon"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Serquigny ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Serquigny ?",
+        "a": "Oui : nous intervenons à Serquigny et dans les communes voisines, notamment Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-serquigny",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "serquigny",
+    "km": 35,
+    "pop": 1754,
+    "city": "Serquigny",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Serquigny | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Serquigny (à l'est de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Serquigny : on reprend votre terrain",
+    "overline": "Débroussaillage à Serquigny, à 35 km de Lisieux",
+    "intro": "Serquigny (à l'est, à environ 35 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les terrains de Serquigny",
+      "paras": [
+        "Visite sur place, devis, puis intervention à la date convenue : la méthode est la même de chaque côté de la limite départementale.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Serquigny compte 1 754 habitants et se situe à environ 35 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle, Saint-Léger-de-Rôtes et Goupil-Othon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver"
+    ],
+    "communes": [
+      "Launay",
+      "Fontaine-l'Abbé",
+      "Nassandres sur Risle",
+      "Saint-Léger-de-Rôtes",
+      "Goupil-Othon"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Serquigny ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Serquigny sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Serquigny ?",
+        "a": "Oui : nous intervenons à Serquigny et dans les communes voisines, notamment Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-serquigny",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "serquigny",
+    "km": 35,
+    "pop": 1754,
+    "city": "Serquigny",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Serquigny | Multi Taille Services",
+    "meta": "Un jardinier pour entretenir votre jardin à Serquigny : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Serquigny : saison par saison",
+    "overline": "Entretien de jardin à Serquigny, à 35 km de Lisieux",
+    "intro": "Serquigny (à l'est, à environ 35 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Serquigny",
+      "paras": [
+        "Nous entretenons aussi les jardins de ce secteur de l'Eure, de la maison de bourg à la propriété de campagne, avec des passages planifiés.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Serquigny compte 1 754 habitants et se situe à environ 35 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle, Saint-Léger-de-Rôtes et Goupil-Othon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages"
+    ],
+    "communes": [
+      "Launay",
+      "Fontaine-l'Abbé",
+      "Nassandres sur Risle",
+      "Saint-Léger-de-Rôtes",
+      "Goupil-Othon"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Serquigny ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Serquigny pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Serquigny ?",
+        "a": "Oui : nous intervenons à Serquigny et dans les communes voisines, notamment Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-cagny",
+    "serviceSlug": "elagage",
+    "citySlug": "cagny",
+    "km": 36,
+    "pop": 2066,
+    "city": "Cagny",
+    "shortName": "Élagage",
+    "title": "Élagage à Cagny | Multi Taille Services",
+    "meta": "Élagueur à Cagny (à l'ouest de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Cagny : diagnostic gratuit",
+    "overline": "Élagueur à Cagny, à 36 km de Lisieux",
+    "intro": "À Cagny, 2 066 habitants, les arbres des jardins demandent un suivi régulier. Nous nous déplaçons à environ 36 km de Lisieux pour évaluer vos arbres, proposer la taille adaptée et réaliser le chantier en sécurité.",
+    "besoins": {
+      "h2": "Les arbres de Cagny",
+      "paras": [
+        "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent : sans voisinage pour les abriter, ils développent des couronnes denses qu'il faut éclaircir régulièrement pour limiter la prise au vent.",
+        "Un élagage se prépare : nous regardons l'essence, l'état sanitaire, l'accès et ce qui se trouve sous l'arbre (toiture, clôture, terrasse). Le diagnostic est gratuit, et le devis annoncé est le prix final.",
+        "Cagny compte 2 066 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Grentheville, Démouville, Émiéville, Frénouville et Banneville-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête"
+    ],
+    "communes": [
+      "Grentheville",
+      "Démouville",
+      "Émiéville",
+      "Frénouville",
+      "Banneville-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Cagny ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Évacuez-vous les branches après l'élagage ?",
+        "a": "Oui. Les branches sont évacuées ou broyées, selon ce qui est prévu au devis, et le jardin est ratissé : nous ne partons que lorsque le chantier est propre."
+      },
+      {
+        "q": "Quelles communes autour de Cagny desservez-vous ?",
+        "a": "Oui : nous intervenons à Cagny et dans les communes voisines, notamment Grentheville, Démouville, Émiéville et Frénouville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-cagny",
+    "serviceSlug": "jardinier",
+    "citySlug": "cagny",
+    "km": 36,
+    "pop": 2066,
+    "city": "Cagny",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Cagny | Multi Taille Services",
+    "meta": "Entretien de jardin à Cagny (à l'ouest de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Cagny : appelez, on passe",
+    "overline": "Jardinier à Cagny, à 36 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Cagny ? Nous intervenons à environ 36 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Cagny",
+      "paras": [
+        "Dans la plaine, les jardins de lotissements et les grands terrains ouverts demandent un entretien régulier : tonte, taille des haies de séparation, désherbage et nettoyage de fin de saison.",
+        "Au printemps, remise en ordre et premières tontes ; en été, entretien courant ; à l'automne, ramassage et taille de saison. Nous organisons l'année avec vous, saison par saison.",
+        "Cagny compte 2 066 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Grentheville, Démouville, Émiéville, Frénouville et Banneville-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées"
+    ],
+    "communes": [
+      "Grentheville",
+      "Démouville",
+      "Émiéville",
+      "Frénouville",
+      "Banneville-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Cagny ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Évacuez-vous les déchets verts ?",
+        "a": "Oui, les déchets verts sont évacués ou broyés selon le devis. Vous retrouvez un jardin propre après chaque passage."
+      },
+      {
+        "q": "Quelles communes autour de Cagny desservez-vous ?",
+        "a": "Oui : nous intervenons à Cagny et dans les communes voisines, notamment Grentheville, Démouville, Émiéville et Frénouville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-cagny",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "cagny",
+    "km": 36,
+    "pop": 2066,
+    "city": "Cagny",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Cagny | Multi Taille Services",
+    "meta": "Taille de haies à Cagny (à l'ouest de Lisieux) : matériel adapté aux grandes hauteurs, chantier propre. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Taille de haie à Cagny : devis gratuit après visite",
+    "overline": "Taille de haie à Cagny, à 36 km de Lisieux",
+    "intro": "Cagny (à l'ouest, à environ 36 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Les haies de Cagny",
+      "paras": [
+        "Dans la plaine, les haies de thuyas, de lauriers et de photinias bordent les jardins et filtrent le vent. Une taille régulière évite qu'elles ne montent trop haut et ne se dégarnissent à la base.",
+        "Nous intervenons ponctuellement ou chaque année : une haie taillée à intervalles réguliers reste dense, solide et facile à entretenir.",
+        "Cagny compte 2 066 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Grentheville, Démouville, Émiéville, Frénouville et Banneville-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle"
+    ],
+    "communes": [
+      "Grentheville",
+      "Démouville",
+      "Émiéville",
+      "Frénouville",
+      "Banneville-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Cagny ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Cagny sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Quelles communes autour de Cagny desservez-vous ?",
+        "a": "Oui : nous intervenons à Cagny et dans les communes voisines, notamment Grentheville, Démouville, Émiéville et Frénouville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-cagny",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "cagny",
+    "km": 36,
+    "pop": 2066,
+    "city": "Cagny",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Cagny | Multi Taille Services",
+    "meta": "Tonte de pelouse à Cagny : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Cagny : on s'en charge",
+    "overline": "Tonte de pelouse à Cagny, à 36 km de Lisieux",
+    "intro": "Cagny (à l'ouest, à environ 36 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Un gazon net à Cagny",
+      "paras": [
+        "Les terrains plats et dégagés se tondent vite, mais exigent de la régularité : un passage toutes les une à deux semaines en pleine pousse évite les reprises compliquées.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Cagny compte 2 066 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Grentheville, Démouville, Émiéville, Frénouville et Banneville-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses"
+    ],
+    "communes": [
+      "Grentheville",
+      "Démouville",
+      "Émiéville",
+      "Frénouville",
+      "Banneville-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Cagny ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Quelles communes autour de Cagny desservez-vous ?",
+        "a": "Oui : nous intervenons à Cagny et dans les communes voisines, notamment Grentheville, Démouville, Émiéville et Frénouville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-cagny",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "cagny",
+    "km": 36,
+    "pop": 2066,
+    "city": "Cagny",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Cagny | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Cagny (à l'ouest de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussailler à Cagny : ronces et broussailles",
+    "overline": "Débroussaillage à Cagny, à 36 km de Lisieux",
+    "intro": "Un terrain envahi à Cagny ? Nous intervenons à environ 36 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Un terrain propre à Cagny",
+      "paras": [
+        "Un terrain constructible, une parcelle à vendre ou un fond de propriété : nous le rendons propre et accessible.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Cagny compte 2 066 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Grentheville, Démouville, Émiéville, Frénouville et Banneville-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers"
+    ],
+    "communes": [
+      "Grentheville",
+      "Démouville",
+      "Émiéville",
+      "Frénouville",
+      "Banneville-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Cagny ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Cagny desservez-vous ?",
+        "a": "Oui : nous intervenons à Cagny et dans les communes voisines, notamment Grentheville, Démouville, Émiéville et Frénouville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-cagny",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "cagny",
+    "km": 36,
+    "pop": 2066,
+    "city": "Cagny",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Cagny | Multi Taille Services",
+    "meta": "Entretien de jardin à Cagny (à l'ouest de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Cagny : toute l'année",
+    "overline": "Entretien de jardin à Cagny, à 36 km de Lisieux",
+    "intro": "À Cagny, 2 066 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Cagny",
+      "paras": [
+        "Jardin de week-end ou de tous les jours : nous adaptons la fréquence de passage à votre usage et à votre budget.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Cagny compte 2 066 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Grentheville, Démouville, Émiéville, Frénouville et Banneville-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages"
+    ],
+    "communes": [
+      "Grentheville",
+      "Démouville",
+      "Émiéville",
+      "Frénouville",
+      "Banneville-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Cagny ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Cagny pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Cagny desservez-vous ?",
+        "a": "Oui : nous intervenons à Cagny et dans les communes voisines, notamment Grentheville, Démouville, Émiéville et Frénouville. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-cuverville",
+    "serviceSlug": "elagage",
+    "citySlug": "cuverville",
+    "km": 36,
+    "pop": 2267,
+    "city": "Cuverville",
+    "shortName": "Élagage",
+    "title": "Élagage à Cuverville | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Cuverville ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage à Cuverville : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Cuverville, à 36 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Cuverville ? Nous intervenons à environ 36 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Les arbres de Cuverville",
+      "paras": [
+        "Peupliers, érables, bouleaux et fruitiers poussent vite en terrain ouvert. Nous les taillons avant qu'ils ne gênent une façade, une ligne ou un voisin, en suivant leur port naturel.",
+        "Une taille raisonnée vaut mieux qu'une coupe radicale : elle préserve la santé de l'arbre, limite les rejets et reste discrète dans le paysage. C'est notre principe sur tous nos chantiers.",
+        "Cuverville compte 2 267 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Escoville, Démouville, Colombelles, Hérouvillette et Sannerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures"
+    ],
+    "communes": [
+      "Escoville",
+      "Démouville",
+      "Colombelles",
+      "Hérouvillette",
+      "Sannerville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Cuverville ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Cuverville, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cuverville ?",
+        "a": "Oui : nous intervenons à Cuverville et dans les communes voisines, notamment Escoville, Démouville, Colombelles et Hérouvillette. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-cuverville",
+    "serviceSlug": "jardinier",
+    "citySlug": "cuverville",
+    "km": 36,
+    "pop": 2267,
+    "city": "Cuverville",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Cuverville | Multi Taille Services",
+    "meta": "Entretien de jardin à Cuverville (à l'ouest de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Jardinier à Cuverville : entretien régulier ou ponctuel",
+    "overline": "Jardinier à Cuverville, à 36 km de Lisieux",
+    "intro": "Cuverville (à l'ouest, à environ 36 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Les jardins de Cuverville",
+      "paras": [
+        "Pelouse du quotidien, haie de thuyas, massif de vivaces : nous entretenons les jardins du secteur avec des passages planifiés, pour que le jardin reste net sans que vous ayez à vous en occuper.",
+        "Au printemps, remise en ordre et premières tontes ; en été, entretien courant ; à l'automne, ramassage et taille de saison. Nous organisons l'année avec vous, saison par saison.",
+        "Cuverville compte 2 267 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Escoville, Démouville, Colombelles, Hérouvillette et Sannerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé"
+    ],
+    "communes": [
+      "Escoville",
+      "Démouville",
+      "Colombelles",
+      "Hérouvillette",
+      "Sannerville"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Cuverville ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Cuverville, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Évacuez-vous les déchets verts ?",
+        "a": "Oui, les déchets verts sont évacués ou broyés selon le devis. Vous retrouvez un jardin propre après chaque passage."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cuverville ?",
+        "a": "Oui : nous intervenons à Cuverville et dans les communes voisines, notamment Escoville, Démouville, Colombelles et Hérouvillette. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-cuverville",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "cuverville",
+    "km": 36,
+    "pop": 2267,
+    "city": "Cuverville",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Cuverville | Multi Taille Services",
+    "meta": "Une haie à tailler à Cuverville ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Cuverville : devis gratuit après visite",
+    "overline": "Taille de haie à Cuverville, à 36 km de Lisieux",
+    "intro": "À Cuverville, 2 267 habitants, les haies sont partout : clôtures, brise-vent, séparations. Nous les taillons ponctuellement ou chaque année, avec un chantier toujours laissé propre.",
+    "besoins": {
+      "h2": "Les haies de Cuverville",
+      "paras": [
+        "Haie de séparation entre voisins, haie d'entrée, haie brise-vent : chaque haie a un rôle. Nous la taillons en conséquence, avec une finition nette et un chantier laissé propre.",
+        "Une haie se taille légèrement et souvent plutôt que fortement et rarement. Les résineux comme le thuya ne repoussent pas dans le vieux bois : nous évaluons toujours la haie avant de couper.",
+        "Cuverville compte 2 267 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Escoville, Démouville, Colombelles, Hérouvillette et Sannerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias"
+    ],
+    "communes": [
+      "Escoville",
+      "Démouville",
+      "Colombelles",
+      "Hérouvillette",
+      "Sannerville"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Cuverville ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "Pouvez-vous tailler une haie très haute ?",
+        "a": "Oui, avec le matériel adapté et en sécurité. Pour les résineux comme le thuya, nous évaluons d'abord la haie : ils ne repoussent pas depuis le vieux bois, donc nous ne descendons pas la hauteur n'importe comment."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cuverville ?",
+        "a": "Oui : nous intervenons à Cuverville et dans les communes voisines, notamment Escoville, Démouville, Colombelles et Hérouvillette. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-cuverville",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "cuverville",
+    "km": 36,
+    "pop": 2267,
+    "city": "Cuverville",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Cuverville | Multi Taille Services",
+    "meta": "Tonte à Cuverville (à l'ouest de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Cuverville : on s'en charge",
+    "overline": "Tonte de pelouse à Cuverville, à 36 km de Lisieux",
+    "intro": "Besoin d'une tonte à Cuverville ? Nous intervenons à environ 36 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Votre pelouse à Cuverville",
+      "paras": [
+        "Dans la plaine, les pelouses sont souvent vastes et ouvertes. Nous travaillons avec des tondeuses adaptées aux grandes surfaces pour tenir un rythme régulier sans épuiser le gazon.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Cuverville compte 2 267 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Escoville, Démouville, Colombelles, Hérouvillette et Sannerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle"
+    ],
+    "communes": [
+      "Escoville",
+      "Démouville",
+      "Colombelles",
+      "Hérouvillette",
+      "Sannerville"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Cuverville ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cuverville ?",
+        "a": "Oui : nous intervenons à Cuverville et dans les communes voisines, notamment Escoville, Démouville, Colombelles et Hérouvillette. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-cuverville",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "cuverville",
+    "km": 36,
+    "pop": 2267,
+    "city": "Cuverville",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Cuverville | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Cuverville (à l'ouest de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Cuverville : terrains, talus et friches",
+    "overline": "Débroussaillage à Cuverville, à 36 km de Lisieux",
+    "intro": "À Cuverville, 2 267 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Un terrain propre à Cuverville",
+      "paras": [
+        "Dans la plaine, les friches et les bordures de champs s'embroussaillent vite. Nous les reprenons avec le matériel adapté, y compris sur de grandes surfaces.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Cuverville compte 2 267 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Escoville, Démouville, Colombelles, Hérouvillette et Sannerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente"
+    ],
+    "communes": [
+      "Escoville",
+      "Démouville",
+      "Colombelles",
+      "Hérouvillette",
+      "Sannerville"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Cuverville ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Cuverville sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cuverville ?",
+        "a": "Oui : nous intervenons à Cuverville et dans les communes voisines, notamment Escoville, Démouville, Colombelles et Hérouvillette. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-cuverville",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "cuverville",
+    "km": 36,
+    "pop": 2267,
+    "city": "Cuverville",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Cuverville | Multi Taille Services",
+    "meta": "Un jardinier pour entretenir votre jardin à Cuverville : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Cuverville : toute l'année",
+    "overline": "Entretien de jardin à Cuverville, à 36 km de Lisieux",
+    "intro": "Cuverville (à l'ouest, à environ 36 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Les jardins de Cuverville",
+      "paras": [
+        "Dans les lotissements et les maisons de plaine, le jardin se résume souvent à une grande pelouse, des haies et quelques massifs. Nous les entretenons à un rythme fixe.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Cuverville compte 2 267 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Escoville, Démouville, Colombelles, Hérouvillette et Sannerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes"
+    ],
+    "communes": [
+      "Escoville",
+      "Démouville",
+      "Colombelles",
+      "Hérouvillette",
+      "Sannerville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Cuverville ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cuverville ?",
+        "a": "Oui : nous intervenons à Cuverville et dans les communes voisines, notamment Escoville, Démouville, Colombelles et Hérouvillette. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-demouville",
+    "serviceSlug": "elagage",
+    "citySlug": "demouville",
+    "km": 36,
+    "pop": 3035,
+    "city": "Démouville",
+    "shortName": "Élagage",
+    "title": "Élagage à Démouville | Multi Taille Services",
+    "meta": "Élagueur à Démouville (à l'ouest de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage à Démouville : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Démouville, à 36 km de Lisieux",
+    "intro": "À Démouville, 3 035 habitants, les arbres des jardins demandent un suivi régulier. Nous nous déplaçons à environ 36 km de Lisieux pour évaluer vos arbres, proposer la taille adaptée et réaliser le chantier en sécurité.",
+    "besoins": {
+      "h2": "Élaguer à Démouville : ce qu'il faut savoir",
+      "paras": [
+        "Peupliers, érables, bouleaux et fruitiers poussent vite en terrain ouvert. Nous les taillons avant qu'ils ne gênent une façade, une ligne ou un voisin, en suivant leur port naturel.",
+        "Après une tempête, appelez-nous : nous évaluons les branches fragilisées, sécurisons ce qui doit l'être et taillons proprement ce qui peut être conservé.",
+        "Démouville compte 3 035 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Giberville, Cuverville, Cagny, Banneville-la-Campagne et Sannerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres"
+    ],
+    "communes": [
+      "Giberville",
+      "Cuverville",
+      "Cagny",
+      "Banneville-la-Campagne",
+      "Sannerville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un élagage à Démouville ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Démouville, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Évacuez-vous les branches après l'élagage ?",
+        "a": "Oui. Les branches sont évacuées ou broyées, selon ce qui est prévu au devis, et le jardin est ratissé : nous ne partons que lorsque le chantier est propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Démouville ?",
+        "a": "Nous desservons Démouville et ses environs : Giberville, Cuverville, Cagny et Banneville-la-Campagne, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-demouville",
+    "serviceSlug": "jardinier",
+    "citySlug": "demouville",
+    "km": 36,
+    "pop": 3035,
+    "city": "Démouville",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Démouville | Multi Taille Services",
+    "meta": "Un jardinier à Démouville pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Démouville : un jardin net, toute l'année",
+    "overline": "Jardinier à Démouville, à 36 km de Lisieux",
+    "intro": "À Démouville, 3 035 habitants, l'entretien d'un jardin prend vite du temps. Nous prenons le relais : passages réguliers, remise en état avant l'été, ramassage de fin de saison.",
+    "besoins": {
+      "h2": "Les jardins de Démouville",
+      "paras": [
+        "Les terrains plats et dégagés se tondent vite, mais les haies et les massifs réclament du soin. Nous proposons des passages adaptés à la surface du jardin et à vos habitudes.",
+        "Nous intervenons chez les particuliers comme chez les professionnels et les propriétaires de résidences secondaires, avec un point de contact unique : un appel suffit.",
+        "Démouville compte 3 035 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Giberville, Cuverville, Cagny, Banneville-la-Campagne et Sannerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces"
+    ],
+    "communes": [
+      "Giberville",
+      "Cuverville",
+      "Cagny",
+      "Banneville-la-Campagne",
+      "Sannerville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Démouville ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Démouville, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Évacuez-vous les déchets verts ?",
+        "a": "Oui, les déchets verts sont évacués ou broyés selon le devis. Vous retrouvez un jardin propre après chaque passage."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Démouville ?",
+        "a": "Nous desservons Démouville et ses environs : Giberville, Cuverville, Cagny et Banneville-la-Campagne, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-demouville",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "demouville",
+    "km": 36,
+    "pop": 3035,
+    "city": "Démouville",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Démouville | Multi Taille Services",
+    "meta": "Taille de haie à Démouville : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haie à Démouville : des lignes nettes",
+    "overline": "Taille de haie à Démouville, à 36 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Démouville ? Nous intervenons à environ 36 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Démouville",
+      "paras": [
+        "Les terrains dégagés exigent des haies solides. Nous les taillons avec le bon outil selon la hauteur, en prenant soin de ne pas couper dans le vieux bois des résineux qui ne repoussent pas.",
+        "Nous taillons les haies en hauteur avec un matériel adapté et en sécurité, y compris les grandes haies de thuyas qui dépassent la toiture d'une maison.",
+        "Démouville compte 3 035 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Giberville, Cuverville, Cagny, Banneville-la-Campagne et Sannerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets"
+    ],
+    "communes": [
+      "Giberville",
+      "Cuverville",
+      "Cagny",
+      "Banneville-la-Campagne",
+      "Sannerville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une taille de haie à Démouville ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Démouville ?",
+        "a": "Nous desservons Démouville et ses environs : Giberville, Cuverville, Cagny et Banneville-la-Campagne, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-demouville",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "demouville",
+    "km": 36,
+    "pop": 3035,
+    "city": "Démouville",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Démouville | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Démouville ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte à Démouville : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Démouville, à 36 km de Lisieux",
+    "intro": "Démouville (à l'ouest, à environ 36 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Tondre à Démouville : ce qu'il faut savoir",
+      "paras": [
+        "Les terrains plats et dégagés se tondent vite, mais exigent de la régularité : un passage toutes les une à deux semaines en pleine pousse évite les reprises compliquées.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Démouville compte 3 035 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Giberville, Cuverville, Cagny, Banneville-la-Campagne et Sannerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces"
+    ],
+    "communes": [
+      "Giberville",
+      "Cuverville",
+      "Cagny",
+      "Banneville-la-Campagne",
+      "Sannerville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Démouville ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Démouville ?",
+        "a": "Nous desservons Démouville et ses environs : Giberville, Cuverville, Cagny et Banneville-la-Campagne, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-demouville",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "demouville",
+    "km": 36,
+    "pop": 3035,
+    "city": "Démouville",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Démouville | Multi Taille Services",
+    "meta": "Débroussaillage à Démouville : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Démouville : on reprend votre terrain",
+    "overline": "Débroussaillage à Démouville, à 36 km de Lisieux",
+    "intro": "Démouville (à l'ouest, à environ 36 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Un terrain propre à Démouville",
+      "paras": [
+        "Dans la plaine, les friches et les bordures de champs s'embroussaillent vite. Nous les reprenons avec le matériel adapté, y compris sur de grandes surfaces.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Démouville compte 3 035 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Giberville, Cuverville, Cagny, Banneville-la-Campagne et Sannerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état"
+    ],
+    "communes": [
+      "Giberville",
+      "Cuverville",
+      "Cagny",
+      "Banneville-la-Campagne",
+      "Sannerville"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Démouville ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Démouville sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Démouville ?",
+        "a": "Nous desservons Démouville et ses environs : Giberville, Cuverville, Cagny et Banneville-la-Campagne, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-demouville",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "demouville",
+    "km": 36,
+    "pop": 3035,
+    "city": "Démouville",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Démouville | Multi Taille Services",
+    "meta": "Entretien de jardin à Démouville (à l'ouest de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Démouville : saison par saison",
+    "overline": "Entretien de jardin à Démouville, à 36 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Démouville ? Nous intervenons à environ 36 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Démouville",
+      "paras": [
+        "Dans les lotissements et les maisons de plaine, le jardin se résume souvent à une grande pelouse, des haies et quelques massifs. Nous les entretenons à un rythme fixe.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Démouville compte 3 035 habitants et se situe à environ 36 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Giberville, Cuverville, Cagny, Banneville-la-Campagne et Sannerville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces"
+    ],
+    "communes": [
+      "Giberville",
+      "Cuverville",
+      "Cagny",
+      "Banneville-la-Campagne",
+      "Sannerville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Démouville ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Démouville ?",
+        "a": "Nous desservons Démouville et ses environs : Giberville, Cuverville, Cagny et Banneville-la-Campagne, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-beuvillers",
+    "serviceSlug": "elagage",
+    "citySlug": "beuvillers",
+    "km": 3,
+    "pop": 1283,
+    "city": "Beuvillers",
+    "shortName": "Élagage",
+    "title": "Élagage à Beuvillers | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Beuvillers ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagueur à Beuvillers : taille soignée et chantier propre",
+    "overline": "Élagueur à Beuvillers, aux portes de Lisieux",
+    "intro": "Vous cherchez un élagueur à Beuvillers ? Nous intervenons aux portes de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Élaguer à Beuvillers : ce qu'il faut savoir",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "La bonne période d'élagage dépend de l'arbre et de l'objectif. Beaucoup d'arbres se taillent en dehors de la pleine végétation, mais un arbre dangereux se traite sans attendre.",
+        "Beuvillers compte 1 283 habitants et se situe aux portes de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue, Le Mesnil-Guillaume et Saint-Jean-de-Livet. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne"
+    ],
+    "communes": [
+      "Lisieux",
+      "Glos",
+      "Saint-Martin-de-la-Lieue",
+      "Le Mesnil-Guillaume",
+      "Saint-Jean-de-Livet"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un élagage à Beuvillers ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Évacuez-vous les branches après l'élagage ?",
+        "a": "Oui. Les branches sont évacuées ou broyées, selon ce qui est prévu au devis, et le jardin est ratissé : nous ne partons que lorsque le chantier est propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Beuvillers ?",
+        "a": "Nous desservons Beuvillers et ses environs : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-beuvillers",
+    "serviceSlug": "jardinier",
+    "citySlug": "beuvillers",
+    "km": 3,
+    "pop": 1283,
+    "city": "Beuvillers",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Beuvillers | Multi Taille Services",
+    "meta": "Jardinier à Beuvillers : tonte, taille de haies, désherbage, évacuation des déchets verts. Passage ponctuel ou régulier, devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Beuvillers : appelez, on passe",
+    "overline": "Jardinier à Beuvillers, aux portes de Lisieux",
+    "intro": "Beuvillers (au sud-est, aux portes de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Beuvillers",
+      "paras": [
+        "Une propriété de campagne se gère par saison : tonte et débroussaillage au printemps, taille des haies en été, ramassage et nettoyage à l'automne. Nous planifions chaque passage avec vous.",
+        "Débroussaillage d'un terrain laissé à l'abandon, remise en état d'une pelouse, taille d'arbustes : nous prenons aussi les gros chantiers de remise en état avant un entretien régulier.",
+        "Beuvillers compte 1 283 habitants et se situe aux portes de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue, Le Mesnil-Guillaume et Saint-Jean-de-Livet. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "Lisieux",
+      "Glos",
+      "Saint-Martin-de-la-Lieue",
+      "Le Mesnil-Guillaume",
+      "Saint-Jean-de-Livet"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Beuvillers ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Beuvillers, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Évacuez-vous les déchets verts ?",
+        "a": "Oui, les déchets verts sont évacués ou broyés selon le devis. Vous retrouvez un jardin propre après chaque passage."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Beuvillers ?",
+        "a": "Nous desservons Beuvillers et ses environs : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-beuvillers",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "beuvillers",
+    "km": 3,
+    "pop": 1283,
+    "city": "Beuvillers",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Beuvillers | Multi Taille Services",
+    "meta": "Une haie à tailler à Beuvillers ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Beuvillers : devis gratuit après visite",
+    "overline": "Taille de haie à Beuvillers, aux portes de Lisieux",
+    "intro": "À Beuvillers, 1 283 habitants, les haies sont partout : clôtures, brise-vent, séparations. Nous les taillons ponctuellement ou chaque année, avec un chantier toujours laissé propre.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Beuvillers",
+      "paras": [
+        "Une haie de campagne peut mesurer plusieurs dizaines de mètres. Nous intervenons avec le matériel adapté, sur une journée ou plusieurs, et nous évacuons ou broyons les déchets.",
+        "Nous taillons les haies en hauteur avec un matériel adapté et en sécurité, y compris les grandes haies de thuyas qui dépassent la toiture d'une maison.",
+        "Beuvillers compte 1 283 habitants et se situe aux portes de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue, Le Mesnil-Guillaume et Saint-Jean-de-Livet. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions"
+    ],
+    "communes": [
+      "Lisieux",
+      "Glos",
+      "Saint-Martin-de-la-Lieue",
+      "Le Mesnil-Guillaume",
+      "Saint-Jean-de-Livet"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une taille de haie à Beuvillers ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Beuvillers sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Beuvillers ?",
+        "a": "Nous desservons Beuvillers et ses environs : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-beuvillers",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "beuvillers",
+    "km": 3,
+    "pop": 1283,
+    "city": "Beuvillers",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Beuvillers | Multi Taille Services",
+    "meta": "Tonte de pelouse à Beuvillers : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Beuvillers : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Beuvillers, aux portes de Lisieux",
+    "intro": "Beuvillers (au sud-est, aux portes de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Tondre à Beuvillers : ce qu'il faut savoir",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "Mulching ou ramassage : le mulching nourrit la pelouse quand l'herbe est régulièrement coupée, le ramassage convient aux pelouses longues ou très denses. Nous choisissons avec vous.",
+        "Beuvillers compte 1 283 habitants et se situe aux portes de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue, Le Mesnil-Guillaume et Saint-Jean-de-Livet. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure"
+    ],
+    "communes": [
+      "Lisieux",
+      "Glos",
+      "Saint-Martin-de-la-Lieue",
+      "Le Mesnil-Guillaume",
+      "Saint-Jean-de-Livet"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Beuvillers ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Beuvillers ?",
+        "a": "Nous desservons Beuvillers et ses environs : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-beuvillers",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "beuvillers",
+    "km": 3,
+    "pop": 1283,
+    "city": "Beuvillers",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Beuvillers | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Beuvillers (au sud-est de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Beuvillers : terrains, talus et friches",
+    "overline": "Débroussaillage à Beuvillers, aux portes de Lisieux",
+    "intro": "Beuvillers (au sud-est, aux portes de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les terrains de Beuvillers",
+      "paras": [
+        "Un terrain laissé plusieurs années demande souvent deux passages : un premier pour ouvrir, un second pour reprendre proprement. Nous vous le disons dès la visite.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Beuvillers compte 1 283 habitants et se situe aux portes de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue, Le Mesnil-Guillaume et Saint-Jean-de-Livet. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers"
+    ],
+    "communes": [
+      "Lisieux",
+      "Glos",
+      "Saint-Martin-de-la-Lieue",
+      "Le Mesnil-Guillaume",
+      "Saint-Jean-de-Livet"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Beuvillers ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Beuvillers sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Beuvillers ?",
+        "a": "Nous desservons Beuvillers et ses environs : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-beuvillers",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "beuvillers",
+    "km": 3,
+    "pop": 1283,
+    "city": "Beuvillers",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Beuvillers | Multi Taille Services",
+    "meta": "Entretien de jardin à Beuvillers : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Beuvillers : toute l'année",
+    "overline": "Entretien de jardin à Beuvillers, aux portes de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Beuvillers ? Nous intervenons aux portes de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Un jardin suivi à Beuvillers",
+      "paras": [
+        "Au printemps, remise en ordre et premières tontes ; en été, tonte et taille légère ; à l'automne, ramassage des feuilles et taille de saison. Chaque passage est planifié.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Beuvillers compte 1 283 habitants et se situe aux portes de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue, Le Mesnil-Guillaume et Saint-Jean-de-Livet. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé"
+    ],
+    "communes": [
+      "Lisieux",
+      "Glos",
+      "Saint-Martin-de-la-Lieue",
+      "Le Mesnil-Guillaume",
+      "Saint-Jean-de-Livet"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Beuvillers ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Beuvillers pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Beuvillers ?",
+        "a": "Nous desservons Beuvillers et ses environs : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-saint-martin-de-mailloc",
+    "serviceSlug": "elagage",
+    "citySlug": "saint-martin-de-mailloc",
+    "km": 8,
+    "pop": 1040,
+    "city": "Saint-Martin-de-Mailloc",
+    "shortName": "Élagage",
+    "title": "Élagage à Saint-Martin-de-Mailloc | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Saint-Martin-de-Mailloc ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage à Saint-Martin-de-Mailloc : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Saint-Martin-de-Mailloc, à 8 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Saint-Martin-de-Mailloc ? Nous intervenons à environ 8 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Élaguer à Saint-Martin-de-Mailloc : ce qu'il faut savoir",
+      "paras": [
+        "Pommiers à cidre, noyers, chênes, hêtres : les essences du bocage ont leurs périodes de taille et leurs fragilités. Nous adaptons la technique à chaque arbre, en limitant la taille des plaies.",
+        "Après une tempête, appelez-nous : nous évaluons les branches fragilisées, sécurisons ce qui doit l'être et taillons proprement ce qui peut être conservé.",
+        "Saint-Martin-de-Mailloc compte 1 040 habitants et se situe à environ 8 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville, Saint-Jean-de-Livet et Glos. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement"
+    ],
+    "communes": [
+      "Le Mesnil-Guillaume",
+      "Saint-Denis-de-Mailloc",
+      "Prêtreville",
+      "Saint-Jean-de-Livet",
+      "Glos"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Saint-Martin-de-Mailloc ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Saint-Martin-de-Mailloc, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Martin-de-Mailloc desservez-vous ?",
+        "a": "Oui : nous intervenons à Saint-Martin-de-Mailloc et dans les communes voisines, notamment Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-saint-martin-de-mailloc",
+    "serviceSlug": "jardinier",
+    "citySlug": "saint-martin-de-mailloc",
+    "km": 8,
+    "pop": 1040,
+    "city": "Saint-Martin-de-Mailloc",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Saint-Martin-de-Mailloc | Multi Taille Services",
+    "meta": "Entretien de jardin à Saint-Martin-de-Mailloc (au sud-est de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Jardinier à Saint-Martin-de-Mailloc : entretien régulier ou ponctuel",
+    "overline": "Jardinier à Saint-Martin-de-Mailloc, à 8 km de Lisieux",
+    "intro": "Saint-Martin-de-Mailloc (au sud-est, à environ 8 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Saint-Martin-de-Mailloc",
+      "paras": [
+        "Tonte de grandes surfaces, taille de haies, désherbage des massifs, nettoyage des abords : nous entretenons les propriétés du bocage augeron avec des passages réguliers ou ponctuels.",
+        "Débroussaillage d'un terrain laissé à l'abandon, remise en état d'une pelouse, taille d'arbustes : nous prenons aussi les gros chantiers de remise en état avant un entretien régulier.",
+        "Saint-Martin-de-Mailloc compte 1 040 habitants et se situe à environ 8 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville, Saint-Jean-de-Livet et Glos. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé"
+    ],
+    "communes": [
+      "Le Mesnil-Guillaume",
+      "Saint-Denis-de-Mailloc",
+      "Prêtreville",
+      "Saint-Jean-de-Livet",
+      "Glos"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Saint-Martin-de-Mailloc ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Saint-Martin-de-Mailloc, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Martin-de-Mailloc desservez-vous ?",
+        "a": "Oui : nous intervenons à Saint-Martin-de-Mailloc et dans les communes voisines, notamment Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-saint-martin-de-mailloc",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "saint-martin-de-mailloc",
+    "km": 8,
+    "pop": 1040,
+    "city": "Saint-Martin-de-Mailloc",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Saint-Martin-de-Mailloc | Multi Taille",
+    "meta": "Une haie à tailler à Saint-Martin-de-Mailloc ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haies à Saint-Martin-de-Mailloc : thuyas, lauriers, charmilles",
+    "overline": "Taille de haie à Saint-Martin-de-Mailloc, à 8 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Saint-Martin-de-Mailloc ? Nous intervenons à environ 8 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Saint-Martin-de-Mailloc",
+      "paras": [
+        "Une haie de campagne peut mesurer plusieurs dizaines de mètres. Nous intervenons avec le matériel adapté, sur une journée ou plusieurs, et nous évacuons ou broyons les déchets.",
+        "Nous taillons les haies en hauteur avec un matériel adapté et en sécurité, y compris les grandes haies de thuyas qui dépassent la toiture d'une maison.",
+        "Saint-Martin-de-Mailloc compte 1 040 habitants et se situe à environ 8 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville, Saint-Jean-de-Livet et Glos. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute"
+    ],
+    "communes": [
+      "Le Mesnil-Guillaume",
+      "Saint-Denis-de-Mailloc",
+      "Prêtreville",
+      "Saint-Jean-de-Livet",
+      "Glos"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Saint-Martin-de-Mailloc ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Saint-Martin-de-Mailloc sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Martin-de-Mailloc desservez-vous ?",
+        "a": "Oui : nous intervenons à Saint-Martin-de-Mailloc et dans les communes voisines, notamment Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-saint-martin-de-mailloc",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "saint-martin-de-mailloc",
+    "km": 8,
+    "pop": 1040,
+    "city": "Saint-Martin-de-Mailloc",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Saint-Martin-de-Mailloc | Multi Taille",
+    "meta": "Tonte à Saint-Martin-de-Mailloc (au sud-est de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Saint-Martin-de-Mailloc : on s'en charge",
+    "overline": "Tonte de pelouse à Saint-Martin-de-Mailloc, à 8 km de Lisieux",
+    "intro": "À Saint-Martin-de-Mailloc, 1 040 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Un gazon net à Saint-Martin-de-Mailloc",
+      "paras": [
+        "Les grands jardins du bocage demandent du temps et du matériel : nous prenons la tonte en charge, du simple passage mensuel au suivi hebdomadaire en pleine pousse.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Saint-Martin-de-Mailloc compte 1 040 habitants et se situe à environ 8 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville, Saint-Jean-de-Livet et Glos. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces"
+    ],
+    "communes": [
+      "Le Mesnil-Guillaume",
+      "Saint-Denis-de-Mailloc",
+      "Prêtreville",
+      "Saint-Jean-de-Livet",
+      "Glos"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Saint-Martin-de-Mailloc ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Martin-de-Mailloc desservez-vous ?",
+        "a": "Oui : nous intervenons à Saint-Martin-de-Mailloc et dans les communes voisines, notamment Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-saint-martin-de-mailloc",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "saint-martin-de-mailloc",
+    "km": 8,
+    "pop": 1040,
+    "city": "Saint-Martin-de-Mailloc",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Saint-Martin-de-Mailloc | Multi Taille",
+    "meta": "Débroussailler un terrain à Saint-Martin-de-Mailloc (au sud-est de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Saint-Martin-de-Mailloc : terrains, talus et friches",
+    "overline": "Débroussaillage à Saint-Martin-de-Mailloc, à 8 km de Lisieux",
+    "intro": "À Saint-Martin-de-Mailloc, 1 040 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Débroussailler à Saint-Martin-de-Mailloc : ce qu'il faut savoir",
+      "paras": [
+        "Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Saint-Martin-de-Mailloc compte 1 040 habitants et se situe à environ 8 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville, Saint-Jean-de-Livet et Glos. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente"
+    ],
+    "communes": [
+      "Le Mesnil-Guillaume",
+      "Saint-Denis-de-Mailloc",
+      "Prêtreville",
+      "Saint-Jean-de-Livet",
+      "Glos"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Saint-Martin-de-Mailloc ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Saint-Martin-de-Mailloc sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Martin-de-Mailloc desservez-vous ?",
+        "a": "Oui : nous intervenons à Saint-Martin-de-Mailloc et dans les communes voisines, notamment Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-saint-martin-de-mailloc",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "saint-martin-de-mailloc",
+    "km": 8,
+    "pop": 1040,
+    "city": "Saint-Martin-de-Mailloc",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Saint-Martin-de-Mailloc | Multi Taille",
+    "meta": "Entretien de jardin à Saint-Martin-de-Mailloc (au sud-est de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Saint-Martin-de-Mailloc : toute l'année",
+    "overline": "Entretien de jardin à Saint-Martin-de-Mailloc, à 8 km de Lisieux",
+    "intro": "À Saint-Martin-de-Mailloc, 1 040 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Saint-Martin-de-Mailloc",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Saint-Martin-de-Mailloc compte 1 040 habitants et se situe à environ 8 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville, Saint-Jean-de-Livet et Glos. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes"
+    ],
+    "communes": [
+      "Le Mesnil-Guillaume",
+      "Saint-Denis-de-Mailloc",
+      "Prêtreville",
+      "Saint-Jean-de-Livet",
+      "Glos"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Saint-Martin-de-Mailloc ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Saint-Martin-de-Mailloc pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Martin-de-Mailloc desservez-vous ?",
+        "a": "Oui : nous intervenons à Saint-Martin-de-Mailloc et dans les communes voisines, notamment Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-le-breuil-en-auge",
+    "serviceSlug": "elagage",
+    "citySlug": "le-breuil-en-auge",
+    "km": 9,
+    "pop": 952,
+    "city": "Le Breuil-en-Auge",
+    "shortName": "Élagage",
+    "title": "Élagage à Le Breuil-en-Auge | Multi Taille Services",
+    "meta": "Élagueur à Le Breuil-en-Auge (au nord de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Le Breuil-en-Auge : diagnostic gratuit",
+    "overline": "Élagueur à Le Breuil-en-Auge, à 9 km de Lisieux",
+    "intro": "Le Breuil-en-Auge (au nord, à environ 9 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Élaguer à Le Breuil-en-Auge : ce qu'il faut savoir",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "Nous travaillons avec un matériel professionnel et nous protégeons le jardin pendant l'intervention : terrasse, pelouse, haies mitoyennes et plantations restent intactes.",
+        "Le Breuil-en-Auge compte 952 habitants et se situe à environ 9 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge, Coquainvilliers et Le Torquesne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches"
+    ],
+    "communes": [
+      "Fierville-les-Parcs",
+      "Norolles",
+      "Pierrefitte-en-Auge",
+      "Coquainvilliers",
+      "Le Torquesne"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un élagage à Le Breuil-en-Auge ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Quelles communes autour de Le Breuil-en-Auge desservez-vous ?",
+        "a": "Nous desservons Le Breuil-en-Auge et ses environs : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-le-breuil-en-auge",
+    "serviceSlug": "jardinier",
+    "citySlug": "le-breuil-en-auge",
+    "km": 9,
+    "pop": 952,
+    "city": "Le Breuil-en-Auge",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Le Breuil-en-Auge | Multi Taille Services",
+    "meta": "Entretien de jardin à Le Breuil-en-Auge (au nord de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Le Breuil-en-Auge : appelez, on passe",
+    "overline": "Jardinier à Le Breuil-en-Auge, à 9 km de Lisieux",
+    "intro": "Le Breuil-en-Auge (au nord, à environ 9 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Le Breuil-en-Auge",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Au printemps, remise en ordre et premières tontes ; en été, entretien courant ; à l'automne, ramassage et taille de saison. Nous organisons l'année avec vous, saison par saison.",
+        "Le Breuil-en-Auge compte 952 habitants et se situe à environ 9 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge, Coquainvilliers et Le Torquesne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Fierville-les-Parcs",
+      "Norolles",
+      "Pierrefitte-en-Auge",
+      "Coquainvilliers",
+      "Le Torquesne"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Le Breuil-en-Auge ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Le Breuil-en-Auge, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Évacuez-vous les déchets verts ?",
+        "a": "Oui, les déchets verts sont évacués ou broyés selon le devis. Vous retrouvez un jardin propre après chaque passage."
+      },
+      {
+        "q": "Quelles communes autour de Le Breuil-en-Auge desservez-vous ?",
+        "a": "Nous desservons Le Breuil-en-Auge et ses environs : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-le-breuil-en-auge",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "le-breuil-en-auge",
+    "km": 9,
+    "pop": 952,
+    "city": "Le Breuil-en-Auge",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Le Breuil-en-Auge | Multi Taille Services",
+    "meta": "Taille de haies à Le Breuil-en-Auge (au nord de Lisieux) : matériel adapté aux grandes hauteurs, chantier propre. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Taille de haie à Le Breuil-en-Auge : devis gratuit après visite",
+    "overline": "Taille de haie à Le Breuil-en-Auge, à 9 km de Lisieux",
+    "intro": "Le Breuil-en-Auge (au nord, à environ 9 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Les haies de Le Breuil-en-Auge",
+      "paras": [
+        "Haies de clôture, haies champêtres, haies de thuyas ou de lauriers autour de la maison : nous les entretenons toutes, en tenant compte de l'essence et de la période de nidification des oiseaux.",
+        "Nous taillons les haies en hauteur avec un matériel adapté et en sécurité, y compris les grandes haies de thuyas qui dépassent la toiture d'une maison.",
+        "Le Breuil-en-Auge compte 952 habitants et se situe à environ 9 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge, Coquainvilliers et Le Torquesne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée"
+    ],
+    "communes": [
+      "Fierville-les-Parcs",
+      "Norolles",
+      "Pierrefitte-en-Auge",
+      "Coquainvilliers",
+      "Le Torquesne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Le Breuil-en-Auge ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Le Breuil-en-Auge sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Quelles communes autour de Le Breuil-en-Auge desservez-vous ?",
+        "a": "Nous desservons Le Breuil-en-Auge et ses environs : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-le-breuil-en-auge",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "le-breuil-en-auge",
+    "km": 9,
+    "pop": 952,
+    "city": "Le Breuil-en-Auge",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Le Breuil-en-Auge | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Le Breuil-en-Auge ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Le Breuil-en-Auge : on s'en charge",
+    "overline": "Tonte de pelouse à Le Breuil-en-Auge, à 9 km de Lisieux",
+    "intro": "Besoin d'une tonte à Le Breuil-en-Auge ? Nous intervenons à environ 9 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Tondre à Le Breuil-en-Auge : ce qu'il faut savoir",
+      "paras": [
+        "Les grands jardins du bocage demandent du temps et du matériel : nous prenons la tonte en charge, du simple passage mensuel au suivi hebdomadaire en pleine pousse.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Le Breuil-en-Auge compte 952 habitants et se situe à environ 9 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge, Coquainvilliers et Le Torquesne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces"
+    ],
+    "communes": [
+      "Fierville-les-Parcs",
+      "Norolles",
+      "Pierrefitte-en-Auge",
+      "Coquainvilliers",
+      "Le Torquesne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Le Breuil-en-Auge ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Quelles communes autour de Le Breuil-en-Auge desservez-vous ?",
+        "a": "Nous desservons Le Breuil-en-Auge et ses environs : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-le-breuil-en-auge",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "le-breuil-en-auge",
+    "km": 9,
+    "pop": 952,
+    "city": "Le Breuil-en-Auge",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Le Breuil-en-Auge | Multi Taille Services",
+    "meta": "Débroussaillage à Le Breuil-en-Auge : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Le Breuil-en-Auge : terrains, talus et friches",
+    "overline": "Débroussaillage à Le Breuil-en-Auge, à 9 km de Lisieux",
+    "intro": "À Le Breuil-en-Auge, 952 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Un terrain propre à Le Breuil-en-Auge",
+      "paras": [
+        "Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Le Breuil-en-Auge compte 952 habitants et se situe à environ 9 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge, Coquainvilliers et Le Torquesne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente"
+    ],
+    "communes": [
+      "Fierville-les-Parcs",
+      "Norolles",
+      "Pierrefitte-en-Auge",
+      "Coquainvilliers",
+      "Le Torquesne"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Le Breuil-en-Auge ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Le Breuil-en-Auge desservez-vous ?",
+        "a": "Nous desservons Le Breuil-en-Auge et ses environs : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-le-breuil-en-auge",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "le-breuil-en-auge",
+    "km": 9,
+    "pop": 952,
+    "city": "Le Breuil-en-Auge",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Le Breuil-en-Auge | Multi Taille",
+    "meta": "Entretien de jardin à Le Breuil-en-Auge : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Le Breuil-en-Auge : toute l'année",
+    "overline": "Entretien de jardin à Le Breuil-en-Auge, à 9 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Le Breuil-en-Auge ? Nous intervenons à environ 9 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Le Breuil-en-Auge",
+      "paras": [
+        "Au printemps, remise en ordre et premières tontes ; en été, tonte et taille légère ; à l'automne, ramassage des feuilles et taille de saison. Chaque passage est planifié.",
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Le Breuil-en-Auge compte 952 habitants et se situe à environ 9 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge, Coquainvilliers et Le Torquesne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages"
+    ],
+    "communes": [
+      "Fierville-les-Parcs",
+      "Norolles",
+      "Pierrefitte-en-Auge",
+      "Coquainvilliers",
+      "Le Torquesne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Le Breuil-en-Auge ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Quelles communes autour de Le Breuil-en-Auge desservez-vous ?",
+        "a": "Nous desservons Le Breuil-en-Auge et ses environs : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-glos",
+    "serviceSlug": "elagage",
+    "citySlug": "glos",
+    "km": 5,
+    "pop": 931,
+    "city": "Glos",
+    "shortName": "Élagage",
+    "title": "Élagage à Glos | Multi Taille Services",
+    "meta": "Élagueur à Glos (à l'est de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage à Glos : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Glos, à 5 km de Lisieux",
+    "intro": "Glos (à l'est, à environ 5 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Les arbres de Glos",
+      "paras": [
+        "Pommiers à cidre, noyers, chênes, hêtres : les essences du bocage ont leurs périodes de taille et leurs fragilités. Nous adaptons la technique à chaque arbre, en limitant la taille des plaies.",
+        "Une taille raisonnée vaut mieux qu'une coupe radicale : elle préserve la santé de l'arbre, limite les rejets et reste discrète dans le paysage. C'est notre principe sur tous nos chantiers.",
+        "Glos compte 931 habitants et se situe à environ 5 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac, Lisieux et Saint-Denis-de-Mailloc. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches"
+    ],
+    "communes": [
+      "Le Mesnil-Guillaume",
+      "Beuvillers",
+      "Courtonne-la-Meurdrac",
+      "Lisieux",
+      "Saint-Denis-de-Mailloc"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Glos ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Glos, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Glos ?",
+        "a": "Oui : nous intervenons à Glos et dans les communes voisines, notamment Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-glos",
+    "serviceSlug": "jardinier",
+    "citySlug": "glos",
+    "km": 5,
+    "pop": 931,
+    "city": "Glos",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Glos | Multi Taille Services",
+    "meta": "Entretien de jardin à Glos (à l'est de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Jardinier à Glos : entretien régulier ou ponctuel",
+    "overline": "Jardinier à Glos, à 5 km de Lisieux",
+    "intro": "Glos (à l'est, à environ 5 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Glos",
+      "paras": [
+        "Une propriété de campagne se gère par saison : tonte et débroussaillage au printemps, taille des haies en été, ramassage et nettoyage à l'automne. Nous planifions chaque passage avec vous.",
+        "Tonte, taille, désherbage, ramassage : nous réalisons l'ensemble des travaux courants et nous évacuons les déchets verts, pour que vous retrouviez un jardin net après chaque passage.",
+        "Glos compte 931 habitants et se situe à environ 5 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac, Lisieux et Saint-Denis-de-Mailloc. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles"
+    ],
+    "communes": [
+      "Le Mesnil-Guillaume",
+      "Beuvillers",
+      "Courtonne-la-Meurdrac",
+      "Lisieux",
+      "Saint-Denis-de-Mailloc"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Glos ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Glos, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Glos ?",
+        "a": "Oui : nous intervenons à Glos et dans les communes voisines, notamment Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-glos",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "glos",
+    "km": 5,
+    "pop": 931,
+    "city": "Glos",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Glos | Multi Taille Services",
+    "meta": "Taille de haies à Glos (à l'est de Lisieux) : matériel adapté aux grandes hauteurs, chantier propre. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Taille de haie à Glos : des lignes nettes",
+    "overline": "Taille de haie à Glos, à 5 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Glos ? Nous intervenons à environ 5 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les haies de Glos",
+      "paras": [
+        "Une haie de campagne peut mesurer plusieurs dizaines de mètres. Nous intervenons avec le matériel adapté, sur une journée ou plusieurs, et nous évacuons ou broyons les déchets.",
+        "Nous taillons les haies en hauteur avec un matériel adapté et en sécurité, y compris les grandes haies de thuyas qui dépassent la toiture d'une maison.",
+        "Glos compte 931 habitants et se situe à environ 5 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac, Lisieux et Saint-Denis-de-Mailloc. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets"
+    ],
+    "communes": [
+      "Le Mesnil-Guillaume",
+      "Beuvillers",
+      "Courtonne-la-Meurdrac",
+      "Lisieux",
+      "Saint-Denis-de-Mailloc"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Glos ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Glos sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Glos ?",
+        "a": "Oui : nous intervenons à Glos et dans les communes voisines, notamment Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-glos",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "glos",
+    "km": 5,
+    "pop": 931,
+    "city": "Glos",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Glos | Multi Taille Services",
+    "meta": "Tonte à Glos (à l'est de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tonte à Glos : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Glos, à 5 km de Lisieux",
+    "intro": "Besoin d'une tonte à Glos ? Nous intervenons à environ 5 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Votre pelouse à Glos",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "Mulching ou ramassage : le mulching nourrit la pelouse quand l'herbe est régulièrement coupée, le ramassage convient aux pelouses longues ou très denses. Nous choisissons avec vous.",
+        "Glos compte 931 habitants et se situe à environ 5 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac, Lisieux et Saint-Denis-de-Mailloc. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe"
+    ],
+    "communes": [
+      "Le Mesnil-Guillaume",
+      "Beuvillers",
+      "Courtonne-la-Meurdrac",
+      "Lisieux",
+      "Saint-Denis-de-Mailloc"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Glos ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Glos, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Glos ?",
+        "a": "Oui : nous intervenons à Glos et dans les communes voisines, notamment Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-glos",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "glos",
+    "km": 5,
+    "pop": 931,
+    "city": "Glos",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Glos | Multi Taille Services",
+    "meta": "Terrain envahi à Glos ? Débroussaillage, broyage et évacuation. Visite gratuite. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Glos : terrains, talus et friches",
+    "overline": "Débroussaillage à Glos, à 5 km de Lisieux",
+    "intro": "À Glos, 931 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Débroussailler à Glos : ce qu'il faut savoir",
+      "paras": [
+        "Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Glos compte 931 habitants et se situe à environ 5 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac, Lisieux et Saint-Denis-de-Mailloc. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver"
+    ],
+    "communes": [
+      "Le Mesnil-Guillaume",
+      "Beuvillers",
+      "Courtonne-la-Meurdrac",
+      "Lisieux",
+      "Saint-Denis-de-Mailloc"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Glos ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Glos ?",
+        "a": "Oui : nous intervenons à Glos et dans les communes voisines, notamment Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-glos",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "glos",
+    "km": 5,
+    "pop": 931,
+    "city": "Glos",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Glos | Multi Taille Services",
+    "meta": "Entretien de jardin à Glos : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Glos : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Glos, à 5 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Glos ? Nous intervenons à environ 5 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Glos",
+      "paras": [
+        "Au printemps, remise en ordre et premières tontes ; en été, tonte et taille légère ; à l'automne, ramassage des feuilles et taille de saison. Chaque passage est planifié.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Glos compte 931 habitants et se situe à environ 5 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac, Lisieux et Saint-Denis-de-Mailloc. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires"
+    ],
+    "communes": [
+      "Le Mesnil-Guillaume",
+      "Beuvillers",
+      "Courtonne-la-Meurdrac",
+      "Lisieux",
+      "Saint-Denis-de-Mailloc"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Glos ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Glos pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Glos ?",
+        "a": "Oui : nous intervenons à Glos et dans les communes voisines, notamment Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-hermival-les-vaux",
+    "serviceSlug": "elagage",
+    "citySlug": "hermival-les-vaux",
+    "km": 6,
+    "pop": 861,
+    "city": "Hermival-les-Vaux",
+    "shortName": "Élagage",
+    "title": "Élagage à Hermival-les-Vaux | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Hermival-les-Vaux ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Hermival-les-Vaux : diagnostic gratuit",
+    "overline": "Élagueur à Hermival-les-Vaux, à 6 km de Lisieux",
+    "intro": "À Hermival-les-Vaux, 861 habitants, les arbres des jardins demandent un suivi régulier. Nous nous déplaçons à environ 6 km de Lisieux pour évaluer vos arbres, proposer la taille adaptée et réaliser le chantier en sécurité.",
+    "besoins": {
+      "h2": "Élaguer à Hermival-les-Vaux : ce qu'il faut savoir",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "Nous travaillons avec un matériel professionnel et nous protégeons le jardin pendant l'intervention : terrasse, pelouse, haies mitoyennes et plantations restent intactes.",
+        "Hermival-les-Vaux compte 861 habitants et se situe à environ 6 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Firfol, Ouilly-du-Houley, Fauguernon, Rocques et Lisieux. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses"
+    ],
+    "communes": [
+      "Firfol",
+      "Ouilly-du-Houley",
+      "Fauguernon",
+      "Rocques",
+      "Lisieux"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un élagage à Hermival-les-Vaux ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Hermival-les-Vaux, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Un arbre a perdu de grosses branches après le vent, que faire ?",
+        "a": "Appelez-nous sans attendre : une charpentière fendue peut lâcher sans prévenir. Nous évaluons l'arbre, sécurisons la zone si nécessaire, puis réalisons une taille de sécurisation ou, si l'arbre est trop compromis, un démontage contrôlé."
+      },
+      {
+        "q": "Quelles communes autour de Hermival-les-Vaux desservez-vous ?",
+        "a": "Nous desservons Hermival-les-Vaux et ses environs : Firfol, Ouilly-du-Houley, Fauguernon et Rocques, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-hermival-les-vaux",
+    "serviceSlug": "jardinier",
+    "citySlug": "hermival-les-vaux",
+    "km": 6,
+    "pop": 861,
+    "city": "Hermival-les-Vaux",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Hermival-les-Vaux | Multi Taille Services",
+    "meta": "Entretien de jardin à Hermival-les-Vaux (à l'est de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Jardinier à Hermival-les-Vaux : entretien régulier ou ponctuel",
+    "overline": "Jardinier à Hermival-les-Vaux, à 6 km de Lisieux",
+    "intro": "Hermival-les-Vaux (à l'est, à environ 6 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Les jardins de Hermival-les-Vaux",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Nous intervenons chez les particuliers comme chez les professionnels et les propriétaires de résidences secondaires, avec un point de contact unique : un appel suffit.",
+        "Hermival-les-Vaux compte 861 habitants et se situe à environ 6 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Firfol, Ouilly-du-Houley, Fauguernon, Rocques et Lisieux. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles"
+    ],
+    "communes": [
+      "Firfol",
+      "Ouilly-du-Houley",
+      "Fauguernon",
+      "Rocques",
+      "Lisieux"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Hermival-les-Vaux ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Hermival-les-Vaux, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Pouvez-vous remettre en état un jardin laissé à l'abandon ?",
+        "a": "Oui. Nous débroussaillons, tondons, taillons et évacuons, puis nous proposons un entretien régulier pour que le jardin ne se referme pas. La visite préalable est gratuite."
+      },
+      {
+        "q": "Quelles communes autour de Hermival-les-Vaux desservez-vous ?",
+        "a": "Nous desservons Hermival-les-Vaux et ses environs : Firfol, Ouilly-du-Houley, Fauguernon et Rocques, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-hermival-les-vaux",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "hermival-les-vaux",
+    "km": 6,
+    "pop": 861,
+    "city": "Hermival-les-Vaux",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Hermival-les-Vaux | Multi Taille Services",
+    "meta": "Une haie à tailler à Hermival-les-Vaux ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Hermival-les-Vaux : devis gratuit après visite",
+    "overline": "Taille de haie à Hermival-les-Vaux, à 6 km de Lisieux",
+    "intro": "Hermival-les-Vaux (à l'est, à environ 6 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Les haies de Hermival-les-Vaux",
+      "paras": [
+        "Dans le Pays d'Auge, les haies vives (charme, noisetier, aubépine) se taillent moins sévèrement que du laurier : une taille latérale annuelle suffit à les garder denses. Nous adaptons la taille à chaque haie.",
+        "Une haie se taille légèrement et souvent plutôt que fortement et rarement. Les résineux comme le thuya ne repoussent pas dans le vieux bois : nous évaluons toujours la haie avant de couper.",
+        "Hermival-les-Vaux compte 861 habitants et se situe à environ 6 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Firfol, Ouilly-du-Houley, Fauguernon, Rocques et Lisieux. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions"
+    ],
+    "communes": [
+      "Firfol",
+      "Ouilly-du-Houley",
+      "Fauguernon",
+      "Rocques",
+      "Lisieux"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Hermival-les-Vaux ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Quelles communes autour de Hermival-les-Vaux desservez-vous ?",
+        "a": "Nous desservons Hermival-les-Vaux et ses environs : Firfol, Ouilly-du-Houley, Fauguernon et Rocques, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-hermival-les-vaux",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "hermival-les-vaux",
+    "km": 6,
+    "pop": 861,
+    "city": "Hermival-les-Vaux",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Hermival-les-Vaux | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Hermival-les-Vaux ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte à Hermival-les-Vaux : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Hermival-les-Vaux, à 6 km de Lisieux",
+    "intro": "Besoin d'une tonte à Hermival-les-Vaux ? Nous intervenons à environ 6 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Un gazon net à Hermival-les-Vaux",
+      "paras": [
+        "Les prairies d'agrément et les talus se tondent autrement qu'un gazon : nous adaptons la machine et la hauteur de coupe au terrain.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Hermival-les-Vaux compte 861 habitants et se situe à environ 6 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Firfol, Ouilly-du-Houley, Fauguernon, Rocques et Lisieux. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Firfol",
+      "Ouilly-du-Houley",
+      "Fauguernon",
+      "Rocques",
+      "Lisieux"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Hermival-les-Vaux ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Hermival-les-Vaux, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Quelles communes autour de Hermival-les-Vaux desservez-vous ?",
+        "a": "Nous desservons Hermival-les-Vaux et ses environs : Firfol, Ouilly-du-Houley, Fauguernon et Rocques, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-hermival-les-vaux",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "hermival-les-vaux",
+    "km": 6,
+    "pop": 861,
+    "city": "Hermival-les-Vaux",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Hermival-les-Vaux | Multi Taille Services",
+    "meta": "Débroussaillage à Hermival-les-Vaux : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Hermival-les-Vaux : terrains, talus et friches",
+    "overline": "Débroussaillage à Hermival-les-Vaux, à 6 km de Lisieux",
+    "intro": "Un terrain envahi à Hermival-les-Vaux ? Nous intervenons à environ 6 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de Hermival-les-Vaux",
+      "paras": [
+        "Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Hermival-les-Vaux compte 861 habitants et se situe à environ 6 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Firfol, Ouilly-du-Houley, Fauguernon, Rocques et Lisieux. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place"
+    ],
+    "communes": [
+      "Firfol",
+      "Ouilly-du-Houley",
+      "Fauguernon",
+      "Rocques",
+      "Lisieux"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Hermival-les-Vaux ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Quelles communes autour de Hermival-les-Vaux desservez-vous ?",
+        "a": "Nous desservons Hermival-les-Vaux et ses environs : Firfol, Ouilly-du-Houley, Fauguernon et Rocques, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-hermival-les-vaux",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "hermival-les-vaux",
+    "km": 6,
+    "pop": 861,
+    "city": "Hermival-les-Vaux",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Hermival-les-Vaux | Multi Taille",
+    "meta": "Entretien de jardin à Hermival-les-Vaux : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Hermival-les-Vaux : toute l'année",
+    "overline": "Entretien de jardin à Hermival-les-Vaux, à 6 km de Lisieux",
+    "intro": "À Hermival-les-Vaux, 861 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Un jardin suivi à Hermival-les-Vaux",
+      "paras": [
+        "Une propriété de campagne se gère par saison. Nous nous occupons de l'entretien courant pour que vous profitiez du jardin au lieu de le subir.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Hermival-les-Vaux compte 861 habitants et se situe à environ 6 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Firfol, Ouilly-du-Houley, Fauguernon, Rocques et Lisieux. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées"
+    ],
+    "communes": [
+      "Firfol",
+      "Ouilly-du-Houley",
+      "Fauguernon",
+      "Rocques",
+      "Lisieux"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Hermival-les-Vaux ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Hermival-les-Vaux pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Quelles communes autour de Hermival-les-Vaux desservez-vous ?",
+        "a": "Nous desservons Hermival-les-Vaux et ses environs : Firfol, Ouilly-du-Houley, Fauguernon et Rocques, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-coquainvilliers",
+    "serviceSlug": "elagage",
+    "citySlug": "coquainvilliers",
+    "km": 7,
+    "pop": 849,
+    "city": "Coquainvilliers",
+    "shortName": "Élagage",
+    "title": "Élagage à Coquainvilliers | Multi Taille Services",
+    "meta": "Élagage d'arbres à Coquainvilliers : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagueur à Coquainvilliers : taille soignée et chantier propre",
+    "overline": "Élagueur à Coquainvilliers, à 7 km de Lisieux",
+    "intro": "Coquainvilliers (au nord-ouest, à environ 7 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Les arbres de Coquainvilliers",
+      "paras": [
+        "Dans les jardins du Pays d'Auge, les arbres sont souvent anciens et proches des bâtiments. Nous privilégions une taille douce et régulière, bien plus saine pour l'arbre qu'une coupe sévère tous les dix ans.",
+        "Après une tempête, appelez-nous : nous évaluons les branches fragilisées, sécurisons ce qui doit l'être et taillons proprement ce qui peut être conservé.",
+        "Coquainvilliers compte 849 habitants et se situe à environ 7 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles, Le Breuil-en-Auge et Formentin. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres"
+    ],
+    "communes": [
+      "Le Torquesne",
+      "Ouilly-le-Vicomte",
+      "Norolles",
+      "Le Breuil-en-Auge",
+      "Formentin"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un élagage à Coquainvilliers ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Coquainvilliers ?",
+        "a": "Nous desservons Coquainvilliers et ses environs : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-coquainvilliers",
+    "serviceSlug": "jardinier",
+    "citySlug": "coquainvilliers",
+    "km": 7,
+    "pop": 849,
+    "city": "Coquainvilliers",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Coquainvilliers | Multi Taille Services",
+    "meta": "Entretien de jardin à Coquainvilliers (au nord-ouest de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Coquainvilliers : appelez, on passe",
+    "overline": "Jardinier à Coquainvilliers, à 7 km de Lisieux",
+    "intro": "Coquainvilliers (au nord-ouest, à environ 7 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Les jardins de Coquainvilliers",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Un entretien de jardin réussi repose sur la régularité. Nous vous proposons un passage ponctuel ou un entretien suivi, avec une visite gratuite et un devis clair avant de commencer.",
+        "Coquainvilliers compte 849 habitants et se situe à environ 7 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles, Le Breuil-en-Auge et Formentin. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions"
+    ],
+    "communes": [
+      "Le Torquesne",
+      "Ouilly-le-Vicomte",
+      "Norolles",
+      "Le Breuil-en-Auge",
+      "Formentin"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Coquainvilliers ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Pouvez-vous remettre en état un jardin laissé à l'abandon ?",
+        "a": "Oui. Nous débroussaillons, tondons, taillons et évacuons, puis nous proposons un entretien régulier pour que le jardin ne se referme pas. La visite préalable est gratuite."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Coquainvilliers ?",
+        "a": "Nous desservons Coquainvilliers et ses environs : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-coquainvilliers",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "coquainvilliers",
+    "km": 7,
+    "pop": 849,
+    "city": "Coquainvilliers",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Coquainvilliers | Multi Taille Services",
+    "meta": "Taille de haie à Coquainvilliers : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haies à Coquainvilliers : thuyas, lauriers, charmilles",
+    "overline": "Taille de haie à Coquainvilliers, à 7 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Coquainvilliers ? Nous intervenons à environ 7 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Tailler une haie à Coquainvilliers",
+      "paras": [
+        "Haies de clôture, haies champêtres, haies de thuyas ou de lauriers autour de la maison : nous les entretenons toutes, en tenant compte de l'essence et de la période de nidification des oiseaux.",
+        "Taille au cordeau, finitions à la cisaille, évacuation ou broyage des déchets : le chantier est conduit jusqu'au bout et le jardin laissé propre.",
+        "Coquainvilliers compte 849 habitants et se situe à environ 7 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles, Le Breuil-en-Auge et Formentin. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles"
+    ],
+    "communes": [
+      "Le Torquesne",
+      "Ouilly-le-Vicomte",
+      "Norolles",
+      "Le Breuil-en-Auge",
+      "Formentin"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Coquainvilliers ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Coquainvilliers sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Coquainvilliers ?",
+        "a": "Nous desservons Coquainvilliers et ses environs : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-coquainvilliers",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "coquainvilliers",
+    "km": 7,
+    "pop": 849,
+    "city": "Coquainvilliers",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Coquainvilliers | Multi Taille Services",
+    "meta": "Tonte à Coquainvilliers (au nord-ouest de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Coquainvilliers : on s'en charge",
+    "overline": "Tonte de pelouse à Coquainvilliers, à 7 km de Lisieux",
+    "intro": "À Coquainvilliers, 849 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Un gazon net à Coquainvilliers",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Coquainvilliers compte 849 habitants et se situe à environ 7 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles, Le Breuil-en-Auge et Formentin. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence"
+    ],
+    "communes": [
+      "Le Torquesne",
+      "Ouilly-le-Vicomte",
+      "Norolles",
+      "Le Breuil-en-Auge",
+      "Formentin"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Coquainvilliers ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Coquainvilliers, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Coquainvilliers ?",
+        "a": "Nous desservons Coquainvilliers et ses environs : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-coquainvilliers",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "coquainvilliers",
+    "km": 7,
+    "pop": 849,
+    "city": "Coquainvilliers",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Coquainvilliers | Multi Taille Services",
+    "meta": "Débroussaillage à Coquainvilliers : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Coquainvilliers : on reprend votre terrain",
+    "overline": "Débroussaillage à Coquainvilliers, à 7 km de Lisieux",
+    "intro": "À Coquainvilliers, 849 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Débroussailler à Coquainvilliers : ce qu'il faut savoir",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Coquainvilliers compte 849 habitants et se situe à environ 7 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles, Le Breuil-en-Auge et Formentin. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente"
+    ],
+    "communes": [
+      "Le Torquesne",
+      "Ouilly-le-Vicomte",
+      "Norolles",
+      "Le Breuil-en-Auge",
+      "Formentin"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Coquainvilliers ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Coquainvilliers sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Coquainvilliers ?",
+        "a": "Nous desservons Coquainvilliers et ses environs : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-coquainvilliers",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "coquainvilliers",
+    "km": 7,
+    "pop": 849,
+    "city": "Coquainvilliers",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Coquainvilliers | Multi Taille",
+    "meta": "Entretien de jardin à Coquainvilliers : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Coquainvilliers : toute l'année",
+    "overline": "Entretien de jardin à Coquainvilliers, à 7 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Coquainvilliers ? Nous intervenons à environ 7 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Un jardin suivi à Coquainvilliers",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Coquainvilliers compte 849 habitants et se situe à environ 7 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles, Le Breuil-en-Auge et Formentin. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées"
+    ],
+    "communes": [
+      "Le Torquesne",
+      "Ouilly-le-Vicomte",
+      "Norolles",
+      "Le Breuil-en-Auge",
+      "Formentin"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Coquainvilliers ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Coquainvilliers pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Coquainvilliers ?",
+        "a": "Nous desservons Coquainvilliers et ses environs : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-le-pre-d-auge",
+    "serviceSlug": "elagage",
+    "citySlug": "le-pre-d-auge",
+    "km": 6,
+    "pop": 841,
+    "city": "Le Pré-d'Auge",
+    "shortName": "Élagage",
+    "title": "Élagage à Le Pré-d'Auge | Multi Taille Services",
+    "meta": "Élagage d'arbres à Le Pré-d'Auge : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Le Pré-d'Auge : diagnostic gratuit",
+    "overline": "Élagueur à Le Pré-d'Auge, à 6 km de Lisieux",
+    "intro": "À Le Pré-d'Auge, 841 habitants, les arbres des jardins demandent un suivi régulier. Nous nous déplaçons à environ 6 km de Lisieux pour évaluer vos arbres, proposer la taille adaptée et réaliser le chantier en sécurité.",
+    "besoins": {
+      "h2": "Les arbres de Le Pré-d'Auge",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "La bonne période d'élagage dépend de l'arbre et de l'objectif. Beaucoup d'arbres se taillent en dehors de la pleine végétation, mais un arbre dangereux se traite sans attendre.",
+        "Le Pré-d'Auge compte 841 habitants et se situe à environ 6 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe, Saint-Désir et La Houblonnière. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête"
+    ],
+    "communes": [
+      "La Boissière",
+      "Saint-Ouen-le-Pin",
+      "Manerbe",
+      "Saint-Désir",
+      "La Houblonnière"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Le Pré-d'Auge ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Le Pré-d'Auge ?",
+        "a": "Nous desservons Le Pré-d'Auge et ses environs : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-le-pre-d-auge",
+    "serviceSlug": "jardinier",
+    "citySlug": "le-pre-d-auge",
+    "km": 6,
+    "pop": 841,
+    "city": "Le Pré-d'Auge",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Le Pré-d'Auge | Multi Taille Services",
+    "meta": "Jardinier à Le Pré-d'Auge : tonte, taille de haies, désherbage, évacuation des déchets verts. Passage ponctuel ou régulier, devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Le Pré-d'Auge : appelez, on passe",
+    "overline": "Jardinier à Le Pré-d'Auge, à 6 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Le Pré-d'Auge ? Nous intervenons à environ 6 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Le Pré-d'Auge",
+      "paras": [
+        "Une propriété de campagne se gère par saison : tonte et débroussaillage au printemps, taille des haies en été, ramassage et nettoyage à l'automne. Nous planifions chaque passage avec vous.",
+        "Tonte, taille, désherbage, ramassage : nous réalisons l'ensemble des travaux courants et nous évacuons les déchets verts, pour que vous retrouviez un jardin net après chaque passage.",
+        "Le Pré-d'Auge compte 841 habitants et se situe à environ 6 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe, Saint-Désir et La Houblonnière. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "La Boissière",
+      "Saint-Ouen-le-Pin",
+      "Manerbe",
+      "Saint-Désir",
+      "La Houblonnière"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Le Pré-d'Auge ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Le Pré-d'Auge, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Évacuez-vous les déchets verts ?",
+        "a": "Oui, les déchets verts sont évacués ou broyés selon le devis. Vous retrouvez un jardin propre après chaque passage."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Le Pré-d'Auge ?",
+        "a": "Nous desservons Le Pré-d'Auge et ses environs : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-le-pre-d-auge",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "le-pre-d-auge",
+    "km": 6,
+    "pop": 841,
+    "city": "Le Pré-d'Auge",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Le Pré-d'Auge | Multi Taille Services",
+    "meta": "Une haie à tailler à Le Pré-d'Auge ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Le Pré-d'Auge : des lignes nettes",
+    "overline": "Taille de haie à Le Pré-d'Auge, à 6 km de Lisieux",
+    "intro": "Le Pré-d'Auge (à l'ouest, à environ 6 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Tailler une haie à Le Pré-d'Auge",
+      "paras": [
+        "Une haie de campagne peut mesurer plusieurs dizaines de mètres. Nous intervenons avec le matériel adapté, sur une journée ou plusieurs, et nous évacuons ou broyons les déchets.",
+        "La période de taille dépend de l'essence. Il vaut mieux éviter la pleine période de nidification des oiseaux, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne.",
+        "Le Pré-d'Auge compte 841 habitants et se situe à environ 6 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe, Saint-Désir et La Houblonnière. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle"
+    ],
+    "communes": [
+      "La Boissière",
+      "Saint-Ouen-le-Pin",
+      "Manerbe",
+      "Saint-Désir",
+      "La Houblonnière"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une taille de haie à Le Pré-d'Auge ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Le Pré-d'Auge sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Pouvez-vous tailler une haie très haute ?",
+        "a": "Oui, avec le matériel adapté et en sécurité. Pour les résineux comme le thuya, nous évaluons d'abord la haie : ils ne repoussent pas depuis le vieux bois, donc nous ne descendons pas la hauteur n'importe comment."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Le Pré-d'Auge ?",
+        "a": "Nous desservons Le Pré-d'Auge et ses environs : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-le-pre-d-auge",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "le-pre-d-auge",
+    "km": 6,
+    "pop": 841,
+    "city": "Le Pré-d'Auge",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Le Pré-d'Auge | Multi Taille Services",
+    "meta": "Tonte de pelouse à Le Pré-d'Auge : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte à Le Pré-d'Auge : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Le Pré-d'Auge, à 6 km de Lisieux",
+    "intro": "Le Pré-d'Auge (à l'ouest, à environ 6 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Un gazon net à Le Pré-d'Auge",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Le Pré-d'Auge compte 841 habitants et se situe à environ 6 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe, Saint-Désir et La Houblonnière. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs"
+    ],
+    "communes": [
+      "La Boissière",
+      "Saint-Ouen-le-Pin",
+      "Manerbe",
+      "Saint-Désir",
+      "La Houblonnière"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Le Pré-d'Auge ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Le Pré-d'Auge, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Le Pré-d'Auge ?",
+        "a": "Nous desservons Le Pré-d'Auge et ses environs : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-le-pre-d-auge",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "le-pre-d-auge",
+    "km": 6,
+    "pop": 841,
+    "city": "Le Pré-d'Auge",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Le Pré-d'Auge | Multi Taille Services",
+    "meta": "Débroussaillage à Le Pré-d'Auge : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Le Pré-d'Auge : terrains, talus et friches",
+    "overline": "Débroussaillage à Le Pré-d'Auge, à 6 km de Lisieux",
+    "intro": "À Le Pré-d'Auge, 841 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Débroussailler à Le Pré-d'Auge : ce qu'il faut savoir",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Le Pré-d'Auge compte 841 habitants et se situe à environ 6 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe, Saint-Désir et La Houblonnière. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente"
+    ],
+    "communes": [
+      "La Boissière",
+      "Saint-Ouen-le-Pin",
+      "Manerbe",
+      "Saint-Désir",
+      "La Houblonnière"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Le Pré-d'Auge ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Le Pré-d'Auge sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Le Pré-d'Auge ?",
+        "a": "Nous desservons Le Pré-d'Auge et ses environs : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-le-pre-d-auge",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "le-pre-d-auge",
+    "km": 6,
+    "pop": 841,
+    "city": "Le Pré-d'Auge",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Le Pré-d'Auge | Multi Taille Services",
+    "meta": "Entretien de jardin à Le Pré-d'Auge : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Le Pré-d'Auge : toute l'année",
+    "overline": "Entretien de jardin à Le Pré-d'Auge, à 6 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Le Pré-d'Auge ? Nous intervenons à environ 6 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Le Pré-d'Auge",
+      "paras": [
+        "Au printemps, remise en ordre et premières tontes ; en été, tonte et taille légère ; à l'automne, ramassage des feuilles et taille de saison. Chaque passage est planifié.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Le Pré-d'Auge compte 841 habitants et se situe à environ 6 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe, Saint-Désir et La Houblonnière. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces"
+    ],
+    "communes": [
+      "La Boissière",
+      "Saint-Ouen-le-Pin",
+      "Manerbe",
+      "Saint-Désir",
+      "La Houblonnière"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Le Pré-d'Auge ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Le Pré-d'Auge ?",
+        "a": "Nous desservons Le Pré-d'Auge et ses environs : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-blangy-le-chateau",
+    "serviceSlug": "elagage",
+    "citySlug": "blangy-le-chateau",
+    "km": 12,
+    "pop": 828,
+    "city": "Blangy-le-Château",
+    "shortName": "Élagage",
+    "title": "Élagage à Blangy-le-Château | Multi Taille Services",
+    "meta": "Élagueur à Blangy-le-Château (au nord-est de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le 07 67 23 41 23.",
+    "h1": "Élagueur à Blangy-le-Château : taille soignée et chantier propre",
+    "overline": "Élagueur à Blangy-le-Château, à 12 km de Lisieux",
+    "intro": "Blangy-le-Château (au nord-est, à environ 12 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Des arbres bien taillés à Blangy-le-Château",
+      "paras": [
+        "Dans les jardins du Pays d'Auge, les arbres sont souvent anciens et proches des bâtiments. Nous privilégions une taille douce et régulière, bien plus saine pour l'arbre qu'une coupe sévère tous les dix ans.",
+        "Nous travaillons avec un matériel professionnel et nous protégeons le jardin pendant l'intervention : terrasse, pelouse, haies mitoyennes et plantations restent intactes.",
+        "Blangy-le-Château compte 828 habitants et se situe à environ 12 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq, Fierville-les-Parcs et Les Authieux-sur-Calonne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort"
+    ],
+    "communes": [
+      "Le Mesnil-sur-Blangy",
+      "Le Brévedent",
+      "Le Faulq",
+      "Fierville-les-Parcs",
+      "Les Authieux-sur-Calonne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Blangy-le-Château ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Blangy-le-Château, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Quelles communes autour de Blangy-le-Château desservez-vous ?",
+        "a": "Nous desservons Blangy-le-Château et ses environs : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-blangy-le-chateau",
+    "serviceSlug": "jardinier",
+    "citySlug": "blangy-le-chateau",
+    "km": 12,
+    "pop": 828,
+    "city": "Blangy-le-Château",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Blangy-le-Château | Multi Taille Services",
+    "meta": "Un jardinier à Blangy-le-Château pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Blangy-le-Château : un jardin net, toute l'année",
+    "overline": "Jardinier à Blangy-le-Château, à 12 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Blangy-le-Château ? Nous intervenons à environ 12 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Blangy-le-Château",
+      "paras": [
+        "Une propriété de campagne se gère par saison : tonte et débroussaillage au printemps, taille des haies en été, ramassage et nettoyage à l'automne. Nous planifions chaque passage avec vous.",
+        "Tonte, taille, désherbage, ramassage : nous réalisons l'ensemble des travaux courants et nous évacuons les déchets verts, pour que vous retrouviez un jardin net après chaque passage.",
+        "Blangy-le-Château compte 828 habitants et se situe à environ 12 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq, Fierville-les-Parcs et Les Authieux-sur-Calonne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "Le Mesnil-sur-Blangy",
+      "Le Brévedent",
+      "Le Faulq",
+      "Fierville-les-Parcs",
+      "Les Authieux-sur-Calonne"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Blangy-le-Château ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Blangy-le-Château, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Pouvez-vous remettre en état un jardin laissé à l'abandon ?",
+        "a": "Oui. Nous débroussaillons, tondons, taillons et évacuons, puis nous proposons un entretien régulier pour que le jardin ne se referme pas. La visite préalable est gratuite."
+      },
+      {
+        "q": "Quelles communes autour de Blangy-le-Château desservez-vous ?",
+        "a": "Nous desservons Blangy-le-Château et ses environs : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-blangy-le-chateau",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "blangy-le-chateau",
+    "km": 12,
+    "pop": 828,
+    "city": "Blangy-le-Château",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Blangy-le-Château | Multi Taille Services",
+    "meta": "Taille de haie à Blangy-le-Château : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haie à Blangy-le-Château : des lignes nettes",
+    "overline": "Taille de haie à Blangy-le-Château, à 12 km de Lisieux",
+    "intro": "Blangy-le-Château (au nord-est, à environ 12 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Blangy-le-Château",
+      "paras": [
+        "Dans le Pays d'Auge, les haies vives (charme, noisetier, aubépine) se taillent moins sévèrement que du laurier : une taille latérale annuelle suffit à les garder denses. Nous adaptons la taille à chaque haie.",
+        "Une haie se taille légèrement et souvent plutôt que fortement et rarement. Les résineux comme le thuya ne repoussent pas dans le vieux bois : nous évaluons toujours la haie avant de couper.",
+        "Blangy-le-Château compte 828 habitants et se situe à environ 12 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq, Fierville-les-Parcs et Les Authieux-sur-Calonne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles"
+    ],
+    "communes": [
+      "Le Mesnil-sur-Blangy",
+      "Le Brévedent",
+      "Le Faulq",
+      "Fierville-les-Parcs",
+      "Les Authieux-sur-Calonne"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une taille de haie à Blangy-le-Château ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Quelles communes autour de Blangy-le-Château desservez-vous ?",
+        "a": "Nous desservons Blangy-le-Château et ses environs : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-blangy-le-chateau",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "blangy-le-chateau",
+    "km": 12,
+    "pop": 828,
+    "city": "Blangy-le-Château",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Blangy-le-Château | Multi Taille Services",
+    "meta": "Tonte à Blangy-le-Château (au nord-est de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Blangy-le-Château : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Blangy-le-Château, à 12 km de Lisieux",
+    "intro": "Blangy-le-Château (au nord-est, à environ 12 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Votre pelouse à Blangy-le-Château",
+      "paras": [
+        "Les grands jardins du bocage demandent du temps et du matériel : nous prenons la tonte en charge, du simple passage mensuel au suivi hebdomadaire en pleine pousse.",
+        "Mulching ou ramassage : le mulching nourrit la pelouse quand l'herbe est régulièrement coupée, le ramassage convient aux pelouses longues ou très denses. Nous choisissons avec vous.",
+        "Blangy-le-Château compte 828 habitants et se situe à environ 12 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq, Fierville-les-Parcs et Les Authieux-sur-Calonne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs"
+    ],
+    "communes": [
+      "Le Mesnil-sur-Blangy",
+      "Le Brévedent",
+      "Le Faulq",
+      "Fierville-les-Parcs",
+      "Les Authieux-sur-Calonne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Blangy-le-Château ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Blangy-le-Château, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Blangy-le-Château desservez-vous ?",
+        "a": "Nous desservons Blangy-le-Château et ses environs : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-blangy-le-chateau",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "blangy-le-chateau",
+    "km": 12,
+    "pop": 828,
+    "city": "Blangy-le-Château",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Blangy-le-Château | Multi Taille Services",
+    "meta": "Débroussaillage à Blangy-le-Château : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Blangy-le-Château : on reprend votre terrain",
+    "overline": "Débroussaillage à Blangy-le-Château, à 12 km de Lisieux",
+    "intro": "À Blangy-le-Château, 828 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Les terrains de Blangy-le-Château",
+      "paras": [
+        "Un terrain laissé plusieurs années demande souvent deux passages : un premier pour ouvrir, un second pour reprendre proprement. Nous vous le disons dès la visite.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Blangy-le-Château compte 828 habitants et se situe à environ 12 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq, Fierville-les-Parcs et Les Authieux-sur-Calonne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures"
+    ],
+    "communes": [
+      "Le Mesnil-sur-Blangy",
+      "Le Brévedent",
+      "Le Faulq",
+      "Fierville-les-Parcs",
+      "Les Authieux-sur-Calonne"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Blangy-le-Château ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Blangy-le-Château sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Quelles communes autour de Blangy-le-Château desservez-vous ?",
+        "a": "Nous desservons Blangy-le-Château et ses environs : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-blangy-le-chateau",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "blangy-le-chateau",
+    "km": 12,
+    "pop": 828,
+    "city": "Blangy-le-Château",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Blangy-le-Château | Multi Taille",
+    "meta": "Un jardinier pour entretenir votre jardin à Blangy-le-Château : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Blangy-le-Château : saison par saison",
+    "overline": "Entretien de jardin à Blangy-le-Château, à 12 km de Lisieux",
+    "intro": "À Blangy-le-Château, 828 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Les jardins de Blangy-le-Château",
+      "paras": [
+        "Au printemps, remise en ordre et premières tontes ; en été, tonte et taille légère ; à l'automne, ramassage des feuilles et taille de saison. Chaque passage est planifié.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Blangy-le-Château compte 828 habitants et se situe à environ 12 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq, Fierville-les-Parcs et Les Authieux-sur-Calonne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages"
+    ],
+    "communes": [
+      "Le Mesnil-sur-Blangy",
+      "Le Brévedent",
+      "Le Faulq",
+      "Fierville-les-Parcs",
+      "Les Authieux-sur-Calonne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Blangy-le-Château ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Quelles communes autour de Blangy-le-Château desservez-vous ?",
+        "a": "Nous desservons Blangy-le-Château et ses environs : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-bonneville-la-louvet",
+    "serviceSlug": "elagage",
+    "citySlug": "bonneville-la-louvet",
+    "km": 16,
+    "pop": 825,
+    "city": "Bonneville-la-Louvet",
+    "shortName": "Élagage",
+    "title": "Élagage à Bonneville-la-Louvet | Multi Taille Services",
+    "meta": "Élagage d'arbres à Bonneville-la-Louvet : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Bonneville-la-Louvet : diagnostic gratuit",
+    "overline": "Élagueur à Bonneville-la-Louvet, à 16 km de Lisieux",
+    "intro": "Bonneville-la-Louvet (au nord-est, à environ 16 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Élaguer à Bonneville-la-Louvet : ce qu'il faut savoir",
+      "paras": [
+        "Pommiers à cidre, noyers, chênes, hêtres : les essences du bocage ont leurs périodes de taille et leurs fragilités. Nous adaptons la technique à chaque arbre, en limitant la taille des plaies.",
+        "La bonne période d'élagage dépend de l'arbre et de l'objectif. Beaucoup d'arbres se taillent en dehors de la pleine végétation, mais un arbre dangereux se traite sans attendre.",
+        "Bonneville-la-Louvet compte 825 habitants et se situe à environ 16 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq, Cormeilles et Saint-Pierre-de-Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches"
+    ],
+    "communes": [
+      "La Lande-Saint-Léger",
+      "Le Bois-Hellain",
+      "Le Faulq",
+      "Cormeilles",
+      "Saint-Pierre-de-Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un élagage à Bonneville-la-Louvet ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Bonneville-la-Louvet, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Bonneville-la-Louvet ?",
+        "a": "Nous desservons Bonneville-la-Louvet et ses environs : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-bonneville-la-louvet",
+    "serviceSlug": "jardinier",
+    "citySlug": "bonneville-la-louvet",
+    "km": 16,
+    "pop": 825,
+    "city": "Bonneville-la-Louvet",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Bonneville-la-Louvet | Multi Taille Services",
+    "meta": "Un jardinier à Bonneville-la-Louvet pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Bonneville-la-Louvet : un jardin net, toute l'année",
+    "overline": "Jardinier à Bonneville-la-Louvet, à 16 km de Lisieux",
+    "intro": "À Bonneville-la-Louvet, 825 habitants, l'entretien d'un jardin prend vite du temps. Nous prenons le relais : passages réguliers, remise en état avant l'été, ramassage de fin de saison.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Bonneville-la-Louvet",
+      "paras": [
+        "Tonte de grandes surfaces, taille de haies, désherbage des massifs, nettoyage des abords : nous entretenons les propriétés du bocage augeron avec des passages réguliers ou ponctuels.",
+        "Tonte, taille, désherbage, ramassage : nous réalisons l'ensemble des travaux courants et nous évacuons les déchets verts, pour que vous retrouviez un jardin net après chaque passage.",
+        "Bonneville-la-Louvet compte 825 habitants et se situe à environ 16 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq, Cormeilles et Saint-Pierre-de-Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains"
+    ],
+    "communes": [
+      "La Lande-Saint-Léger",
+      "Le Bois-Hellain",
+      "Le Faulq",
+      "Cormeilles",
+      "Saint-Pierre-de-Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Bonneville-la-Louvet ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Bonneville-la-Louvet ?",
+        "a": "Nous desservons Bonneville-la-Louvet et ses environs : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-bonneville-la-louvet",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "bonneville-la-louvet",
+    "km": 16,
+    "pop": 825,
+    "city": "Bonneville-la-Louvet",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Bonneville-la-Louvet | Multi Taille",
+    "meta": "Une haie à tailler à Bonneville-la-Louvet ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Bonneville-la-Louvet : devis gratuit après visite",
+    "overline": "Taille de haie à Bonneville-la-Louvet, à 16 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Bonneville-la-Louvet ? Nous intervenons à environ 16 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Tailler une haie à Bonneville-la-Louvet",
+      "paras": [
+        "Dans le Pays d'Auge, les haies vives (charme, noisetier, aubépine) se taillent moins sévèrement que du laurier : une taille latérale annuelle suffit à les garder denses. Nous adaptons la taille à chaque haie.",
+        "La période de taille dépend de l'essence. Il vaut mieux éviter la pleine période de nidification des oiseaux, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne.",
+        "Bonneville-la-Louvet compte 825 habitants et se situe à environ 16 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq, Cormeilles et Saint-Pierre-de-Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle"
+    ],
+    "communes": [
+      "La Lande-Saint-Léger",
+      "Le Bois-Hellain",
+      "Le Faulq",
+      "Cormeilles",
+      "Saint-Pierre-de-Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Bonneville-la-Louvet ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "Pouvez-vous tailler une haie très haute ?",
+        "a": "Oui, avec le matériel adapté et en sécurité. Pour les résineux comme le thuya, nous évaluons d'abord la haie : ils ne repoussent pas depuis le vieux bois, donc nous ne descendons pas la hauteur n'importe comment."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Bonneville-la-Louvet ?",
+        "a": "Nous desservons Bonneville-la-Louvet et ses environs : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-bonneville-la-louvet",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "bonneville-la-louvet",
+    "km": 16,
+    "pop": 825,
+    "city": "Bonneville-la-Louvet",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Bonneville-la-Louvet | Multi Taille",
+    "meta": "Tonte de pelouse à Bonneville-la-Louvet : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Bonneville-la-Louvet : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Bonneville-la-Louvet, à 16 km de Lisieux",
+    "intro": "À Bonneville-la-Louvet, 825 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Tondre à Bonneville-la-Louvet : ce qu'il faut savoir",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Bonneville-la-Louvet compte 825 habitants et se situe à environ 16 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq, Cormeilles et Saint-Pierre-de-Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément"
+    ],
+    "communes": [
+      "La Lande-Saint-Léger",
+      "Le Bois-Hellain",
+      "Le Faulq",
+      "Cormeilles",
+      "Saint-Pierre-de-Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Bonneville-la-Louvet ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Bonneville-la-Louvet ?",
+        "a": "Nous desservons Bonneville-la-Louvet et ses environs : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-bonneville-la-louvet",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "bonneville-la-louvet",
+    "km": 16,
+    "pop": 825,
+    "city": "Bonneville-la-Louvet",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Bonneville-la-Louvet | Multi Taille",
+    "meta": "Débroussailler un terrain à Bonneville-la-Louvet (au nord-est de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussailler à Bonneville-la-Louvet : ronces et broussailles",
+    "overline": "Débroussaillage à Bonneville-la-Louvet, à 16 km de Lisieux",
+    "intro": "Un terrain envahi à Bonneville-la-Louvet ? Nous intervenons à environ 16 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Un terrain propre à Bonneville-la-Louvet",
+      "paras": [
+        "Un terrain laissé plusieurs années demande souvent deux passages : un premier pour ouvrir, un second pour reprendre proprement. Nous vous le disons dès la visite.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Bonneville-la-Louvet compte 825 habitants et se situe à environ 16 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq, Cormeilles et Saint-Pierre-de-Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction"
+    ],
+    "communes": [
+      "La Lande-Saint-Léger",
+      "Le Bois-Hellain",
+      "Le Faulq",
+      "Cormeilles",
+      "Saint-Pierre-de-Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Bonneville-la-Louvet ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Bonneville-la-Louvet sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Bonneville-la-Louvet ?",
+        "a": "Nous desservons Bonneville-la-Louvet et ses environs : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-bonneville-la-louvet",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "bonneville-la-louvet",
+    "km": 16,
+    "pop": 825,
+    "city": "Bonneville-la-Louvet",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Bonneville-la-Louvet | Multi Taille",
+    "meta": "Entretien de jardin à Bonneville-la-Louvet : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Bonneville-la-Louvet : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Bonneville-la-Louvet, à 16 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Bonneville-la-Louvet ? Nous intervenons à environ 16 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Un jardin suivi à Bonneville-la-Louvet",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Bonneville-la-Louvet compte 825 habitants et se situe à environ 16 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq, Cormeilles et Saint-Pierre-de-Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures"
+    ],
+    "communes": [
+      "La Lande-Saint-Léger",
+      "Le Bois-Hellain",
+      "Le Faulq",
+      "Cormeilles",
+      "Saint-Pierre-de-Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Bonneville-la-Louvet ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Bonneville-la-Louvet ?",
+        "a": "Nous desservons Bonneville-la-Louvet et ses environs : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-le-pin",
+    "serviceSlug": "elagage",
+    "citySlug": "le-pin",
+    "km": 11,
+    "pop": 797,
+    "city": "Le Pin",
+    "shortName": "Élagage",
+    "title": "Élagage à Le Pin | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Le Pin ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage à Le Pin : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Le Pin, à 11 km de Lisieux",
+    "intro": "Le Pin (au nord-est, à environ 11 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Des arbres bien taillés à Le Pin",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "Après une tempête, appelez-nous : nous évaluons les branches fragilisées, sécurisons ce qui doit l'être et taillons proprement ce qui peut être conservé.",
+        "Le Pin compte 797 habitants et se situe à environ 11 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq, Le Brévedent et Asnières. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux"
+    ],
+    "communes": [
+      "Moyaux",
+      "Saint-Pierre-de-Cormeilles",
+      "Le Faulq",
+      "Le Brévedent",
+      "Asnières"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un élagage à Le Pin ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Le Pin, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Évacuez-vous les branches après l'élagage ?",
+        "a": "Oui. Les branches sont évacuées ou broyées, selon ce qui est prévu au devis, et le jardin est ratissé : nous ne partons que lorsque le chantier est propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Le Pin ?",
+        "a": "Nous desservons Le Pin et ses environs : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-le-pin",
+    "serviceSlug": "jardinier",
+    "citySlug": "le-pin",
+    "km": 11,
+    "pop": 797,
+    "city": "Le Pin",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Le Pin | Multi Taille Services",
+    "meta": "Jardinier à Le Pin : tonte, taille de haies, désherbage, évacuation des déchets verts. Passage ponctuel ou régulier, devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Jardinier à Le Pin : entretien régulier ou ponctuel",
+    "overline": "Jardinier à Le Pin, à 11 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Le Pin ? Nous intervenons à environ 11 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Le Pin",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Tonte, taille, désherbage, ramassage : nous réalisons l'ensemble des travaux courants et nous évacuons les déchets verts, pour que vous retrouviez un jardin net après chaque passage.",
+        "Le Pin compte 797 habitants et se situe à environ 11 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq, Le Brévedent et Asnières. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé"
+    ],
+    "communes": [
+      "Moyaux",
+      "Saint-Pierre-de-Cormeilles",
+      "Le Faulq",
+      "Le Brévedent",
+      "Asnières"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Le Pin ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Pouvez-vous remettre en état un jardin laissé à l'abandon ?",
+        "a": "Oui. Nous débroussaillons, tondons, taillons et évacuons, puis nous proposons un entretien régulier pour que le jardin ne se referme pas. La visite préalable est gratuite."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Le Pin ?",
+        "a": "Nous desservons Le Pin et ses environs : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-le-pin",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "le-pin",
+    "km": 11,
+    "pop": 797,
+    "city": "Le Pin",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Le Pin | Multi Taille Services",
+    "meta": "Une haie à tailler à Le Pin ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Le Pin : des lignes nettes",
+    "overline": "Taille de haie à Le Pin, à 11 km de Lisieux",
+    "intro": "Le Pin (au nord-est, à environ 11 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Le Pin",
+      "paras": [
+        "Haies de clôture, haies champêtres, haies de thuyas ou de lauriers autour de la maison : nous les entretenons toutes, en tenant compte de l'essence et de la période de nidification des oiseaux.",
+        "Une haie se taille légèrement et souvent plutôt que fortement et rarement. Les résineux comme le thuya ne repoussent pas dans le vieux bois : nous évaluons toujours la haie avant de couper.",
+        "Le Pin compte 797 habitants et se situe à environ 11 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq, Le Brévedent et Asnières. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté"
+    ],
+    "communes": [
+      "Moyaux",
+      "Saint-Pierre-de-Cormeilles",
+      "Le Faulq",
+      "Le Brévedent",
+      "Asnières"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Le Pin ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Le Pin sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Le Pin ?",
+        "a": "Nous desservons Le Pin et ses environs : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-le-pin",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "le-pin",
+    "km": 11,
+    "pop": 797,
+    "city": "Le Pin",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Le Pin | Multi Taille Services",
+    "meta": "Tonte de pelouse à Le Pin : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte à Le Pin : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Le Pin, à 11 km de Lisieux",
+    "intro": "Besoin d'une tonte à Le Pin ? Nous intervenons à environ 11 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Votre pelouse à Le Pin",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Le Pin compte 797 habitants et se situe à environ 11 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq, Le Brévedent et Asnières. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle"
+    ],
+    "communes": [
+      "Moyaux",
+      "Saint-Pierre-de-Cormeilles",
+      "Le Faulq",
+      "Le Brévedent",
+      "Asnières"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Le Pin ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Le Pin, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Le Pin ?",
+        "a": "Nous desservons Le Pin et ses environs : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-le-pin",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "le-pin",
+    "km": 11,
+    "pop": 797,
+    "city": "Le Pin",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Le Pin | Multi Taille Services",
+    "meta": "Débroussaillage à Le Pin : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussailler à Le Pin : ronces et broussailles",
+    "overline": "Débroussaillage à Le Pin, à 11 km de Lisieux",
+    "intro": "Le Pin (au nord-est, à environ 11 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Un terrain propre à Le Pin",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Le Pin compte 797 habitants et se situe à environ 11 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq, Le Brévedent et Asnières. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures"
+    ],
+    "communes": [
+      "Moyaux",
+      "Saint-Pierre-de-Cormeilles",
+      "Le Faulq",
+      "Le Brévedent",
+      "Asnières"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Le Pin ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Le Pin sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Le Pin ?",
+        "a": "Nous desservons Le Pin et ses environs : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-le-pin",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "le-pin",
+    "km": 11,
+    "pop": 797,
+    "city": "Le Pin",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Le Pin | Multi Taille Services",
+    "meta": "Entretien de jardin à Le Pin : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Le Pin : saison par saison",
+    "overline": "Entretien de jardin à Le Pin, à 11 km de Lisieux",
+    "intro": "À Le Pin, 797 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Le Pin",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Le Pin compte 797 habitants et se situe à environ 11 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq, Le Brévedent et Asnières. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées"
+    ],
+    "communes": [
+      "Moyaux",
+      "Saint-Pierre-de-Cormeilles",
+      "Le Faulq",
+      "Le Brévedent",
+      "Asnières"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Le Pin ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Le Pin pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Le Pin ?",
+        "a": "Nous desservons Le Pin et ses environs : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-saint-martin-de-la-lieue",
+    "serviceSlug": "elagage",
+    "citySlug": "saint-martin-de-la-lieue",
+    "km": 4,
+    "pop": 763,
+    "city": "Saint-Martin-de-la-Lieue",
+    "shortName": "Élagage",
+    "title": "Élagage à Saint-Martin-de-la-Lieue | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Saint-Martin-de-la-Lieue ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage à Saint-Martin-de-la-Lieue : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Saint-Martin-de-la-Lieue, à 4 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Saint-Martin-de-la-Lieue ? Nous intervenons à environ 4 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Les arbres de Saint-Martin-de-la-Lieue",
+      "paras": [
+        "Pommiers à cidre, noyers, chênes, hêtres : les essences du bocage ont leurs périodes de taille et leurs fragilités. Nous adaptons la technique à chaque arbre, en limitant la taille des plaies.",
+        "Une taille raisonnée vaut mieux qu'une coupe radicale : elle préserve la santé de l'arbre, limite les rejets et reste discrète dans le paysage. C'est notre principe sur tous nos chantiers.",
+        "Saint-Martin-de-la-Lieue compte 763 habitants et se situe à environ 4 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes, Saint-Germain-de-Livet et Saint-Pierre-des-Ifs. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches"
+    ],
+    "communes": [
+      "Saint-Jean-de-Livet",
+      "Beuvillers",
+      "Le Mesnil-Eudes",
+      "Saint-Germain-de-Livet",
+      "Saint-Pierre-des-Ifs"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un élagage à Saint-Martin-de-la-Lieue ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Saint-Martin-de-la-Lieue, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Martin-de-la-Lieue ?",
+        "a": "Nous desservons Saint-Martin-de-la-Lieue et ses environs : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-saint-martin-de-la-lieue",
+    "serviceSlug": "jardinier",
+    "citySlug": "saint-martin-de-la-lieue",
+    "km": 4,
+    "pop": 763,
+    "city": "Saint-Martin-de-la-Lieue",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Saint-Martin-de-la-Lieue | Multi Taille Services",
+    "meta": "Entretien de jardin à Saint-Martin-de-la-Lieue (au sud de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Jardinier à Saint-Martin-de-la-Lieue : entretien régulier ou ponctuel",
+    "overline": "Jardinier à Saint-Martin-de-la-Lieue, à 4 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Saint-Martin-de-la-Lieue ? Nous intervenons à environ 4 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Les jardins de Saint-Martin-de-la-Lieue",
+      "paras": [
+        "Tonte de grandes surfaces, taille de haies, désherbage des massifs, nettoyage des abords : nous entretenons les propriétés du bocage augeron avec des passages réguliers ou ponctuels.",
+        "Un entretien de jardin réussi repose sur la régularité. Nous vous proposons un passage ponctuel ou un entretien suivi, avec une visite gratuite et un devis clair avant de commencer.",
+        "Saint-Martin-de-la-Lieue compte 763 habitants et se situe à environ 4 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes, Saint-Germain-de-Livet et Saint-Pierre-des-Ifs. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles"
+    ],
+    "communes": [
+      "Saint-Jean-de-Livet",
+      "Beuvillers",
+      "Le Mesnil-Eudes",
+      "Saint-Germain-de-Livet",
+      "Saint-Pierre-des-Ifs"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Saint-Martin-de-la-Lieue ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Saint-Martin-de-la-Lieue, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Pouvez-vous remettre en état un jardin laissé à l'abandon ?",
+        "a": "Oui. Nous débroussaillons, tondons, taillons et évacuons, puis nous proposons un entretien régulier pour que le jardin ne se referme pas. La visite préalable est gratuite."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Martin-de-la-Lieue ?",
+        "a": "Nous desservons Saint-Martin-de-la-Lieue et ses environs : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-saint-martin-de-la-lieue",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "saint-martin-de-la-lieue",
+    "km": 4,
+    "pop": 763,
+    "city": "Saint-Martin-de-la-Lieue",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Saint-Martin-de-la-Lieue | Multi Taille",
+    "meta": "Taille de haies à Saint-Martin-de-la-Lieue (au sud de Lisieux) : matériel adapté aux grandes hauteurs, chantier propre. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Taille de haies à Saint-Martin-de-la-Lieue : thuyas, lauriers, charmilles",
+    "overline": "Taille de haie à Saint-Martin-de-la-Lieue, à 4 km de Lisieux",
+    "intro": "À Saint-Martin-de-la-Lieue, 763 habitants, les haies sont partout : clôtures, brise-vent, séparations. Nous les taillons ponctuellement ou chaque année, avec un chantier toujours laissé propre.",
+    "besoins": {
+      "h2": "Tailler une haie à Saint-Martin-de-la-Lieue",
+      "paras": [
+        "Haies de clôture, haies champêtres, haies de thuyas ou de lauriers autour de la maison : nous les entretenons toutes, en tenant compte de l'essence et de la période de nidification des oiseaux.",
+        "Taille au cordeau, finitions à la cisaille, évacuation ou broyage des déchets : le chantier est conduit jusqu'au bout et le jardin laissé propre.",
+        "Saint-Martin-de-la-Lieue compte 763 habitants et se situe à environ 4 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes, Saint-Germain-de-Livet et Saint-Pierre-des-Ifs. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée"
+    ],
+    "communes": [
+      "Saint-Jean-de-Livet",
+      "Beuvillers",
+      "Le Mesnil-Eudes",
+      "Saint-Germain-de-Livet",
+      "Saint-Pierre-des-Ifs"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une taille de haie à Saint-Martin-de-la-Lieue ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Saint-Martin-de-la-Lieue sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Martin-de-la-Lieue ?",
+        "a": "Nous desservons Saint-Martin-de-la-Lieue et ses environs : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-saint-martin-de-la-lieue",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "saint-martin-de-la-lieue",
+    "km": 4,
+    "pop": 763,
+    "city": "Saint-Martin-de-la-Lieue",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Saint-Martin-de-la-Lieue | Multi Taille",
+    "meta": "Tonte de pelouse à Saint-Martin-de-la-Lieue : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Saint-Martin-de-la-Lieue : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Saint-Martin-de-la-Lieue, à 4 km de Lisieux",
+    "intro": "Besoin d'une tonte à Saint-Martin-de-la-Lieue ? Nous intervenons à environ 4 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Tondre à Saint-Martin-de-la-Lieue : ce qu'il faut savoir",
+      "paras": [
+        "Les grands jardins du bocage demandent du temps et du matériel : nous prenons la tonte en charge, du simple passage mensuel au suivi hebdomadaire en pleine pousse.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Saint-Martin-de-la-Lieue compte 763 habitants et se situe à environ 4 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes, Saint-Germain-de-Livet et Saint-Pierre-des-Ifs. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence"
+    ],
+    "communes": [
+      "Saint-Jean-de-Livet",
+      "Beuvillers",
+      "Le Mesnil-Eudes",
+      "Saint-Germain-de-Livet",
+      "Saint-Pierre-des-Ifs"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Saint-Martin-de-la-Lieue ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Saint-Martin-de-la-Lieue, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Martin-de-la-Lieue ?",
+        "a": "Nous desservons Saint-Martin-de-la-Lieue et ses environs : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-saint-martin-de-la-lieue",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "saint-martin-de-la-lieue",
+    "km": 4,
+    "pop": 763,
+    "city": "Saint-Martin-de-la-Lieue",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Saint-Martin-de-la-Lieue | Multi Taille",
+    "meta": "Terrain envahi à Saint-Martin-de-la-Lieue ? Débroussaillage, broyage et évacuation. Visite gratuite. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Débroussailler à Saint-Martin-de-la-Lieue : ronces et broussailles",
+    "overline": "Débroussaillage à Saint-Martin-de-la-Lieue, à 4 km de Lisieux",
+    "intro": "Saint-Martin-de-la-Lieue (au sud, à environ 4 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les terrains de Saint-Martin-de-la-Lieue",
+      "paras": [
+        "Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Saint-Martin-de-la-Lieue compte 763 habitants et se situe à environ 4 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes, Saint-Germain-de-Livet et Saint-Pierre-des-Ifs. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver"
+    ],
+    "communes": [
+      "Saint-Jean-de-Livet",
+      "Beuvillers",
+      "Le Mesnil-Eudes",
+      "Saint-Germain-de-Livet",
+      "Saint-Pierre-des-Ifs"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Saint-Martin-de-la-Lieue ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Saint-Martin-de-la-Lieue sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Martin-de-la-Lieue ?",
+        "a": "Nous desservons Saint-Martin-de-la-Lieue et ses environs : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-saint-martin-de-la-lieue",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "saint-martin-de-la-lieue",
+    "km": 4,
+    "pop": 763,
+    "city": "Saint-Martin-de-la-Lieue",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Saint-Martin-de-la-Lieue",
+    "meta": "Entretien de jardin à Saint-Martin-de-la-Lieue : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Saint-Martin-de-la-Lieue : saison par saison",
+    "overline": "Entretien de jardin à Saint-Martin-de-la-Lieue, à 4 km de Lisieux",
+    "intro": "Saint-Martin-de-la-Lieue (au sud, à environ 4 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Un jardin suivi à Saint-Martin-de-la-Lieue",
+      "paras": [
+        "Une propriété de campagne se gère par saison. Nous nous occupons de l'entretien courant pour que vous profitiez du jardin au lieu de le subir.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Saint-Martin-de-la-Lieue compte 763 habitants et se situe à environ 4 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes, Saint-Germain-de-Livet et Saint-Pierre-des-Ifs. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces"
+    ],
+    "communes": [
+      "Saint-Jean-de-Livet",
+      "Beuvillers",
+      "Le Mesnil-Eudes",
+      "Saint-Germain-de-Livet",
+      "Saint-Pierre-des-Ifs"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Saint-Martin-de-la-Lieue ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Saint-Martin-de-la-Lieue pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Martin-de-la-Lieue ?",
+        "a": "Nous desservons Saint-Martin-de-la-Lieue et ses environs : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-ouilly-le-vicomte",
+    "serviceSlug": "elagage",
+    "citySlug": "ouilly-le-vicomte",
+    "km": 4,
+    "pop": 756,
+    "city": "Ouilly-le-Vicomte",
+    "shortName": "Élagage",
+    "title": "Élagage à Ouilly-le-Vicomte | Multi Taille Services",
+    "meta": "Élagage d'arbres à Ouilly-le-Vicomte : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Ouilly-le-Vicomte : diagnostic gratuit",
+    "overline": "Élagueur à Ouilly-le-Vicomte, à 4 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Ouilly-le-Vicomte ? Nous intervenons à environ 4 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Élaguer à Ouilly-le-Vicomte : ce qu'il faut savoir",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "La bonne période d'élagage dépend de l'arbre et de l'objectif. Beaucoup d'arbres se taillent en dehors de la pleine végétation, mais un arbre dangereux se traite sans attendre.",
+        "Ouilly-le-Vicomte compte 756 habitants et se situe à environ 4 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Coquainvilliers, Rocques, Norolles, Saint-Désir et Lisieux. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement"
+    ],
+    "communes": [
+      "Coquainvilliers",
+      "Rocques",
+      "Norolles",
+      "Saint-Désir",
+      "Lisieux"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Ouilly-le-Vicomte ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Évacuez-vous les branches après l'élagage ?",
+        "a": "Oui. Les branches sont évacuées ou broyées, selon ce qui est prévu au devis, et le jardin est ratissé : nous ne partons que lorsque le chantier est propre."
+      },
+      {
+        "q": "Quelles communes autour de Ouilly-le-Vicomte desservez-vous ?",
+        "a": "Nous desservons Ouilly-le-Vicomte et ses environs : Coquainvilliers, Rocques, Norolles et Saint-Désir, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-ouilly-le-vicomte",
+    "serviceSlug": "jardinier",
+    "citySlug": "ouilly-le-vicomte",
+    "km": 4,
+    "pop": 756,
+    "city": "Ouilly-le-Vicomte",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Ouilly-le-Vicomte | Multi Taille Services",
+    "meta": "Un jardinier à Ouilly-le-Vicomte pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Ouilly-le-Vicomte : appelez, on passe",
+    "overline": "Jardinier à Ouilly-le-Vicomte, à 4 km de Lisieux",
+    "intro": "Ouilly-le-Vicomte (au nord-ouest, à environ 4 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Ouilly-le-Vicomte",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Débroussaillage d'un terrain laissé à l'abandon, remise en état d'une pelouse, taille d'arbustes : nous prenons aussi les gros chantiers de remise en état avant un entretien régulier.",
+        "Ouilly-le-Vicomte compte 756 habitants et se situe à environ 4 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Coquainvilliers, Rocques, Norolles, Saint-Désir et Lisieux. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées"
+    ],
+    "communes": [
+      "Coquainvilliers",
+      "Rocques",
+      "Norolles",
+      "Saint-Désir",
+      "Lisieux"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Ouilly-le-Vicomte ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Quelles communes autour de Ouilly-le-Vicomte desservez-vous ?",
+        "a": "Nous desservons Ouilly-le-Vicomte et ses environs : Coquainvilliers, Rocques, Norolles et Saint-Désir, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-ouilly-le-vicomte",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "ouilly-le-vicomte",
+    "km": 4,
+    "pop": 756,
+    "city": "Ouilly-le-Vicomte",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Ouilly-le-Vicomte | Multi Taille Services",
+    "meta": "Une haie à tailler à Ouilly-le-Vicomte ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Ouilly-le-Vicomte : des lignes nettes",
+    "overline": "Taille de haie à Ouilly-le-Vicomte, à 4 km de Lisieux",
+    "intro": "Ouilly-le-Vicomte (au nord-ouest, à environ 4 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Les haies de Ouilly-le-Vicomte",
+      "paras": [
+        "Une haie de campagne peut mesurer plusieurs dizaines de mètres. Nous intervenons avec le matériel adapté, sur une journée ou plusieurs, et nous évacuons ou broyons les déchets.",
+        "Nous intervenons ponctuellement ou chaque année : une haie taillée à intervalles réguliers reste dense, solide et facile à entretenir.",
+        "Ouilly-le-Vicomte compte 756 habitants et se situe à environ 4 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Coquainvilliers, Rocques, Norolles, Saint-Désir et Lisieux. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias"
+    ],
+    "communes": [
+      "Coquainvilliers",
+      "Rocques",
+      "Norolles",
+      "Saint-Désir",
+      "Lisieux"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Ouilly-le-Vicomte ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Quelles communes autour de Ouilly-le-Vicomte desservez-vous ?",
+        "a": "Nous desservons Ouilly-le-Vicomte et ses environs : Coquainvilliers, Rocques, Norolles et Saint-Désir, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-ouilly-le-vicomte",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "ouilly-le-vicomte",
+    "km": 4,
+    "pop": 756,
+    "city": "Ouilly-le-Vicomte",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Ouilly-le-Vicomte | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Ouilly-le-Vicomte ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Ouilly-le-Vicomte : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Ouilly-le-Vicomte, à 4 km de Lisieux",
+    "intro": "À Ouilly-le-Vicomte, 756 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Tondre à Ouilly-le-Vicomte : ce qu'il faut savoir",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Ouilly-le-Vicomte compte 756 habitants et se situe à environ 4 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Coquainvilliers, Rocques, Norolles, Saint-Désir et Lisieux. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Coquainvilliers",
+      "Rocques",
+      "Norolles",
+      "Saint-Désir",
+      "Lisieux"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Ouilly-le-Vicomte ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Quelles communes autour de Ouilly-le-Vicomte desservez-vous ?",
+        "a": "Nous desservons Ouilly-le-Vicomte et ses environs : Coquainvilliers, Rocques, Norolles et Saint-Désir, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-ouilly-le-vicomte",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "ouilly-le-vicomte",
+    "km": 4,
+    "pop": 756,
+    "city": "Ouilly-le-Vicomte",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Ouilly-le-Vicomte | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Ouilly-le-Vicomte (au nord-ouest de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Ouilly-le-Vicomte : on reprend votre terrain",
+    "overline": "Débroussaillage à Ouilly-le-Vicomte, à 4 km de Lisieux",
+    "intro": "Un terrain envahi à Ouilly-le-Vicomte ? Nous intervenons à environ 4 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Débroussailler à Ouilly-le-Vicomte : ce qu'il faut savoir",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Ouilly-le-Vicomte compte 756 habitants et se situe à environ 4 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Coquainvilliers, Rocques, Norolles, Saint-Désir et Lisieux. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures"
+    ],
+    "communes": [
+      "Coquainvilliers",
+      "Rocques",
+      "Norolles",
+      "Saint-Désir",
+      "Lisieux"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Ouilly-le-Vicomte ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Ouilly-le-Vicomte sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Ouilly-le-Vicomte desservez-vous ?",
+        "a": "Nous desservons Ouilly-le-Vicomte et ses environs : Coquainvilliers, Rocques, Norolles et Saint-Désir, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-ouilly-le-vicomte",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "ouilly-le-vicomte",
+    "km": 4,
+    "pop": 756,
+    "city": "Ouilly-le-Vicomte",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Ouilly-le-Vicomte | Multi Taille",
+    "meta": "Entretien de jardin à Ouilly-le-Vicomte (au nord-ouest de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Ouilly-le-Vicomte : saison par saison",
+    "overline": "Entretien de jardin à Ouilly-le-Vicomte, à 4 km de Lisieux",
+    "intro": "À Ouilly-le-Vicomte, 756 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Les jardins de Ouilly-le-Vicomte",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Ouilly-le-Vicomte compte 756 habitants et se situe à environ 4 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Coquainvilliers, Rocques, Norolles, Saint-Désir et Lisieux. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires"
+    ],
+    "communes": [
+      "Coquainvilliers",
+      "Rocques",
+      "Norolles",
+      "Saint-Désir",
+      "Lisieux"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Ouilly-le-Vicomte ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Ouilly-le-Vicomte pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Ouilly-le-Vicomte desservez-vous ?",
+        "a": "Nous desservons Ouilly-le-Vicomte et ses environs : Coquainvilliers, Rocques, Norolles et Saint-Désir, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-marolles",
+    "serviceSlug": "elagage",
+    "citySlug": "marolles",
+    "km": 11,
+    "pop": 749,
+    "city": "Marolles",
+    "shortName": "Élagage",
+    "title": "Élagage à Marolles | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Marolles ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagueur à Marolles : taille soignée et chantier propre",
+    "overline": "Élagueur à Marolles, à 11 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Marolles ? Nous intervenons à environ 11 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Élaguer à Marolles : ce qu'il faut savoir",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "Après une tempête, appelez-nous : nous évaluons les branches fragilisées, sécurisons ce qui doit l'être et taillons proprement ce qui peut être conservé.",
+        "Marolles compte 749 habitants et se situe à environ 11 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : L'Hôtellerie, Cordebugle, Fumichon, Courtonne-la-Meurdrac et Ouilly-du-Houley. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort"
+    ],
+    "communes": [
+      "L'Hôtellerie",
+      "Cordebugle",
+      "Fumichon",
+      "Courtonne-la-Meurdrac",
+      "Ouilly-du-Houley"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Marolles ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Marolles ?",
+        "a": "Oui : nous intervenons à Marolles et dans les communes voisines, notamment L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-marolles",
+    "serviceSlug": "jardinier",
+    "citySlug": "marolles",
+    "km": 11,
+    "pop": 749,
+    "city": "Marolles",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Marolles | Multi Taille Services",
+    "meta": "Un jardinier à Marolles pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Marolles : entretien régulier ou ponctuel",
+    "overline": "Jardinier à Marolles, à 11 km de Lisieux",
+    "intro": "Marolles (à l'est, à environ 11 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Marolles",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Nous intervenons chez les particuliers comme chez les professionnels et les propriétaires de résidences secondaires, avec un point de contact unique : un appel suffit.",
+        "Marolles compte 749 habitants et se situe à environ 11 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : L'Hôtellerie, Cordebugle, Fumichon, Courtonne-la-Meurdrac et Ouilly-du-Houley. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "L'Hôtellerie",
+      "Cordebugle",
+      "Fumichon",
+      "Courtonne-la-Meurdrac",
+      "Ouilly-du-Houley"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Marolles ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Pouvez-vous remettre en état un jardin laissé à l'abandon ?",
+        "a": "Oui. Nous débroussaillons, tondons, taillons et évacuons, puis nous proposons un entretien régulier pour que le jardin ne se referme pas. La visite préalable est gratuite."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Marolles ?",
+        "a": "Oui : nous intervenons à Marolles et dans les communes voisines, notamment L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-marolles",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "marolles",
+    "km": 11,
+    "pop": 749,
+    "city": "Marolles",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Marolles | Multi Taille Services",
+    "meta": "Taille de haies à Marolles (à l'est de Lisieux) : matériel adapté aux grandes hauteurs, chantier propre. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Taille de haie à Marolles : des lignes nettes",
+    "overline": "Taille de haie à Marolles, à 11 km de Lisieux",
+    "intro": "À Marolles, 749 habitants, les haies sont partout : clôtures, brise-vent, séparations. Nous les taillons ponctuellement ou chaque année, avec un chantier toujours laissé propre.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Marolles",
+      "paras": [
+        "Une haie de campagne peut mesurer plusieurs dizaines de mètres. Nous intervenons avec le matériel adapté, sur une journée ou plusieurs, et nous évacuons ou broyons les déchets.",
+        "La période de taille dépend de l'essence. Il vaut mieux éviter la pleine période de nidification des oiseaux, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne.",
+        "Marolles compte 749 habitants et se situe à environ 11 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : L'Hôtellerie, Cordebugle, Fumichon, Courtonne-la-Meurdrac et Ouilly-du-Houley. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles"
+    ],
+    "communes": [
+      "L'Hôtellerie",
+      "Cordebugle",
+      "Fumichon",
+      "Courtonne-la-Meurdrac",
+      "Ouilly-du-Houley"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une taille de haie à Marolles ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Marolles ?",
+        "a": "Oui : nous intervenons à Marolles et dans les communes voisines, notamment L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-marolles",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "marolles",
+    "km": 11,
+    "pop": 749,
+    "city": "Marolles",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Marolles | Multi Taille Services",
+    "meta": "Tonte de pelouse à Marolles : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte à Marolles : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Marolles, à 11 km de Lisieux",
+    "intro": "Besoin d'une tonte à Marolles ? Nous intervenons à environ 11 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Tondre à Marolles : ce qu'il faut savoir",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "Mulching ou ramassage : le mulching nourrit la pelouse quand l'herbe est régulièrement coupée, le ramassage convient aux pelouses longues ou très denses. Nous choisissons avec vous.",
+        "Marolles compte 749 habitants et se situe à environ 11 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : L'Hôtellerie, Cordebugle, Fumichon, Courtonne-la-Meurdrac et Ouilly-du-Houley. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément"
+    ],
+    "communes": [
+      "L'Hôtellerie",
+      "Cordebugle",
+      "Fumichon",
+      "Courtonne-la-Meurdrac",
+      "Ouilly-du-Houley"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Marolles ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Marolles, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Marolles ?",
+        "a": "Oui : nous intervenons à Marolles et dans les communes voisines, notamment L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-marolles",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "marolles",
+    "km": 11,
+    "pop": 749,
+    "city": "Marolles",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Marolles | Multi Taille Services",
+    "meta": "Terrain envahi à Marolles ? Débroussaillage, broyage et évacuation. Visite gratuite. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Marolles : terrains, talus et friches",
+    "overline": "Débroussaillage à Marolles, à 11 km de Lisieux",
+    "intro": "Un terrain envahi à Marolles ? Nous intervenons à environ 11 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de Marolles",
+      "paras": [
+        "Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Marolles compte 749 habitants et se situe à environ 11 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : L'Hôtellerie, Cordebugle, Fumichon, Courtonne-la-Meurdrac et Ouilly-du-Houley. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver"
+    ],
+    "communes": [
+      "L'Hôtellerie",
+      "Cordebugle",
+      "Fumichon",
+      "Courtonne-la-Meurdrac",
+      "Ouilly-du-Houley"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Marolles ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Marolles sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Marolles ?",
+        "a": "Oui : nous intervenons à Marolles et dans les communes voisines, notamment L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-marolles",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "marolles",
+    "km": 11,
+    "pop": 749,
+    "city": "Marolles",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Marolles | Multi Taille Services",
+    "meta": "Un jardinier pour entretenir votre jardin à Marolles : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Marolles : toute l'année",
+    "overline": "Entretien de jardin à Marolles, à 11 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Marolles ? Nous intervenons à environ 11 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Marolles",
+      "paras": [
+        "Au printemps, remise en ordre et premières tontes ; en été, tonte et taille légère ; à l'automne, ramassage des feuilles et taille de saison. Chaque passage est planifié.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Marolles compte 749 habitants et se situe à environ 11 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : L'Hôtellerie, Cordebugle, Fumichon, Courtonne-la-Meurdrac et Ouilly-du-Houley. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires"
+    ],
+    "communes": [
+      "L'Hôtellerie",
+      "Cordebugle",
+      "Fumichon",
+      "Courtonne-la-Meurdrac",
+      "Ouilly-du-Houley"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Marolles ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Marolles pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Marolles ?",
+        "a": "Oui : nous intervenons à Marolles et dans les communes voisines, notamment L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-saint-germain-de-livet",
+    "serviceSlug": "elagage",
+    "citySlug": "saint-germain-de-livet",
+    "km": 8,
+    "pop": 688,
+    "city": "Saint-Germain-de-Livet",
+    "shortName": "Élagage",
+    "title": "Élagage à Saint-Germain-de-Livet | Multi Taille Services",
+    "meta": "Élagage d'arbres à Saint-Germain-de-Livet : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Saint-Germain-de-Livet : diagnostic gratuit",
+    "overline": "Élagueur à Saint-Germain-de-Livet, à 8 km de Lisieux",
+    "intro": "Saint-Germain-de-Livet (au sud-ouest, à environ 8 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Des arbres bien taillés à Saint-Germain-de-Livet",
+      "paras": [
+        "Pommiers à cidre, noyers, chênes, hêtres : les essences du bocage ont leurs périodes de taille et leurs fragilités. Nous adaptons la technique à chaque arbre, en limitant la taille des plaies.",
+        "Après une tempête, appelez-nous : nous évaluons les branches fragilisées, sécurisons ce qui doit l'être et taillons proprement ce qui peut être conservé.",
+        "Saint-Germain-de-Livet compte 688 habitants et se situe à environ 8 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue, Prêtreville et Saint-Pierre-des-Ifs. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses"
+    ],
+    "communes": [
+      "Le Mesnil-Eudes",
+      "Saint-Jean-de-Livet",
+      "Saint-Martin-de-la-Lieue",
+      "Prêtreville",
+      "Saint-Pierre-des-Ifs"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un élagage à Saint-Germain-de-Livet ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Saint-Germain-de-Livet, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Évacuez-vous les branches après l'élagage ?",
+        "a": "Oui. Les branches sont évacuées ou broyées, selon ce qui est prévu au devis, et le jardin est ratissé : nous ne partons que lorsque le chantier est propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Germain-de-Livet ?",
+        "a": "Nous desservons Saint-Germain-de-Livet et ses environs : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-saint-germain-de-livet",
+    "serviceSlug": "jardinier",
+    "citySlug": "saint-germain-de-livet",
+    "km": 8,
+    "pop": 688,
+    "city": "Saint-Germain-de-Livet",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Saint-Germain-de-Livet | Multi Taille Services",
+    "meta": "Entretien de jardin à Saint-Germain-de-Livet (au sud-ouest de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Jardinier à Saint-Germain-de-Livet : entretien régulier ou ponctuel",
+    "overline": "Jardinier à Saint-Germain-de-Livet, à 8 km de Lisieux",
+    "intro": "Saint-Germain-de-Livet (au sud-ouest, à environ 8 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Saint-Germain-de-Livet",
+      "paras": [
+        "Une propriété de campagne se gère par saison : tonte et débroussaillage au printemps, taille des haies en été, ramassage et nettoyage à l'automne. Nous planifions chaque passage avec vous.",
+        "Au printemps, remise en ordre et premières tontes ; en été, entretien courant ; à l'automne, ramassage et taille de saison. Nous organisons l'année avec vous, saison par saison.",
+        "Saint-Germain-de-Livet compte 688 habitants et se situe à environ 8 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue, Prêtreville et Saint-Pierre-des-Ifs. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Le Mesnil-Eudes",
+      "Saint-Jean-de-Livet",
+      "Saint-Martin-de-la-Lieue",
+      "Prêtreville",
+      "Saint-Pierre-des-Ifs"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Saint-Germain-de-Livet ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Saint-Germain-de-Livet, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Évacuez-vous les déchets verts ?",
+        "a": "Oui, les déchets verts sont évacués ou broyés selon le devis. Vous retrouvez un jardin propre après chaque passage."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Germain-de-Livet ?",
+        "a": "Nous desservons Saint-Germain-de-Livet et ses environs : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-saint-germain-de-livet",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "saint-germain-de-livet",
+    "km": 8,
+    "pop": 688,
+    "city": "Saint-Germain-de-Livet",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Saint-Germain-de-Livet | Multi Taille",
+    "meta": "Taille de haie à Saint-Germain-de-Livet : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haie à Saint-Germain-de-Livet : devis gratuit après visite",
+    "overline": "Taille de haie à Saint-Germain-de-Livet, à 8 km de Lisieux",
+    "intro": "Saint-Germain-de-Livet (au sud-ouest, à environ 8 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Les haies de Saint-Germain-de-Livet",
+      "paras": [
+        "Haies de clôture, haies champêtres, haies de thuyas ou de lauriers autour de la maison : nous les entretenons toutes, en tenant compte de l'essence et de la période de nidification des oiseaux.",
+        "Taille au cordeau, finitions à la cisaille, évacuation ou broyage des déchets : le chantier est conduit jusqu'au bout et le jardin laissé propre.",
+        "Saint-Germain-de-Livet compte 688 habitants et se situe à environ 8 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue, Prêtreville et Saint-Pierre-des-Ifs. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas"
+    ],
+    "communes": [
+      "Le Mesnil-Eudes",
+      "Saint-Jean-de-Livet",
+      "Saint-Martin-de-la-Lieue",
+      "Prêtreville",
+      "Saint-Pierre-des-Ifs"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Saint-Germain-de-Livet ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Germain-de-Livet ?",
+        "a": "Nous desservons Saint-Germain-de-Livet et ses environs : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-saint-germain-de-livet",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "saint-germain-de-livet",
+    "km": 8,
+    "pop": 688,
+    "city": "Saint-Germain-de-Livet",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Saint-Germain-de-Livet | Multi Taille",
+    "meta": "Une pelouse à tondre à Saint-Germain-de-Livet ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte à Saint-Germain-de-Livet : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Saint-Germain-de-Livet, à 8 km de Lisieux",
+    "intro": "Besoin d'une tonte à Saint-Germain-de-Livet ? Nous intervenons à environ 8 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Un gazon net à Saint-Germain-de-Livet",
+      "paras": [
+        "Les grands jardins du bocage demandent du temps et du matériel : nous prenons la tonte en charge, du simple passage mensuel au suivi hebdomadaire en pleine pousse.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Saint-Germain-de-Livet compte 688 habitants et se situe à environ 8 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue, Prêtreville et Saint-Pierre-des-Ifs. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces"
+    ],
+    "communes": [
+      "Le Mesnil-Eudes",
+      "Saint-Jean-de-Livet",
+      "Saint-Martin-de-la-Lieue",
+      "Prêtreville",
+      "Saint-Pierre-des-Ifs"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Saint-Germain-de-Livet ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Germain-de-Livet ?",
+        "a": "Nous desservons Saint-Germain-de-Livet et ses environs : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-saint-germain-de-livet",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "saint-germain-de-livet",
+    "km": 8,
+    "pop": 688,
+    "city": "Saint-Germain-de-Livet",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Saint-Germain-de-Livet | Multi Taille",
+    "meta": "Débroussaillage à Saint-Germain-de-Livet : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussailler à Saint-Germain-de-Livet : ronces et broussailles",
+    "overline": "Débroussaillage à Saint-Germain-de-Livet, à 8 km de Lisieux",
+    "intro": "Un terrain envahi à Saint-Germain-de-Livet ? Nous intervenons à environ 8 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Débroussailler à Saint-Germain-de-Livet : ce qu'il faut savoir",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Saint-Germain-de-Livet compte 688 habitants et se situe à environ 8 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue, Prêtreville et Saint-Pierre-des-Ifs. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers"
+    ],
+    "communes": [
+      "Le Mesnil-Eudes",
+      "Saint-Jean-de-Livet",
+      "Saint-Martin-de-la-Lieue",
+      "Prêtreville",
+      "Saint-Pierre-des-Ifs"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Saint-Germain-de-Livet ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Saint-Germain-de-Livet sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Germain-de-Livet ?",
+        "a": "Nous desservons Saint-Germain-de-Livet et ses environs : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-saint-germain-de-livet",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "saint-germain-de-livet",
+    "km": 8,
+    "pop": 688,
+    "city": "Saint-Germain-de-Livet",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Saint-Germain-de-Livet | Multi Taille",
+    "meta": "Un jardinier pour entretenir votre jardin à Saint-Germain-de-Livet : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Saint-Germain-de-Livet : saison par saison",
+    "overline": "Entretien de jardin à Saint-Germain-de-Livet, à 8 km de Lisieux",
+    "intro": "À Saint-Germain-de-Livet, 688 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Un jardin suivi à Saint-Germain-de-Livet",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Saint-Germain-de-Livet compte 688 habitants et se situe à environ 8 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue, Prêtreville et Saint-Pierre-des-Ifs. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "Le Mesnil-Eudes",
+      "Saint-Jean-de-Livet",
+      "Saint-Martin-de-la-Lieue",
+      "Prêtreville",
+      "Saint-Pierre-des-Ifs"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Saint-Germain-de-Livet ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Saint-Germain-de-Livet pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Saint-Germain-de-Livet ?",
+        "a": "Nous desservons Saint-Germain-de-Livet et ses environs : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-courtonne-la-meurdrac",
+    "serviceSlug": "elagage",
+    "citySlug": "courtonne-la-meurdrac",
+    "km": 8,
+    "pop": 683,
+    "city": "Courtonne-la-Meurdrac",
+    "shortName": "Élagage",
+    "title": "Élagage à Courtonne-la-Meurdrac | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Courtonne-la-Meurdrac ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Courtonne-la-Meurdrac : diagnostic gratuit",
+    "overline": "Élagueur à Courtonne-la-Meurdrac, à 8 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Courtonne-la-Meurdrac ? Nous intervenons à environ 8 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Élaguer à Courtonne-la-Meurdrac : ce qu'il faut savoir",
+      "paras": [
+        "Pommiers à cidre, noyers, chênes, hêtres : les essences du bocage ont leurs périodes de taille et leurs fragilités. Nous adaptons la technique à chaque arbre, en limitant la taille des plaies.",
+        "Un élagage se prépare : nous regardons l'essence, l'état sanitaire, l'accès et ce qui se trouve sous l'arbre (toiture, clôture, terrasse). Le diagnostic est gratuit, et le devis annoncé est le prix final.",
+        "Courtonne-la-Meurdrac compte 683 habitants et se situe à environ 8 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles, Glos et Firfol. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux"
+    ],
+    "communes": [
+      "Saint-Denis-de-Mailloc",
+      "Cordebugle",
+      "Marolles",
+      "Glos",
+      "Firfol"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un élagage à Courtonne-la-Meurdrac ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Évacuez-vous les branches après l'élagage ?",
+        "a": "Oui. Les branches sont évacuées ou broyées, selon ce qui est prévu au devis, et le jardin est ratissé : nous ne partons que lorsque le chantier est propre."
+      },
+      {
+        "q": "Quelles communes autour de Courtonne-la-Meurdrac desservez-vous ?",
+        "a": "Nous desservons Courtonne-la-Meurdrac et ses environs : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-courtonne-la-meurdrac",
+    "serviceSlug": "jardinier",
+    "citySlug": "courtonne-la-meurdrac",
+    "km": 8,
+    "pop": 683,
+    "city": "Courtonne-la-Meurdrac",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Courtonne-la-Meurdrac | Multi Taille Services",
+    "meta": "Un jardinier à Courtonne-la-Meurdrac pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Courtonne-la-Meurdrac : appelez, on passe",
+    "overline": "Jardinier à Courtonne-la-Meurdrac, à 8 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Courtonne-la-Meurdrac ? Nous intervenons à environ 8 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Les jardins de Courtonne-la-Meurdrac",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Tonte, taille, désherbage, ramassage : nous réalisons l'ensemble des travaux courants et nous évacuons les déchets verts, pour que vous retrouviez un jardin net après chaque passage.",
+        "Courtonne-la-Meurdrac compte 683 habitants et se situe à environ 8 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles, Glos et Firfol. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées"
+    ],
+    "communes": [
+      "Saint-Denis-de-Mailloc",
+      "Cordebugle",
+      "Marolles",
+      "Glos",
+      "Firfol"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Courtonne-la-Meurdrac ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Quelles communes autour de Courtonne-la-Meurdrac desservez-vous ?",
+        "a": "Nous desservons Courtonne-la-Meurdrac et ses environs : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-courtonne-la-meurdrac",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "courtonne-la-meurdrac",
+    "km": 8,
+    "pop": 683,
+    "city": "Courtonne-la-Meurdrac",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Courtonne-la-Meurdrac | Multi Taille",
+    "meta": "Taille de haies à Courtonne-la-Meurdrac (à l'est de Lisieux) : matériel adapté aux grandes hauteurs, chantier propre. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Taille de haie à Courtonne-la-Meurdrac : devis gratuit après visite",
+    "overline": "Taille de haie à Courtonne-la-Meurdrac, à 8 km de Lisieux",
+    "intro": "À Courtonne-la-Meurdrac, 683 habitants, les haies sont partout : clôtures, brise-vent, séparations. Nous les taillons ponctuellement ou chaque année, avec un chantier toujours laissé propre.",
+    "besoins": {
+      "h2": "Tailler une haie à Courtonne-la-Meurdrac",
+      "paras": [
+        "Dans le Pays d'Auge, les haies vives (charme, noisetier, aubépine) se taillent moins sévèrement que du laurier : une taille latérale annuelle suffit à les garder denses. Nous adaptons la taille à chaque haie.",
+        "Une haie se taille légèrement et souvent plutôt que fortement et rarement. Les résineux comme le thuya ne repoussent pas dans le vieux bois : nous évaluons toujours la haie avant de couper.",
+        "Courtonne-la-Meurdrac compte 683 habitants et se situe à environ 8 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles, Glos et Firfol. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée"
+    ],
+    "communes": [
+      "Saint-Denis-de-Mailloc",
+      "Cordebugle",
+      "Marolles",
+      "Glos",
+      "Firfol"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Courtonne-la-Meurdrac ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Courtonne-la-Meurdrac sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Quelles communes autour de Courtonne-la-Meurdrac desservez-vous ?",
+        "a": "Nous desservons Courtonne-la-Meurdrac et ses environs : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-courtonne-la-meurdrac",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "courtonne-la-meurdrac",
+    "km": 8,
+    "pop": 683,
+    "city": "Courtonne-la-Meurdrac",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Courtonne-la-Meurdrac | Multi Taille",
+    "meta": "Une pelouse à tondre à Courtonne-la-Meurdrac ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte à Courtonne-la-Meurdrac : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Courtonne-la-Meurdrac, à 8 km de Lisieux",
+    "intro": "À Courtonne-la-Meurdrac, 683 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Un gazon net à Courtonne-la-Meurdrac",
+      "paras": [
+        "Les prairies d'agrément et les talus se tondent autrement qu'un gazon : nous adaptons la machine et la hauteur de coupe au terrain.",
+        "Mulching ou ramassage : le mulching nourrit la pelouse quand l'herbe est régulièrement coupée, le ramassage convient aux pelouses longues ou très denses. Nous choisissons avec vous.",
+        "Courtonne-la-Meurdrac compte 683 habitants et se situe à environ 8 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles, Glos et Firfol. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle"
+    ],
+    "communes": [
+      "Saint-Denis-de-Mailloc",
+      "Cordebugle",
+      "Marolles",
+      "Glos",
+      "Firfol"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Courtonne-la-Meurdrac ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Quelles communes autour de Courtonne-la-Meurdrac desservez-vous ?",
+        "a": "Nous desservons Courtonne-la-Meurdrac et ses environs : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-courtonne-la-meurdrac",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "courtonne-la-meurdrac",
+    "km": 8,
+    "pop": 683,
+    "city": "Courtonne-la-Meurdrac",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Courtonne-la-Meurdrac | Multi Taille",
+    "meta": "Débroussailler un terrain à Courtonne-la-Meurdrac (à l'est de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Courtonne-la-Meurdrac : on reprend votre terrain",
+    "overline": "Débroussaillage à Courtonne-la-Meurdrac, à 8 km de Lisieux",
+    "intro": "Courtonne-la-Meurdrac (à l'est, à environ 8 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les terrains de Courtonne-la-Meurdrac",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Courtonne-la-Meurdrac compte 683 habitants et se situe à environ 8 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles, Glos et Firfol. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place"
+    ],
+    "communes": [
+      "Saint-Denis-de-Mailloc",
+      "Cordebugle",
+      "Marolles",
+      "Glos",
+      "Firfol"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Courtonne-la-Meurdrac ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Courtonne-la-Meurdrac desservez-vous ?",
+        "a": "Nous desservons Courtonne-la-Meurdrac et ses environs : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-courtonne-la-meurdrac",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "courtonne-la-meurdrac",
+    "km": 8,
+    "pop": 683,
+    "city": "Courtonne-la-Meurdrac",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Courtonne-la-Meurdrac | Multi Taille",
+    "meta": "Entretien de jardin à Courtonne-la-Meurdrac : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Courtonne-la-Meurdrac : toute l'année",
+    "overline": "Entretien de jardin à Courtonne-la-Meurdrac, à 8 km de Lisieux",
+    "intro": "À Courtonne-la-Meurdrac, 683 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Les jardins de Courtonne-la-Meurdrac",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Courtonne-la-Meurdrac compte 683 habitants et se situe à environ 8 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles, Glos et Firfol. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles"
+    ],
+    "communes": [
+      "Saint-Denis-de-Mailloc",
+      "Cordebugle",
+      "Marolles",
+      "Glos",
+      "Firfol"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Courtonne-la-Meurdrac ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Quelles communes autour de Courtonne-la-Meurdrac desservez-vous ?",
+        "a": "Nous desservons Courtonne-la-Meurdrac et ses environs : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-saint-hymer",
+    "serviceSlug": "elagage",
+    "citySlug": "saint-hymer",
+    "km": 11,
+    "pop": 656,
+    "city": "Saint-Hymer",
+    "shortName": "Élagage",
+    "title": "Élagage à Saint-Hymer | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Saint-Hymer ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage à Saint-Hymer : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Saint-Hymer, à 11 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Saint-Hymer ? Nous intervenons à environ 11 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Élaguer à Saint-Hymer : ce qu'il faut savoir",
+      "paras": [
+        "Dans les jardins du Pays d'Auge, les arbres sont souvent anciens et proches des bâtiments. Nous privilégions une taille douce et régulière, bien plus saine pour l'arbre qu'une coupe sévère tous les dix ans.",
+        "La bonne période d'élagage dépend de l'arbre et de l'objectif. Beaucoup d'arbres se taillent en dehors de la pleine végétation, mais un arbre dangereux se traite sans attendre.",
+        "Saint-Hymer compte 656 habitants et se situe à environ 11 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge, Reux et Le Breuil-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux"
+    ],
+    "communes": [
+      "Clarbec",
+      "Le Torquesne",
+      "Pierrefitte-en-Auge",
+      "Reux",
+      "Le Breuil-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un élagage à Saint-Hymer ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Saint-Hymer, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Évacuez-vous les branches après l'élagage ?",
+        "a": "Oui. Les branches sont évacuées ou broyées, selon ce qui est prévu au devis, et le jardin est ratissé : nous ne partons que lorsque le chantier est propre."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Hymer desservez-vous ?",
+        "a": "Nous desservons Saint-Hymer et ses environs : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-saint-hymer",
+    "serviceSlug": "jardinier",
+    "citySlug": "saint-hymer",
+    "km": 11,
+    "pop": 656,
+    "city": "Saint-Hymer",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Saint-Hymer | Multi Taille Services",
+    "meta": "Un jardinier à Saint-Hymer pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Saint-Hymer : un jardin net, toute l'année",
+    "overline": "Jardinier à Saint-Hymer, à 11 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Saint-Hymer ? Nous intervenons à environ 11 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Saint-Hymer",
+      "paras": [
+        "Tonte de grandes surfaces, taille de haies, désherbage des massifs, nettoyage des abords : nous entretenons les propriétés du bocage augeron avec des passages réguliers ou ponctuels.",
+        "Débroussaillage d'un terrain laissé à l'abandon, remise en état d'une pelouse, taille d'arbustes : nous prenons aussi les gros chantiers de remise en état avant un entretien régulier.",
+        "Saint-Hymer compte 656 habitants et se situe à environ 11 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge, Reux et Le Breuil-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Clarbec",
+      "Le Torquesne",
+      "Pierrefitte-en-Auge",
+      "Reux",
+      "Le Breuil-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Saint-Hymer ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Saint-Hymer, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Évacuez-vous les déchets verts ?",
+        "a": "Oui, les déchets verts sont évacués ou broyés selon le devis. Vous retrouvez un jardin propre après chaque passage."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Hymer desservez-vous ?",
+        "a": "Nous desservons Saint-Hymer et ses environs : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-saint-hymer",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "saint-hymer",
+    "km": 11,
+    "pop": 656,
+    "city": "Saint-Hymer",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Saint-Hymer | Multi Taille Services",
+    "meta": "Taille de haie à Saint-Hymer : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haie à Saint-Hymer : des lignes nettes",
+    "overline": "Taille de haie à Saint-Hymer, à 11 km de Lisieux",
+    "intro": "Saint-Hymer (au nord-ouest, à environ 11 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Les haies de Saint-Hymer",
+      "paras": [
+        "Dans le Pays d'Auge, les haies vives (charme, noisetier, aubépine) se taillent moins sévèrement que du laurier : une taille latérale annuelle suffit à les garder denses. Nous adaptons la taille à chaque haie.",
+        "La période de taille dépend de l'essence. Il vaut mieux éviter la pleine période de nidification des oiseaux, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne.",
+        "Saint-Hymer compte 656 habitants et se situe à environ 11 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge, Reux et Le Breuil-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée"
+    ],
+    "communes": [
+      "Clarbec",
+      "Le Torquesne",
+      "Pierrefitte-en-Auge",
+      "Reux",
+      "Le Breuil-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une taille de haie à Saint-Hymer ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Hymer desservez-vous ?",
+        "a": "Nous desservons Saint-Hymer et ses environs : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-saint-hymer",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "saint-hymer",
+    "km": 11,
+    "pop": 656,
+    "city": "Saint-Hymer",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Saint-Hymer | Multi Taille Services",
+    "meta": "Tonte à Saint-Hymer (au nord-ouest de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Saint-Hymer : on s'en charge",
+    "overline": "Tonte de pelouse à Saint-Hymer, à 11 km de Lisieux",
+    "intro": "Besoin d'une tonte à Saint-Hymer ? Nous intervenons à environ 11 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Tondre à Saint-Hymer : ce qu'il faut savoir",
+      "paras": [
+        "Les prairies d'agrément et les talus se tondent autrement qu'un gazon : nous adaptons la machine et la hauteur de coupe au terrain.",
+        "Mulching ou ramassage : le mulching nourrit la pelouse quand l'herbe est régulièrement coupée, le ramassage convient aux pelouses longues ou très denses. Nous choisissons avec vous.",
+        "Saint-Hymer compte 656 habitants et se situe à environ 11 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge, Reux et Le Breuil-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe"
+    ],
+    "communes": [
+      "Clarbec",
+      "Le Torquesne",
+      "Pierrefitte-en-Auge",
+      "Reux",
+      "Le Breuil-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Saint-Hymer ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Saint-Hymer, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Hymer desservez-vous ?",
+        "a": "Nous desservons Saint-Hymer et ses environs : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-saint-hymer",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "saint-hymer",
+    "km": 11,
+    "pop": 656,
+    "city": "Saint-Hymer",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Saint-Hymer | Multi Taille Services",
+    "meta": "Terrain envahi à Saint-Hymer ? Débroussaillage, broyage et évacuation. Visite gratuite. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Saint-Hymer : terrains, talus et friches",
+    "overline": "Débroussaillage à Saint-Hymer, à 11 km de Lisieux",
+    "intro": "Un terrain envahi à Saint-Hymer ? Nous intervenons à environ 11 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de Saint-Hymer",
+      "paras": [
+        "Un terrain laissé plusieurs années demande souvent deux passages : un premier pour ouvrir, un second pour reprendre proprement. Nous vous le disons dès la visite.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Saint-Hymer compte 656 habitants et se situe à environ 11 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge, Reux et Le Breuil-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles"
+    ],
+    "communes": [
+      "Clarbec",
+      "Le Torquesne",
+      "Pierrefitte-en-Auge",
+      "Reux",
+      "Le Breuil-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Saint-Hymer ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Saint-Hymer sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Hymer desservez-vous ?",
+        "a": "Nous desservons Saint-Hymer et ses environs : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-saint-hymer",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "saint-hymer",
+    "km": 11,
+    "pop": 656,
+    "city": "Saint-Hymer",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Saint-Hymer | Multi Taille Services",
+    "meta": "Un jardinier pour entretenir votre jardin à Saint-Hymer : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Saint-Hymer : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Saint-Hymer, à 11 km de Lisieux",
+    "intro": "Saint-Hymer (au nord-ouest, à environ 11 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Saint-Hymer",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Saint-Hymer compte 656 habitants et se situe à environ 11 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge, Reux et Le Breuil-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces"
+    ],
+    "communes": [
+      "Clarbec",
+      "Le Torquesne",
+      "Pierrefitte-en-Auge",
+      "Reux",
+      "Le Breuil-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Saint-Hymer ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Saint-Hymer pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Hymer desservez-vous ?",
+        "a": "Nous desservons Saint-Hymer et ses environs : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-bonnebosq",
+    "serviceSlug": "elagage",
+    "citySlug": "bonnebosq",
+    "km": 12,
+    "pop": 649,
+    "city": "Bonnebosq",
+    "shortName": "Élagage",
+    "title": "Élagage à Bonnebosq | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Bonnebosq ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage à Bonnebosq : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Bonnebosq, à 12 km de Lisieux",
+    "intro": "À Bonnebosq, 649 habitants, les arbres des jardins demandent un suivi régulier. Nous nous déplaçons à environ 12 km de Lisieux pour évaluer vos arbres, proposer la taille adaptée et réaliser le chantier en sécurité.",
+    "besoins": {
+      "h2": "Élaguer à Bonnebosq : ce qu'il faut savoir",
+      "paras": [
+        "Pommiers à cidre, noyers, chênes, hêtres : les essences du bocage ont leurs périodes de taille et leurs fragilités. Nous adaptons la technique à chaque arbre, en limitant la taille des plaies.",
+        "Nous travaillons avec un matériel professionnel et nous protégeons le jardin pendant l'intervention : terrasse, pelouse, haies mitoyennes et plantations restent intactes.",
+        "Bonnebosq compte 649 habitants et se situe à environ 12 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Auvillars, Valsemé, Formentin, Clarbec et Annebault. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort"
+    ],
+    "communes": [
+      "Auvillars",
+      "Valsemé",
+      "Formentin",
+      "Clarbec",
+      "Annebault"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Bonnebosq ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Bonnebosq, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Quelles communes autour de Bonnebosq desservez-vous ?",
+        "a": "Nous desservons Bonnebosq et ses environs : Auvillars, Valsemé, Formentin et Clarbec, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-bonnebosq",
+    "serviceSlug": "jardinier",
+    "citySlug": "bonnebosq",
+    "km": 12,
+    "pop": 649,
+    "city": "Bonnebosq",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Bonnebosq | Multi Taille Services",
+    "meta": "Un jardinier à Bonnebosq pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Bonnebosq : entretien régulier ou ponctuel",
+    "overline": "Jardinier à Bonnebosq, à 12 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Bonnebosq ? Nous intervenons à environ 12 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Bonnebosq",
+      "paras": [
+        "Tonte de grandes surfaces, taille de haies, désherbage des massifs, nettoyage des abords : nous entretenons les propriétés du bocage augeron avec des passages réguliers ou ponctuels.",
+        "Un entretien de jardin réussi repose sur la régularité. Nous vous proposons un passage ponctuel ou un entretien suivi, avec une visite gratuite et un devis clair avant de commencer.",
+        "Bonnebosq compte 649 habitants et se situe à environ 12 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Auvillars, Valsemé, Formentin, Clarbec et Annebault. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé"
+    ],
+    "communes": [
+      "Auvillars",
+      "Valsemé",
+      "Formentin",
+      "Clarbec",
+      "Annebault"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Bonnebosq ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Bonnebosq, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Quelles communes autour de Bonnebosq desservez-vous ?",
+        "a": "Nous desservons Bonnebosq et ses environs : Auvillars, Valsemé, Formentin et Clarbec, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-bonnebosq",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "bonnebosq",
+    "km": 12,
+    "pop": 649,
+    "city": "Bonnebosq",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Bonnebosq | Multi Taille Services",
+    "meta": "Taille de haie à Bonnebosq : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haie à Bonnebosq : devis gratuit après visite",
+    "overline": "Taille de haie à Bonnebosq, à 12 km de Lisieux",
+    "intro": "Bonnebosq (au nord-ouest, à environ 12 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Les haies de Bonnebosq",
+      "paras": [
+        "Haies de clôture, haies champêtres, haies de thuyas ou de lauriers autour de la maison : nous les entretenons toutes, en tenant compte de l'essence et de la période de nidification des oiseaux.",
+        "Nous intervenons ponctuellement ou chaque année : une haie taillée à intervalles réguliers reste dense, solide et facile à entretenir.",
+        "Bonnebosq compte 649 habitants et se situe à environ 12 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Auvillars, Valsemé, Formentin, Clarbec et Annebault. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions"
+    ],
+    "communes": [
+      "Auvillars",
+      "Valsemé",
+      "Formentin",
+      "Clarbec",
+      "Annebault"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une taille de haie à Bonnebosq ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "Pouvez-vous tailler une haie très haute ?",
+        "a": "Oui, avec le matériel adapté et en sécurité. Pour les résineux comme le thuya, nous évaluons d'abord la haie : ils ne repoussent pas depuis le vieux bois, donc nous ne descendons pas la hauteur n'importe comment."
+      },
+      {
+        "q": "Quelles communes autour de Bonnebosq desservez-vous ?",
+        "a": "Nous desservons Bonnebosq et ses environs : Auvillars, Valsemé, Formentin et Clarbec, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-bonnebosq",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "bonnebosq",
+    "km": 12,
+    "pop": 649,
+    "city": "Bonnebosq",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Bonnebosq | Multi Taille Services",
+    "meta": "Tonte de pelouse à Bonnebosq : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Bonnebosq : on s'en charge",
+    "overline": "Tonte de pelouse à Bonnebosq, à 12 km de Lisieux",
+    "intro": "Bonnebosq (au nord-ouest, à environ 12 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Votre pelouse à Bonnebosq",
+      "paras": [
+        "Les prairies d'agrément et les talus se tondent autrement qu'un gazon : nous adaptons la machine et la hauteur de coupe au terrain.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Bonnebosq compte 649 habitants et se situe à environ 12 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Auvillars, Valsemé, Formentin, Clarbec et Annebault. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs"
+    ],
+    "communes": [
+      "Auvillars",
+      "Valsemé",
+      "Formentin",
+      "Clarbec",
+      "Annebault"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Bonnebosq ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Bonnebosq, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Quelles communes autour de Bonnebosq desservez-vous ?",
+        "a": "Nous desservons Bonnebosq et ses environs : Auvillars, Valsemé, Formentin et Clarbec, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-bonnebosq",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "bonnebosq",
+    "km": 12,
+    "pop": 649,
+    "city": "Bonnebosq",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Bonnebosq | Multi Taille Services",
+    "meta": "Débroussaillage à Bonnebosq : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Bonnebosq : on reprend votre terrain",
+    "overline": "Débroussaillage à Bonnebosq, à 12 km de Lisieux",
+    "intro": "Un terrain envahi à Bonnebosq ? Nous intervenons à environ 12 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Un terrain propre à Bonnebosq",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Bonnebosq compte 649 habitants et se situe à environ 12 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Auvillars, Valsemé, Formentin, Clarbec et Annebault. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures"
+    ],
+    "communes": [
+      "Auvillars",
+      "Valsemé",
+      "Formentin",
+      "Clarbec",
+      "Annebault"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Bonnebosq ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Bonnebosq sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Quelles communes autour de Bonnebosq desservez-vous ?",
+        "a": "Nous desservons Bonnebosq et ses environs : Auvillars, Valsemé, Formentin et Clarbec, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-bonnebosq",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "bonnebosq",
+    "km": 12,
+    "pop": 649,
+    "city": "Bonnebosq",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Bonnebosq | Multi Taille Services",
+    "meta": "Un jardinier pour entretenir votre jardin à Bonnebosq : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Bonnebosq : toute l'année",
+    "overline": "Entretien de jardin à Bonnebosq, à 12 km de Lisieux",
+    "intro": "À Bonnebosq, 649 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Les jardins de Bonnebosq",
+      "paras": [
+        "Une propriété de campagne se gère par saison. Nous nous occupons de l'entretien courant pour que vous profitiez du jardin au lieu de le subir.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Bonnebosq compte 649 habitants et se situe à environ 12 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Auvillars, Valsemé, Formentin, Clarbec et Annebault. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires"
+    ],
+    "communes": [
+      "Auvillars",
+      "Valsemé",
+      "Formentin",
+      "Clarbec",
+      "Annebault"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Bonnebosq ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Bonnebosq desservez-vous ?",
+        "a": "Nous desservons Bonnebosq et ses environs : Auvillars, Valsemé, Formentin et Clarbec, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-saint-philbert-des-champs",
+    "serviceSlug": "elagage",
+    "citySlug": "saint-philbert-des-champs",
+    "km": 8,
+    "pop": 639,
+    "city": "Saint-Philbert-des-Champs",
+    "shortName": "Élagage",
+    "title": "Élagage à Saint-Philbert-des-Champs | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Saint-Philbert-des-Champs ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Saint-Philbert-des-Champs : diagnostic gratuit",
+    "overline": "Élagueur à Saint-Philbert-des-Champs, à 8 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Saint-Philbert-des-Champs ? Nous intervenons à environ 8 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Les arbres de Saint-Philbert-des-Champs",
+      "paras": [
+        "Dans les jardins du Pays d'Auge, les arbres sont souvent anciens et proches des bâtiments. Nous privilégions une taille douce et régulière, bien plus saine pour l'arbre qu'une coupe sévère tous les dix ans.",
+        "Un élagage se prépare : nous regardons l'essence, l'état sanitaire, l'accès et ce qui se trouve sous l'arbre (toiture, clôture, terrasse). Le diagnostic est gratuit, et le devis annoncé est le prix final.",
+        "Saint-Philbert-des-Champs compte 639 habitants et se situe à environ 8 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Brévedent, Fauguernon, Norolles, Le Breuil-en-Auge et Blangy-le-Château. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement"
+    ],
+    "communes": [
+      "Le Brévedent",
+      "Fauguernon",
+      "Norolles",
+      "Le Breuil-en-Auge",
+      "Blangy-le-Château"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un élagage à Saint-Philbert-des-Champs ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Saint-Philbert-des-Champs, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Philbert-des-Champs desservez-vous ?",
+        "a": "Nous desservons Saint-Philbert-des-Champs et ses environs : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-saint-philbert-des-champs",
+    "serviceSlug": "jardinier",
+    "citySlug": "saint-philbert-des-champs",
+    "km": 8,
+    "pop": 639,
+    "city": "Saint-Philbert-des-Champs",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Saint-Philbert-des-Champs | Multi Taille",
+    "meta": "Un jardinier à Saint-Philbert-des-Champs pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Saint-Philbert-des-Champs : un jardin net, toute l'année",
+    "overline": "Jardinier à Saint-Philbert-des-Champs, à 8 km de Lisieux",
+    "intro": "À Saint-Philbert-des-Champs, 639 habitants, l'entretien d'un jardin prend vite du temps. Nous prenons le relais : passages réguliers, remise en état avant l'été, ramassage de fin de saison.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Saint-Philbert-des-Champs",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Au printemps, remise en ordre et premières tontes ; en été, entretien courant ; à l'automne, ramassage et taille de saison. Nous organisons l'année avec vous, saison par saison.",
+        "Saint-Philbert-des-Champs compte 639 habitants et se situe à environ 8 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Brévedent, Fauguernon, Norolles, Le Breuil-en-Auge et Blangy-le-Château. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions"
+    ],
+    "communes": [
+      "Le Brévedent",
+      "Fauguernon",
+      "Norolles",
+      "Le Breuil-en-Auge",
+      "Blangy-le-Château"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Saint-Philbert-des-Champs ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Saint-Philbert-des-Champs, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Pouvez-vous remettre en état un jardin laissé à l'abandon ?",
+        "a": "Oui. Nous débroussaillons, tondons, taillons et évacuons, puis nous proposons un entretien régulier pour que le jardin ne se referme pas. La visite préalable est gratuite."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Philbert-des-Champs desservez-vous ?",
+        "a": "Nous desservons Saint-Philbert-des-Champs et ses environs : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-saint-philbert-des-champs",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "saint-philbert-des-champs",
+    "km": 8,
+    "pop": 639,
+    "city": "Saint-Philbert-des-Champs",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Saint-Philbert-des-Champs | Multi Taille",
+    "meta": "Une haie à tailler à Saint-Philbert-des-Champs ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Saint-Philbert-des-Champs : des lignes nettes",
+    "overline": "Taille de haie à Saint-Philbert-des-Champs, à 8 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Saint-Philbert-des-Champs ? Nous intervenons à environ 8 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Tailler une haie à Saint-Philbert-des-Champs",
+      "paras": [
+        "Haies de clôture, haies champêtres, haies de thuyas ou de lauriers autour de la maison : nous les entretenons toutes, en tenant compte de l'essence et de la période de nidification des oiseaux.",
+        "Nous intervenons ponctuellement ou chaque année : une haie taillée à intervalles réguliers reste dense, solide et facile à entretenir.",
+        "Saint-Philbert-des-Champs compte 639 habitants et se situe à environ 8 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Brévedent, Fauguernon, Norolles, Le Breuil-en-Auge et Blangy-le-Château. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions"
+    ],
+    "communes": [
+      "Le Brévedent",
+      "Fauguernon",
+      "Norolles",
+      "Le Breuil-en-Auge",
+      "Blangy-le-Château"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Saint-Philbert-des-Champs ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Saint-Philbert-des-Champs sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Philbert-des-Champs desservez-vous ?",
+        "a": "Nous desservons Saint-Philbert-des-Champs et ses environs : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-saint-philbert-des-champs",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "saint-philbert-des-champs",
+    "km": 8,
+    "pop": 639,
+    "city": "Saint-Philbert-des-Champs",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Saint-Philbert-des-Champs | Multi Taille",
+    "meta": "Tonte de pelouse à Saint-Philbert-des-Champs : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Saint-Philbert-des-Champs : on s'en charge",
+    "overline": "Tonte de pelouse à Saint-Philbert-des-Champs, à 8 km de Lisieux",
+    "intro": "Saint-Philbert-des-Champs (au nord-est, à environ 8 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Votre pelouse à Saint-Philbert-des-Champs",
+      "paras": [
+        "Les prairies d'agrément et les talus se tondent autrement qu'un gazon : nous adaptons la machine et la hauteur de coupe au terrain.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Saint-Philbert-des-Champs compte 639 habitants et se situe à environ 8 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Brévedent, Fauguernon, Norolles, Le Breuil-en-Auge et Blangy-le-Château. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses"
+    ],
+    "communes": [
+      "Le Brévedent",
+      "Fauguernon",
+      "Norolles",
+      "Le Breuil-en-Auge",
+      "Blangy-le-Château"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Saint-Philbert-des-Champs ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Saint-Philbert-des-Champs, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Philbert-des-Champs desservez-vous ?",
+        "a": "Nous desservons Saint-Philbert-des-Champs et ses environs : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-saint-philbert-des-champs",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "saint-philbert-des-champs",
+    "km": 8,
+    "pop": 639,
+    "city": "Saint-Philbert-des-Champs",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Saint-Philbert-des-Champs | Multi Taille",
+    "meta": "Débroussailler un terrain à Saint-Philbert-des-Champs (au nord-est de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Saint-Philbert-des-Champs : on reprend votre terrain",
+    "overline": "Débroussaillage à Saint-Philbert-des-Champs, à 8 km de Lisieux",
+    "intro": "Un terrain envahi à Saint-Philbert-des-Champs ? Nous intervenons à environ 8 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Débroussailler à Saint-Philbert-des-Champs : ce qu'il faut savoir",
+      "paras": [
+        "Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Saint-Philbert-des-Champs compte 639 habitants et se situe à environ 8 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Brévedent, Fauguernon, Norolles, Le Breuil-en-Auge et Blangy-le-Château. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver"
+    ],
+    "communes": [
+      "Le Brévedent",
+      "Fauguernon",
+      "Norolles",
+      "Le Breuil-en-Auge",
+      "Blangy-le-Château"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Saint-Philbert-des-Champs ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Saint-Philbert-des-Champs sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Philbert-des-Champs desservez-vous ?",
+        "a": "Nous desservons Saint-Philbert-des-Champs et ses environs : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-saint-philbert-des-champs",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "saint-philbert-des-champs",
+    "km": 8,
+    "pop": 639,
+    "city": "Saint-Philbert-des-Champs",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Saint-Philbert-des-Champs",
+    "meta": "Entretien de jardin à Saint-Philbert-des-Champs : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Saint-Philbert-des-Champs : toute l'année",
+    "overline": "Entretien de jardin à Saint-Philbert-des-Champs, à 8 km de Lisieux",
+    "intro": "Saint-Philbert-des-Champs (au nord-est, à environ 8 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Les jardins de Saint-Philbert-des-Champs",
+      "paras": [
+        "Au printemps, remise en ordre et premières tontes ; en été, tonte et taille légère ; à l'automne, ramassage des feuilles et taille de saison. Chaque passage est planifié.",
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Saint-Philbert-des-Champs compte 639 habitants et se situe à environ 8 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Brévedent, Fauguernon, Norolles, Le Breuil-en-Auge et Blangy-le-Château. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures"
+    ],
+    "communes": [
+      "Le Brévedent",
+      "Fauguernon",
+      "Norolles",
+      "Le Breuil-en-Auge",
+      "Blangy-le-Château"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Saint-Philbert-des-Champs ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Saint-Philbert-des-Champs pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Philbert-des-Champs desservez-vous ?",
+        "a": "Nous desservons Saint-Philbert-des-Champs et ses environs : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-courtonne-les-deux-eglises",
+    "serviceSlug": "elagage",
+    "citySlug": "courtonne-les-deux-eglises",
+    "km": 13,
+    "pop": 627,
+    "city": "Courtonne-les-Deux-Églises",
+    "shortName": "Élagage",
+    "title": "Élagage à Courtonne-les-Deux-Églises | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Courtonne-les-Deux-Églises ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Courtonne-les-Deux-Églises : diagnostic gratuit",
+    "overline": "Élagueur à Courtonne-les-Deux-Églises, à 13 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Courtonne-les-Deux-Églises ? Nous intervenons à environ 13 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Les arbres de Courtonne-les-Deux-Églises",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "Une taille raisonnée vaut mieux qu'une coupe radicale : elle préserve la santé de l'arbre, limite les rejets et reste discrète dans le paysage. C'est notre principe sur tous nos chantiers.",
+        "Courtonne-les-Deux-Églises compte 627 habitants et se situe à environ 13 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Cordebugle, Le Planquay, Valorbiquet, Saint-Denis-de-Mailloc et Saint-Germain-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête"
+    ],
+    "communes": [
+      "Cordebugle",
+      "Le Planquay",
+      "Valorbiquet",
+      "Saint-Denis-de-Mailloc",
+      "Saint-Germain-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Courtonne-les-Deux-Églises ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Courtonne-les-Deux-Églises, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Un arbre a perdu de grosses branches après le vent, que faire ?",
+        "a": "Appelez-nous sans attendre : une charpentière fendue peut lâcher sans prévenir. Nous évaluons l'arbre, sécurisons la zone si nécessaire, puis réalisons une taille de sécurisation ou, si l'arbre est trop compromis, un démontage contrôlé."
+      },
+      {
+        "q": "Quelles communes autour de Courtonne-les-Deux-Églises desservez-vous ?",
+        "a": "Oui : nous intervenons à Courtonne-les-Deux-Églises et dans les communes voisines, notamment Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-courtonne-les-deux-eglises",
+    "serviceSlug": "jardinier",
+    "citySlug": "courtonne-les-deux-eglises",
+    "km": 13,
+    "pop": 627,
+    "city": "Courtonne-les-Deux-Églises",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Courtonne-les-Deux-Églises | Multi Taille",
+    "meta": "Entretien de jardin à Courtonne-les-Deux-Églises (à l'est de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Jardinier à Courtonne-les-Deux-Églises : un jardin net, toute l'année",
+    "overline": "Jardinier à Courtonne-les-Deux-Églises, à 13 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Courtonne-les-Deux-Églises ? Nous intervenons à environ 13 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Un jardin net à Courtonne-les-Deux-Églises",
+      "paras": [
+        "Tonte de grandes surfaces, taille de haies, désherbage des massifs, nettoyage des abords : nous entretenons les propriétés du bocage augeron avec des passages réguliers ou ponctuels.",
+        "Débroussaillage d'un terrain laissé à l'abandon, remise en état d'une pelouse, taille d'arbustes : nous prenons aussi les gros chantiers de remise en état avant un entretien régulier.",
+        "Courtonne-les-Deux-Églises compte 627 habitants et se situe à environ 13 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Cordebugle, Le Planquay, Valorbiquet, Saint-Denis-de-Mailloc et Saint-Germain-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "Cordebugle",
+      "Le Planquay",
+      "Valorbiquet",
+      "Saint-Denis-de-Mailloc",
+      "Saint-Germain-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Courtonne-les-Deux-Églises ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Courtonne-les-Deux-Églises, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Pouvez-vous remettre en état un jardin laissé à l'abandon ?",
+        "a": "Oui. Nous débroussaillons, tondons, taillons et évacuons, puis nous proposons un entretien régulier pour que le jardin ne se referme pas. La visite préalable est gratuite."
+      },
+      {
+        "q": "Quelles communes autour de Courtonne-les-Deux-Églises desservez-vous ?",
+        "a": "Oui : nous intervenons à Courtonne-les-Deux-Églises et dans les communes voisines, notamment Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-courtonne-les-deux-eglises",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "courtonne-les-deux-eglises",
+    "km": 13,
+    "pop": 627,
+    "city": "Courtonne-les-Deux-Églises",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Courtonne-les-Deux-Églises | Multi Taille",
+    "meta": "Taille de haie à Courtonne-les-Deux-Églises : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haie à Courtonne-les-Deux-Églises : des lignes nettes",
+    "overline": "Taille de haie à Courtonne-les-Deux-Églises, à 13 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Courtonne-les-Deux-Églises ? Nous intervenons à environ 13 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Tailler une haie à Courtonne-les-Deux-Églises",
+      "paras": [
+        "Dans le Pays d'Auge, les haies vives (charme, noisetier, aubépine) se taillent moins sévèrement que du laurier : une taille latérale annuelle suffit à les garder denses. Nous adaptons la taille à chaque haie.",
+        "Nous taillons les haies en hauteur avec un matériel adapté et en sécurité, y compris les grandes haies de thuyas qui dépassent la toiture d'une maison.",
+        "Courtonne-les-Deux-Églises compte 627 habitants et se situe à environ 13 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Cordebugle, Le Planquay, Valorbiquet, Saint-Denis-de-Mailloc et Saint-Germain-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets"
+    ],
+    "communes": [
+      "Cordebugle",
+      "Le Planquay",
+      "Valorbiquet",
+      "Saint-Denis-de-Mailloc",
+      "Saint-Germain-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une taille de haie à Courtonne-les-Deux-Églises ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Quelles communes autour de Courtonne-les-Deux-Églises desservez-vous ?",
+        "a": "Oui : nous intervenons à Courtonne-les-Deux-Églises et dans les communes voisines, notamment Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-courtonne-les-deux-eglises",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "courtonne-les-deux-eglises",
+    "km": 13,
+    "pop": 627,
+    "city": "Courtonne-les-Deux-Églises",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Courtonne-les-Deux-Églises | Multi Taille",
+    "meta": "Tonte de pelouse à Courtonne-les-Deux-Églises : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Courtonne-les-Deux-Églises : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Courtonne-les-Deux-Églises, à 13 km de Lisieux",
+    "intro": "À Courtonne-les-Deux-Églises, 627 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Tondre à Courtonne-les-Deux-Églises : ce qu'il faut savoir",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Courtonne-les-Deux-Églises compte 627 habitants et se situe à environ 13 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Cordebugle, Le Planquay, Valorbiquet, Saint-Denis-de-Mailloc et Saint-Germain-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe"
+    ],
+    "communes": [
+      "Cordebugle",
+      "Le Planquay",
+      "Valorbiquet",
+      "Saint-Denis-de-Mailloc",
+      "Saint-Germain-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Courtonne-les-Deux-Églises ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Courtonne-les-Deux-Églises, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Quelles communes autour de Courtonne-les-Deux-Églises desservez-vous ?",
+        "a": "Oui : nous intervenons à Courtonne-les-Deux-Églises et dans les communes voisines, notamment Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-courtonne-les-deux-eglises",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "courtonne-les-deux-eglises",
+    "km": 13,
+    "pop": 627,
+    "city": "Courtonne-les-Deux-Églises",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Courtonne-les-Deux-Églises | Multi Taille",
+    "meta": "Débroussaillage à Courtonne-les-Deux-Églises : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussailler à Courtonne-les-Deux-Églises : ronces et broussailles",
+    "overline": "Débroussaillage à Courtonne-les-Deux-Églises, à 13 km de Lisieux",
+    "intro": "À Courtonne-les-Deux-Églises, 627 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Débroussailler à Courtonne-les-Deux-Églises : ce qu'il faut savoir",
+      "paras": [
+        "Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Courtonne-les-Deux-Églises compte 627 habitants et se situe à environ 13 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Cordebugle, Le Planquay, Valorbiquet, Saint-Denis-de-Mailloc et Saint-Germain-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Cordebugle",
+      "Le Planquay",
+      "Valorbiquet",
+      "Saint-Denis-de-Mailloc",
+      "Saint-Germain-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Courtonne-les-Deux-Églises ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Courtonne-les-Deux-Églises sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Quelles communes autour de Courtonne-les-Deux-Églises desservez-vous ?",
+        "a": "Oui : nous intervenons à Courtonne-les-Deux-Églises et dans les communes voisines, notamment Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-courtonne-les-deux-eglises",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "courtonne-les-deux-eglises",
+    "km": 13,
+    "pop": 627,
+    "city": "Courtonne-les-Deux-Églises",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Courtonne-les-Deux-Églises",
+    "meta": "Entretien de jardin à Courtonne-les-Deux-Églises (à l'est de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Courtonne-les-Deux-Églises : saison par saison",
+    "overline": "Entretien de jardin à Courtonne-les-Deux-Églises, à 13 km de Lisieux",
+    "intro": "Courtonne-les-Deux-Églises (à l'est, à environ 13 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Courtonne-les-Deux-Églises",
+      "paras": [
+        "Au printemps, remise en ordre et premières tontes ; en été, tonte et taille légère ; à l'automne, ramassage des feuilles et taille de saison. Chaque passage est planifié.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Courtonne-les-Deux-Églises compte 627 habitants et se situe à environ 13 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Cordebugle, Le Planquay, Valorbiquet, Saint-Denis-de-Mailloc et Saint-Germain-la-Campagne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées"
+    ],
+    "communes": [
+      "Cordebugle",
+      "Le Planquay",
+      "Valorbiquet",
+      "Saint-Denis-de-Mailloc",
+      "Saint-Germain-la-Campagne"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Courtonne-les-Deux-Églises ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Courtonne-les-Deux-Églises pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Courtonne-les-Deux-Églises desservez-vous ?",
+        "a": "Oui : nous intervenons à Courtonne-les-Deux-Églises et dans les communes voisines, notamment Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-le-mesnil-guillaume",
+    "serviceSlug": "elagage",
+    "citySlug": "le-mesnil-guillaume",
+    "km": 6,
+    "pop": 551,
+    "city": "Le Mesnil-Guillaume",
+    "shortName": "Élagage",
+    "title": "Élagage à Le Mesnil-Guillaume | Multi Taille Services",
+    "meta": "Élagage d'arbres à Le Mesnil-Guillaume : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagueur à Le Mesnil-Guillaume : taille soignée et chantier propre",
+    "overline": "Élagueur à Le Mesnil-Guillaume, à 6 km de Lisieux",
+    "intro": "Le Mesnil-Guillaume (au sud-est, à environ 6 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Des arbres bien taillés à Le Mesnil-Guillaume",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "Une taille raisonnée vaut mieux qu'une coupe radicale : elle préserve la santé de l'arbre, limite les rejets et reste discrète dans le paysage. C'est notre principe sur tous nos chantiers.",
+        "Le Mesnil-Guillaume compte 551 habitants et se situe à environ 6 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc, Saint-Jean-de-Livet et Beuvillers. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne"
+    ],
+    "communes": [
+      "Saint-Martin-de-Mailloc",
+      "Glos",
+      "Saint-Denis-de-Mailloc",
+      "Saint-Jean-de-Livet",
+      "Beuvillers"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Le Mesnil-Guillaume ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Le Mesnil-Guillaume, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Quelles communes autour de Le Mesnil-Guillaume desservez-vous ?",
+        "a": "Oui : nous intervenons à Le Mesnil-Guillaume et dans les communes voisines, notamment Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-le-mesnil-guillaume",
+    "serviceSlug": "jardinier",
+    "citySlug": "le-mesnil-guillaume",
+    "km": 6,
+    "pop": 551,
+    "city": "Le Mesnil-Guillaume",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Le Mesnil-Guillaume | Multi Taille Services",
+    "meta": "Un jardinier à Le Mesnil-Guillaume pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Le Mesnil-Guillaume : un jardin net, toute l'année",
+    "overline": "Jardinier à Le Mesnil-Guillaume, à 6 km de Lisieux",
+    "intro": "Le Mesnil-Guillaume (au sud-est, à environ 6 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Le Mesnil-Guillaume",
+      "paras": [
+        "Une propriété de campagne se gère par saison : tonte et débroussaillage au printemps, taille des haies en été, ramassage et nettoyage à l'automne. Nous planifions chaque passage avec vous.",
+        "Nous intervenons chez les particuliers comme chez les professionnels et les propriétaires de résidences secondaires, avec un point de contact unique : un appel suffit.",
+        "Le Mesnil-Guillaume compte 551 habitants et se situe à environ 6 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc, Saint-Jean-de-Livet et Beuvillers. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé"
+    ],
+    "communes": [
+      "Saint-Martin-de-Mailloc",
+      "Glos",
+      "Saint-Denis-de-Mailloc",
+      "Saint-Jean-de-Livet",
+      "Beuvillers"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Le Mesnil-Guillaume ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Le Mesnil-Guillaume, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Quelles communes autour de Le Mesnil-Guillaume desservez-vous ?",
+        "a": "Oui : nous intervenons à Le Mesnil-Guillaume et dans les communes voisines, notamment Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-le-mesnil-guillaume",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "le-mesnil-guillaume",
+    "km": 6,
+    "pop": 551,
+    "city": "Le Mesnil-Guillaume",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Le Mesnil-Guillaume | Multi Taille Services",
+    "meta": "Une haie à tailler à Le Mesnil-Guillaume ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Le Mesnil-Guillaume : devis gratuit après visite",
+    "overline": "Taille de haie à Le Mesnil-Guillaume, à 6 km de Lisieux",
+    "intro": "À Le Mesnil-Guillaume, 551 habitants, les haies sont partout : clôtures, brise-vent, séparations. Nous les taillons ponctuellement ou chaque année, avec un chantier toujours laissé propre.",
+    "besoins": {
+      "h2": "Les haies de Le Mesnil-Guillaume",
+      "paras": [
+        "Dans le Pays d'Auge, les haies vives (charme, noisetier, aubépine) se taillent moins sévèrement que du laurier : une taille latérale annuelle suffit à les garder denses. Nous adaptons la taille à chaque haie.",
+        "Une haie se taille légèrement et souvent plutôt que fortement et rarement. Les résineux comme le thuya ne repoussent pas dans le vieux bois : nous évaluons toujours la haie avant de couper.",
+        "Le Mesnil-Guillaume compte 551 habitants et se situe à environ 6 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc, Saint-Jean-de-Livet et Beuvillers. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions"
+    ],
+    "communes": [
+      "Saint-Martin-de-Mailloc",
+      "Glos",
+      "Saint-Denis-de-Mailloc",
+      "Saint-Jean-de-Livet",
+      "Beuvillers"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Le Mesnil-Guillaume ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Quelles communes autour de Le Mesnil-Guillaume desservez-vous ?",
+        "a": "Oui : nous intervenons à Le Mesnil-Guillaume et dans les communes voisines, notamment Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-le-mesnil-guillaume",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "le-mesnil-guillaume",
+    "km": 6,
+    "pop": 551,
+    "city": "Le Mesnil-Guillaume",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Le Mesnil-Guillaume | Multi Taille",
+    "meta": "Tonte à Le Mesnil-Guillaume (au sud-est de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Le Mesnil-Guillaume : on s'en charge",
+    "overline": "Tonte de pelouse à Le Mesnil-Guillaume, à 6 km de Lisieux",
+    "intro": "À Le Mesnil-Guillaume, 551 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Un gazon net à Le Mesnil-Guillaume",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "Mulching ou ramassage : le mulching nourrit la pelouse quand l'herbe est régulièrement coupée, le ramassage convient aux pelouses longues ou très denses. Nous choisissons avec vous.",
+        "Le Mesnil-Guillaume compte 551 habitants et se situe à environ 6 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc, Saint-Jean-de-Livet et Beuvillers. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe"
+    ],
+    "communes": [
+      "Saint-Martin-de-Mailloc",
+      "Glos",
+      "Saint-Denis-de-Mailloc",
+      "Saint-Jean-de-Livet",
+      "Beuvillers"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Le Mesnil-Guillaume ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Le Mesnil-Guillaume, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Quelles communes autour de Le Mesnil-Guillaume desservez-vous ?",
+        "a": "Oui : nous intervenons à Le Mesnil-Guillaume et dans les communes voisines, notamment Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-le-mesnil-guillaume",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "le-mesnil-guillaume",
+    "km": 6,
+    "pop": 551,
+    "city": "Le Mesnil-Guillaume",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Le Mesnil-Guillaume | Multi Taille",
+    "meta": "Débroussaillage à Le Mesnil-Guillaume : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussailler à Le Mesnil-Guillaume : ronces et broussailles",
+    "overline": "Débroussaillage à Le Mesnil-Guillaume, à 6 km de Lisieux",
+    "intro": "Le Mesnil-Guillaume (au sud-est, à environ 6 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Débroussailler à Le Mesnil-Guillaume : ce qu'il faut savoir",
+      "paras": [
+        "Un terrain laissé plusieurs années demande souvent deux passages : un premier pour ouvrir, un second pour reprendre proprement. Nous vous le disons dès la visite.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Le Mesnil-Guillaume compte 551 habitants et se situe à environ 6 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc, Saint-Jean-de-Livet et Beuvillers. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver"
+    ],
+    "communes": [
+      "Saint-Martin-de-Mailloc",
+      "Glos",
+      "Saint-Denis-de-Mailloc",
+      "Saint-Jean-de-Livet",
+      "Beuvillers"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Le Mesnil-Guillaume ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Le Mesnil-Guillaume sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Le Mesnil-Guillaume desservez-vous ?",
+        "a": "Oui : nous intervenons à Le Mesnil-Guillaume et dans les communes voisines, notamment Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-le-mesnil-guillaume",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "le-mesnil-guillaume",
+    "km": 6,
+    "pop": 551,
+    "city": "Le Mesnil-Guillaume",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Le Mesnil-Guillaume | Multi Taille",
+    "meta": "Entretien de jardin à Le Mesnil-Guillaume (au sud-est de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Le Mesnil-Guillaume : saison par saison",
+    "overline": "Entretien de jardin à Le Mesnil-Guillaume, à 6 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Le Mesnil-Guillaume ? Nous intervenons à environ 6 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Le Mesnil-Guillaume",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Le Mesnil-Guillaume compte 551 habitants et se situe à environ 6 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc, Saint-Jean-de-Livet et Beuvillers. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "Saint-Martin-de-Mailloc",
+      "Glos",
+      "Saint-Denis-de-Mailloc",
+      "Saint-Jean-de-Livet",
+      "Beuvillers"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Le Mesnil-Guillaume ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Quelles communes autour de Le Mesnil-Guillaume desservez-vous ?",
+        "a": "Oui : nous intervenons à Le Mesnil-Guillaume et dans les communes voisines, notamment Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-manerbe",
+    "serviceSlug": "elagage",
+    "citySlug": "manerbe",
+    "km": 7,
+    "pop": 544,
+    "city": "Manerbe",
+    "shortName": "Élagage",
+    "title": "Élagage à Manerbe | Multi Taille Services",
+    "meta": "Élagage d'arbres à Manerbe : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Manerbe : diagnostic gratuit",
+    "overline": "Élagueur à Manerbe, à 7 km de Lisieux",
+    "intro": "À Manerbe, 544 habitants, les arbres des jardins demandent un suivi régulier. Nous nous déplaçons à environ 7 km de Lisieux pour évaluer vos arbres, proposer la taille adaptée et réaliser le chantier en sécurité.",
+    "besoins": {
+      "h2": "Élaguer à Manerbe : ce qu'il faut savoir",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "La bonne période d'élagage dépend de l'arbre et de l'objectif. Beaucoup d'arbres se taillent en dehors de la pleine végétation, mais un arbre dangereux se traite sans attendre.",
+        "Manerbe compte 544 habitants et se situe à environ 7 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin, Coquainvilliers et Auvillars. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux"
+    ],
+    "communes": [
+      "Formentin",
+      "Le Pré-d'Auge",
+      "Saint-Ouen-le-Pin",
+      "Coquainvilliers",
+      "Auvillars"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un élagage à Manerbe ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Évacuez-vous les branches après l'élagage ?",
+        "a": "Oui. Les branches sont évacuées ou broyées, selon ce qui est prévu au devis, et le jardin est ratissé : nous ne partons que lorsque le chantier est propre."
+      },
+      {
+        "q": "Quelles communes autour de Manerbe desservez-vous ?",
+        "a": "Nous desservons Manerbe et ses environs : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-manerbe",
+    "serviceSlug": "jardinier",
+    "citySlug": "manerbe",
+    "km": 7,
+    "pop": 544,
+    "city": "Manerbe",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Manerbe | Multi Taille Services",
+    "meta": "Jardinier à Manerbe : tonte, taille de haies, désherbage, évacuation des déchets verts. Passage ponctuel ou régulier, devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Manerbe : appelez, on passe",
+    "overline": "Jardinier à Manerbe, à 7 km de Lisieux",
+    "intro": "À Manerbe, 544 habitants, l'entretien d'un jardin prend vite du temps. Nous prenons le relais : passages réguliers, remise en état avant l'été, ramassage de fin de saison.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Manerbe",
+      "paras": [
+        "Tonte de grandes surfaces, taille de haies, désherbage des massifs, nettoyage des abords : nous entretenons les propriétés du bocage augeron avec des passages réguliers ou ponctuels.",
+        "Tonte, taille, désherbage, ramassage : nous réalisons l'ensemble des travaux courants et nous évacuons les déchets verts, pour que vous retrouviez un jardin net après chaque passage.",
+        "Manerbe compte 544 habitants et se situe à environ 7 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin, Coquainvilliers et Auvillars. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces"
+    ],
+    "communes": [
+      "Formentin",
+      "Le Pré-d'Auge",
+      "Saint-Ouen-le-Pin",
+      "Coquainvilliers",
+      "Auvillars"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Manerbe ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Manerbe, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Pouvez-vous remettre en état un jardin laissé à l'abandon ?",
+        "a": "Oui. Nous débroussaillons, tondons, taillons et évacuons, puis nous proposons un entretien régulier pour que le jardin ne se referme pas. La visite préalable est gratuite."
+      },
+      {
+        "q": "Quelles communes autour de Manerbe desservez-vous ?",
+        "a": "Nous desservons Manerbe et ses environs : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-manerbe",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "manerbe",
+    "km": 7,
+    "pop": 544,
+    "city": "Manerbe",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Manerbe | Multi Taille Services",
+    "meta": "Taille de haie à Manerbe : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haie à Manerbe : des lignes nettes",
+    "overline": "Taille de haie à Manerbe, à 7 km de Lisieux",
+    "intro": "À Manerbe, 544 habitants, les haies sont partout : clôtures, brise-vent, séparations. Nous les taillons ponctuellement ou chaque année, avec un chantier toujours laissé propre.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Manerbe",
+      "paras": [
+        "Une haie de campagne peut mesurer plusieurs dizaines de mètres. Nous intervenons avec le matériel adapté, sur une journée ou plusieurs, et nous évacuons ou broyons les déchets.",
+        "Taille au cordeau, finitions à la cisaille, évacuation ou broyage des déchets : le chantier est conduit jusqu'au bout et le jardin laissé propre.",
+        "Manerbe compte 544 habitants et se situe à environ 7 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin, Coquainvilliers et Auvillars. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres"
+    ],
+    "communes": [
+      "Formentin",
+      "Le Pré-d'Auge",
+      "Saint-Ouen-le-Pin",
+      "Coquainvilliers",
+      "Auvillars"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une taille de haie à Manerbe ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Manerbe sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Quelles communes autour de Manerbe desservez-vous ?",
+        "a": "Nous desservons Manerbe et ses environs : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-manerbe",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "manerbe",
+    "km": 7,
+    "pop": 544,
+    "city": "Manerbe",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Manerbe | Multi Taille Services",
+    "meta": "Tonte de pelouse à Manerbe : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte à Manerbe : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Manerbe, à 7 km de Lisieux",
+    "intro": "Besoin d'une tonte à Manerbe ? Nous intervenons à environ 7 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Tondre à Manerbe : ce qu'il faut savoir",
+      "paras": [
+        "Les grands jardins du bocage demandent du temps et du matériel : nous prenons la tonte en charge, du simple passage mensuel au suivi hebdomadaire en pleine pousse.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Manerbe compte 544 habitants et se situe à environ 7 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin, Coquainvilliers et Auvillars. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue"
+    ],
+    "communes": [
+      "Formentin",
+      "Le Pré-d'Auge",
+      "Saint-Ouen-le-Pin",
+      "Coquainvilliers",
+      "Auvillars"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Manerbe ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Manerbe desservez-vous ?",
+        "a": "Nous desservons Manerbe et ses environs : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-manerbe",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "manerbe",
+    "km": 7,
+    "pop": 544,
+    "city": "Manerbe",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Manerbe | Multi Taille Services",
+    "meta": "Débroussaillage à Manerbe : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Manerbe : on reprend votre terrain",
+    "overline": "Débroussaillage à Manerbe, à 7 km de Lisieux",
+    "intro": "À Manerbe, 544 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Les terrains de Manerbe",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Manerbe compte 544 habitants et se situe à environ 7 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin, Coquainvilliers et Auvillars. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles"
+    ],
+    "communes": [
+      "Formentin",
+      "Le Pré-d'Auge",
+      "Saint-Ouen-le-Pin",
+      "Coquainvilliers",
+      "Auvillars"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Manerbe ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Manerbe sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Manerbe desservez-vous ?",
+        "a": "Nous desservons Manerbe et ses environs : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-manerbe",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "manerbe",
+    "km": 7,
+    "pop": 544,
+    "city": "Manerbe",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Manerbe | Multi Taille Services",
+    "meta": "Entretien de jardin à Manerbe : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Manerbe : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Manerbe, à 7 km de Lisieux",
+    "intro": "Manerbe (à l'ouest, à environ 7 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Manerbe",
+      "paras": [
+        "Une propriété de campagne se gère par saison. Nous nous occupons de l'entretien courant pour que vous profitiez du jardin au lieu de le subir.",
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Manerbe compte 544 habitants et se situe à environ 7 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin, Coquainvilliers et Auvillars. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes"
+    ],
+    "communes": [
+      "Formentin",
+      "Le Pré-d'Auge",
+      "Saint-Ouen-le-Pin",
+      "Coquainvilliers",
+      "Auvillars"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Manerbe ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Entretenez-vous les résidences secondaires ?",
+        "a": "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."
+      },
+      {
+        "q": "Quelles communes autour de Manerbe desservez-vous ?",
+        "a": "Nous desservons Manerbe et ses environs : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-le-torquesne",
+    "serviceSlug": "elagage",
+    "citySlug": "le-torquesne",
+    "km": 9,
+    "pop": 529,
+    "city": "Le Torquesne",
+    "shortName": "Élagage",
+    "title": "Élagage à Le Torquesne | Multi Taille Services",
+    "meta": "Élagage d'arbres à Le Torquesne : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage à Le Torquesne : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Le Torquesne, à 9 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Le Torquesne ? Nous intervenons à environ 9 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Les arbres de Le Torquesne",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "Une taille raisonnée vaut mieux qu'une coupe radicale : elle préserve la santé de l'arbre, limite les rejets et reste discrète dans le paysage. C'est notre principe sur tous nos chantiers.",
+        "Le Torquesne compte 529 habitants et se situe à environ 9 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Coquainvilliers, Saint-Hymer, Formentin, Clarbec et Le Breuil-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement"
+    ],
+    "communes": [
+      "Coquainvilliers",
+      "Saint-Hymer",
+      "Formentin",
+      "Clarbec",
+      "Le Breuil-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un élagage à Le Torquesne ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Le Torquesne, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Un arbre a perdu de grosses branches après le vent, que faire ?",
+        "a": "Appelez-nous sans attendre : une charpentière fendue peut lâcher sans prévenir. Nous évaluons l'arbre, sécurisons la zone si nécessaire, puis réalisons une taille de sécurisation ou, si l'arbre est trop compromis, un démontage contrôlé."
+      },
+      {
+        "q": "Quelles communes autour de Le Torquesne desservez-vous ?",
+        "a": "Oui : nous intervenons à Le Torquesne et dans les communes voisines, notamment Coquainvilliers, Saint-Hymer, Formentin et Clarbec. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-le-torquesne",
+    "serviceSlug": "jardinier",
+    "citySlug": "le-torquesne",
+    "km": 9,
+    "pop": 529,
+    "city": "Le Torquesne",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Le Torquesne | Multi Taille Services",
+    "meta": "Entretien de jardin à Le Torquesne (au nord-ouest de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Le Torquesne : appelez, on passe",
+    "overline": "Jardinier à Le Torquesne, à 9 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Le Torquesne ? Nous intervenons à environ 9 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Le Torquesne",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Au printemps, remise en ordre et premières tontes ; en été, entretien courant ; à l'automne, ramassage et taille de saison. Nous organisons l'année avec vous, saison par saison.",
+        "Le Torquesne compte 529 habitants et se situe à environ 9 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Coquainvilliers, Saint-Hymer, Formentin, Clarbec et Le Breuil-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions"
+    ],
+    "communes": [
+      "Coquainvilliers",
+      "Saint-Hymer",
+      "Formentin",
+      "Clarbec",
+      "Le Breuil-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Le Torquesne ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Le Torquesne, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Quelles communes autour de Le Torquesne desservez-vous ?",
+        "a": "Oui : nous intervenons à Le Torquesne et dans les communes voisines, notamment Coquainvilliers, Saint-Hymer, Formentin et Clarbec. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-le-torquesne",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "le-torquesne",
+    "km": 9,
+    "pop": 529,
+    "city": "Le Torquesne",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Le Torquesne | Multi Taille Services",
+    "meta": "Taille de haies à Le Torquesne (au nord-ouest de Lisieux) : matériel adapté aux grandes hauteurs, chantier propre. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Taille de haie à Le Torquesne : des lignes nettes",
+    "overline": "Taille de haie à Le Torquesne, à 9 km de Lisieux",
+    "intro": "À Le Torquesne, 529 habitants, les haies sont partout : clôtures, brise-vent, séparations. Nous les taillons ponctuellement ou chaque année, avec un chantier toujours laissé propre.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Le Torquesne",
+      "paras": [
+        "Haies de clôture, haies champêtres, haies de thuyas ou de lauriers autour de la maison : nous les entretenons toutes, en tenant compte de l'essence et de la période de nidification des oiseaux.",
+        "Nous intervenons ponctuellement ou chaque année : une haie taillée à intervalles réguliers reste dense, solide et facile à entretenir.",
+        "Le Torquesne compte 529 habitants et se situe à environ 9 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Coquainvilliers, Saint-Hymer, Formentin, Clarbec et Le Breuil-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions"
+    ],
+    "communes": [
+      "Coquainvilliers",
+      "Saint-Hymer",
+      "Formentin",
+      "Clarbec",
+      "Le Breuil-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une taille de haie à Le Torquesne ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "Pouvez-vous tailler une haie très haute ?",
+        "a": "Oui, avec le matériel adapté et en sécurité. Pour les résineux comme le thuya, nous évaluons d'abord la haie : ils ne repoussent pas depuis le vieux bois, donc nous ne descendons pas la hauteur n'importe comment."
+      },
+      {
+        "q": "Quelles communes autour de Le Torquesne desservez-vous ?",
+        "a": "Oui : nous intervenons à Le Torquesne et dans les communes voisines, notamment Coquainvilliers, Saint-Hymer, Formentin et Clarbec. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-le-torquesne",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "le-torquesne",
+    "km": 9,
+    "pop": 529,
+    "city": "Le Torquesne",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Le Torquesne | Multi Taille Services",
+    "meta": "Tonte de pelouse à Le Torquesne : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Le Torquesne : on s'en charge",
+    "overline": "Tonte de pelouse à Le Torquesne, à 9 km de Lisieux",
+    "intro": "Besoin d'une tonte à Le Torquesne ? Nous intervenons à environ 9 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Un gazon net à Le Torquesne",
+      "paras": [
+        "Les prairies d'agrément et les talus se tondent autrement qu'un gazon : nous adaptons la machine et la hauteur de coupe au terrain.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Le Torquesne compte 529 habitants et se situe à environ 9 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Coquainvilliers, Saint-Hymer, Formentin, Clarbec et Le Breuil-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément"
+    ],
+    "communes": [
+      "Coquainvilliers",
+      "Saint-Hymer",
+      "Formentin",
+      "Clarbec",
+      "Le Breuil-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Le Torquesne ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Quelles communes autour de Le Torquesne desservez-vous ?",
+        "a": "Oui : nous intervenons à Le Torquesne et dans les communes voisines, notamment Coquainvilliers, Saint-Hymer, Formentin et Clarbec. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-le-torquesne",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "le-torquesne",
+    "km": 9,
+    "pop": 529,
+    "city": "Le Torquesne",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Le Torquesne | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Le Torquesne (au nord-ouest de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Le Torquesne : on reprend votre terrain",
+    "overline": "Débroussaillage à Le Torquesne, à 9 km de Lisieux",
+    "intro": "Un terrain envahi à Le Torquesne ? Nous intervenons à environ 9 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de Le Torquesne",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Le Torquesne compte 529 habitants et se situe à environ 9 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Coquainvilliers, Saint-Hymer, Formentin, Clarbec et Le Breuil-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état"
+    ],
+    "communes": [
+      "Coquainvilliers",
+      "Saint-Hymer",
+      "Formentin",
+      "Clarbec",
+      "Le Breuil-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Le Torquesne ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Le Torquesne desservez-vous ?",
+        "a": "Oui : nous intervenons à Le Torquesne et dans les communes voisines, notamment Coquainvilliers, Saint-Hymer, Formentin et Clarbec. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-le-torquesne",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "le-torquesne",
+    "km": 9,
+    "pop": 529,
+    "city": "Le Torquesne",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Le Torquesne | Multi Taille Services",
+    "meta": "Entretien de jardin à Le Torquesne (au nord-ouest de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Le Torquesne : toute l'année",
+    "overline": "Entretien de jardin à Le Torquesne, à 9 km de Lisieux",
+    "intro": "À Le Torquesne, 529 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Un jardin suivi à Le Torquesne",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Le Torquesne compte 529 habitants et se situe à environ 9 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Coquainvilliers, Saint-Hymer, Formentin, Clarbec et Le Breuil-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages"
+    ],
+    "communes": [
+      "Coquainvilliers",
+      "Saint-Hymer",
+      "Formentin",
+      "Clarbec",
+      "Le Breuil-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Le Torquesne ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Le Torquesne pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Quelles communes autour de Le Torquesne desservez-vous ?",
+        "a": "Oui : nous intervenons à Le Torquesne et dans les communes voisines, notamment Coquainvilliers, Saint-Hymer, Formentin et Clarbec. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-lisieux",
+    "serviceSlug": "elagage",
+    "citySlug": "lisieux",
+    "km": 0,
+    "pop": 19645,
+    "city": "Lisieux",
+    "shortName": "Élagage",
+    "title": "Élagage à Lisieux | Multi Taille Services",
+    "meta": "Élagage d'arbres à Lisieux : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Lisieux : diagnostic gratuit",
+    "overline": "Élagueur à Lisieux, notre ville de base",
+    "intro": "Vous cherchez un élagueur à Lisieux ? Nous intervenons là où nous sommes basés, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Élaguer à Lisieux : ce qu'il faut savoir",
+      "paras": [
+        "Dans les jardins du Pays d'Auge, les arbres sont souvent anciens et proches des bâtiments. Nous privilégions une taille douce et régulière, bien plus saine pour l'arbre qu'une coupe sévère tous les dix ans.",
+        "La bonne période d'élagage dépend de l'arbre et de l'objectif. Beaucoup d'arbres se taillent en dehors de la pleine végétation, mais un arbre dangereux se traite sans attendre.",
+        "Lisieux compte 19 645 habitants et se situe là où nous sommes basés, dans le Calvados. Nous intervenons aussi dans les communes voisines : Beuvillers, Rocques, Saint-Désir, Glos et Ouilly-le-Vicomte. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort"
+    ],
+    "communes": [
+      "Beuvillers",
+      "Rocques",
+      "Saint-Désir",
+      "Glos",
+      "Ouilly-le-Vicomte"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Lisieux ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Lisieux, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Évacuez-vous les branches après l'élagage ?",
+        "a": "Oui. Les branches sont évacuées ou broyées, selon ce qui est prévu au devis, et le jardin est ratissé : nous ne partons que lorsque le chantier est propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Lisieux ?",
+        "a": "Oui : nous intervenons à Lisieux et dans les communes voisines, notamment Beuvillers, Rocques, Saint-Désir et Glos. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-lisieux",
+    "serviceSlug": "jardinier",
+    "citySlug": "lisieux",
+    "km": 0,
+    "pop": 19645,
+    "city": "Lisieux",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Lisieux | Multi Taille Services",
+    "meta": "Entretien de jardin à Lisieux (Calvados) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Lisieux : appelez, on passe",
+    "overline": "Jardinier à Lisieux, notre ville de base",
+    "intro": "À Lisieux, 19 645 habitants, l'entretien d'un jardin prend vite du temps. Nous prenons le relais : passages réguliers, remise en état avant l'été, ramassage de fin de saison.",
+    "besoins": {
+      "h2": "Un jardin net à Lisieux",
+      "paras": [
+        "Une propriété de campagne se gère par saison : tonte et débroussaillage au printemps, taille des haies en été, ramassage et nettoyage à l'automne. Nous planifions chaque passage avec vous.",
+        "Nous intervenons chez les particuliers comme chez les professionnels et les propriétaires de résidences secondaires, avec un point de contact unique : un appel suffit.",
+        "Lisieux compte 19 645 habitants et se situe là où nous sommes basés, dans le Calvados. Nous intervenons aussi dans les communes voisines : Beuvillers, Rocques, Saint-Désir, Glos et Ouilly-le-Vicomte. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles"
+    ],
+    "communes": [
+      "Beuvillers",
+      "Rocques",
+      "Saint-Désir",
+      "Glos",
+      "Ouilly-le-Vicomte"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Lisieux ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Lisieux, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Lisieux ?",
+        "a": "Oui : nous intervenons à Lisieux et dans les communes voisines, notamment Beuvillers, Rocques, Saint-Désir et Glos. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-lisieux",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "lisieux",
+    "km": 0,
+    "pop": 19645,
+    "city": "Lisieux",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Lisieux | Multi Taille Services",
+    "meta": "Taille de haie à Lisieux : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haie à Lisieux : des lignes nettes",
+    "overline": "Taille de haie à Lisieux, notre ville de base",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Lisieux ? Nous intervenons là où nous sommes basés pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les haies de Lisieux",
+      "paras": [
+        "Dans le Pays d'Auge, les haies vives (charme, noisetier, aubépine) se taillent moins sévèrement que du laurier : une taille latérale annuelle suffit à les garder denses. Nous adaptons la taille à chaque haie.",
+        "Nous intervenons ponctuellement ou chaque année : une haie taillée à intervalles réguliers reste dense, solide et facile à entretenir.",
+        "Lisieux compte 19 645 habitants et se situe là où nous sommes basés, dans le Calvados. Nous intervenons aussi dans les communes voisines : Beuvillers, Rocques, Saint-Désir, Glos et Ouilly-le-Vicomte. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas"
+    ],
+    "communes": [
+      "Beuvillers",
+      "Rocques",
+      "Saint-Désir",
+      "Glos",
+      "Ouilly-le-Vicomte"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Lisieux ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Lisieux sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Lisieux ?",
+        "a": "Oui : nous intervenons à Lisieux et dans les communes voisines, notamment Beuvillers, Rocques, Saint-Désir et Glos. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-lisieux",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "lisieux",
+    "km": 0,
+    "pop": 19645,
+    "city": "Lisieux",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Lisieux | Multi Taille Services",
+    "meta": "Tonte de pelouse à Lisieux : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Lisieux : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Lisieux, notre ville de base",
+    "intro": "Lisieux (dans le Calvados, là où nous sommes basés) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Un gazon net à Lisieux",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Lisieux compte 19 645 habitants et se situe là où nous sommes basés, dans le Calvados. Nous intervenons aussi dans les communes voisines : Beuvillers, Rocques, Saint-Désir, Glos et Ouilly-le-Vicomte. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Beuvillers",
+      "Rocques",
+      "Saint-Désir",
+      "Glos",
+      "Ouilly-le-Vicomte"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Lisieux ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Lisieux ?",
+        "a": "Oui : nous intervenons à Lisieux et dans les communes voisines, notamment Beuvillers, Rocques, Saint-Désir et Glos. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-lisieux",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "lisieux",
+    "km": 0,
+    "pop": 19645,
+    "city": "Lisieux",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Lisieux | Multi Taille Services",
+    "meta": "Terrain envahi à Lisieux ? Débroussaillage, broyage et évacuation. Visite gratuite. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Lisieux : terrains, talus et friches",
+    "overline": "Débroussaillage à Lisieux, notre ville de base",
+    "intro": "Un terrain envahi à Lisieux ? Nous intervenons là où nous sommes basés pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de Lisieux",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Lisieux compte 19 645 habitants et se situe là où nous sommes basés, dans le Calvados. Nous intervenons aussi dans les communes voisines : Beuvillers, Rocques, Saint-Désir, Glos et Ouilly-le-Vicomte. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction"
+    ],
+    "communes": [
+      "Beuvillers",
+      "Rocques",
+      "Saint-Désir",
+      "Glos",
+      "Ouilly-le-Vicomte"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Lisieux ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Lisieux sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Lisieux ?",
+        "a": "Oui : nous intervenons à Lisieux et dans les communes voisines, notamment Beuvillers, Rocques, Saint-Désir et Glos. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-lisieux",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "lisieux",
+    "km": 0,
+    "pop": 19645,
+    "city": "Lisieux",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Lisieux | Multi Taille Services",
+    "meta": "Entretien de jardin à Lisieux (Calvados) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Lisieux : toute l'année",
+    "overline": "Entretien de jardin à Lisieux, notre ville de base",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Lisieux ? Nous intervenons là où nous sommes basés, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Lisieux",
+      "paras": [
+        "Au printemps, remise en ordre et premières tontes ; en été, tonte et taille légère ; à l'automne, ramassage des feuilles et taille de saison. Chaque passage est planifié.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Lisieux compte 19 645 habitants et se situe là où nous sommes basés, dans le Calvados. Nous intervenons aussi dans les communes voisines : Beuvillers, Rocques, Saint-Désir, Glos et Ouilly-le-Vicomte. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "Beuvillers",
+      "Rocques",
+      "Saint-Désir",
+      "Glos",
+      "Ouilly-le-Vicomte"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Lisieux ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Lisieux ?",
+        "a": "Oui : nous intervenons à Lisieux et dans les communes voisines, notamment Beuvillers, Rocques, Saint-Désir et Glos. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-orbec",
+    "serviceSlug": "elagage",
+    "citySlug": "orbec",
+    "km": 18,
+    "pop": 1975,
+    "city": "Orbec",
+    "shortName": "Élagage",
+    "title": "Élagage à Orbec | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Orbec ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage à Orbec : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Orbec, à 18 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Orbec ? Nous intervenons à environ 18 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Élaguer à Orbec : ce qu'il faut savoir",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "La bonne période d'élagage dépend de l'arbre et de l'objectif. Beaucoup d'arbres se taillent en dehors de la pleine végétation, mais un arbre dangereux se traite sans attendre.",
+        "Orbec compte 1 975 habitants et se situe à environ 18 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne, Valorbiquet et Saint-Jean-du-Thenney. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses"
+    ],
+    "communes": [
+      "Saint-Martin-de-Bienfaite-la-Cressonnière",
+      "La Vespière-Friardel",
+      "Saint-Germain-la-Campagne",
+      "Valorbiquet",
+      "Saint-Jean-du-Thenney"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Orbec ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Orbec ?",
+        "a": "Nous desservons Orbec et ses environs : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-orbec",
+    "serviceSlug": "jardinier",
+    "citySlug": "orbec",
+    "km": 18,
+    "pop": 1975,
+    "city": "Orbec",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Orbec | Multi Taille Services",
+    "meta": "Un jardinier à Orbec pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Orbec : un jardin net, toute l'année",
+    "overline": "Jardinier à Orbec, à 18 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Orbec ? Nous intervenons à environ 18 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Les jardins de Orbec",
+      "paras": [
+        "Une propriété de campagne se gère par saison : tonte et débroussaillage au printemps, taille des haies en été, ramassage et nettoyage à l'automne. Nous planifions chaque passage avec vous.",
+        "Tonte, taille, désherbage, ramassage : nous réalisons l'ensemble des travaux courants et nous évacuons les déchets verts, pour que vous retrouviez un jardin net après chaque passage.",
+        "Orbec compte 1 975 habitants et se situe à environ 18 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne, Valorbiquet et Saint-Jean-du-Thenney. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces"
+    ],
+    "communes": [
+      "Saint-Martin-de-Bienfaite-la-Cressonnière",
+      "La Vespière-Friardel",
+      "Saint-Germain-la-Campagne",
+      "Valorbiquet",
+      "Saint-Jean-du-Thenney"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Orbec ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Orbec ?",
+        "a": "Nous desservons Orbec et ses environs : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-orbec",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "orbec",
+    "km": 18,
+    "pop": 1975,
+    "city": "Orbec",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Orbec | Multi Taille Services",
+    "meta": "Taille de haie à Orbec : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haie à Orbec : des lignes nettes",
+    "overline": "Taille de haie à Orbec, à 18 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Orbec ? Nous intervenons à environ 18 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Orbec",
+      "paras": [
+        "Une haie de campagne peut mesurer plusieurs dizaines de mètres. Nous intervenons avec le matériel adapté, sur une journée ou plusieurs, et nous évacuons ou broyons les déchets.",
+        "Une haie se taille légèrement et souvent plutôt que fortement et rarement. Les résineux comme le thuya ne repoussent pas dans le vieux bois : nous évaluons toujours la haie avant de couper.",
+        "Orbec compte 1 975 habitants et se situe à environ 18 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne, Valorbiquet et Saint-Jean-du-Thenney. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle"
+    ],
+    "communes": [
+      "Saint-Martin-de-Bienfaite-la-Cressonnière",
+      "La Vespière-Friardel",
+      "Saint-Germain-la-Campagne",
+      "Valorbiquet",
+      "Saint-Jean-du-Thenney"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Orbec ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Orbec sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Pouvez-vous tailler une haie très haute ?",
+        "a": "Oui, avec le matériel adapté et en sécurité. Pour les résineux comme le thuya, nous évaluons d'abord la haie : ils ne repoussent pas depuis le vieux bois, donc nous ne descendons pas la hauteur n'importe comment."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Orbec ?",
+        "a": "Nous desservons Orbec et ses environs : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-orbec",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "orbec",
+    "km": 18,
+    "pop": 1975,
+    "city": "Orbec",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Orbec | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Orbec ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Orbec : on s'en charge",
+    "overline": "Tonte de pelouse à Orbec, à 18 km de Lisieux",
+    "intro": "Besoin d'une tonte à Orbec ? Nous intervenons à environ 18 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Votre pelouse à Orbec",
+      "paras": [
+        "Les prairies d'agrément et les talus se tondent autrement qu'un gazon : nous adaptons la machine et la hauteur de coupe au terrain.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Orbec compte 1 975 habitants et se situe à environ 18 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne, Valorbiquet et Saint-Jean-du-Thenney. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément"
+    ],
+    "communes": [
+      "Saint-Martin-de-Bienfaite-la-Cressonnière",
+      "La Vespière-Friardel",
+      "Saint-Germain-la-Campagne",
+      "Valorbiquet",
+      "Saint-Jean-du-Thenney"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Orbec ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Orbec, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Orbec ?",
+        "a": "Nous desservons Orbec et ses environs : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-orbec",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "orbec",
+    "km": 18,
+    "pop": 1975,
+    "city": "Orbec",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Orbec | Multi Taille Services",
+    "meta": "Débroussaillage à Orbec : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Orbec : on reprend votre terrain",
+    "overline": "Débroussaillage à Orbec, à 18 km de Lisieux",
+    "intro": "Orbec (au sud-est, à environ 18 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les terrains de Orbec",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Orbec compte 1 975 habitants et se situe à environ 18 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne, Valorbiquet et Saint-Jean-du-Thenney. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Saint-Martin-de-Bienfaite-la-Cressonnière",
+      "La Vespière-Friardel",
+      "Saint-Germain-la-Campagne",
+      "Valorbiquet",
+      "Saint-Jean-du-Thenney"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Orbec ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Orbec ?",
+        "a": "Nous desservons Orbec et ses environs : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-orbec",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "orbec",
+    "km": 18,
+    "pop": 1975,
+    "city": "Orbec",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Orbec | Multi Taille Services",
+    "meta": "Un jardinier pour entretenir votre jardin à Orbec : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Orbec : toute l'année",
+    "overline": "Entretien de jardin à Orbec, à 18 km de Lisieux",
+    "intro": "Orbec (au sud-est, à environ 18 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Un jardin suivi à Orbec",
+      "paras": [
+        "Une propriété de campagne se gère par saison. Nous nous occupons de l'entretien courant pour que vous profitiez du jardin au lieu de le subir.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Orbec compte 1 975 habitants et se situe à environ 18 km de Lisieux, au sud-est. Nous intervenons aussi dans les communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne, Valorbiquet et Saint-Jean-du-Thenney. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "Saint-Martin-de-Bienfaite-la-Cressonnière",
+      "La Vespière-Friardel",
+      "Saint-Germain-la-Campagne",
+      "Valorbiquet",
+      "Saint-Jean-du-Thenney"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Orbec ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Orbec pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Orbec ?",
+        "a": "Nous desservons Orbec et ses environs : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-livarot-pays-d-auge",
+    "serviceSlug": "elagage",
+    "citySlug": "livarot-pays-d-auge",
+    "km": 16,
+    "pop": 6207,
+    "city": "Livarot-Pays-d'Auge",
+    "shortName": "Élagage",
+    "title": "Élagage à Livarot-Pays-d'Auge | Multi Taille Services",
+    "meta": "Élagueur à Livarot-Pays-d'Auge (au sud de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Livarot-Pays-d'Auge : diagnostic gratuit",
+    "overline": "Élagueur à Livarot-Pays-d'Auge, à 16 km de Lisieux",
+    "intro": "À Livarot-Pays-d'Auge, 6 207 habitants, les arbres des jardins demandent un suivi régulier. Nous nous déplaçons à environ 16 km de Lisieux pour évaluer vos arbres, proposer la taille adaptée et réaliser le chantier en sécurité.",
+    "besoins": {
+      "h2": "Des arbres bien taillés à Livarot-Pays-d'Auge",
+      "paras": [
+        "Pommiers à cidre, noyers, chênes, hêtres : les essences du bocage ont leurs périodes de taille et leurs fragilités. Nous adaptons la technique à chaque arbre, en limitant la taille des plaies.",
+        "Après une tempête, appelez-nous : nous évaluons les branches fragilisées, sécurisons ce qui doit l'être et taillons proprement ce qui peut être conservé.",
+        "Livarot-Pays-d'Auge compte 6 207 habitants et se situe à environ 16 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Lisores, Canapville, Val-de-Vie, Prêtreville et Pontchardon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches"
+    ],
+    "communes": [
+      "Lisores",
+      "Canapville",
+      "Val-de-Vie",
+      "Prêtreville",
+      "Pontchardon"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un élagage à Livarot-Pays-d'Auge ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Livarot-Pays-d'Auge ?",
+        "a": "Nous desservons Livarot-Pays-d'Auge et ses environs : Lisores, Canapville, Val-de-Vie et Prêtreville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-livarot-pays-d-auge",
+    "serviceSlug": "jardinier",
+    "citySlug": "livarot-pays-d-auge",
+    "km": 16,
+    "pop": 6207,
+    "city": "Livarot-Pays-d'Auge",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Livarot-Pays-d'Auge | Multi Taille Services",
+    "meta": "Entretien de jardin à Livarot-Pays-d'Auge (au sud de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Livarot-Pays-d'Auge : appelez, on passe",
+    "overline": "Jardinier à Livarot-Pays-d'Auge, à 16 km de Lisieux",
+    "intro": "Livarot-Pays-d'Auge (au sud, à environ 16 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Un jardin net à Livarot-Pays-d'Auge",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Nous intervenons chez les particuliers comme chez les professionnels et les propriétaires de résidences secondaires, avec un point de contact unique : un appel suffit.",
+        "Livarot-Pays-d'Auge compte 6 207 habitants et se situe à environ 16 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Lisores, Canapville, Val-de-Vie, Prêtreville et Pontchardon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles"
+    ],
+    "communes": [
+      "Lisores",
+      "Canapville",
+      "Val-de-Vie",
+      "Prêtreville",
+      "Pontchardon"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Livarot-Pays-d'Auge ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Livarot-Pays-d'Auge ?",
+        "a": "Nous desservons Livarot-Pays-d'Auge et ses environs : Lisores, Canapville, Val-de-Vie et Prêtreville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-livarot-pays-d-auge",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "livarot-pays-d-auge",
+    "km": 16,
+    "pop": 6207,
+    "city": "Livarot-Pays-d'Auge",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Livarot-Pays-d'Auge | Multi Taille Services",
+    "meta": "Une haie à tailler à Livarot-Pays-d'Auge ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Livarot-Pays-d'Auge : devis gratuit après visite",
+    "overline": "Taille de haie à Livarot-Pays-d'Auge, à 16 km de Lisieux",
+    "intro": "Livarot-Pays-d'Auge (au sud, à environ 16 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Tailler une haie à Livarot-Pays-d'Auge",
+      "paras": [
+        "Dans le Pays d'Auge, les haies vives (charme, noisetier, aubépine) se taillent moins sévèrement que du laurier : une taille latérale annuelle suffit à les garder denses. Nous adaptons la taille à chaque haie.",
+        "La période de taille dépend de l'essence. Il vaut mieux éviter la pleine période de nidification des oiseaux, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne.",
+        "Livarot-Pays-d'Auge compte 6 207 habitants et se situe à environ 16 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Lisores, Canapville, Val-de-Vie, Prêtreville et Pontchardon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute"
+    ],
+    "communes": [
+      "Lisores",
+      "Canapville",
+      "Val-de-Vie",
+      "Prêtreville",
+      "Pontchardon"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Livarot-Pays-d'Auge ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Livarot-Pays-d'Auge sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Pouvez-vous tailler une haie très haute ?",
+        "a": "Oui, avec le matériel adapté et en sécurité. Pour les résineux comme le thuya, nous évaluons d'abord la haie : ils ne repoussent pas depuis le vieux bois, donc nous ne descendons pas la hauteur n'importe comment."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Livarot-Pays-d'Auge ?",
+        "a": "Nous desservons Livarot-Pays-d'Auge et ses environs : Lisores, Canapville, Val-de-Vie et Prêtreville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-livarot-pays-d-auge",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "livarot-pays-d-auge",
+    "km": 16,
+    "pop": 6207,
+    "city": "Livarot-Pays-d'Auge",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Livarot-Pays-d'Auge | Multi Taille",
+    "meta": "Tonte à Livarot-Pays-d'Auge (au sud de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Livarot-Pays-d'Auge : on s'en charge",
+    "overline": "Tonte de pelouse à Livarot-Pays-d'Auge, à 16 km de Lisieux",
+    "intro": "Livarot-Pays-d'Auge (au sud, à environ 16 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Tondre à Livarot-Pays-d'Auge : ce qu'il faut savoir",
+      "paras": [
+        "Les prairies d'agrément et les talus se tondent autrement qu'un gazon : nous adaptons la machine et la hauteur de coupe au terrain.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Livarot-Pays-d'Auge compte 6 207 habitants et se situe à environ 16 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Lisores, Canapville, Val-de-Vie, Prêtreville et Pontchardon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence"
+    ],
+    "communes": [
+      "Lisores",
+      "Canapville",
+      "Val-de-Vie",
+      "Prêtreville",
+      "Pontchardon"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Livarot-Pays-d'Auge ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Livarot-Pays-d'Auge ?",
+        "a": "Nous desservons Livarot-Pays-d'Auge et ses environs : Lisores, Canapville, Val-de-Vie et Prêtreville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-livarot-pays-d-auge",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "livarot-pays-d-auge",
+    "km": 16,
+    "pop": 6207,
+    "city": "Livarot-Pays-d'Auge",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Livarot-Pays-d'Auge | Multi Taille",
+    "meta": "Débroussailler un terrain à Livarot-Pays-d'Auge (au sud de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussailler à Livarot-Pays-d'Auge : ronces et broussailles",
+    "overline": "Débroussaillage à Livarot-Pays-d'Auge, à 16 km de Lisieux",
+    "intro": "À Livarot-Pays-d'Auge, 6 207 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Débroussailler à Livarot-Pays-d'Auge : ce qu'il faut savoir",
+      "paras": [
+        "Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Livarot-Pays-d'Auge compte 6 207 habitants et se situe à environ 16 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Lisores, Canapville, Val-de-Vie, Prêtreville et Pontchardon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état"
+    ],
+    "communes": [
+      "Lisores",
+      "Canapville",
+      "Val-de-Vie",
+      "Prêtreville",
+      "Pontchardon"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Livarot-Pays-d'Auge ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Livarot-Pays-d'Auge ?",
+        "a": "Nous desservons Livarot-Pays-d'Auge et ses environs : Lisores, Canapville, Val-de-Vie et Prêtreville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-livarot-pays-d-auge",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "livarot-pays-d-auge",
+    "km": 16,
+    "pop": 6207,
+    "city": "Livarot-Pays-d'Auge",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Livarot-Pays-d'Auge | Multi Taille",
+    "meta": "Un jardinier pour entretenir votre jardin à Livarot-Pays-d'Auge : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Livarot-Pays-d'Auge : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Livarot-Pays-d'Auge, à 16 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Livarot-Pays-d'Auge ? Nous intervenons à environ 16 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Les jardins de Livarot-Pays-d'Auge",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Livarot-Pays-d'Auge compte 6 207 habitants et se situe à environ 16 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Lisores, Canapville, Val-de-Vie, Prêtreville et Pontchardon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces"
+    ],
+    "communes": [
+      "Lisores",
+      "Canapville",
+      "Val-de-Vie",
+      "Prêtreville",
+      "Pontchardon"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Livarot-Pays-d'Auge ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Livarot-Pays-d'Auge ?",
+        "a": "Nous desservons Livarot-Pays-d'Auge et ses environs : Lisores, Canapville, Val-de-Vie et Prêtreville, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-saint-pierre-en-auge",
+    "serviceSlug": "elagage",
+    "citySlug": "saint-pierre-en-auge",
+    "km": 23,
+    "pop": 7100,
+    "city": "Saint-Pierre-en-Auge",
+    "shortName": "Élagage",
+    "title": "Élagage à Saint-Pierre-en-Auge | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Saint-Pierre-en-Auge ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage à Saint-Pierre-en-Auge : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Saint-Pierre-en-Auge, à 23 km de Lisieux",
+    "intro": "Saint-Pierre-en-Auge (au sud-ouest, à environ 23 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Les arbres de Saint-Pierre-en-Auge",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "Nous travaillons avec un matériel professionnel et nous protégeons le jardin pendant l'intervention : terrasse, pelouse, haies mitoyennes et plantations restent intactes.",
+        "Saint-Pierre-en-Auge compte 7 100 habitants et se situe à environ 23 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Castillon-en-Auge, Jort, Vendeuvre, Le Renouard et Morteaux-Coulibœuf. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne"
+    ],
+    "communes": [
+      "Castillon-en-Auge",
+      "Jort",
+      "Vendeuvre",
+      "Le Renouard",
+      "Morteaux-Coulibœuf"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Saint-Pierre-en-Auge ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Saint-Pierre-en-Auge, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Un arbre a perdu de grosses branches après le vent, que faire ?",
+        "a": "Appelez-nous sans attendre : une charpentière fendue peut lâcher sans prévenir. Nous évaluons l'arbre, sécurisons la zone si nécessaire, puis réalisons une taille de sécurisation ou, si l'arbre est trop compromis, un démontage contrôlé."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Pierre-en-Auge desservez-vous ?",
+        "a": "Oui : nous intervenons à Saint-Pierre-en-Auge et dans les communes voisines, notamment Castillon-en-Auge, Jort, Vendeuvre et Le Renouard. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-saint-pierre-en-auge",
+    "serviceSlug": "jardinier",
+    "citySlug": "saint-pierre-en-auge",
+    "km": 23,
+    "pop": 7100,
+    "city": "Saint-Pierre-en-Auge",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Saint-Pierre-en-Auge | Multi Taille Services",
+    "meta": "Entretien de jardin à Saint-Pierre-en-Auge (au sud-ouest de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Jardinier à Saint-Pierre-en-Auge : un jardin net, toute l'année",
+    "overline": "Jardinier à Saint-Pierre-en-Auge, à 23 km de Lisieux",
+    "intro": "À Saint-Pierre-en-Auge, 7 100 habitants, l'entretien d'un jardin prend vite du temps. Nous prenons le relais : passages réguliers, remise en état avant l'été, ramassage de fin de saison.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Saint-Pierre-en-Auge",
+      "paras": [
+        "Tonte de grandes surfaces, taille de haies, désherbage des massifs, nettoyage des abords : nous entretenons les propriétés du bocage augeron avec des passages réguliers ou ponctuels.",
+        "Tonte, taille, désherbage, ramassage : nous réalisons l'ensemble des travaux courants et nous évacuons les déchets verts, pour que vous retrouviez un jardin net après chaque passage.",
+        "Saint-Pierre-en-Auge compte 7 100 habitants et se situe à environ 23 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Castillon-en-Auge, Jort, Vendeuvre, Le Renouard et Morteaux-Coulibœuf. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel"
+    ],
+    "communes": [
+      "Castillon-en-Auge",
+      "Jort",
+      "Vendeuvre",
+      "Le Renouard",
+      "Morteaux-Coulibœuf"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Saint-Pierre-en-Auge ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Pierre-en-Auge desservez-vous ?",
+        "a": "Oui : nous intervenons à Saint-Pierre-en-Auge et dans les communes voisines, notamment Castillon-en-Auge, Jort, Vendeuvre et Le Renouard. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-saint-pierre-en-auge",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "saint-pierre-en-auge",
+    "km": 23,
+    "pop": 7100,
+    "city": "Saint-Pierre-en-Auge",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Saint-Pierre-en-Auge | Multi Taille",
+    "meta": "Taille de haie à Saint-Pierre-en-Auge : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haie à Saint-Pierre-en-Auge : des lignes nettes",
+    "overline": "Taille de haie à Saint-Pierre-en-Auge, à 23 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Saint-Pierre-en-Auge ? Nous intervenons à environ 23 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Tailler une haie à Saint-Pierre-en-Auge",
+      "paras": [
+        "Une haie de campagne peut mesurer plusieurs dizaines de mètres. Nous intervenons avec le matériel adapté, sur une journée ou plusieurs, et nous évacuons ou broyons les déchets.",
+        "Nous intervenons ponctuellement ou chaque année : une haie taillée à intervalles réguliers reste dense, solide et facile à entretenir.",
+        "Saint-Pierre-en-Auge compte 7 100 habitants et se situe à environ 23 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Castillon-en-Auge, Jort, Vendeuvre, Le Renouard et Morteaux-Coulibœuf. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets"
+    ],
+    "communes": [
+      "Castillon-en-Auge",
+      "Jort",
+      "Vendeuvre",
+      "Le Renouard",
+      "Morteaux-Coulibœuf"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Saint-Pierre-en-Auge ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "Pouvez-vous tailler une haie très haute ?",
+        "a": "Oui, avec le matériel adapté et en sécurité. Pour les résineux comme le thuya, nous évaluons d'abord la haie : ils ne repoussent pas depuis le vieux bois, donc nous ne descendons pas la hauteur n'importe comment."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Pierre-en-Auge desservez-vous ?",
+        "a": "Oui : nous intervenons à Saint-Pierre-en-Auge et dans les communes voisines, notamment Castillon-en-Auge, Jort, Vendeuvre et Le Renouard. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-saint-pierre-en-auge",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "saint-pierre-en-auge",
+    "km": 23,
+    "pop": 7100,
+    "city": "Saint-Pierre-en-Auge",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Saint-Pierre-en-Auge | Multi Taille",
+    "meta": "Une pelouse à tondre à Saint-Pierre-en-Auge ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte à Saint-Pierre-en-Auge : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Saint-Pierre-en-Auge, à 23 km de Lisieux",
+    "intro": "Besoin d'une tonte à Saint-Pierre-en-Auge ? Nous intervenons à environ 23 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Tondre à Saint-Pierre-en-Auge : ce qu'il faut savoir",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Saint-Pierre-en-Auge compte 7 100 habitants et se situe à environ 23 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Castillon-en-Auge, Jort, Vendeuvre, Le Renouard et Morteaux-Coulibœuf. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Castillon-en-Auge",
+      "Jort",
+      "Vendeuvre",
+      "Le Renouard",
+      "Morteaux-Coulibœuf"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Saint-Pierre-en-Auge ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Pierre-en-Auge desservez-vous ?",
+        "a": "Oui : nous intervenons à Saint-Pierre-en-Auge et dans les communes voisines, notamment Castillon-en-Auge, Jort, Vendeuvre et Le Renouard. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-saint-pierre-en-auge",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "saint-pierre-en-auge",
+    "km": 23,
+    "pop": 7100,
+    "city": "Saint-Pierre-en-Auge",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Saint-Pierre-en-Auge | Multi Taille",
+    "meta": "Débroussailler un terrain à Saint-Pierre-en-Auge (au sud-ouest de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Saint-Pierre-en-Auge : terrains, talus et friches",
+    "overline": "Débroussaillage à Saint-Pierre-en-Auge, à 23 km de Lisieux",
+    "intro": "Saint-Pierre-en-Auge (au sud-ouest, à environ 23 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Débroussailler à Saint-Pierre-en-Auge : ce qu'il faut savoir",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Saint-Pierre-en-Auge compte 7 100 habitants et se situe à environ 23 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Castillon-en-Auge, Jort, Vendeuvre, Le Renouard et Morteaux-Coulibœuf. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Castillon-en-Auge",
+      "Jort",
+      "Vendeuvre",
+      "Le Renouard",
+      "Morteaux-Coulibœuf"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Saint-Pierre-en-Auge ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Pierre-en-Auge desservez-vous ?",
+        "a": "Oui : nous intervenons à Saint-Pierre-en-Auge et dans les communes voisines, notamment Castillon-en-Auge, Jort, Vendeuvre et Le Renouard. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-saint-pierre-en-auge",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "saint-pierre-en-auge",
+    "km": 23,
+    "pop": 7100,
+    "city": "Saint-Pierre-en-Auge",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Saint-Pierre-en-Auge | Multi Taille",
+    "meta": "Entretien de jardin à Saint-Pierre-en-Auge (au sud-ouest de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Saint-Pierre-en-Auge : saison par saison",
+    "overline": "Entretien de jardin à Saint-Pierre-en-Auge, à 23 km de Lisieux",
+    "intro": "Saint-Pierre-en-Auge (au sud-ouest, à environ 23 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Les jardins de Saint-Pierre-en-Auge",
+      "paras": [
+        "Une propriété de campagne se gère par saison. Nous nous occupons de l'entretien courant pour que vous profitiez du jardin au lieu de le subir.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Saint-Pierre-en-Auge compte 7 100 habitants et se situe à environ 23 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Castillon-en-Auge, Jort, Vendeuvre, Le Renouard et Morteaux-Coulibœuf. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures"
+    ],
+    "communes": [
+      "Castillon-en-Auge",
+      "Jort",
+      "Vendeuvre",
+      "Le Renouard",
+      "Morteaux-Coulibœuf"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Saint-Pierre-en-Auge ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Saint-Pierre-en-Auge pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Quelles communes autour de Saint-Pierre-en-Auge desservez-vous ?",
+        "a": "Oui : nous intervenons à Saint-Pierre-en-Auge et dans les communes voisines, notamment Castillon-en-Auge, Jort, Vendeuvre et Le Renouard. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-cambremer",
+    "serviceSlug": "elagage",
+    "citySlug": "cambremer",
+    "km": 13,
+    "pop": 1294,
+    "city": "Cambremer",
+    "shortName": "Élagage",
+    "title": "Élagage à Cambremer | Multi Taille Services",
+    "meta": "Élagueur à Cambremer (à l'ouest de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le 07 67 23 41 23.",
+    "h1": "Élagueur à Cambremer : taille soignée et chantier propre",
+    "overline": "Élagueur à Cambremer, à 13 km de Lisieux",
+    "intro": "Cambremer (à l'ouest, à environ 13 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Élaguer à Cambremer : ce qu'il faut savoir",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "Une taille raisonnée vaut mieux qu'une coupe radicale : elle préserve la santé de l'arbre, limite les rejets et reste discrète dans le paysage. C'est notre principe sur tous nos chantiers.",
+        "Cambremer compte 1 294 habitants et se situe à environ 13 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon, Le Pré-d'Auge et La Boissière. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne"
+    ],
+    "communes": [
+      "Saint-Ouen-le-Pin",
+      "La Houblonnière",
+      "Notre-Dame-d'Estrées-Corbon",
+      "Le Pré-d'Auge",
+      "La Boissière"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un élagage à Cambremer ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Cambremer, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Un arbre a perdu de grosses branches après le vent, que faire ?",
+        "a": "Appelez-nous sans attendre : une charpentière fendue peut lâcher sans prévenir. Nous évaluons l'arbre, sécurisons la zone si nécessaire, puis réalisons une taille de sécurisation ou, si l'arbre est trop compromis, un démontage contrôlé."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cambremer ?",
+        "a": "Nous desservons Cambremer et ses environs : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-cambremer",
+    "serviceSlug": "jardinier",
+    "citySlug": "cambremer",
+    "km": 13,
+    "pop": 1294,
+    "city": "Cambremer",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Cambremer | Multi Taille Services",
+    "meta": "Entretien de jardin à Cambremer (à l'ouest de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Jardinier à Cambremer : un jardin net, toute l'année",
+    "overline": "Jardinier à Cambremer, à 13 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Cambremer ? Nous intervenons à environ 13 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Les jardins de Cambremer",
+      "paras": [
+        "Une propriété de campagne se gère par saison : tonte et débroussaillage au printemps, taille des haies en été, ramassage et nettoyage à l'automne. Nous planifions chaque passage avec vous.",
+        "Nous intervenons chez les particuliers comme chez les professionnels et les propriétaires de résidences secondaires, avec un point de contact unique : un appel suffit.",
+        "Cambremer compte 1 294 habitants et se situe à environ 13 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon, Le Pré-d'Auge et La Boissière. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions"
+    ],
+    "communes": [
+      "Saint-Ouen-le-Pin",
+      "La Houblonnière",
+      "Notre-Dame-d'Estrées-Corbon",
+      "Le Pré-d'Auge",
+      "La Boissière"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Cambremer ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Cambremer, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Pouvez-vous remettre en état un jardin laissé à l'abandon ?",
+        "a": "Oui. Nous débroussaillons, tondons, taillons et évacuons, puis nous proposons un entretien régulier pour que le jardin ne se referme pas. La visite préalable est gratuite."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cambremer ?",
+        "a": "Nous desservons Cambremer et ses environs : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-cambremer",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "cambremer",
+    "km": 13,
+    "pop": 1294,
+    "city": "Cambremer",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Cambremer | Multi Taille Services",
+    "meta": "Une haie à tailler à Cambremer ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haies à Cambremer : thuyas, lauriers, charmilles",
+    "overline": "Taille de haie à Cambremer, à 13 km de Lisieux",
+    "intro": "Cambremer (à l'ouest, à environ 13 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Tailler une haie à Cambremer",
+      "paras": [
+        "Haies de clôture, haies champêtres, haies de thuyas ou de lauriers autour de la maison : nous les entretenons toutes, en tenant compte de l'essence et de la période de nidification des oiseaux.",
+        "Une haie se taille légèrement et souvent plutôt que fortement et rarement. Les résineux comme le thuya ne repoussent pas dans le vieux bois : nous évaluons toujours la haie avant de couper.",
+        "Cambremer compte 1 294 habitants et se situe à environ 13 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon, Le Pré-d'Auge et La Boissière. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions"
+    ],
+    "communes": [
+      "Saint-Ouen-le-Pin",
+      "La Houblonnière",
+      "Notre-Dame-d'Estrées-Corbon",
+      "Le Pré-d'Auge",
+      "La Boissière"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Cambremer ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cambremer ?",
+        "a": "Nous desservons Cambremer et ses environs : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-cambremer",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "cambremer",
+    "km": 13,
+    "pop": 1294,
+    "city": "Cambremer",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Cambremer | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Cambremer ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte à Cambremer : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Cambremer, à 13 km de Lisieux",
+    "intro": "Besoin d'une tonte à Cambremer ? Nous intervenons à environ 13 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Un gazon net à Cambremer",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Cambremer compte 1 294 habitants et se situe à environ 13 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon, Le Pré-d'Auge et La Boissière. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe"
+    ],
+    "communes": [
+      "Saint-Ouen-le-Pin",
+      "La Houblonnière",
+      "Notre-Dame-d'Estrées-Corbon",
+      "Le Pré-d'Auge",
+      "La Boissière"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Cambremer ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Cambremer, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cambremer ?",
+        "a": "Nous desservons Cambremer et ses environs : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-cambremer",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "cambremer",
+    "km": 13,
+    "pop": 1294,
+    "city": "Cambremer",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Cambremer | Multi Taille Services",
+    "meta": "Débroussaillage à Cambremer : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Cambremer : terrains, talus et friches",
+    "overline": "Débroussaillage à Cambremer, à 13 km de Lisieux",
+    "intro": "Cambremer (à l'ouest, à environ 13 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Débroussailler à Cambremer : ce qu'il faut savoir",
+      "paras": [
+        "Un terrain laissé plusieurs années demande souvent deux passages : un premier pour ouvrir, un second pour reprendre proprement. Nous vous le disons dès la visite.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Cambremer compte 1 294 habitants et se situe à environ 13 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon, Le Pré-d'Auge et La Boissière. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente"
+    ],
+    "communes": [
+      "Saint-Ouen-le-Pin",
+      "La Houblonnière",
+      "Notre-Dame-d'Estrées-Corbon",
+      "Le Pré-d'Auge",
+      "La Boissière"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Cambremer ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Cambremer sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cambremer ?",
+        "a": "Nous desservons Cambremer et ses environs : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-cambremer",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "cambremer",
+    "km": 13,
+    "pop": 1294,
+    "city": "Cambremer",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Cambremer | Multi Taille Services",
+    "meta": "Entretien de jardin à Cambremer (à l'ouest de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Cambremer : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Cambremer, à 13 km de Lisieux",
+    "intro": "À Cambremer, 1 294 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Les jardins de Cambremer",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Cambremer compte 1 294 habitants et se situe à environ 13 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon, Le Pré-d'Auge et La Boissière. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé"
+    ],
+    "communes": [
+      "Saint-Ouen-le-Pin",
+      "La Houblonnière",
+      "Notre-Dame-d'Estrées-Corbon",
+      "Le Pré-d'Auge",
+      "La Boissière"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Cambremer ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cambremer ?",
+        "a": "Nous desservons Cambremer et ses environs : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-pont-l-eveque",
+    "serviceSlug": "elagage",
+    "citySlug": "pont-l-eveque",
+    "km": 16,
+    "pop": 5145,
+    "city": "Pont-l'Évêque",
+    "shortName": "Élagage",
+    "title": "Élagage à Pont-l'Évêque | Multi Taille Services",
+    "meta": "Élagage d'arbres à Pont-l'Évêque : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Pont-l'Évêque : diagnostic gratuit",
+    "overline": "Élagueur à Pont-l'Évêque, à 16 km de Lisieux",
+    "intro": "Pont-l'Évêque (au nord, à environ 16 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Les arbres de Pont-l'Évêque",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "Nous travaillons avec un matériel professionnel et nous protégeons le jardin pendant l'intervention : terrasse, pelouse, haies mitoyennes et plantations restent intactes.",
+        "Pont-l'Évêque compte 5 145 habitants et se situe à environ 16 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville, Tourville-en-Auge et Saint-Julien-sur-Calonne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures"
+    ],
+    "communes": [
+      "Saint-Martin-aux-Chartrains",
+      "Reux",
+      "Surville",
+      "Tourville-en-Auge",
+      "Saint-Julien-sur-Calonne"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un élagage à Pont-l'Évêque ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Pont-l'Évêque, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Quelles communes autour de Pont-l'Évêque desservez-vous ?",
+        "a": "Nous desservons Pont-l'Évêque et ses environs : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-pont-l-eveque",
+    "serviceSlug": "jardinier",
+    "citySlug": "pont-l-eveque",
+    "km": 16,
+    "pop": 5145,
+    "city": "Pont-l'Évêque",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Pont-l'Évêque | Multi Taille Services",
+    "meta": "Un jardinier à Pont-l'Évêque pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Pont-l'Évêque : un jardin net, toute l'année",
+    "overline": "Jardinier à Pont-l'Évêque, à 16 km de Lisieux",
+    "intro": "Pont-l'Évêque (au nord, à environ 16 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Pont-l'Évêque",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Un entretien de jardin réussi repose sur la régularité. Nous vous proposons un passage ponctuel ou un entretien suivi, avec une visite gratuite et un devis clair avant de commencer.",
+        "Pont-l'Évêque compte 5 145 habitants et se situe à environ 16 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville, Tourville-en-Auge et Saint-Julien-sur-Calonne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes"
+    ],
+    "communes": [
+      "Saint-Martin-aux-Chartrains",
+      "Reux",
+      "Surville",
+      "Tourville-en-Auge",
+      "Saint-Julien-sur-Calonne"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Pont-l'Évêque ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Quelles communes autour de Pont-l'Évêque desservez-vous ?",
+        "a": "Nous desservons Pont-l'Évêque et ses environs : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-pont-l-eveque",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "pont-l-eveque",
+    "km": 16,
+    "pop": 5145,
+    "city": "Pont-l'Évêque",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Pont-l'Évêque | Multi Taille Services",
+    "meta": "Une haie à tailler à Pont-l'Évêque ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Pont-l'Évêque : devis gratuit après visite",
+    "overline": "Taille de haie à Pont-l'Évêque, à 16 km de Lisieux",
+    "intro": "À Pont-l'Évêque, 5 145 habitants, les haies sont partout : clôtures, brise-vent, séparations. Nous les taillons ponctuellement ou chaque année, avec un chantier toujours laissé propre.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Pont-l'Évêque",
+      "paras": [
+        "Dans le Pays d'Auge, les haies vives (charme, noisetier, aubépine) se taillent moins sévèrement que du laurier : une taille latérale annuelle suffit à les garder denses. Nous adaptons la taille à chaque haie.",
+        "Une haie se taille légèrement et souvent plutôt que fortement et rarement. Les résineux comme le thuya ne repoussent pas dans le vieux bois : nous évaluons toujours la haie avant de couper.",
+        "Pont-l'Évêque compte 5 145 habitants et se situe à environ 16 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville, Tourville-en-Auge et Saint-Julien-sur-Calonne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions"
+    ],
+    "communes": [
+      "Saint-Martin-aux-Chartrains",
+      "Reux",
+      "Surville",
+      "Tourville-en-Auge",
+      "Saint-Julien-sur-Calonne"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Pont-l'Évêque ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Pont-l'Évêque sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Quelles communes autour de Pont-l'Évêque desservez-vous ?",
+        "a": "Nous desservons Pont-l'Évêque et ses environs : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-pont-l-eveque",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "pont-l-eveque",
+    "km": 16,
+    "pop": 5145,
+    "city": "Pont-l'Évêque",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Pont-l'Évêque | Multi Taille Services",
+    "meta": "Tonte à Pont-l'Évêque (au nord de Lisieux) : jardins et grands terrains, passages planifiés. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Pont-l'Évêque : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Pont-l'Évêque, à 16 km de Lisieux",
+    "intro": "Pont-l'Évêque (au nord, à environ 16 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Un gazon net à Pont-l'Évêque",
+      "paras": [
+        "Les grands jardins du bocage demandent du temps et du matériel : nous prenons la tonte en charge, du simple passage mensuel au suivi hebdomadaire en pleine pousse.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Pont-l'Évêque compte 5 145 habitants et se situe à environ 16 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville, Tourville-en-Auge et Saint-Julien-sur-Calonne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs"
+    ],
+    "communes": [
+      "Saint-Martin-aux-Chartrains",
+      "Reux",
+      "Surville",
+      "Tourville-en-Auge",
+      "Saint-Julien-sur-Calonne"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Pont-l'Évêque ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Pont-l'Évêque, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Pont-l'Évêque desservez-vous ?",
+        "a": "Nous desservons Pont-l'Évêque et ses environs : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-pont-l-eveque",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "pont-l-eveque",
+    "km": 16,
+    "pop": 5145,
+    "city": "Pont-l'Évêque",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Pont-l'Évêque | Multi Taille Services",
+    "meta": "Débroussaillage à Pont-l'Évêque : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Pont-l'Évêque : terrains, talus et friches",
+    "overline": "Débroussaillage à Pont-l'Évêque, à 16 km de Lisieux",
+    "intro": "Pont-l'Évêque (au nord, à environ 16 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Débroussailler à Pont-l'Évêque : ce qu'il faut savoir",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Pont-l'Évêque compte 5 145 habitants et se situe à environ 16 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville, Tourville-en-Auge et Saint-Julien-sur-Calonne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers"
+    ],
+    "communes": [
+      "Saint-Martin-aux-Chartrains",
+      "Reux",
+      "Surville",
+      "Tourville-en-Auge",
+      "Saint-Julien-sur-Calonne"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Pont-l'Évêque ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Pont-l'Évêque sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Pont-l'Évêque desservez-vous ?",
+        "a": "Nous desservons Pont-l'Évêque et ses environs : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-pont-l-eveque",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "pont-l-eveque",
+    "km": 16,
+    "pop": 5145,
+    "city": "Pont-l'Évêque",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Pont-l'Évêque | Multi Taille Services",
+    "meta": "Entretien de jardin à Pont-l'Évêque : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Pont-l'Évêque : saison par saison",
+    "overline": "Entretien de jardin à Pont-l'Évêque, à 16 km de Lisieux",
+    "intro": "À Pont-l'Évêque, 5 145 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Un jardin suivi à Pont-l'Évêque",
+      "paras": [
+        "Une propriété de campagne se gère par saison. Nous nous occupons de l'entretien courant pour que vous profitiez du jardin au lieu de le subir.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Pont-l'Évêque compte 5 145 habitants et se situe à environ 16 km de Lisieux, au nord. Nous intervenons aussi dans les communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville, Tourville-en-Auge et Saint-Julien-sur-Calonne. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées"
+    ],
+    "communes": [
+      "Saint-Martin-aux-Chartrains",
+      "Reux",
+      "Surville",
+      "Tourville-en-Auge",
+      "Saint-Julien-sur-Calonne"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Pont-l'Évêque ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Quelles communes autour de Pont-l'Évêque desservez-vous ?",
+        "a": "Nous desservons Pont-l'Évêque et ses environs : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-moyaux",
+    "serviceSlug": "elagage",
+    "citySlug": "moyaux",
+    "km": 11,
+    "pop": 1383,
+    "city": "Moyaux",
+    "shortName": "Élagage",
+    "title": "Élagage à Moyaux | Multi Taille Services",
+    "meta": "Élagage d'arbres à Moyaux : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Moyaux : diagnostic gratuit",
+    "overline": "Élagueur à Moyaux, à 11 km de Lisieux",
+    "intro": "Moyaux (au nord-est, à environ 11 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Élaguer à Moyaux : ce qu'il faut savoir",
+      "paras": [
+        "Dans les jardins du Pays d'Auge, les arbres sont souvent anciens et proches des bâtiments. Nous privilégions une taille douce et régulière, bien plus saine pour l'arbre qu'une coupe sévère tous les dix ans.",
+        "La bonne période d'élagage dépend de l'arbre et de l'objectif. Beaucoup d'arbres se taillent en dehors de la pleine végétation, mais un arbre dangereux se traite sans attendre.",
+        "Moyaux compte 1 383 habitants et se situe à environ 11 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Pin, Fumichon, Ouilly-du-Houley, Asnières et Saint-Pierre-de-Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres"
+    ],
+    "communes": [
+      "Le Pin",
+      "Fumichon",
+      "Ouilly-du-Houley",
+      "Asnières",
+      "Saint-Pierre-de-Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un élagage à Moyaux ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Moyaux, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Quelles communes autour de Moyaux desservez-vous ?",
+        "a": "Oui : nous intervenons à Moyaux et dans les communes voisines, notamment Le Pin, Fumichon, Ouilly-du-Houley et Asnières. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-moyaux",
+    "serviceSlug": "jardinier",
+    "citySlug": "moyaux",
+    "km": 11,
+    "pop": 1383,
+    "city": "Moyaux",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Moyaux | Multi Taille Services",
+    "meta": "Entretien de jardin à Moyaux (au nord-est de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Jardinier à Moyaux : un jardin net, toute l'année",
+    "overline": "Jardinier à Moyaux, à 11 km de Lisieux",
+    "intro": "À Moyaux, 1 383 habitants, l'entretien d'un jardin prend vite du temps. Nous prenons le relais : passages réguliers, remise en état avant l'été, ramassage de fin de saison.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Moyaux",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Un entretien de jardin réussi repose sur la régularité. Nous vous proposons un passage ponctuel ou un entretien suivi, avec une visite gratuite et un devis clair avant de commencer.",
+        "Moyaux compte 1 383 habitants et se situe à environ 11 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Pin, Fumichon, Ouilly-du-Houley, Asnières et Saint-Pierre-de-Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "Le Pin",
+      "Fumichon",
+      "Ouilly-du-Houley",
+      "Asnières",
+      "Saint-Pierre-de-Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Moyaux ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Moyaux, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Pouvez-vous remettre en état un jardin laissé à l'abandon ?",
+        "a": "Oui. Nous débroussaillons, tondons, taillons et évacuons, puis nous proposons un entretien régulier pour que le jardin ne se referme pas. La visite préalable est gratuite."
+      },
+      {
+        "q": "Quelles communes autour de Moyaux desservez-vous ?",
+        "a": "Oui : nous intervenons à Moyaux et dans les communes voisines, notamment Le Pin, Fumichon, Ouilly-du-Houley et Asnières. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-moyaux",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "moyaux",
+    "km": 11,
+    "pop": 1383,
+    "city": "Moyaux",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Moyaux | Multi Taille Services",
+    "meta": "Une haie à tailler à Moyaux ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Moyaux : devis gratuit après visite",
+    "overline": "Taille de haie à Moyaux, à 11 km de Lisieux",
+    "intro": "À Moyaux, 1 383 habitants, les haies sont partout : clôtures, brise-vent, séparations. Nous les taillons ponctuellement ou chaque année, avec un chantier toujours laissé propre.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Moyaux",
+      "paras": [
+        "Haies de clôture, haies champêtres, haies de thuyas ou de lauriers autour de la maison : nous les entretenons toutes, en tenant compte de l'essence et de la période de nidification des oiseaux.",
+        "Taille au cordeau, finitions à la cisaille, évacuation ou broyage des déchets : le chantier est conduit jusqu'au bout et le jardin laissé propre.",
+        "Moyaux compte 1 383 habitants et se situe à environ 11 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Pin, Fumichon, Ouilly-du-Houley, Asnières et Saint-Pierre-de-Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres"
+    ],
+    "communes": [
+      "Le Pin",
+      "Fumichon",
+      "Ouilly-du-Houley",
+      "Asnières",
+      "Saint-Pierre-de-Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Moyaux ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Quelles communes autour de Moyaux desservez-vous ?",
+        "a": "Oui : nous intervenons à Moyaux et dans les communes voisines, notamment Le Pin, Fumichon, Ouilly-du-Houley et Asnières. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-moyaux",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "moyaux",
+    "km": 11,
+    "pop": 1383,
+    "city": "Moyaux",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Moyaux | Multi Taille Services",
+    "meta": "Tonte de pelouse à Moyaux : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Moyaux : on s'en charge",
+    "overline": "Tonte de pelouse à Moyaux, à 11 km de Lisieux",
+    "intro": "Besoin d'une tonte à Moyaux ? Nous intervenons à environ 11 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Un gazon net à Moyaux",
+      "paras": [
+        "Les prairies d'agrément et les talus se tondent autrement qu'un gazon : nous adaptons la machine et la hauteur de coupe au terrain.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Moyaux compte 1 383 habitants et se situe à environ 11 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Pin, Fumichon, Ouilly-du-Houley, Asnières et Saint-Pierre-de-Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Le Pin",
+      "Fumichon",
+      "Ouilly-du-Houley",
+      "Asnières",
+      "Saint-Pierre-de-Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Moyaux ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Moyaux, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Quelles communes autour de Moyaux desservez-vous ?",
+        "a": "Oui : nous intervenons à Moyaux et dans les communes voisines, notamment Le Pin, Fumichon, Ouilly-du-Houley et Asnières. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-moyaux",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "moyaux",
+    "km": 11,
+    "pop": 1383,
+    "city": "Moyaux",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Moyaux | Multi Taille Services",
+    "meta": "Débroussaillage à Moyaux : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussailler à Moyaux : ronces et broussailles",
+    "overline": "Débroussaillage à Moyaux, à 11 km de Lisieux",
+    "intro": "Un terrain envahi à Moyaux ? Nous intervenons à environ 11 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de Moyaux",
+      "paras": [
+        "Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Moyaux compte 1 383 habitants et se situe à environ 11 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Pin, Fumichon, Ouilly-du-Houley, Asnières et Saint-Pierre-de-Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Le Pin",
+      "Fumichon",
+      "Ouilly-du-Houley",
+      "Asnières",
+      "Saint-Pierre-de-Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Moyaux ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Moyaux sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Gardez-vous les arbres et les haies existantes ?",
+        "a": "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."
+      },
+      {
+        "q": "Quelles communes autour de Moyaux desservez-vous ?",
+        "a": "Oui : nous intervenons à Moyaux et dans les communes voisines, notamment Le Pin, Fumichon, Ouilly-du-Houley et Asnières. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-moyaux",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "moyaux",
+    "km": 11,
+    "pop": 1383,
+    "city": "Moyaux",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Moyaux | Multi Taille Services",
+    "meta": "Un jardinier pour entretenir votre jardin à Moyaux : visite et devis gratuits, passages planifiés. Appel direct : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Moyaux : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Moyaux, à 11 km de Lisieux",
+    "intro": "Moyaux (au nord-est, à environ 11 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Un jardin suivi à Moyaux",
+      "paras": [
+        "Une propriété de campagne se gère par saison. Nous nous occupons de l'entretien courant pour que vous profitiez du jardin au lieu de le subir.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Moyaux compte 1 383 habitants et se situe à environ 11 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Le Pin, Fumichon, Ouilly-du-Houley, Asnières et Saint-Pierre-de-Cormeilles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes"
+    ],
+    "communes": [
+      "Le Pin",
+      "Fumichon",
+      "Ouilly-du-Houley",
+      "Asnières",
+      "Saint-Pierre-de-Cormeilles"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Moyaux ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Quelles communes autour de Moyaux desservez-vous ?",
+        "a": "Oui : nous intervenons à Moyaux et dans les communes voisines, notamment Le Pin, Fumichon, Ouilly-du-Houley et Asnières. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-thiberville",
+    "serviceSlug": "elagage",
+    "citySlug": "thiberville",
+    "km": 16,
+    "pop": 1752,
+    "city": "Thiberville",
+    "shortName": "Élagage",
+    "title": "Élagage à Thiberville | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Thiberville ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage à Thiberville : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Thiberville, à 16 km de Lisieux",
+    "intro": "Thiberville (à l'est, à environ 16 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Des arbres bien taillés à Thiberville",
+      "paras": [
+        "De l'autre côté de la limite départementale, dans l'Eure, nous intervenons comme dans le Calvados : diagnostic gratuit, taille adaptée à l'essence, chantier propre. Les jardins du secteur mêlent feuillus de belle taille et arbres fruitiers.",
+        "La bonne période d'élagage dépend de l'arbre et de l'objectif. Beaucoup d'arbres se taillent en dehors de la pleine végétation, mais un arbre dangereux se traite sans attendre.",
+        "Thiberville compte 1 752 habitants et se situe à environ 16 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet, Le Planquay et Bournainville-Faverolles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses"
+    ],
+    "communes": [
+      "Drucourt",
+      "L'Hôtellerie",
+      "Fontaine-la-Louvet",
+      "Le Planquay",
+      "Bournainville-Faverolles"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un élagage à Thiberville ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Thiberville, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Quelles communes autour de Thiberville desservez-vous ?",
+        "a": "Nous desservons Thiberville et ses environs : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-thiberville",
+    "serviceSlug": "jardinier",
+    "citySlug": "thiberville",
+    "km": 16,
+    "pop": 1752,
+    "city": "Thiberville",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Thiberville | Multi Taille Services",
+    "meta": "Un jardinier à Thiberville pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Thiberville : un jardin net, toute l'année",
+    "overline": "Jardinier à Thiberville, à 16 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Thiberville ? Nous intervenons à environ 16 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Un jardin net à Thiberville",
+      "paras": [
+        "Qu'il s'agisse d'une remise en ordre ou d'un entretien suivi, nous prenons le jardin tel qu'il est : tonte, haies, massifs et évacuation complète des déchets verts.",
+        "Un entretien de jardin réussi repose sur la régularité. Nous vous proposons un passage ponctuel ou un entretien suivi, avec une visite gratuite et un devis clair avant de commencer.",
+        "Thiberville compte 1 752 habitants et se situe à environ 16 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet, Le Planquay et Bournainville-Faverolles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains"
+    ],
+    "communes": [
+      "Drucourt",
+      "L'Hôtellerie",
+      "Fontaine-la-Louvet",
+      "Le Planquay",
+      "Bournainville-Faverolles"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Thiberville ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Thiberville, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Évacuez-vous les déchets verts ?",
+        "a": "Oui, les déchets verts sont évacués ou broyés selon le devis. Vous retrouvez un jardin propre après chaque passage."
+      },
+      {
+        "q": "Quelles communes autour de Thiberville desservez-vous ?",
+        "a": "Nous desservons Thiberville et ses environs : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-thiberville",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "thiberville",
+    "km": 16,
+    "pop": 1752,
+    "city": "Thiberville",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Thiberville | Multi Taille Services",
+    "meta": "Une haie à tailler à Thiberville ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Thiberville : devis gratuit après visite",
+    "overline": "Taille de haie à Thiberville, à 16 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Thiberville ? Nous intervenons à environ 16 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Thiberville",
+      "paras": [
+        "Que votre haie soit récente ou ancienne, la bonne taille dépend de l'essence. Nous respectons le port de chaque haie, y compris pour les haies champêtres qui demandent une taille moins sévère.",
+        "Nous intervenons ponctuellement ou chaque année : une haie taillée à intervalles réguliers reste dense, solide et facile à entretenir.",
+        "Thiberville compte 1 752 habitants et se situe à environ 16 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet, Le Planquay et Bournainville-Faverolles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions"
+    ],
+    "communes": [
+      "Drucourt",
+      "L'Hôtellerie",
+      "Fontaine-la-Louvet",
+      "Le Planquay",
+      "Bournainville-Faverolles"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Thiberville ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Thiberville sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Quelles communes autour de Thiberville desservez-vous ?",
+        "a": "Nous desservons Thiberville et ses environs : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-thiberville",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "thiberville",
+    "km": 16,
+    "pop": 1752,
+    "city": "Thiberville",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Thiberville | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Thiberville ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Thiberville : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Thiberville, à 16 km de Lisieux",
+    "intro": "À Thiberville, 1 752 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Tondre à Thiberville : ce qu'il faut savoir",
+      "paras": [
+        "Nous tondons aussi dans ce secteur de l'Eure : petits jardins de bourg comme grandes pelouses de propriété, avec des passages planifiés.",
+        "Mulching ou ramassage : le mulching nourrit la pelouse quand l'herbe est régulièrement coupée, le ramassage convient aux pelouses longues ou très denses. Nous choisissons avec vous.",
+        "Thiberville compte 1 752 habitants et se situe à environ 16 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet, Le Planquay et Bournainville-Faverolles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces"
+    ],
+    "communes": [
+      "Drucourt",
+      "L'Hôtellerie",
+      "Fontaine-la-Louvet",
+      "Le Planquay",
+      "Bournainville-Faverolles"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Thiberville ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Thiberville desservez-vous ?",
+        "a": "Nous desservons Thiberville et ses environs : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-thiberville",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "thiberville",
+    "km": 16,
+    "pop": 1752,
+    "city": "Thiberville",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Thiberville | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Thiberville (à l'est de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Thiberville : terrains, talus et friches",
+    "overline": "Débroussaillage à Thiberville, à 16 km de Lisieux",
+    "intro": "Thiberville (à l'est, à environ 16 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les terrains de Thiberville",
+      "paras": [
+        "Visite sur place, devis, puis intervention à la date convenue : la méthode est la même de chaque côté de la limite départementale.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Thiberville compte 1 752 habitants et se situe à environ 16 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet, Le Planquay et Bournainville-Faverolles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente"
+    ],
+    "communes": [
+      "Drucourt",
+      "L'Hôtellerie",
+      "Fontaine-la-Louvet",
+      "Le Planquay",
+      "Bournainville-Faverolles"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Thiberville ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Thiberville desservez-vous ?",
+        "a": "Nous desservons Thiberville et ses environs : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-thiberville",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "thiberville",
+    "km": 16,
+    "pop": 1752,
+    "city": "Thiberville",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Thiberville | Multi Taille Services",
+    "meta": "Entretien de jardin à Thiberville : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Thiberville : saison par saison",
+    "overline": "Entretien de jardin à Thiberville, à 16 km de Lisieux",
+    "intro": "À Thiberville, 1 752 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Thiberville",
+      "paras": [
+        "Un seul interlocuteur pour la tonte, les haies et les massifs : c'est plus simple pour vous, et le jardin est cohérent d'un passage à l'autre.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Thiberville compte 1 752 habitants et se situe à environ 16 km de Lisieux, à l'est. Nous intervenons aussi dans les communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet, Le Planquay et Bournainville-Faverolles. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles"
+    ],
+    "communes": [
+      "Drucourt",
+      "L'Hôtellerie",
+      "Fontaine-la-Louvet",
+      "Le Planquay",
+      "Bournainville-Faverolles"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Thiberville ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Quelles communes autour de Thiberville desservez-vous ?",
+        "a": "Nous desservons Thiberville et ses environs : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-dozule",
+    "serviceSlug": "elagage",
+    "citySlug": "dozule",
+    "km": 22,
+    "pop": 2244,
+    "city": "Dozulé",
+    "shortName": "Élagage",
+    "title": "Élagage à Dozulé | Multi Taille Services",
+    "meta": "Élagueur à Dozulé (à l'ouest de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le 07 67 23 41 23.",
+    "h1": "Élagueur à Dozulé : taille soignée et chantier propre",
+    "overline": "Élagueur à Dozulé, à 22 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Dozulé ? Nous intervenons à environ 22 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Des arbres bien taillés à Dozulé",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "Un élagage se prépare : nous regardons l'essence, l'état sanitaire, l'accès et ce qui se trouve sous l'arbre (toiture, clôture, terrasse). Le diagnostic est gratuit, et le devis annoncé est le prix final.",
+        "Dozulé compte 2 244 habitants et se situe à environ 22 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge, Saint-Léger-Dubosq et Saint-Jouin. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne"
+    ],
+    "communes": [
+      "Angerville",
+      "Cricqueville-en-Auge",
+      "Putot-en-Auge",
+      "Saint-Léger-Dubosq",
+      "Saint-Jouin"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un élagage à Dozulé ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Dozulé, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Dozulé ?",
+        "a": "Oui : nous intervenons à Dozulé et dans les communes voisines, notamment Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-dozule",
+    "serviceSlug": "jardinier",
+    "citySlug": "dozule",
+    "km": 22,
+    "pop": 2244,
+    "city": "Dozulé",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Dozulé | Multi Taille Services",
+    "meta": "Un jardinier à Dozulé pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Dozulé : entretien régulier ou ponctuel",
+    "overline": "Jardinier à Dozulé, à 22 km de Lisieux",
+    "intro": "À Dozulé, 2 244 habitants, l'entretien d'un jardin prend vite du temps. Nous prenons le relais : passages réguliers, remise en état avant l'été, ramassage de fin de saison.",
+    "besoins": {
+      "h2": "Un jardin net à Dozulé",
+      "paras": [
+        "Une propriété de campagne se gère par saison : tonte et débroussaillage au printemps, taille des haies en été, ramassage et nettoyage à l'automne. Nous planifions chaque passage avec vous.",
+        "Débroussaillage d'un terrain laissé à l'abandon, remise en état d'une pelouse, taille d'arbustes : nous prenons aussi les gros chantiers de remise en état avant un entretien régulier.",
+        "Dozulé compte 2 244 habitants et se situe à environ 22 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge, Saint-Léger-Dubosq et Saint-Jouin. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces"
+    ],
+    "communes": [
+      "Angerville",
+      "Cricqueville-en-Auge",
+      "Putot-en-Auge",
+      "Saint-Léger-Dubosq",
+      "Saint-Jouin"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Dozulé ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Dozulé, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Dozulé ?",
+        "a": "Oui : nous intervenons à Dozulé et dans les communes voisines, notamment Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-dozule",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "dozule",
+    "km": 22,
+    "pop": 2244,
+    "city": "Dozulé",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Dozulé | Multi Taille Services",
+    "meta": "Une haie à tailler à Dozulé ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Dozulé : des lignes nettes",
+    "overline": "Taille de haie à Dozulé, à 22 km de Lisieux",
+    "intro": "Dozulé (à l'ouest, à environ 22 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Les haies de Dozulé",
+      "paras": [
+        "Une haie de campagne peut mesurer plusieurs dizaines de mètres. Nous intervenons avec le matériel adapté, sur une journée ou plusieurs, et nous évacuons ou broyons les déchets.",
+        "Taille au cordeau, finitions à la cisaille, évacuation ou broyage des déchets : le chantier est conduit jusqu'au bout et le jardin laissé propre.",
+        "Dozulé compte 2 244 habitants et se situe à environ 22 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge, Saint-Léger-Dubosq et Saint-Jouin. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles"
+    ],
+    "communes": [
+      "Angerville",
+      "Cricqueville-en-Auge",
+      "Putot-en-Auge",
+      "Saint-Léger-Dubosq",
+      "Saint-Jouin"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Dozulé ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Dozulé sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Dozulé ?",
+        "a": "Oui : nous intervenons à Dozulé et dans les communes voisines, notamment Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-dozule",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "dozule",
+    "km": 22,
+    "pop": 2244,
+    "city": "Dozulé",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Dozulé | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Dozulé ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Dozulé : on s'en charge",
+    "overline": "Tonte de pelouse à Dozulé, à 22 km de Lisieux",
+    "intro": "À Dozulé, 2 244 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Un gazon net à Dozulé",
+      "paras": [
+        "Les grands jardins du bocage demandent du temps et du matériel : nous prenons la tonte en charge, du simple passage mensuel au suivi hebdomadaire en pleine pousse.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Dozulé compte 2 244 habitants et se situe à environ 22 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge, Saint-Léger-Dubosq et Saint-Jouin. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément"
+    ],
+    "communes": [
+      "Angerville",
+      "Cricqueville-en-Auge",
+      "Putot-en-Auge",
+      "Saint-Léger-Dubosq",
+      "Saint-Jouin"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Dozulé ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Dozulé, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Dozulé ?",
+        "a": "Oui : nous intervenons à Dozulé et dans les communes voisines, notamment Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-dozule",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "dozule",
+    "km": 22,
+    "pop": 2244,
+    "city": "Dozulé",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Dozulé | Multi Taille Services",
+    "meta": "Débroussaillage à Dozulé : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussailler à Dozulé : ronces et broussailles",
+    "overline": "Débroussaillage à Dozulé, à 22 km de Lisieux",
+    "intro": "Dozulé (à l'ouest, à environ 22 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Débroussailler à Dozulé : ce qu'il faut savoir",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Dozulé compte 2 244 habitants et se situe à environ 22 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge, Saint-Léger-Dubosq et Saint-Jouin. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins"
+    ],
+    "communes": [
+      "Angerville",
+      "Cricqueville-en-Auge",
+      "Putot-en-Auge",
+      "Saint-Léger-Dubosq",
+      "Saint-Jouin"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Dozulé ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Dozulé ?",
+        "a": "Oui : nous intervenons à Dozulé et dans les communes voisines, notamment Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-dozule",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "dozule",
+    "km": 22,
+    "pop": 2244,
+    "city": "Dozulé",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Dozulé | Multi Taille Services",
+    "meta": "Entretien de jardin à Dozulé (à l'ouest de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Dozulé : toute l'année",
+    "overline": "Entretien de jardin à Dozulé, à 22 km de Lisieux",
+    "intro": "À Dozulé, 2 244 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Les jardins de Dozulé",
+      "paras": [
+        "Au printemps, remise en ordre et premières tontes ; en été, tonte et taille légère ; à l'automne, ramassage des feuilles et taille de saison. Chaque passage est planifié.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Dozulé compte 2 244 habitants et se situe à environ 22 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge, Saint-Léger-Dubosq et Saint-Jouin. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages"
+    ],
+    "communes": [
+      "Angerville",
+      "Cricqueville-en-Auge",
+      "Putot-en-Auge",
+      "Saint-Léger-Dubosq",
+      "Saint-Jouin"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Dozulé ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Dozulé ?",
+        "a": "Oui : nous intervenons à Dozulé et dans les communes voisines, notamment Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-cabourg",
+    "serviceSlug": "elagage",
+    "citySlug": "cabourg",
+    "km": 29,
+    "pop": 3725,
+    "city": "Cabourg",
+    "shortName": "Élagage",
+    "title": "Élagage à Cabourg | Multi Taille Services",
+    "meta": "Élagage d'arbres à Cabourg : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage à Cabourg : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Cabourg, à 29 km de Lisieux",
+    "intro": "À Cabourg, 3 725 habitants, les arbres des jardins demandent un suivi régulier. Nous nous déplaçons à environ 29 km de Lisieux pour évaluer vos arbres, proposer la taille adaptée et réaliser le chantier en sécurité.",
+    "besoins": {
+      "h2": "Élaguer à Cabourg : ce qu'il faut savoir",
+      "paras": [
+        "Le climat marin use les arbres autrement qu'à l'intérieur des terres : branches cassées par les coups de vent, feuillage brûlé par le sel, couronnes déséquilibrées d'un seul côté. Nous rééquilibrons la couronne et supprimons le bois fragilisé.",
+        "Une taille raisonnée vaut mieux qu'une coupe radicale : elle préserve la santé de l'arbre, limite les rejets et reste discrète dans le paysage. C'est notre principe sur tous nos chantiers.",
+        "Cabourg compte 3 725 habitants et se situe à environ 29 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Dives-sur-Mer, Varaville, Houlgate, Grangues et Gonneville-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort"
+    ],
+    "communes": [
+      "Dives-sur-Mer",
+      "Varaville",
+      "Houlgate",
+      "Grangues",
+      "Gonneville-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Cabourg ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Évacuez-vous les branches après l'élagage ?",
+        "a": "Oui. Les branches sont évacuées ou broyées, selon ce qui est prévu au devis, et le jardin est ratissé : nous ne partons que lorsque le chantier est propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cabourg ?",
+        "a": "Nous desservons Cabourg et ses environs : Dives-sur-Mer, Varaville, Houlgate et Grangues, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-cabourg",
+    "serviceSlug": "jardinier",
+    "citySlug": "cabourg",
+    "km": 29,
+    "pop": 3725,
+    "city": "Cabourg",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Cabourg | Multi Taille Services",
+    "meta": "Entretien de jardin à Cabourg (à l'ouest de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Jardinier à Cabourg : un jardin net, toute l'année",
+    "overline": "Jardinier à Cabourg, à 29 km de Lisieux",
+    "intro": "À Cabourg, 3 725 habitants, l'entretien d'un jardin prend vite du temps. Nous prenons le relais : passages réguliers, remise en état avant l'été, ramassage de fin de saison.",
+    "besoins": {
+      "h2": "Un jardin net à Cabourg",
+      "paras": [
+        "Résidences secondaires ou maisons principales : nous entretenons les jardins du littoral avec des passages réguliers, y compris en votre absence, pour retrouver une propriété nette à chaque retour.",
+        "Débroussaillage d'un terrain laissé à l'abandon, remise en état d'une pelouse, taille d'arbustes : nous prenons aussi les gros chantiers de remise en état avant un entretien régulier.",
+        "Cabourg compte 3 725 habitants et se situe à environ 29 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Dives-sur-Mer, Varaville, Houlgate, Grangues et Gonneville-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel"
+    ],
+    "communes": [
+      "Dives-sur-Mer",
+      "Varaville",
+      "Houlgate",
+      "Grangues",
+      "Gonneville-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un entretien de jardin à Cabourg ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Cabourg, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cabourg ?",
+        "a": "Nous desservons Cabourg et ses environs : Dives-sur-Mer, Varaville, Houlgate et Grangues, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-cabourg",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "cabourg",
+    "km": 29,
+    "pop": 3725,
+    "city": "Cabourg",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Cabourg | Multi Taille Services",
+    "meta": "Taille de haie à Cabourg : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haies à Cabourg : thuyas, lauriers, charmilles",
+    "overline": "Taille de haie à Cabourg, à 29 km de Lisieux",
+    "intro": "À Cabourg, 3 725 habitants, les haies sont partout : clôtures, brise-vent, séparations. Nous les taillons ponctuellement ou chaque année, avec un chantier toujours laissé propre.",
+    "besoins": {
+      "h2": "Les haies de Cabourg",
+      "paras": [
+        "Au bord de la mer, les haies jouent le rôle de brise-vent. Il faut les tailler avec soin : une haie trop sévèrement taillée souffre du vent et du sel, une haie négligée perd en densité. Nous trouvons l'équilibre.",
+        "La période de taille dépend de l'essence. Il vaut mieux éviter la pleine période de nidification des oiseaux, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne.",
+        "Cabourg compte 3 725 habitants et se situe à environ 29 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Dives-sur-Mer, Varaville, Houlgate, Grangues et Gonneville-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres"
+    ],
+    "communes": [
+      "Dives-sur-Mer",
+      "Varaville",
+      "Houlgate",
+      "Grangues",
+      "Gonneville-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Cabourg ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cabourg ?",
+        "a": "Nous desservons Cabourg et ses environs : Dives-sur-Mer, Varaville, Houlgate et Grangues, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-cabourg",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "cabourg",
+    "km": 29,
+    "pop": 3725,
+    "city": "Cabourg",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Cabourg | Multi Taille Services",
+    "meta": "Tonte de pelouse à Cabourg : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte à Cabourg : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Cabourg, à 29 km de Lisieux",
+    "intro": "Cabourg (à l'ouest, à environ 29 km de Lisieux) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+    "besoins": {
+      "h2": "Votre pelouse à Cabourg",
+      "paras": [
+        "Près de la mer, le sol léger et le vent assèchent vite la pelouse en été. Nous relevons la hauteur de coupe dès les beaux jours et tondons plus souvent au printemps et à l'automne, quand l'herbe pousse.",
+        "Mulching ou ramassage : le mulching nourrit la pelouse quand l'herbe est régulièrement coupée, le ramassage convient aux pelouses longues ou très denses. Nous choisissons avec vous.",
+        "Cabourg compte 3 725 habitants et se situe à environ 29 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Dives-sur-Mer, Varaville, Houlgate, Grangues et Gonneville-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Dives-sur-Mer",
+      "Varaville",
+      "Houlgate",
+      "Grangues",
+      "Gonneville-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Cabourg ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Cabourg, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cabourg ?",
+        "a": "Nous desservons Cabourg et ses environs : Dives-sur-Mer, Varaville, Houlgate et Grangues, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-cabourg",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "cabourg",
+    "km": 29,
+    "pop": 3725,
+    "city": "Cabourg",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Cabourg | Multi Taille Services",
+    "meta": "Terrain envahi à Cabourg ? Débroussaillage, broyage et évacuation. Visite gratuite. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Cabourg : terrains, talus et friches",
+    "overline": "Débroussaillage à Cabourg, à 29 km de Lisieux",
+    "intro": "Un terrain envahi à Cabourg ? Nous intervenons à environ 29 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de Cabourg",
+      "paras": [
+        "Terrain de résidence secondaire laissé fermé plusieurs mois : nous le débroussaillons en un passage, puis proposons un entretien régulier.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Cabourg compte 3 725 habitants et se situe à environ 29 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Dives-sur-Mer, Varaville, Houlgate, Grangues et Gonneville-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Dives-sur-Mer",
+      "Varaville",
+      "Houlgate",
+      "Grangues",
+      "Gonneville-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Cabourg ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Cabourg sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cabourg ?",
+        "a": "Nous desservons Cabourg et ses environs : Dives-sur-Mer, Varaville, Houlgate et Grangues, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-cabourg",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "cabourg",
+    "km": 29,
+    "pop": 3725,
+    "city": "Cabourg",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Cabourg | Multi Taille Services",
+    "meta": "Entretien de jardin à Cabourg (à l'ouest de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Cabourg : saison par saison",
+    "overline": "Entretien de jardin à Cabourg, à 29 km de Lisieux",
+    "intro": "À Cabourg, 3 725 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Cabourg",
+      "paras": [
+        "Résidence secondaire ou maison principale : nous proposons un forfait de passages réguliers, y compris en votre absence, avec compte rendu si vous le souhaitez.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+        "Cabourg compte 3 725 habitants et se situe à environ 29 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Dives-sur-Mer, Varaville, Houlgate, Grangues et Gonneville-en-Auge. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Dives-sur-Mer",
+      "Varaville",
+      "Houlgate",
+      "Grangues",
+      "Gonneville-en-Auge"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Cabourg ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Cabourg pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cabourg ?",
+        "a": "Nous desservons Cabourg et ses environs : Dives-sur-Mer, Varaville, Houlgate et Grangues, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-dives-sur-mer",
+    "serviceSlug": "elagage",
+    "citySlug": "dives-sur-mer",
+    "km": 27,
+    "pop": 5122,
+    "city": "Dives-sur-Mer",
+    "shortName": "Élagage",
+    "title": "Élagage à Dives-sur-Mer | Multi Taille Services",
+    "meta": "Besoin d'un élagueur à Dives-sur-Mer ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Dives-sur-Mer : diagnostic gratuit",
+    "overline": "Élagueur à Dives-sur-Mer, à 27 km de Lisieux",
+    "intro": "À Dives-sur-Mer, 5 122 habitants, les arbres des jardins demandent un suivi régulier. Nous nous déplaçons à environ 27 km de Lisieux pour évaluer vos arbres, proposer la taille adaptée et réaliser le chantier en sécurité.",
+    "besoins": {
+      "h2": "Les arbres de Dives-sur-Mer",
+      "paras": [
+        "Les jardins du littoral combinent grands sujets exposés et terrains souvent légers. Après un épisode venteux, nous contrôlons les charpentières, retirons le bois mort et sécurisons ce qui menace une toiture, une véranda ou une clôture.",
+        "Un élagage se prépare : nous regardons l'essence, l'état sanitaire, l'accès et ce qui se trouve sous l'arbre (toiture, clôture, terrasse). Le diagnostic est gratuit, et le devis annoncé est le prix final.",
+        "Dives-sur-Mer compte 5 122 habitants et se situe à environ 27 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Cabourg, Houlgate, Grangues, Gonneville-sur-Mer et Varaville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches"
+    ],
+    "communes": [
+      "Cabourg",
+      "Houlgate",
+      "Grangues",
+      "Gonneville-sur-Mer",
+      "Varaville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Dives-sur-Mer ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Dives-sur-Mer, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Dives-sur-Mer ?",
+        "a": "Nous desservons Dives-sur-Mer et ses environs : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-dives-sur-mer",
+    "serviceSlug": "jardinier",
+    "citySlug": "dives-sur-mer",
+    "km": 27,
+    "pop": 5122,
+    "city": "Dives-sur-Mer",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Dives-sur-Mer | Multi Taille Services",
+    "meta": "Entretien de jardin à Dives-sur-Mer (au nord-ouest de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Dives-sur-Mer : appelez, on passe",
+    "overline": "Jardinier à Dives-sur-Mer, à 27 km de Lisieux",
+    "intro": "Dives-sur-Mer (au nord-ouest, à environ 27 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Un jardin net à Dives-sur-Mer",
+      "paras": [
+        "Entretenir un jardin près de la côte, c'est composer avec le sel et le vent. Les haies brise-vent, les massifs d'hortensias et les pelouses demandent une attention régulière que nous assurons toute l'année.",
+        "Débroussaillage d'un terrain laissé à l'abandon, remise en état d'une pelouse, taille d'arbustes : nous prenons aussi les gros chantiers de remise en état avant un entretien régulier.",
+        "Dives-sur-Mer compte 5 122 habitants et se situe à environ 27 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Cabourg, Houlgate, Grangues, Gonneville-sur-Mer et Varaville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel"
+    ],
+    "communes": [
+      "Cabourg",
+      "Houlgate",
+      "Grangues",
+      "Gonneville-sur-Mer",
+      "Varaville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Dives-sur-Mer ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Dives-sur-Mer, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Pouvez-vous remettre en état un jardin laissé à l'abandon ?",
+        "a": "Oui. Nous débroussaillons, tondons, taillons et évacuons, puis nous proposons un entretien régulier pour que le jardin ne se referme pas. La visite préalable est gratuite."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Dives-sur-Mer ?",
+        "a": "Nous desservons Dives-sur-Mer et ses environs : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-dives-sur-mer",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "dives-sur-mer",
+    "km": 27,
+    "pop": 5122,
+    "city": "Dives-sur-Mer",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Dives-sur-Mer | Multi Taille Services",
+    "meta": "Taille de haies à Dives-sur-Mer (au nord-ouest de Lisieux) : matériel adapté aux grandes hauteurs, chantier propre. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Taille de haies à Dives-sur-Mer : thuyas, lauriers, charmilles",
+    "overline": "Taille de haie à Dives-sur-Mer, à 27 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Dives-sur-Mer ? Nous intervenons à environ 27 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les haies de Dives-sur-Mer",
+      "paras": [
+        "Cyprès, lauriers, escallonias, griselinias, tamaris : les haies du littoral sont soumises au vent et aux embruns. Nous les taillons à la bonne période et à la bonne hauteur pour garder un feuillage dense.",
+        "Une haie se taille légèrement et souvent plutôt que fortement et rarement. Les résineux comme le thuya ne repoussent pas dans le vieux bois : nous évaluons toujours la haie avant de couper.",
+        "Dives-sur-Mer compte 5 122 habitants et se situe à environ 27 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Cabourg, Houlgate, Grangues, Gonneville-sur-Mer et Varaville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas"
+    ],
+    "communes": [
+      "Cabourg",
+      "Houlgate",
+      "Grangues",
+      "Gonneville-sur-Mer",
+      "Varaville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une taille de haie à Dives-sur-Mer ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Dives-sur-Mer ?",
+        "a": "Nous desservons Dives-sur-Mer et ses environs : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-dives-sur-mer",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "dives-sur-mer",
+    "km": 27,
+    "pop": 5122,
+    "city": "Dives-sur-Mer",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Dives-sur-Mer | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Dives-sur-Mer ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Dives-sur-Mer : on s'en charge",
+    "overline": "Tonte de pelouse à Dives-sur-Mer, à 27 km de Lisieux",
+    "intro": "Besoin d'une tonte à Dives-sur-Mer ? Nous intervenons à environ 27 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Un gazon net à Dives-sur-Mer",
+      "paras": [
+        "Résidence secondaire sur la côte : nous tondons à la fréquence convenue pour que le jardin soit net à votre arrivée, y compris en votre absence.",
+        "Mulching ou ramassage : le mulching nourrit la pelouse quand l'herbe est régulièrement coupée, le ramassage convient aux pelouses longues ou très denses. Nous choisissons avec vous.",
+        "Dives-sur-Mer compte 5 122 habitants et se situe à environ 27 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Cabourg, Houlgate, Grangues, Gonneville-sur-Mer et Varaville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément"
+    ],
+    "communes": [
+      "Cabourg",
+      "Houlgate",
+      "Grangues",
+      "Gonneville-sur-Mer",
+      "Varaville"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Dives-sur-Mer ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Dives-sur-Mer, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Dives-sur-Mer ?",
+        "a": "Nous desservons Dives-sur-Mer et ses environs : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-dives-sur-mer",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "dives-sur-mer",
+    "km": 27,
+    "pop": 5122,
+    "city": "Dives-sur-Mer",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Dives-sur-Mer | Multi Taille Services",
+    "meta": "Débroussailler un terrain à Dives-sur-Mer (au nord-ouest de Lisieux) : matériel professionnel, devis ferme après visite. Appel : 07 67 23 41 23.",
+    "h1": "Débroussailler à Dives-sur-Mer : ronces et broussailles",
+    "overline": "Débroussaillage à Dives-sur-Mer, à 27 km de Lisieux",
+    "intro": "Un terrain envahi à Dives-sur-Mer ? Nous intervenons à environ 27 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de Dives-sur-Mer",
+      "paras": [
+        "Terrain de résidence secondaire laissé fermé plusieurs mois : nous le débroussaillons en un passage, puis proposons un entretien régulier.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Dives-sur-Mer compte 5 122 habitants et se situe à environ 27 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Cabourg, Houlgate, Grangues, Gonneville-sur-Mer et Varaville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction"
+    ],
+    "communes": [
+      "Cabourg",
+      "Houlgate",
+      "Grangues",
+      "Gonneville-sur-Mer",
+      "Varaville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Dives-sur-Mer ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Dives-sur-Mer sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Dives-sur-Mer ?",
+        "a": "Nous desservons Dives-sur-Mer et ses environs : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-dives-sur-mer",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "dives-sur-mer",
+    "km": 27,
+    "pop": 5122,
+    "city": "Dives-sur-Mer",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Dives-sur-Mer | Multi Taille Services",
+    "meta": "Entretien de jardin à Dives-sur-Mer : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Dives-sur-Mer : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Dives-sur-Mer, à 27 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Dives-sur-Mer ? Nous intervenons à environ 27 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Dives-sur-Mer",
+      "paras": [
+        "Résidence secondaire ou maison principale : nous proposons un forfait de passages réguliers, y compris en votre absence, avec compte rendu si vous le souhaitez.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Dives-sur-Mer compte 5 122 habitants et se situe à environ 27 km de Lisieux, au nord-ouest. Nous intervenons aussi dans les communes voisines : Cabourg, Houlgate, Grangues, Gonneville-sur-Mer et Varaville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces"
+    ],
+    "communes": [
+      "Cabourg",
+      "Houlgate",
+      "Grangues",
+      "Gonneville-sur-Mer",
+      "Varaville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Dives-sur-Mer ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Dives-sur-Mer pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Dives-sur-Mer ?",
+        "a": "Nous desservons Dives-sur-Mer et ses environs : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-argences",
+    "serviceSlug": "elagage",
+    "citySlug": "argences",
+    "km": 28,
+    "pop": 3959,
+    "city": "Argences",
+    "shortName": "Élagage",
+    "title": "Élagage à Argences | Multi Taille Services",
+    "meta": "Élagage d'arbres à Argences : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Argences : diagnostic gratuit",
+    "overline": "Élagueur à Argences, à 28 km de Lisieux",
+    "intro": "À Argences, 3 959 habitants, les arbres des jardins demandent un suivi régulier. Nous nous déplaçons à environ 28 km de Lisieux pour évaluer vos arbres, proposer la taille adaptée et réaliser le chantier en sécurité.",
+    "besoins": {
+      "h2": "Des arbres bien taillés à Argences",
+      "paras": [
+        "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent : sans voisinage pour les abriter, ils développent des couronnes denses qu'il faut éclaircir régulièrement pour limiter la prise au vent.",
+        "Un élagage se prépare : nous regardons l'essence, l'état sanitaire, l'accès et ce qui se trouve sous l'arbre (toiture, clôture, terrasse). Le diagnostic est gratuit, et le devis annoncé est le prix final.",
+        "Argences compte 3 959 habitants et se situe à environ 28 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Canteloup, Vimont, Janville, Saint-Pierre-du-Jonquet et Moult-Chicheboville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures"
+    ],
+    "communes": [
+      "Canteloup",
+      "Vimont",
+      "Janville",
+      "Saint-Pierre-du-Jonquet",
+      "Moult-Chicheboville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Argences ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Quelles communes autour de Argences desservez-vous ?",
+        "a": "Nous desservons Argences et ses environs : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-argences",
+    "serviceSlug": "jardinier",
+    "citySlug": "argences",
+    "km": 28,
+    "pop": 3959,
+    "city": "Argences",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Argences | Multi Taille Services",
+    "meta": "Un jardinier à Argences pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Argences : un jardin net, toute l'année",
+    "overline": "Jardinier à Argences, à 28 km de Lisieux",
+    "intro": "Argences (à l'ouest, à environ 28 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Un jardin net à Argences",
+      "paras": [
+        "Dans la plaine, les jardins de lotissements et les grands terrains ouverts demandent un entretien régulier : tonte, taille des haies de séparation, désherbage et nettoyage de fin de saison.",
+        "Au printemps, remise en ordre et premières tontes ; en été, entretien courant ; à l'automne, ramassage et taille de saison. Nous organisons l'année avec vous, saison par saison.",
+        "Argences compte 3 959 habitants et se situe à environ 28 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Canteloup, Vimont, Janville, Saint-Pierre-du-Jonquet et Moult-Chicheboville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "Canteloup",
+      "Vimont",
+      "Janville",
+      "Saint-Pierre-du-Jonquet",
+      "Moult-Chicheboville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Argences ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Évacuez-vous les déchets verts ?",
+        "a": "Oui, les déchets verts sont évacués ou broyés selon le devis. Vous retrouvez un jardin propre après chaque passage."
+      },
+      {
+        "q": "Quelles communes autour de Argences desservez-vous ?",
+        "a": "Nous desservons Argences et ses environs : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-argences",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "argences",
+    "km": 28,
+    "pop": 3959,
+    "city": "Argences",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Argences | Multi Taille Services",
+    "meta": "Taille de haie à Argences : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haies à Argences : thuyas, lauriers, charmilles",
+    "overline": "Taille de haie à Argences, à 28 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Argences ? Nous intervenons à environ 28 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Tailler une haie à Argences",
+      "paras": [
+        "Haie de séparation entre voisins, haie d'entrée, haie brise-vent : chaque haie a un rôle. Nous la taillons en conséquence, avec une finition nette et un chantier laissé propre.",
+        "La période de taille dépend de l'essence. Il vaut mieux éviter la pleine période de nidification des oiseaux, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne.",
+        "Argences compte 3 959 habitants et se situe à environ 28 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Canteloup, Vimont, Janville, Saint-Pierre-du-Jonquet et Moult-Chicheboville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets"
+    ],
+    "communes": [
+      "Canteloup",
+      "Vimont",
+      "Janville",
+      "Saint-Pierre-du-Jonquet",
+      "Moult-Chicheboville"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une taille de haie à Argences ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Quelles communes autour de Argences desservez-vous ?",
+        "a": "Nous desservons Argences et ses environs : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-argences",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "argences",
+    "km": 28,
+    "pop": 3959,
+    "city": "Argences",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Argences | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Argences ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Argences : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Argences, à 28 km de Lisieux",
+    "intro": "Besoin d'une tonte à Argences ? Nous intervenons à environ 28 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Un gazon net à Argences",
+      "paras": [
+        "Dans la plaine, les pelouses sont souvent vastes et ouvertes. Nous travaillons avec des tondeuses adaptées aux grandes surfaces pour tenir un rythme régulier sans épuiser le gazon.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Argences compte 3 959 habitants et se situe à environ 28 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Canteloup, Vimont, Janville, Saint-Pierre-du-Jonquet et Moult-Chicheboville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Soufflage des allées et terrasses",
+      "Scarification et regarnissage en complément",
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle"
+    ],
+    "communes": [
+      "Canteloup",
+      "Vimont",
+      "Janville",
+      "Saint-Pierre-du-Jonquet",
+      "Moult-Chicheboville"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une tonte de pelouse à Argences ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Argences, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Faut-il ramasser l'herbe ou la laisser sur place ?",
+        "a": "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."
+      },
+      {
+        "q": "Quelles communes autour de Argences desservez-vous ?",
+        "a": "Nous desservons Argences et ses environs : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-argences",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "argences",
+    "km": 28,
+    "pop": 3959,
+    "city": "Argences",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Argences | Multi Taille Services",
+    "meta": "Débroussaillage à Argences : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussailler à Argences : ronces et broussailles",
+    "overline": "Débroussaillage à Argences, à 28 km de Lisieux",
+    "intro": "Argences (à l'ouest, à environ 28 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les terrains de Argences",
+      "paras": [
+        "Un terrain constructible, une parcelle à vendre ou un fond de propriété : nous le rendons propre et accessible.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Argences compte 3 959 habitants et se situe à environ 28 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Canteloup, Vimont, Janville, Saint-Pierre-du-Jonquet et Moult-Chicheboville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles"
+    ],
+    "communes": [
+      "Canteloup",
+      "Vimont",
+      "Janville",
+      "Saint-Pierre-du-Jonquet",
+      "Moult-Chicheboville"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Argences ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Argences sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Argences desservez-vous ?",
+        "a": "Nous desservons Argences et ses environs : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-argences",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "argences",
+    "km": 28,
+    "pop": 3959,
+    "city": "Argences",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Argences | Multi Taille Services",
+    "meta": "Entretien de jardin à Argences (à l'ouest de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Argences : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Argences, à 28 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Argences ? Nous intervenons à environ 28 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Un jardin suivi à Argences",
+      "paras": [
+        "Jardin de week-end ou de tous les jours : nous adaptons la fréquence de passage à votre usage et à votre budget.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Argences compte 3 959 habitants et se situe à environ 28 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Canteloup, Vimont, Janville, Saint-Pierre-du-Jonquet et Moult-Chicheboville. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé"
+    ],
+    "communes": [
+      "Canteloup",
+      "Vimont",
+      "Janville",
+      "Saint-Pierre-du-Jonquet",
+      "Moult-Chicheboville"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Argences ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Quelles communes autour de Argences desservez-vous ?",
+        "a": "Nous desservons Argences et ses environs : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-mezidon-vallee-d-auge",
+    "serviceSlug": "elagage",
+    "citySlug": "mezidon-vallee-d-auge",
+    "km": 19,
+    "pop": 9766,
+    "city": "Mézidon Vallée d'Auge",
+    "shortName": "Élagage",
+    "title": "Élagage à Mézidon Vallée d'Auge | Multi Taille Services",
+    "meta": "Élagage d'arbres à Mézidon Vallée d'Auge : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage à Mézidon Vallée d'Auge : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Mézidon Vallée d'Auge, à 19 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Mézidon Vallée d'Auge ? Nous intervenons à environ 19 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Élaguer à Mézidon Vallée d'Auge : ce qu'il faut savoir",
+      "paras": [
+        "Pommiers à cidre, noyers, chênes, hêtres : les essences du bocage ont leurs périodes de taille et leurs fragilités. Nous adaptons la technique à chaque arbre, en limitant la taille des plaies.",
+        "Après une tempête, appelez-nous : nous évaluons les branches fragilisées, sécurisons ce qui doit l'être et taillons proprement ce qui peut être conservé.",
+        "Mézidon Vallée d'Auge compte 9 766 habitants et se situe à environ 19 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy, Méry-Bissières-en-Auge et Cesny-aux-Vignes. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers"
+    ],
+    "communes": [
+      "Belle Vie en Auge",
+      "Notre-Dame-d'Estrées-Corbon",
+      "Ouézy",
+      "Méry-Bissières-en-Auge",
+      "Cesny-aux-Vignes"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un élagage à Mézidon Vallée d'Auge ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Quelles communes autour de Mézidon Vallée d'Auge desservez-vous ?",
+        "a": "Oui : nous intervenons à Mézidon Vallée d'Auge et dans les communes voisines, notamment Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-mezidon-vallee-d-auge",
+    "serviceSlug": "jardinier",
+    "citySlug": "mezidon-vallee-d-auge",
+    "km": 19,
+    "pop": 9766,
+    "city": "Mézidon Vallée d'Auge",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Mézidon Vallée d'Auge | Multi Taille Services",
+    "meta": "Un jardinier à Mézidon Vallée d'Auge pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Mézidon Vallée d'Auge : entretien régulier ou ponctuel",
+    "overline": "Jardinier à Mézidon Vallée d'Auge, à 19 km de Lisieux",
+    "intro": "Mézidon Vallée d'Auge (à l'ouest, à environ 19 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Les jardins de Mézidon Vallée d'Auge",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Débroussaillage d'un terrain laissé à l'abandon, remise en état d'une pelouse, taille d'arbustes : nous prenons aussi les gros chantiers de remise en état avant un entretien régulier.",
+        "Mézidon Vallée d'Auge compte 9 766 habitants et se situe à environ 19 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy, Méry-Bissières-en-Auge et Cesny-aux-Vignes. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces"
+    ],
+    "communes": [
+      "Belle Vie en Auge",
+      "Notre-Dame-d'Estrées-Corbon",
+      "Ouézy",
+      "Méry-Bissières-en-Auge",
+      "Cesny-aux-Vignes"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Mézidon Vallée d'Auge ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Proposez-vous un entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels ou mensuels selon la saison et la taille du jardin, ou interventions ponctuelles. Nous fixons ensemble le rythme et nous planifions les passages."
+      },
+      {
+        "q": "Quelles communes autour de Mézidon Vallée d'Auge desservez-vous ?",
+        "a": "Oui : nous intervenons à Mézidon Vallée d'Auge et dans les communes voisines, notamment Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-mezidon-vallee-d-auge",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "mezidon-vallee-d-auge",
+    "km": 19,
+    "pop": 9766,
+    "city": "Mézidon Vallée d'Auge",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Mézidon Vallée d'Auge | Multi Taille",
+    "meta": "Une haie à tailler à Mézidon Vallée d'Auge ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Mézidon Vallée d'Auge : devis gratuit après visite",
+    "overline": "Taille de haie à Mézidon Vallée d'Auge, à 19 km de Lisieux",
+    "intro": "Mézidon Vallée d'Auge (à l'ouest, à environ 19 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Tailler une haie à Mézidon Vallée d'Auge",
+      "paras": [
+        "Haies de clôture, haies champêtres, haies de thuyas ou de lauriers autour de la maison : nous les entretenons toutes, en tenant compte de l'essence et de la période de nidification des oiseaux.",
+        "Une haie se taille légèrement et souvent plutôt que fortement et rarement. Les résineux comme le thuya ne repoussent pas dans le vieux bois : nous évaluons toujours la haie avant de couper.",
+        "Mézidon Vallée d'Auge compte 9 766 habitants et se situe à environ 19 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy, Méry-Bissières-en-Auge et Cesny-aux-Vignes. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille au cordeau et finitions",
+      "Taille de lauriers et photinias",
+      "Taille en hauteur avec matériel adapté",
+      "Évacuation ou broyage des déchets",
+      "Taille de haies de thuyas",
+      "Taille de charmilles"
+    ],
+    "communes": [
+      "Belle Vie en Auge",
+      "Notre-Dame-d'Estrées-Corbon",
+      "Ouézy",
+      "Méry-Bissières-en-Auge",
+      "Cesny-aux-Vignes"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Mézidon Vallée d'Auge ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Mézidon Vallée d'Auge sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Quelles communes autour de Mézidon Vallée d'Auge desservez-vous ?",
+        "a": "Oui : nous intervenons à Mézidon Vallée d'Auge et dans les communes voisines, notamment Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-mezidon-vallee-d-auge",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "mezidon-vallee-d-auge",
+    "km": 19,
+    "pop": 9766,
+    "city": "Mézidon Vallée d'Auge",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Mézidon Vallée d'Auge | Multi Taille",
+    "meta": "Tonte de pelouse à Mézidon Vallée d'Auge : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Mézidon Vallée d'Auge : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Mézidon Vallée d'Auge, à 19 km de Lisieux",
+    "intro": "À Mézidon Vallée d'Auge, 9 766 habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    "besoins": {
+      "h2": "Votre pelouse à Mézidon Vallée d'Auge",
+      "paras": [
+        "Les grands jardins du bocage demandent du temps et du matériel : nous prenons la tonte en charge, du simple passage mensuel au suivi hebdomadaire en pleine pousse.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Mézidon Vallée d'Auge compte 9 766 habitants et se situe à environ 19 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy, Méry-Bissières-en-Auge et Cesny-aux-Vignes. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Belle Vie en Auge",
+      "Notre-Dame-d'Estrées-Corbon",
+      "Ouézy",
+      "Méry-Bissières-en-Auge",
+      "Cesny-aux-Vignes"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Mézidon Vallée d'Auge ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Mézidon Vallée d'Auge, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Quelles communes autour de Mézidon Vallée d'Auge desservez-vous ?",
+        "a": "Oui : nous intervenons à Mézidon Vallée d'Auge et dans les communes voisines, notamment Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-mezidon-vallee-d-auge",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "mezidon-vallee-d-auge",
+    "km": 19,
+    "pop": 9766,
+    "city": "Mézidon Vallée d'Auge",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Mézidon Vallée d'Auge | Multi Taille",
+    "meta": "Débroussaillage à Mézidon Vallée d'Auge : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Mézidon Vallée d'Auge : on reprend votre terrain",
+    "overline": "Débroussaillage à Mézidon Vallée d'Auge, à 19 km de Lisieux",
+    "intro": "Un terrain envahi à Mézidon Vallée d'Auge ? Nous intervenons à environ 19 km de Lisieux pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+    "besoins": {
+      "h2": "Les terrains de Mézidon Vallée d'Auge",
+      "paras": [
+        "Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+        "Mézidon Vallée d'Auge compte 9 766 habitants et se situe à environ 19 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy, Méry-Bissières-en-Auge et Cesny-aux-Vignes. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état"
+    ],
+    "communes": [
+      "Belle Vie en Auge",
+      "Notre-Dame-d'Estrées-Corbon",
+      "Ouézy",
+      "Méry-Bissières-en-Auge",
+      "Cesny-aux-Vignes"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Mézidon Vallée d'Auge ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Mézidon Vallée d'Auge sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Quelles communes autour de Mézidon Vallée d'Auge desservez-vous ?",
+        "a": "Oui : nous intervenons à Mézidon Vallée d'Auge et dans les communes voisines, notamment Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-mezidon-vallee-d-auge",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "mezidon-vallee-d-auge",
+    "km": 19,
+    "pop": 9766,
+    "city": "Mézidon Vallée d'Auge",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Mézidon Vallée d'Auge | Multi Taille",
+    "meta": "Entretien de jardin à Mézidon Vallée d'Auge (à l'ouest de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Mézidon Vallée d'Auge : saison par saison",
+    "overline": "Entretien de jardin à Mézidon Vallée d'Auge, à 19 km de Lisieux",
+    "intro": "À Mézidon Vallée d'Auge, 9 766 habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Mézidon Vallée d'Auge",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Mézidon Vallée d'Auge compte 9 766 habitants et se situe à environ 19 km de Lisieux, à l'ouest. Nous intervenons aussi dans les communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy, Méry-Bissières-en-Auge et Cesny-aux-Vignes. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles",
+      "Entretien des résidences secondaires",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Belle Vie en Auge",
+      "Notre-Dame-d'Estrées-Corbon",
+      "Ouézy",
+      "Méry-Bissières-en-Auge",
+      "Cesny-aux-Vignes"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Mézidon Vallée d'Auge ?",
+        "a": "Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à Mézidon Vallée d'Auge pour une visite gratuite, puis nous vous proposons un forfait clair."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Quelles communes autour de Mézidon Vallée d'Auge desservez-vous ?",
+        "a": "Oui : nous intervenons à Mézidon Vallée d'Auge et dans les communes voisines, notamment Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-falaise",
+    "serviceSlug": "elagage",
+    "citySlug": "falaise",
+    "km": 41,
+    "pop": 7680,
+    "city": "Falaise",
+    "shortName": "Élagage",
+    "title": "Élagage à Falaise | Multi Taille Services",
+    "meta": "Élagueur à Falaise (au sud-ouest de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage à Falaise : vos arbres entre de bonnes mains",
+    "overline": "Élagueur à Falaise, à 41 km de Lisieux",
+    "intro": "Vous cherchez un élagueur à Falaise ? Nous intervenons à environ 41 km de Lisieux, avec un diagnostic gratuit sur place, une taille respectueuse de l'arbre et un chantier rendu propre. Appelez-nous pour obtenir un devis ferme.",
+    "besoins": {
+      "h2": "Les arbres de Falaise",
+      "paras": [
+        "Dans les jardins du Pays d'Auge, les arbres sont souvent anciens et proches des bâtiments. Nous privilégions une taille douce et régulière, bien plus saine pour l'arbre qu'une coupe sévère tous les dix ans.",
+        "Nous travaillons avec un matériel professionnel et nous protégeons le jardin pendant l'intervention : terrasse, pelouse, haies mitoyennes et plantations restent intactes.",
+        "Falaise compte 7 680 habitants et se situe à environ 41 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Aubigny, Versainville, Eraines, Saint-Pierre-Canivet et Noron-l'Abbaye. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux",
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne"
+    ],
+    "communes": [
+      "Aubigny",
+      "Versainville",
+      "Eraines",
+      "Saint-Pierre-Canivet",
+      "Noron-l'Abbaye"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un élagage à Falaise ?",
+        "a": "Le prix d'un élagage dépend de la hauteur de l'arbre, de l'accès, du volume à tailler et de l'évacuation des branches. Nous passons voir l'arbre gratuitement à Falaise, puis nous vous remettons un devis ferme : vous ne payez que ce qui est annoncé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Quelles communes autour de Falaise desservez-vous ?",
+        "a": "Nous desservons Falaise et ses environs : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-falaise",
+    "serviceSlug": "jardinier",
+    "citySlug": "falaise",
+    "km": 41,
+    "pop": 7680,
+    "city": "Falaise",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Falaise | Multi Taille Services",
+    "meta": "Un jardinier à Falaise pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Jardinier à Falaise : entretien régulier ou ponctuel",
+    "overline": "Jardinier à Falaise, à 41 km de Lisieux",
+    "intro": "Falaise (au sud-ouest, à environ 41 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Falaise",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont souvent vastes : grandes pelouses, haies champêtres, vergers. L'entretien demande du temps et du matériel adapté, que nous mettons à votre service à la journée ou à l'année.",
+        "Tonte, taille, désherbage, ramassage : nous réalisons l'ensemble des travaux courants et nous évacuons les déchets verts, pour que vous retrouviez un jardin net après chaque passage.",
+        "Falaise compte 7 680 habitants et se situe à environ 41 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Aubigny, Versainville, Eraines, Saint-Pierre-Canivet et Noron-l'Abbaye. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces"
+    ],
+    "communes": [
+      "Aubigny",
+      "Versainville",
+      "Eraines",
+      "Saint-Pierre-Canivet",
+      "Noron-l'Abbaye"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Falaise ?",
+        "a": "Un entretien ponctuel et un entretien régulier ne se chiffrent pas de la même façon. Après une visite gratuite, nous vous proposons la formule adaptée à votre jardin et à votre budget."
+      },
+      {
+        "q": "Évacuez-vous les déchets verts ?",
+        "a": "Oui, les déchets verts sont évacués ou broyés selon le devis. Vous retrouvez un jardin propre après chaque passage."
+      },
+      {
+        "q": "Quelles communes autour de Falaise desservez-vous ?",
+        "a": "Nous desservons Falaise et ses environs : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-falaise",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "falaise",
+    "km": 41,
+    "pop": 7680,
+    "city": "Falaise",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Falaise | Multi Taille Services",
+    "meta": "Taille de haie à Falaise : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haies à Falaise : thuyas, lauriers, charmilles",
+    "overline": "Taille de haie à Falaise, à 41 km de Lisieux",
+    "intro": "Falaise (au sud-ouest, à environ 41 km de Lisieux) est dans notre zone d'intervention. Multi Taille Services taille les haies des particuliers : thuyas, lauriers, photinias, charmilles, haies champêtres, avec évacuation des déchets.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Falaise",
+      "paras": [
+        "Dans le Pays d'Auge, les haies vives (charme, noisetier, aubépine) se taillent moins sévèrement que du laurier : une taille latérale annuelle suffit à les garder denses. Nous adaptons la taille à chaque haie.",
+        "Nous taillons les haies en hauteur avec un matériel adapté et en sécurité, y compris les grandes haies de thuyas qui dépassent la toiture d'une maison.",
+        "Falaise compte 7 680 habitants et se situe à environ 41 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Aubigny, Versainville, Eraines, Saint-Pierre-Canivet et Noron-l'Abbaye. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée"
+    ],
+    "communes": [
+      "Aubigny",
+      "Versainville",
+      "Eraines",
+      "Saint-Pierre-Canivet",
+      "Noron-l'Abbaye"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Falaise ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Falaise sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Évacuez-vous les déchets de taille ?",
+        "a": "Oui. L'évacuation ou le broyage est prévu dans le devis, et le jardin est laissé propre."
+      },
+      {
+        "q": "Quelles communes autour de Falaise desservez-vous ?",
+        "a": "Nous desservons Falaise et ses environs : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-falaise",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "falaise",
+    "km": 41,
+    "pop": 7680,
+    "city": "Falaise",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Falaise | Multi Taille Services",
+    "meta": "Une pelouse à tondre à Falaise ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : 07 67 23 41 23.",
+    "h1": "Tondre sa pelouse à Falaise : on s'en charge",
+    "overline": "Tonte de pelouse à Falaise, à 41 km de Lisieux",
+    "intro": "Besoin d'une tonte à Falaise ? Nous intervenons à environ 41 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Un gazon net à Falaise",
+      "paras": [
+        "Les prairies d'agrément et les talus se tondent autrement qu'un gazon : nous adaptons la machine et la hauteur de coupe au terrain.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Falaise compte 7 680 habitants et se situe à environ 41 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Aubigny, Versainville, Eraines, Saint-Pierre-Canivet et Noron-l'Abbaye. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs",
+      "Évacuation des déchets verts",
+      "Finition des bordures au coupe-bordure",
+      "Soufflage des allées et terrasses"
+    ],
+    "communes": [
+      "Aubigny",
+      "Versainville",
+      "Eraines",
+      "Saint-Pierre-Canivet",
+      "Noron-l'Abbaye"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Falaise ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Quelles communes autour de Falaise desservez-vous ?",
+        "a": "Nous desservons Falaise et ses environs : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-falaise",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "falaise",
+    "km": 41,
+    "pop": 7680,
+    "city": "Falaise",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Falaise | Multi Taille Services",
+    "meta": "Terrain envahi à Falaise ? Débroussaillage, broyage et évacuation. Visite gratuite. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Débroussaillage à Falaise : terrains, talus et friches",
+    "overline": "Débroussaillage à Falaise, à 41 km de Lisieux",
+    "intro": "Falaise (au sud-ouest, à environ 41 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Débroussailler à Falaise : ce qu'il faut savoir",
+      "paras": [
+        "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.",
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Falaise compte 7 680 habitants et se situe à environ 41 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Aubigny, Versainville, Eraines, Saint-Pierre-Canivet et Noron-l'Abbaye. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place",
+      "Entretien annuel après remise en état",
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver"
+    ],
+    "communes": [
+      "Aubigny",
+      "Versainville",
+      "Eraines",
+      "Saint-Pierre-Canivet",
+      "Noron-l'Abbaye"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un débroussaillage à Falaise ?",
+        "a": "Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à Falaise sans frais, puis nous vous remettons un devis ferme."
+      },
+      {
+        "q": "Pouvez-vous débroussailler un terrain très envahi ?",
+        "a": "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."
+      },
+      {
+        "q": "Quelles communes autour de Falaise desservez-vous ?",
+        "a": "Nous desservons Falaise et ses environs : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-falaise",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "falaise",
+    "km": 41,
+    "pop": 7680,
+    "city": "Falaise",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Falaise | Multi Taille Services",
+    "meta": "Entretien de jardin à Falaise : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Falaise : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Falaise, à 41 km de Lisieux",
+    "intro": "Falaise (au sud-ouest, à environ 41 km de Lisieux) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+    "besoins": {
+      "h2": "Entretenir un jardin à Falaise",
+      "paras": [
+        "Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Falaise compte 7 680 habitants et se situe à environ 41 km de Lisieux, au sud-ouest. Nous intervenons aussi dans les communes voisines : Aubigny, Versainville, Eraines, Saint-Pierre-Canivet et Noron-l'Abbaye. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Évacuation des déchets verts",
+      "Désherbage des massifs et allées",
+      "Taille de rosiers et de vivaces",
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison"
+    ],
+    "communes": [
+      "Aubigny",
+      "Versainville",
+      "Eraines",
+      "Saint-Pierre-Canivet",
+      "Noron-l'Abbaye"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Falaise ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Quelles communes autour de Falaise desservez-vous ?",
+        "a": "Nous desservons Falaise et ses environs : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-vimoutiers",
+    "serviceSlug": "elagage",
+    "citySlug": "vimoutiers",
+    "km": 25,
+    "pop": 2978,
+    "city": "Vimoutiers",
+    "shortName": "Élagage",
+    "title": "Élagage à Vimoutiers | Multi Taille Services",
+    "meta": "Élagueur à Vimoutiers (au sud de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Vimoutiers : diagnostic gratuit",
+    "overline": "Élagueur à Vimoutiers, à 25 km de Lisieux",
+    "intro": "Vimoutiers (au sud, à environ 25 km de Lisieux) est dans notre secteur d'intervention. Multi Taille Services élague les arbres des jardins et des propriétés de la commune : taille douce, fruitiers, sécurisation, évacuation des branches. Un appel suffit pour fixer une visite gratuite.",
+    "besoins": {
+      "h2": "Élaguer à Vimoutiers : ce qu'il faut savoir",
+      "paras": [
+        "Le bocage augeron est un pays de pommiers, de haies vives et de grands arbres près des fermes et des maisons. Taille de fruitiers, éclaircie de chênes et de tilleuls, sécurisation de branches : nous connaissons ce terrain.",
+        "Une taille raisonnée vaut mieux qu'une coupe radicale : elle préserve la santé de l'arbre, limite les rejets et reste discrète dans le paysage. C'est notre principe sur tous nos chantiers.",
+        "Vimoutiers compte 2 978 habitants et se situe à environ 25 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Crouttes, Lisores, Camembert, Val-de-Vie et Pontchardon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête",
+      "Évacuation ou broyage des branches",
+      "Taille de pommiers et d'arbres fruitiers",
+      "Suppression du bois mort",
+      "Démontage contrôlé des arbres dangereux"
+    ],
+    "communes": [
+      "Crouttes",
+      "Lisores",
+      "Camembert",
+      "Val-de-Vie",
+      "Pontchardon"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un élagage à Vimoutiers ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Évacuez-vous les branches après l'élagage ?",
+        "a": "Oui. Les branches sont évacuées ou broyées, selon ce qui est prévu au devis, et le jardin est ratissé : nous ne partons que lorsque le chantier est propre."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Vimoutiers ?",
+        "a": "Nous desservons Vimoutiers et ses environs : Crouttes, Lisores, Camembert et Val-de-Vie, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-vimoutiers",
+    "serviceSlug": "jardinier",
+    "citySlug": "vimoutiers",
+    "km": 25,
+    "pop": 2978,
+    "city": "Vimoutiers",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Vimoutiers | Multi Taille Services",
+    "meta": "Entretien de jardin à Vimoutiers (au sud de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Jardinier à Vimoutiers : un jardin net, toute l'année",
+    "overline": "Jardinier à Vimoutiers, à 25 km de Lisieux",
+    "intro": "Besoin d'un jardinier à Vimoutiers ? Nous intervenons à environ 25 km de Lisieux, ponctuellement ou toute l'année, avec du matériel professionnel et un point de contact unique : un simple appel.",
+    "besoins": {
+      "h2": "Les jardins de Vimoutiers",
+      "paras": [
+        "Tonte de grandes surfaces, taille de haies, désherbage des massifs, nettoyage des abords : nous entretenons les propriétés du bocage augeron avec des passages réguliers ou ponctuels.",
+        "Débroussaillage d'un terrain laissé à l'abandon, remise en état d'une pelouse, taille d'arbustes : nous prenons aussi les gros chantiers de remise en état avant un entretien régulier.",
+        "Vimoutiers compte 2 978 habitants et se situe à environ 25 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Crouttes, Lisores, Camembert, Val-de-Vie et Pontchardon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage de terrains",
+      "Taille de rosiers et de vivaces",
+      "Remise en état d'un jardin négligé",
+      "Désherbage des massifs et allées",
+      "Nettoyage de fin de saison",
+      "Entretien régulier ou ponctuel"
+    ],
+    "communes": [
+      "Crouttes",
+      "Lisores",
+      "Camembert",
+      "Val-de-Vie",
+      "Pontchardon"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Vimoutiers ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Vimoutiers, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Pouvez-vous remettre en état un jardin laissé à l'abandon ?",
+        "a": "Oui. Nous débroussaillons, tondons, taillons et évacuons, puis nous proposons un entretien régulier pour que le jardin ne se referme pas. La visite préalable est gratuite."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Vimoutiers ?",
+        "a": "Nous desservons Vimoutiers et ses environs : Crouttes, Lisores, Camembert et Val-de-Vie, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-vimoutiers",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "vimoutiers",
+    "km": 25,
+    "pop": 2978,
+    "city": "Vimoutiers",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Vimoutiers | Multi Taille Services",
+    "meta": "Taille de haie à Vimoutiers : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le 07 67 23 41 23.",
+    "h1": "Taille de haie à Vimoutiers : devis gratuit après visite",
+    "overline": "Taille de haie à Vimoutiers, à 25 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Vimoutiers ? Nous intervenons à environ 25 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Des haies bien taillées à Vimoutiers",
+      "paras": [
+        "Haies de clôture, haies champêtres, haies de thuyas ou de lauriers autour de la maison : nous les entretenons toutes, en tenant compte de l'essence et de la période de nidification des oiseaux.",
+        "La période de taille dépend de l'essence. Il vaut mieux éviter la pleine période de nidification des oiseaux, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne.",
+        "Vimoutiers compte 2 978 habitants et se situe à environ 25 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Crouttes, Lisores, Camembert, Val-de-Vie et Pontchardon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée",
+      "Taille au cordeau et finitions"
+    ],
+    "communes": [
+      "Crouttes",
+      "Lisores",
+      "Camembert",
+      "Val-de-Vie",
+      "Pontchardon"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte une taille de haie à Vimoutiers ?",
+        "a": "Une haie de trente mètres à deux mètres de haut ne se chiffre pas comme une haie de dix mètres à un mètre cinquante. Visite gratuite, devis détaillé, prix ferme."
+      },
+      {
+        "q": "À quelle période faut-il tailler une haie ?",
+        "a": "Cela dépend de l'essence. Il vaut mieux éviter la pleine période de nidification, d'avril à juillet environ, sauf nécessité, et tailler plutôt à la fin de l'été ou au début de l'automne. Nous vous conseillons sur place."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Vimoutiers ?",
+        "a": "Nous desservons Vimoutiers et ses environs : Crouttes, Lisores, Camembert et Val-de-Vie, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-vimoutiers",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "vimoutiers",
+    "km": 25,
+    "pop": 2978,
+    "city": "Vimoutiers",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Vimoutiers | Multi Taille Services",
+    "meta": "Tonte de pelouse à Vimoutiers : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte à Vimoutiers : ponctuelle ou régulière",
+    "overline": "Tonte de pelouse à Vimoutiers, à 25 km de Lisieux",
+    "intro": "Besoin d'une tonte à Vimoutiers ? Nous intervenons à environ 25 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Un gazon net à Vimoutiers",
+      "paras": [
+        "Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.",
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Vimoutiers compte 2 978 habitants et se situe à environ 25 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Crouttes, Lisores, Camembert, Val-de-Vie et Pontchardon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs"
+    ],
+    "communes": [
+      "Crouttes",
+      "Lisores",
+      "Camembert",
+      "Val-de-Vie",
+      "Pontchardon"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une tonte de pelouse à Vimoutiers ?",
+        "a": "Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à Vimoutiers, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait."
+      },
+      {
+        "q": "Pouvez-vous tondre une pelouse restée longtemps sans entretien ?",
+        "a": "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Vimoutiers ?",
+        "a": "Nous desservons Vimoutiers et ses environs : Crouttes, Lisores, Camembert et Val-de-Vie, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-vimoutiers",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "vimoutiers",
+    "km": 25,
+    "pop": 2978,
+    "city": "Vimoutiers",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Vimoutiers | Multi Taille Services",
+    "meta": "Débroussaillage à Vimoutiers : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussaillage à Vimoutiers : on reprend votre terrain",
+    "overline": "Débroussaillage à Vimoutiers, à 25 km de Lisieux",
+    "intro": "Vimoutiers (au sud, à environ 25 km de Lisieux) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les terrains de Vimoutiers",
+      "paras": [
+        "Un terrain laissé plusieurs années demande souvent deux passages : un premier pour ouvrir, un second pour reprendre proprement. Nous vous le disons dès la visite.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Vimoutiers compte 2 978 habitants et se situe à environ 25 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Crouttes, Lisores, Camembert, Val-de-Vie et Pontchardon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts",
+      "Débroussaillage en pente",
+      "Reprise de talus et de bordures de chemins",
+      "Broyage des déchets sur place"
+    ],
+    "communes": [
+      "Crouttes",
+      "Lisores",
+      "Camembert",
+      "Val-de-Vie",
+      "Pontchardon"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un débroussaillage à Vimoutiers ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Vimoutiers ?",
+        "a": "Nous desservons Vimoutiers et ses environs : Crouttes, Lisores, Camembert et Val-de-Vie, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-vimoutiers",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "vimoutiers",
+    "km": 25,
+    "pop": 2978,
+    "city": "Vimoutiers",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Vimoutiers | Multi Taille Services",
+    "meta": "Entretien de jardin à Vimoutiers : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Vimoutiers : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Vimoutiers, à 25 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Vimoutiers ? Nous intervenons à environ 25 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Les jardins de Vimoutiers",
+      "paras": [
+        "Une propriété de campagne se gère par saison. Nous nous occupons de l'entretien courant pour que vous profitiez du jardin au lieu de le subir.",
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Vimoutiers compte 2 978 habitants et se situe à environ 25 km de Lisieux, au sud. Nous intervenons aussi dans les communes voisines : Crouttes, Lisores, Camembert, Val-de-Vie et Pontchardon. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles"
+    ],
+    "communes": [
+      "Crouttes",
+      "Lisores",
+      "Camembert",
+      "Val-de-Vie",
+      "Pontchardon"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Vimoutiers ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Quels travaux sont compris dans l'entretien ?",
+        "a": "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Vimoutiers ?",
+        "a": "Nous desservons Vimoutiers et ses environs : Crouttes, Lisores, Camembert et Val-de-Vie, ainsi que l'ensemble du secteur de Lisieux et du Pays d'Auge. Un appel suffit pour savoir quand nous pouvons passer."
+      }
+    ]
+  },
+  {
+    "slug": "elagage-cormeilles",
+    "serviceSlug": "elagage",
+    "citySlug": "cormeilles",
+    "km": 16,
+    "pop": 1105,
+    "city": "Cormeilles",
+    "shortName": "Élagage",
+    "title": "Élagage à Cormeilles | Multi Taille Services",
+    "meta": "Élagueur à Cormeilles (au nord-est de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le 07 67 23 41 23.",
+    "h1": "Élagage d'arbres à Cormeilles : diagnostic gratuit",
+    "overline": "Élagueur à Cormeilles, à 16 km de Lisieux",
+    "intro": "À Cormeilles, 1 105 habitants, les arbres des jardins demandent un suivi régulier. Nous nous déplaçons à environ 16 km de Lisieux pour évaluer vos arbres, proposer la taille adaptée et réaliser le chantier en sécurité.",
+    "besoins": {
+      "h2": "Élaguer à Cormeilles : ce qu'il faut savoir",
+      "paras": [
+        "Pommiers à cidre, noyers, chênes, hêtres : les essences du bocage ont leurs périodes de taille et leurs fragilités. Nous adaptons la technique à chaque arbre, en limitant la taille des plaies.",
+        "Une taille raisonnée vaut mieux qu'une coupe radicale : elle préserve la santé de l'arbre, limite les rejets et reste discrète dans le paysage. C'est notre principe sur tous nos chantiers.",
+        "Cormeilles compte 1 105 habitants et se situe à environ 16 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain, La Chapelle-Bayvel et Bonneville-la-Louvet. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille douce d'arbres d'ornement",
+      "Remontée de couronne",
+      "Éclaircie de couronnes denses",
+      "Taille de formation des jeunes arbres",
+      "Ébranchage au-dessus des toitures",
+      "Sécurisation après tempête"
+    ],
+    "communes": [
+      "Saint-Pierre-de-Cormeilles",
+      "Saint-Sylvestre-de-Cormeilles",
+      "Le Bois-Hellain",
+      "La Chapelle-Bayvel",
+      "Bonneville-la-Louvet"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un élagage à Cormeilles ?",
+        "a": "Chaque arbre est différent : essence, hauteur, état, accès. C'est pourquoi nous ne donnons pas de prix au téléphone sans avoir vu l'arbre. La visite est gratuite et le devis qui suit est détaillé."
+      },
+      {
+        "q": "Taillez-vous aussi les arbres fruitiers ?",
+        "a": "Oui : pommiers, poiriers, cerisiers et autres fruitiers sont taillés selon leur âge et l'objectif recherché (fructification, forme, sécurité). Nous passons sur place pour définir la taille à réaliser."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cormeilles ?",
+        "a": "Oui : nous intervenons à Cormeilles et dans les communes voisines, notamment Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "jardinier-cormeilles",
+    "serviceSlug": "jardinier",
+    "citySlug": "cormeilles",
+    "km": 16,
+    "pop": 1105,
+    "city": "Cormeilles",
+    "shortName": "Jardinier",
+    "title": "Jardinier à Cormeilles | Multi Taille Services",
+    "meta": "Entretien de jardin à Cormeilles (au nord-est de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : 07 67 23 41 23.",
+    "h1": "Jardinier à Cormeilles : entretien régulier ou ponctuel",
+    "overline": "Jardinier à Cormeilles, à 16 km de Lisieux",
+    "intro": "Cormeilles (au nord-est, à environ 16 km de Lisieux) fait partie des communes où nous entretenons les jardins : tonte, taille, désherbage, évacuation des déchets verts. Appelez-nous pour une visite gratuite et un devis clair.",
+    "besoins": {
+      "h2": "Les jardins de Cormeilles",
+      "paras": [
+        "Une propriété de campagne se gère par saison : tonte et débroussaillage au printemps, taille des haies en été, ramassage et nettoyage à l'automne. Nous planifions chaque passage avec vous.",
+        "Tonte, taille, désherbage, ramassage : nous réalisons l'ensemble des travaux courants et nous évacuons les déchets verts, pour que vous retrouviez un jardin net après chaque passage.",
+        "Cormeilles compte 1 105 habitants et se situe à environ 16 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain, La Chapelle-Bayvel et Bonneville-la-Louvet. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Entretien régulier ou ponctuel",
+      "Taille de haies et d'arbustes",
+      "Ramassage des feuilles",
+      "Évacuation des déchets verts",
+      "Tonte de pelouse et finitions",
+      "Débroussaillage de terrains"
+    ],
+    "communes": [
+      "Saint-Pierre-de-Cormeilles",
+      "Saint-Sylvestre-de-Cormeilles",
+      "Le Bois-Hellain",
+      "La Chapelle-Bayvel",
+      "Bonneville-la-Louvet"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour un entretien de jardin à Cormeilles ?",
+        "a": "Le prix dépend de la surface du jardin, de la nature des travaux (tonte, haies, désherbage, débroussaillage) et de la fréquence souhaitée. Nous passons sur place à Cormeilles, puis nous vous remettons un devis clair, sans surprise."
+      },
+      {
+        "q": "Évacuez-vous les déchets verts ?",
+        "a": "Oui, les déchets verts sont évacués ou broyés selon le devis. Vous retrouvez un jardin propre après chaque passage."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cormeilles ?",
+        "a": "Oui : nous intervenons à Cormeilles et dans les communes voisines, notamment Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "taille-de-haie-cormeilles",
+    "serviceSlug": "taille-de-haie",
+    "citySlug": "cormeilles",
+    "km": 16,
+    "pop": 1105,
+    "city": "Cormeilles",
+    "shortName": "Taille de haie",
+    "title": "Taille de haie à Cormeilles | Multi Taille Services",
+    "meta": "Une haie à tailler à Cormeilles ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : 07 67 23 41 23.",
+    "h1": "Taille de haie à Cormeilles : des lignes nettes",
+    "overline": "Taille de haie à Cormeilles, à 16 km de Lisieux",
+    "intro": "Votre haie est trop haute, trop large ou dégarnie à Cormeilles ? Nous intervenons à environ 16 km de Lisieux pour la tailler proprement, avec le matériel adapté à la hauteur. Visite et devis gratuits.",
+    "besoins": {
+      "h2": "Les haies de Cormeilles",
+      "paras": [
+        "Haies de clôture, haies champêtres, haies de thuyas ou de lauriers autour de la maison : nous les entretenons toutes, en tenant compte de l'essence et de la période de nidification des oiseaux.",
+        "Nous taillons les haies en hauteur avec un matériel adapté et en sécurité, y compris les grandes haies de thuyas qui dépassent la toiture d'une maison.",
+        "Cormeilles compte 1 105 habitants et se situe à environ 16 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain, La Chapelle-Bayvel et Bonneville-la-Louvet. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Taille de haies de thuyas",
+      "Taille de charmilles",
+      "Taille d'entretien annuelle",
+      "Réduction en hauteur d'une haie trop haute",
+      "Taille de haies champêtres",
+      "Remise en forme d'une haie négligée"
+    ],
+    "communes": [
+      "Saint-Pierre-de-Cormeilles",
+      "Saint-Sylvestre-de-Cormeilles",
+      "Le Bois-Hellain",
+      "La Chapelle-Bayvel",
+      "Bonneville-la-Louvet"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'une taille de haie à Cormeilles ?",
+        "a": "Le prix dépend de la longueur de la haie, de sa hauteur, de son essence et de l'accès. Nous passons sur place à Cormeilles sans frais, puis nous vous remettons un devis ferme avec l'évacuation des déchets."
+      },
+      {
+        "q": "Pouvez-vous tailler une haie très haute ?",
+        "a": "Oui, avec le matériel adapté et en sécurité. Pour les résineux comme le thuya, nous évaluons d'abord la haie : ils ne repoussent pas depuis le vieux bois, donc nous ne descendons pas la hauteur n'importe comment."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cormeilles ?",
+        "a": "Oui : nous intervenons à Cormeilles et dans les communes voisines, notamment Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "tonte-de-pelouse-cormeilles",
+    "serviceSlug": "tonte-de-pelouse",
+    "citySlug": "cormeilles",
+    "km": 16,
+    "pop": 1105,
+    "city": "Cormeilles",
+    "shortName": "Tonte",
+    "title": "Tonte de pelouse à Cormeilles | Multi Taille Services",
+    "meta": "Tonte de pelouse à Cormeilles : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Tonte de pelouse à Cormeilles : un gazon dense, des bordures nettes",
+    "overline": "Tonte de pelouse à Cormeilles, à 16 km de Lisieux",
+    "intro": "Besoin d'une tonte à Cormeilles ? Nous intervenons à environ 16 km de Lisieux, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+    "besoins": {
+      "h2": "Votre pelouse à Cormeilles",
+      "paras": [
+        "Les grands jardins du bocage demandent du temps et du matériel : nous prenons la tonte en charge, du simple passage mensuel au suivi hebdomadaire en pleine pousse.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+        "Cormeilles compte 1 105 habitants et se situe à environ 16 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain, La Chapelle-Bayvel et Bonneville-la-Louvet. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Tonte de grandes surfaces",
+      "Tonte de reprise d'une pelouse longue",
+      "Passages planifiés en votre absence",
+      "Tonte régulière ou ponctuelle",
+      "Ramassage ou mulching de l'herbe",
+      "Tonte autour des arbres et des massifs"
+    ],
+    "communes": [
+      "Saint-Pierre-de-Cormeilles",
+      "Saint-Sylvestre-de-Cormeilles",
+      "Le Bois-Hellain",
+      "La Chapelle-Bayvel",
+      "Bonneville-la-Louvet"
+    ],
+    "faq": [
+      {
+        "q": "Comment est calculé le devis pour une tonte de pelouse à Cormeilles ?",
+        "a": "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."
+      },
+      {
+        "q": "À quelle fréquence faut-il tondre une pelouse ?",
+        "a": "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cormeilles ?",
+        "a": "Oui : nous intervenons à Cormeilles et dans les communes voisines, notamment Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "debroussaillage-cormeilles",
+    "serviceSlug": "debroussaillage",
+    "citySlug": "cormeilles",
+    "km": 16,
+    "pop": 1105,
+    "city": "Cormeilles",
+    "shortName": "Débroussaillage",
+    "title": "Débroussaillage à Cormeilles | Multi Taille Services",
+    "meta": "Débroussaillage à Cormeilles : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le 07 67 23 41 23.",
+    "h1": "Débroussailler à Cormeilles : ronces et broussailles",
+    "overline": "Débroussaillage à Cormeilles, à 16 km de Lisieux",
+    "intro": "À Cormeilles, 1 105 habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    "besoins": {
+      "h2": "Débroussailler à Cormeilles : ce qu'il faut savoir",
+      "paras": [
+        "Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Cormeilles compte 1 105 habitants et se situe à environ 16 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain, La Chapelle-Bayvel et Bonneville-la-Louvet. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Débroussaillage de terrains et parcelles",
+      "Débroussaillage autour des arbres à conserver",
+      "Remise en état avant vente ou construction",
+      "Nettoyage des abords de clôtures",
+      "Dégagement de friches et de ronciers",
+      "Évacuation des déchets verts"
+    ],
+    "communes": [
+      "Saint-Pierre-de-Cormeilles",
+      "Saint-Sylvestre-de-Cormeilles",
+      "Le Bois-Hellain",
+      "La Chapelle-Bayvel",
+      "Bonneville-la-Louvet"
+    ],
+    "faq": [
+      {
+        "q": "Combien coûte un débroussaillage à Cormeilles ?",
+        "a": "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."
+      },
+      {
+        "q": "Que faire des déchets après le débroussaillage ?",
+        "a": "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cormeilles ?",
+        "a": "Oui : nous intervenons à Cormeilles et dans les communes voisines, notamment Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
+      }
+    ]
+  },
+  {
+    "slug": "entretien-de-jardin-cormeilles",
+    "serviceSlug": "entretien-de-jardin",
+    "citySlug": "cormeilles",
+    "km": 16,
+    "pop": 1105,
+    "city": "Cormeilles",
+    "shortName": "Entretien de jardin",
+    "title": "Entretien de jardin à Cormeilles | Multi Taille Services",
+    "meta": "Entretien de jardin à Cormeilles (au nord-est de Lisieux) : forfait régulier ou passage unique, déchets évacués. Appel : 07 67 23 41 23.",
+    "h1": "Entretien de jardin à Cormeilles : un forfait à votre rythme",
+    "overline": "Entretien de jardin à Cormeilles, à 16 km de Lisieux",
+    "intro": "Vous cherchez qui peut entretenir votre jardin à Cormeilles ? Nous intervenons à environ 16 km de Lisieux, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+    "besoins": {
+      "h2": "Les jardins de Cormeilles",
+      "paras": [
+        "Une propriété de campagne se gère par saison. Nous nous occupons de l'entretien courant pour que vous profitiez du jardin au lieu de le subir.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Cormeilles compte 1 105 habitants et se situe à environ 16 km de Lisieux, au nord-est. Nous intervenons aussi dans les communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain, La Chapelle-Bayvel et Bonneville-la-Louvet. Le déplacement est inclus dans le devis, sans mauvaise surprise."
+      ]
+    },
+    "prestations": [
+      "Planification saisonnière des passages",
+      "Taille de haies et d'arbustes",
+      "Nettoyage de fin de saison",
+      "Remise en état d'un jardin négligé",
+      "Tonte et finition des bordures",
+      "Ramassage des feuilles"
+    ],
+    "communes": [
+      "Saint-Pierre-de-Cormeilles",
+      "Saint-Sylvestre-de-Cormeilles",
+      "Le Bois-Hellain",
+      "La Chapelle-Bayvel",
+      "Bonneville-la-Louvet"
+    ],
+    "faq": [
+      {
+        "q": "Quel est le prix d'un entretien de jardin à Cormeilles ?",
+        "a": "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."
+      },
+      {
+        "q": "Proposez-vous un forfait d'entretien régulier ?",
+        "a": "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."
+      },
+      {
+        "q": "Intervenez-vous dans les communes voisines de Cormeilles ?",
+        "a": "Oui : nous intervenons à Cormeilles et dans les communes voisines, notamment Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel. Basés à Lisieux, nous nous déplaçons dans un rayon d'environ 50 km."
       }
     ]
   }

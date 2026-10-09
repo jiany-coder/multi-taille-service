@@ -10,7 +10,7 @@ export const Footer = () => (
       <div className="grid gap-12 lg:grid-cols-[1.3fr_1fr_1fr_1.1fr]">
         <div>
           <div className="mb-6 inline-block rounded-md bg-white p-2.5">
-            <img src="/images/logo.webp" alt="Multi Taille Services — élagage, jardinage et paysage dans le Pays d'Auge" width="120" height="176" className="h-28 w-auto" loading="lazy" />
+            <img src="/images/logo.webp" alt="Multi Taille Services, élagage, jardinage et paysage dans le Pays d'Auge" width="120" height="176" className="h-28 w-auto" loading="lazy" />
           </div>
           <p className="max-w-xs text-sm leading-relaxed text-bone/65">
             Élagueur, jardinier et paysagiste basé à Lisieux. Nous entretenons les arbres, les haies et les jardins de tout le Pays d'Auge, avec soin et ponctualité.
@@ -31,13 +31,22 @@ export const Footer = () => (
         <nav aria-label="Secteurs">
           <h3 className="overline-tag mb-5">Nos secteurs</h3>
           <ul className="space-y-2.5">
-            {LOCAL_PAGES.map((p) => (
-              <li key={p.slug}>
-                <Link to={`/${p.slug}`} data-testid={`footer-local-${p.slug}`} className="link-underline text-sm text-bone/75 hover:text-bone">
-                  {p.shortName} {p.city}
-                </Link>
-              </li>
-            ))}
+            {CITIES.map((c) => {
+              const target = LOCAL_PAGES.find((p) => p.citySlug === c.slug && p.serviceSlug === "elagage") || LOCAL_PAGES.find((p) => p.citySlug === c.slug);
+              if (!target) return null;
+              return (
+                <li key={c.slug}>
+                  <Link to={`/${target.slug}`} data-testid={`footer-local-${c.slug}`} className="link-underline text-sm text-bone/75 hover:text-bone">
+                    {c.name}
+                  </Link>
+                </li>
+              );
+            })}
+            <li>
+              <Link to="/zone-d-intervention" data-testid="footer-zone-link" className="link-underline text-sm font-semibold text-bone">
+                Toutes nos communes
+              </Link>
+            </li>
           </ul>
         </nav>
         <div>
@@ -53,7 +62,7 @@ export const Footer = () => (
           </a>
           <p className="mt-6 flex items-start gap-2 text-sm text-bone/65">
             <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-ember" />
-            Basés à Lisieux — interventions dans tout le Pays d'Auge et la vallée de la Vie.
+            Basés à Lisieux, interventions dans tout le Pays d'Auge et la vallée de la Vie.
           </p>
           <p className="mt-5 text-xs leading-relaxed text-bone/45">
             {ZONES.join(" · ")}
@@ -61,7 +70,7 @@ export const Footer = () => (
         </div>
       </div>
       <div className="mt-14 flex flex-col gap-3 border-t border-white/10 pt-6 text-xs text-bone/45 sm:flex-row sm:items-center sm:justify-between">
-        <span>© 2026 {SITE.name} — Lisieux, Pays d'Auge. Tous droits réservés.</span>
+        <span>© 2026 {SITE.name}, Lisieux, Pays d'Auge. Tous droits réservés.</span>
         <span className="flex gap-5">
           <Link to="/" data-testid="footer-home-link" className="link-underline hover:text-bone">Accueil</Link>
           <Link to="/conseils" data-testid="footer-conseils-link" className="link-underline hover:text-bone">Conseils jardin</Link>

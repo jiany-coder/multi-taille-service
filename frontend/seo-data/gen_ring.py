@@ -9,10 +9,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "src", "data", "localPagesRing.js")
 PHONE = "07 67 23 41 23"
 
-COAST = {"Blonville-sur-Mer", "Villers-sur-Mer", "Deauville", "Trouville-sur-Mer", "Houlgate", "Merville-Franceville-Plage", "Touques"}
+COAST = {"Cabourg", "Dives-sur-Mer", "Blonville-sur-Mer", "Villers-sur-Mer", "Deauville", "Trouville-sur-Mer", "Houlgate", "Merville-Franceville-Plage", "Touques"}
 HONFLEUR = {"Honfleur", "Équemauville", "La Rivière-Saint-Sauveur"}
-PLAIN = {"Troarn", "Moult-Chicheboville", "Bavent", "Valambray", "Sannerville", "Bellengreville", "Frénouville", "Cagny", "Cuverville", "Démouville"}
-EURE = {"Épaignes", "Beuzeville", "Bernay", "Menneval", "Pont-Audemer", "Brionne", "Serquigny"}
+PLAIN = {"Argences", "Troarn", "Moult-Chicheboville", "Bavent", "Valambray", "Sannerville", "Bellengreville", "Frénouville", "Cagny", "Cuverville", "Démouville"}
+EURE = {"Thiberville", "Épaignes", "Beuzeville", "Bernay", "Menneval", "Pont-Audemer", "Brionne", "Serquigny"}
 # tout le reste : arrière-pays augeron (Saint-Désir, Valorbiquet...)
 
 
@@ -42,6 +42,8 @@ def archetype(name, pop):
 
 
 def km_phrase(d):
+    if d == 0:
+        return "là où nous sommes basés"
     return f"à environ {d} km de Lisieux" if d > 3 else "aux portes de Lisieux"
 
 
@@ -265,6 +267,120 @@ FAQ_ZONE_A = [
 ]
 
 
+# ---------------------------------------------------------------- services supplémentaires
+NEWSVC = ("tonte-de-pelouse", "debroussaillage", "entretien-de-jardin")
+SHORT.update({"tonte-de-pelouse": "Tonte", "debroussaillage": "Débroussaillage", "entretien-de-jardin": "Entretien de jardin"})
+TITLE_NAME.update({"tonte-de-pelouse": "Tonte de pelouse", "debroussaillage": "Débroussaillage", "entretien-de-jardin": "Entretien de jardin"})
+OVERLINE.update({"tonte-de-pelouse": "Tonte de pelouse", "debroussaillage": "Débroussaillage", "entretien-de-jardin": "Entretien de jardin"})
+H1.update({
+    "tonte-de-pelouse": ["Tonte de pelouse à {c} : un gazon dense, des bordures nettes", "Tonte à {c} : ponctuelle ou régulière", "Tondre sa pelouse à {c} : on s'en charge"],
+    "debroussaillage": ["Débroussaillage à {c} : terrains, talus et friches", "Débroussaillage à {c} : on reprend votre terrain", "Débroussailler à {c} : ronces et broussailles"],
+    "entretien-de-jardin": ["Entretien de jardin à {c} : toute l'année", "Entretien de jardin à {c} : un forfait à votre rythme", "Entretien de jardin à {c} : saison par saison"],
+})
+INTRO.update({
+    "tonte-de-pelouse": [
+        "{c} ({dir}, {kmp}) fait partie des communes où nous tondons les pelouses : petits jardins comme grands terrains, avec bordures finies et herbe ramassée ou mulchée. Appelez-nous pour une visite gratuite.",
+        "Besoin d'une tonte à {c} ? Nous intervenons {kmp}, en passage ponctuel ou en tonte régulière, avec du matériel adapté à la surface. Un appel suffit pour obtenir un devis clair.",
+        "À {c}, {pop} habitants, une pelouse bien tenue change l'allure d'une maison. Nous prenons la tonte en charge, de la reprise d'un gazon long à l'entretien suivi.",
+    ],
+    "debroussaillage": [
+        "{c} ({dir}, {kmp}) est dans notre secteur d'intervention. Nous débroussaillons terrains, talus, bordures de chemin et friches : ronces, orties, broussailles, jeunes repousses. Visite et devis gratuits.",
+        "Un terrain envahi à {c} ? Nous intervenons {kmp} pour le débroussailler, puis l'entretenir si vous le souhaitez, avec évacuation ou broyage des déchets verts.",
+        "À {c}, {pop} habitants, beaucoup de terrains et de talus se referment vite. Nous les rouvrons avec le matériel adapté, en gardant ce qui mérite de l'être.",
+    ],
+    "entretien-de-jardin": [
+        "{c} ({dir}, {kmp}) fait partie des communes où nous entretenons les jardins toute l'année : tonte, taille, désherbage, ramassage. Un forfait à votre rythme, après une visite gratuite.",
+        "Vous cherchez qui peut entretenir votre jardin à {c} ? Nous intervenons {kmp}, avec un calendrier de passages adapté aux saisons et à la taille du terrain.",
+        "À {c}, {pop} habitants, l'entretien d'un jardin se planifie : nous organisons les passages saison par saison pour que vous profitiez du jardin sans le subir.",
+    ],
+})
+ARCH.update({
+    "tonte-de-pelouse": {
+        "coast": ["Près de la mer, le sol léger et le vent assèchent vite la pelouse en été. Nous relevons la hauteur de coupe dès les beaux jours et tondons plus souvent au printemps et à l'automne, quand l'herbe pousse.", "Les pelouses du littoral souffrent du sel et du sable : nous évitons la tonte rase, qui les affaiblit, et nous soignons les bordures le long des allées et des terrasses.", "Résidence secondaire sur la côte : nous tondons à la fréquence convenue pour que le jardin soit net à votre arrivée, y compris en votre absence."],
+        "honfleur": ["Entre estuaire et plateau, l'herbe pousse fort et reste humide. Nous adaptons la fréquence de tonte à la météo et ramassons ou mulchons selon l'état du gazon.", "Les jardins du pays d'Honfleur mêlent pelouses de plein soleil et zones d'ombre sous les arbres : la hauteur de coupe n'est pas la même partout, et nous la modulons."],
+        "plain": ["Dans la plaine, les pelouses sont souvent vastes et ouvertes. Nous travaillons avec des tondeuses adaptées aux grandes surfaces pour tenir un rythme régulier sans épuiser le gazon.", "Les terrains plats et dégagés se tondent vite, mais exigent de la régularité : un passage toutes les une à deux semaines en pleine pousse évite les reprises compliquées."],
+        "eure": ["Nous tondons aussi dans ce secteur de l'Eure : petits jardins de bourg comme grandes pelouses de propriété, avec des passages planifiés.", "Qu'il s'agisse d'une tonte ponctuelle avant un événement ou d'un suivi régulier, nous nous adaptons à la surface et à l'accès."],
+        "auge": ["Dans le Pays d'Auge, les pelouses entourent souvent des vergers et des haies : nous tondons autour des arbres, finissons les pieds de haie et ramassons ou mulchons selon la densité de l'herbe.", "Les grands jardins du bocage demandent du temps et du matériel : nous prenons la tonte en charge, du simple passage mensuel au suivi hebdomadaire en pleine pousse.", "Les prairies d'agrément et les talus se tondent autrement qu'un gazon : nous adaptons la machine et la hauteur de coupe au terrain."],
+    },
+    "debroussaillage": {
+        "coast": ["Sur la côte, les friches se referment vite : ronces, prunelliers et orties profitent d'un sol léger. Nous les reprenons avant qu'elles ne gagnent les clôtures et les accès.", "Terrain de résidence secondaire laissé fermé plusieurs mois : nous le débroussaillons en un passage, puis proposons un entretien régulier."],
+        "honfleur": ["Autour de l'estuaire, talus et fossés se couvrent de végétation dense. Nous les dégageons pour retrouver l'écoulement des eaux et l'accès aux parcelles.", "Terrains en pente, fonds de jardin, anciennes parcelles : le débroussaillage se prépare selon le relief et ce que l'on veut conserver."],
+        "plain": ["Dans la plaine, les friches et les bordures de champs s'embroussaillent vite. Nous les reprenons avec le matériel adapté, y compris sur de grandes surfaces.", "Un terrain constructible, une parcelle à vendre ou un fond de propriété : nous le rendons propre et accessible."],
+        "eure": ["Nous débroussaillons aussi les terrains de ce secteur de l'Eure : talus, bordures de chemins, anciens vergers, friches de fond de jardin.", "Visite sur place, devis, puis intervention à la date convenue : la méthode est la même de chaque côté de la limite départementale."],
+        "auge": ["Dans le bocage augeron, les talus, fossés et vergers abandonnés se referment vite sous les ronces et les jeunes rejets. Nous les reprenons en gardant les arbres qui méritent de rester.", "Chemins creux, haies envahies, prairies enfrichées : nous intervenons avec des débroussailleuses professionnelles et nous évacuons ou broyons les déchets.", "Un terrain laissé plusieurs années demande souvent deux passages : un premier pour ouvrir, un second pour reprendre proprement. Nous vous le disons dès la visite."],
+    },
+    "entretien-de-jardin": {
+        "coast": ["Entretenir un jardin près de la mer, c'est composer avec le vent et le sel : nous choisissons les périodes de taille et la hauteur de tonte en conséquence.", "Résidence secondaire ou maison principale : nous proposons un forfait de passages réguliers, y compris en votre absence, avec compte rendu si vous le souhaitez."],
+        "honfleur": ["Le jardin d'une maison du pays d'Honfleur mêle pelouse, haies, massifs et fruitiers : nous planifions les travaux saison par saison, sans que rien ne soit oublié.", "Un entretien régulier évite les grosses remises en état : un passage toutes les deux ou trois semaines suffit souvent à tenir un jardin net."],
+        "plain": ["Dans les lotissements et les maisons de plaine, le jardin se résume souvent à une grande pelouse, des haies et quelques massifs. Nous les entretenons à un rythme fixe.", "Jardin de week-end ou de tous les jours : nous adaptons la fréquence de passage à votre usage et à votre budget."],
+        "eure": ["Nous entretenons aussi les jardins de ce secteur de l'Eure, de la maison de bourg à la propriété de campagne, avec des passages planifiés.", "Un seul interlocuteur pour la tonte, les haies et les massifs : c'est plus simple pour vous, et le jardin est cohérent d'un passage à l'autre."],
+        "auge": ["Dans le Pays d'Auge, les jardins sont grands et variés : pelouses, haies champêtres, vergers, massifs. Nous établissons avec vous un calendrier annuel qui couvre tout.", "Au printemps, remise en ordre et premières tontes ; en été, tonte et taille légère ; à l'automne, ramassage des feuilles et taille de saison. Chaque passage est planifié.", "Une propriété de campagne se gère par saison. Nous nous occupons de l'entretien courant pour que vous profitiez du jardin au lieu de le subir."],
+    },
+})
+GENERIC_B.update({
+    "tonte-de-pelouse": [
+        "La bonne fréquence dépend de la saison : en pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats ; en été sec, toutes les deux semaines suffisent souvent.",
+        "Nous tondons à la bonne hauteur, jamais rase, pour garder un gazon dense qui résiste à la sécheresse. Les bordures sont finies au coupe-bordure et les allées soufflées.",
+        "Mulching ou ramassage : le mulching nourrit la pelouse quand l'herbe est régulièrement coupée, le ramassage convient aux pelouses longues ou très denses. Nous choisissons avec vous.",
+        "Pelouse laissée trop longtemps ? Nous la reprenons en plusieurs passages, pour ne pas la stresser, avant de passer à un rythme régulier.",
+    ],
+    "debroussaillage": [
+        "Le débroussaillage se prépare : nous repérons ce qu'il faut garder (arbres, haies, jeunes chênes) et ce qui doit partir (ronces, orties, rejets envahissants) avant de commencer.",
+        "Nous travaillons avec des débroussailleuses et des broyeurs professionnels, sur des terrains plats comme en pente, et nous évacuons ou broyons les déchets sur place.",
+        "Un terrain débroussaillé puis entretenu régulièrement reste propre bien plus facilement : nous proposons un passage annuel ou semestriel après la remise en état.",
+        "Obligation légale ou simple confort : nous intervenons pour les particuliers, les propriétaires de parcelles et les gestionnaires de biens, avec un devis ferme après visite.",
+    ],
+    "entretien-de-jardin": [
+        "Un entretien régulier coûte moins cher qu'une grosse remise en état tous les deux ans : un jardin suivi reste net avec des passages courts et planifiés.",
+        "Nous réalisons l'ensemble des travaux courants : tonte, taille de haies et d'arbustes, désherbage des massifs, ramassage des feuilles, nettoyage de fin de saison.",
+        "Vous choisissez la formule : passage unique, forfait mensuel ou saisonnier. Le devis est établi après une visite gratuite, avec un prix ferme.",
+        "Un seul interlocuteur pour tout le jardin, un seul appel pour décaler un passage ou ajouter un travail : nous gardons les choses simples.",
+    ],
+})
+PRESTA.update({
+    "tonte-de-pelouse": ["Tonte régulière ou ponctuelle", "Tonte de grandes surfaces", "Finition des bordures au coupe-bordure", "Ramassage ou mulching de l'herbe", "Tonte de reprise d'une pelouse longue", "Soufflage des allées et terrasses", "Tonte autour des arbres et des massifs", "Passages planifiés en votre absence", "Scarification et regarnissage en complément", "Évacuation des déchets verts"],
+    "debroussaillage": ["Débroussaillage de terrains et parcelles", "Reprise de talus et de bordures de chemins", "Dégagement de friches et de ronciers", "Débroussaillage autour des arbres à conserver", "Broyage des déchets sur place", "Évacuation des déchets verts", "Remise en état avant vente ou construction", "Entretien annuel après remise en état", "Débroussaillage en pente", "Nettoyage des abords de clôtures"],
+    "entretien-de-jardin": ["Tonte et finition des bordures", "Taille de haies et d'arbustes", "Désherbage des massifs et allées", "Ramassage des feuilles", "Nettoyage de fin de saison", "Taille de rosiers et de vivaces", "Entretien des résidences secondaires", "Remise en état d'un jardin négligé", "Planification saisonnière des passages", "Évacuation des déchets verts"],
+})
+NOUNS.update({"tonte-de-pelouse": ("une tonte de pelouse", "une tonte de pelouse"), "debroussaillage": ("un débroussaillage", "un débroussaillage"), "entretien-de-jardin": ("un entretien de jardin", "un entretien de jardin")})
+FAQ_PRICE_A.update({
+    "tonte-de-pelouse": ["Le prix dépend de la surface, du relief, des obstacles (arbres, massifs) et de la fréquence souhaitée. Nous passons voir le jardin à {c}, puis nous vous remettons un devis clair, avec un tarif de passage ou un forfait.", "Une tonte ponctuelle et un suivi régulier ne se chiffrent pas pareil. Après une visite gratuite, nous vous proposons la formule la plus avantageuse pour votre pelouse."],
+    "debroussaillage": ["Le prix dépend de la surface, de la densité de la végétation, de la pente et de l'évacuation des déchets. Nous passons sur place à {c} sans frais, puis nous vous remettons un devis ferme.", "Un terrain peu envahi et un roncier de plusieurs années ne demandent pas le même temps de travail. Après visite, le devis détaille ce qui est prévu."],
+    "entretien-de-jardin": ["Le prix dépend de la surface du jardin, des travaux prévus (tonte, haies, désherbage) et de la fréquence des passages. Nous passons à {c} pour une visite gratuite, puis nous vous proposons un forfait clair.", "Passage unique, forfait mensuel ou formule saisonnière : le devis est établi après visite, avec un prix ferme."],
+})
+FAQ_SPECIFIC.update({
+    "tonte-de-pelouse": [
+        ("À quelle fréquence faut-il tondre une pelouse ?", "En pleine pousse, au printemps et à l'automne, une tonte par semaine donne les meilleurs résultats. En été sec ou en hiver, elle peut être espacée. Nous adaptons les passages à la saison."),
+        ("Faut-il ramasser l'herbe ou la laisser sur place ?", "Si la tonte est régulière, le mulching est très bien : l'herbe broyée nourrit la pelouse. Pour un gazon long ou très dense, le ramassage est préférable. Nous vous conseillons après avoir vu le jardin."),
+        ("Pouvez-vous tondre une pelouse restée longtemps sans entretien ?", "Oui. Nous la reprenons progressivement, en plusieurs passages si besoin, pour ne pas stresser l'herbe, puis nous passons à un rythme régulier."),
+    ],
+    "debroussaillage": [
+        ("Pouvez-vous débroussailler un terrain très envahi ?", "Oui. Après une visite, nous estimons le temps nécessaire, parfois en deux passages, et nous vous remettons un devis ferme. Les déchets sont évacués ou broyés sur place."),
+        ("Gardez-vous les arbres et les haies existantes ?", "Oui, nous repérons avec vous ce qui doit être conservé avant de commencer : arbres, haies, jeunes chênes, fruitiers. Seule la végétation envahissante est retirée."),
+        ("Que faire des déchets après le débroussaillage ?", "Ils peuvent être broyés sur place, laissés en andains si vous le souhaitez ou évacués. L'option est prévue au devis."),
+    ],
+    "entretien-de-jardin": [
+        ("Proposez-vous un forfait d'entretien régulier ?", "Oui : passages hebdomadaires, bimensuels, mensuels ou saisonniers, selon la taille du jardin et votre budget. Nous fixons ensemble le rythme."),
+        ("Entretenez-vous les résidences secondaires ?", "Oui, avec des passages à la fréquence convenue pour que le jardin soit net à votre arrivée, même quand vous êtes absent."),
+        ("Quels travaux sont compris dans l'entretien ?", "Tonte, taille de haies et d'arbustes, désherbage, ramassage des feuilles, nettoyage de fin de saison. Le devis détaille ce qui est inclus, et on peut ajouter ou retirer des travaux."),
+    ],
+})
+EXTRA_META = {
+    "tonte-de-pelouse": lambda c, r: [f"Tonte de pelouse à {c} : ponctuelle ou régulière, bordures finies, herbe ramassée ou mulchée. Devis gratuit. Appelez le {PHONE}.", f"Tonte à {c} ({DL(r)}) : jardins et grands terrains, passages planifiés. Multi Taille Services : {PHONE}.", f"Une pelouse à tondre à {c} ? Visite et devis gratuits, bordures nettes, déchets évacués. Appel direct : {PHONE}."],
+    "debroussaillage": lambda c, r: [f"Débroussaillage à {c} : terrains, talus, friches et ronces, déchets évacués ou broyés. Devis gratuit. Appelez le {PHONE}.", f"Débroussailler un terrain à {c} ({DL(r)}) : matériel professionnel, devis ferme après visite. Appel : {PHONE}.", f"Terrain envahi à {c} ? Débroussaillage, broyage et évacuation. Visite gratuite. Multi Taille Services : {PHONE}."],
+    "entretien-de-jardin": lambda c, r: [f"Entretien de jardin à {c} : tonte, haies, désherbage, ramassage, au rythme qui vous convient. Devis gratuit. Appelez le {PHONE}.", f"Entretien de jardin à {c} ({DL(r)}) : forfait régulier ou passage unique, déchets évacués. Appel : {PHONE}.", f"Un jardinier pour entretenir votre jardin à {c} : visite et devis gratuits, passages planifiés. Appel direct : {PHONE}."],
+}
+EXTRA_H2 = {
+    "tonte-de-pelouse": lambda c: [f"Votre pelouse à {c}", f"Tondre à {c} : ce qu'il faut savoir", f"Un gazon net à {c}"],
+    "debroussaillage": lambda c: [f"Les terrains de {c}", f"Débroussailler à {c} : ce qu'il faut savoir", f"Un terrain propre à {c}"],
+    "entretien-de-jardin": lambda c: [f"Les jardins de {c}", f"Entretenir un jardin à {c}", f"Un jardin suivi à {c}"],
+}
+
+
+def DL(r):
+    return "Calvados" if r["d"] == 0 else f"{r['dir']} de Lisieux"
+
+
 def listfr(items):
     return ", ".join(items[:-1]) + " et " + items[-1] if len(items) > 1 else items[0]
 
@@ -282,7 +398,7 @@ def build():
     for r in rows:
         c = r["n"]
         arch = archetype(c, r["p"])
-        for svc in ("elagage", "jardinier", "taille-de-haie"):
+        for svc in ("elagage", "jardinier", "taille-de-haie") + NEWSVC:
             slug = f"{svc}-{slugify(c)}"
             kmp = km_phrase(r["d"])
             ctx = dict(c=c, dir=r["dir"], kmp=kmp, pop=pop_fmt(r["p"]))
@@ -292,25 +408,34 @@ def build():
                 title = f"{name} à {c} | Multi Taille"
             if len(title) > 60:
                 title = f"{name} à {c}"
-            meta_opts = {
+            meta_opts = {} if svc in EXTRA_META else {
                 "elagage": [
-                    f"Élagueur à {c} ({r['dir']} de Lisieux) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le {PHONE}.",
+                    f"Élagueur à {c} ({DL(r)}) : taille douce, fruitiers, sécurisation, déchets évacués. Visite et devis gratuits. Appelez le {PHONE}.",
                     f"Élagage d'arbres à {c} : diagnostic gratuit, taille raisonnée, chantier propre. Multi Taille Services, basé à Lisieux. Appelez le {PHONE}.",
                     f"Besoin d'un élagueur à {c} ? Visite gratuite, devis ferme, taille soignée et évacuation des branches. Appel direct : {PHONE}.",
                 ],
                 "jardinier": [
                     f"Jardinier à {c} : tonte, taille de haies, désherbage, évacuation des déchets verts. Passage ponctuel ou régulier, devis gratuit. Appelez le {PHONE}.",
-                    f"Entretien de jardin à {c} ({r['dir']} de Lisieux) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : {PHONE}.",
+                    f"Entretien de jardin à {c} ({DL(r)}) : jardinier professionnel, visite et devis gratuits. Multi Taille Services : {PHONE}.",
                     f"Un jardinier à {c} pour tondre, tailler et désherber : devis gratuit après visite, déchets évacués. Appel direct : {PHONE}.",
                 ],
                 "taille-de-haie": [
                     f"Taille de haie à {c} : thuyas, lauriers, charmilles, haies champêtres. Visite et devis gratuits, déchets évacués. Appelez le {PHONE}.",
-                    f"Taille de haies à {c} ({r['dir']} de Lisieux) : matériel adapté aux grandes hauteurs, chantier propre. Multi Taille Services : {PHONE}.",
+                    f"Taille de haies à {c} ({DL(r)}) : matériel adapté aux grandes hauteurs, chantier propre. Multi Taille Services : {PHONE}.",
                     f"Une haie à tailler à {c} ? Devis gratuit après visite, taille au cordeau et évacuation des déchets. Appel direct : {PHONE}.",
                 ],
-            }[svc]
+            }.get(svc, [])
+            if svc in EXTRA_META:
+                meta_opts = EXTRA_META[svc](c, r)
             meta = pick(c, svc + "m", meta_opts)
-            besoins_h2 = {
+            if not 110 <= len(meta) <= 165:
+                ok = [m for m in meta_opts if 110 <= len(m) <= 165]
+                if ok:
+                    meta = ok[0]
+                else:
+                    meta = meta.replace("Appelez le ", "Appel : ").replace("Appel direct : ", "Appel : ").replace(" de Lisieux)", ")")
+
+            besoins_h2 = EXTRA_H2[svc](c) if svc in EXTRA_H2 else {
                 "elagage": [f"Les arbres de {c}", f"Élaguer à {c} : ce qu'il faut savoir", f"Des arbres bien taillés à {c}"],
                 "jardinier": [f"Entretenir un jardin à {c}", f"Les jardins de {c}", f"Un jardin net à {c}"],
                 "taille-de-haie": [f"Les haies de {c}", f"Tailler une haie à {c}", f"Des haies bien taillées à {c}"],
@@ -347,12 +472,14 @@ def build():
                 "slug": slug,
                 "serviceSlug": svc,
                 "citySlug": slugify(c),
+                "km": r["d"],
+                "pop": r["p"],
                 "city": c,
                 "shortName": SHORT[svc],
                 "title": title,
                 "meta": meta,
                 "h1": pick(c, svc + "h1", H1[svc]).format(c=c),
-                "overline": f"{OVERLINE[svc]} à {c}, à {r['d']} km de Lisieux" if r["d"] > 3 else f"{OVERLINE[svc]} à {c}, aux portes de Lisieux",
+                "overline": (f"{OVERLINE[svc]} à {c}, notre ville de base" if r["d"] == 0 else f"{OVERLINE[svc]} à {c}, à {r['d']} km de Lisieux" if r["d"] > 3 else f"{OVERLINE[svc]} à {c}, aux portes de Lisieux"),
                 "intro": pick(c, svc + "i", INTRO[svc]).format(**ctx),
                 "besoins": {
                     "h2": pick(c, svc + "h2", besoins_h2),

@@ -22,3 +22,46 @@ Sannerville|1905|33|14|à l'ouest|Touffréville,Cuverville,Escoville,Démouville
 Bellengreville|1598|34|14|à l'ouest|Frénouville,Moult-Chicheboville,Vimont,Émiéville,Bourguébus
 Merville-Franceville-Plage|2231|34|14|au nord-ouest|Gonneville-en-Auge,Amfreville,Bréville-les-Monts,Petiville,Varaville
 Frénouville|2050|34|14|à l'ouest|Bellengreville,Cagny,Émiéville,Soliers,Bourguébus
+Brionne|4185|35|27|à l'est|Franqueville,Aclou,Hecmanville,Calleville,Saint-Cyr-de-Salerne
+Serquigny|1754|35|27|à l'est|Launay,Fontaine-l'Abbé,Nassandres sur Risle,Saint-Léger-de-Rôtes,Goupil-Othon
+Cagny|2066|36|14|à l'ouest|Grentheville,Démouville,Émiéville,Frénouville,Banneville-la-Campagne
+Cuverville|2267|36|14|à l'ouest|Escoville,Démouville,Colombelles,Hérouvillette,Sannerville
+Démouville|3035|36|14|à l'ouest|Giberville,Cuverville,Cagny,Banneville-la-Campagne,Sannerville
+Beuvillers|1283|3|14|au sud-est|Lisieux,Glos,Saint-Martin-de-la-Lieue,Le Mesnil-Guillaume,Saint-Jean-de-Livet
+Saint-Martin-de-Mailloc|1040|8|14|au sud-est|Le Mesnil-Guillaume,Saint-Denis-de-Mailloc,Prêtreville,Saint-Jean-de-Livet,Glos
+Le Breuil-en-Auge|952|9|14|au nord|Fierville-les-Parcs,Norolles,Pierrefitte-en-Auge,Coquainvilliers,Le Torquesne
+Glos|931|5|14|à l'est|Le Mesnil-Guillaume,Beuvillers,Courtonne-la-Meurdrac,Lisieux,Saint-Denis-de-Mailloc
+Hermival-les-Vaux|861|6|14|à l'est|Firfol,Ouilly-du-Houley,Fauguernon,Rocques,Lisieux
+Coquainvilliers|849|7|14|au nord-ouest|Le Torquesne,Ouilly-le-Vicomte,Norolles,Le Breuil-en-Auge,Formentin
+Le Pré-d'Auge|841|6|14|à l'ouest|La Boissière,Saint-Ouen-le-Pin,Manerbe,Saint-Désir,La Houblonnière
+Blangy-le-Château|828|12|14|au nord-est|Le Mesnil-sur-Blangy,Le Brévedent,Le Faulq,Fierville-les-Parcs,Les Authieux-sur-Calonne
+Bonneville-la-Louvet|825|16|14|au nord-est|La Lande-Saint-Léger,Le Bois-Hellain,Le Faulq,Cormeilles,Saint-Pierre-de-Cormeilles
+Le Pin|797|11|14|au nord-est|Moyaux,Saint-Pierre-de-Cormeilles,Le Faulq,Le Brévedent,Asnières
+Saint-Martin-de-la-Lieue|763|4|14|au sud|Saint-Jean-de-Livet,Beuvillers,Le Mesnil-Eudes,Saint-Germain-de-Livet,Saint-Pierre-des-Ifs
+Ouilly-le-Vicomte|756|4|14|au nord-ouest|Coquainvilliers,Rocques,Norolles,Saint-Désir,Lisieux
+Marolles|749|11|14|à l'est|L'Hôtellerie,Cordebugle,Fumichon,Courtonne-la-Meurdrac,Ouilly-du-Houley
+Saint-Germain-de-Livet|688|8|14|au sud-ouest|Le Mesnil-Eudes,Saint-Jean-de-Livet,Saint-Martin-de-la-Lieue,Prêtreville,Saint-Pierre-des-Ifs
+Courtonne-la-Meurdrac|683|8|14|à l'est|Saint-Denis-de-Mailloc,Cordebugle,Marolles,Glos,Firfol
+Saint-Hymer|656|11|14|au nord-ouest|Clarbec,Le Torquesne,Pierrefitte-en-Auge,Reux,Le Breuil-en-Auge
+Bonnebosq|649|12|14|au nord-ouest|Auvillars,Valsemé,Formentin,Clarbec,Annebault
+Saint-Philbert-des-Champs|639|8|14|au nord-est|Le Brévedent,Fauguernon,Norolles,Le Breuil-en-Auge,Blangy-le-Château
+Courtonne-les-Deux-Églises|627|13|14|à l'est|Cordebugle,Le Planquay,Valorbiquet,Saint-Denis-de-Mailloc,Saint-Germain-la-Campagne
+Le Mesnil-Guillaume|551|6|14|au sud-est|Saint-Martin-de-Mailloc,Glos,Saint-Denis-de-Mailloc,Saint-Jean-de-Livet,Beuvillers
+Manerbe|544|7|14|à l'ouest|Formentin,Le Pré-d'Auge,Saint-Ouen-le-Pin,Coquainvilliers,Auvillars
+Le Torquesne|529|9|14|au nord-ouest|Coquainvilliers,Saint-Hymer,Formentin,Clarbec,Le Breuil-en-Auge
+Lisieux|19645|0|14|dans le Calvados|Beuvillers,Rocques,Saint-Désir,Glos,Ouilly-le-Vicomte
+Orbec|1975|18|14|au sud-est|Saint-Martin-de-Bienfaite-la-Cressonnière,La Vespière-Friardel,Saint-Germain-la-Campagne,Valorbiquet,Saint-Jean-du-Thenney
+Livarot-Pays-d'Auge|6207|16|14|au sud|Lisores,Canapville,Val-de-Vie,Prêtreville,Pontchardon
+Saint-Pierre-en-Auge|7100|23|14|au sud-ouest|Castillon-en-Auge,Jort,Vendeuvre,Le Renouard,Morteaux-Coulibœuf
+Cambremer|1294|13|14|à l'ouest|Saint-Ouen-le-Pin,La Houblonnière,Notre-Dame-d'Estrées-Corbon,Le Pré-d'Auge,La Boissière
+Pont-l'Évêque|5145|16|14|au nord|Saint-Martin-aux-Chartrains,Reux,Surville,Tourville-en-Auge,Saint-Julien-sur-Calonne
+Moyaux|1383|11|14|au nord-est|Le Pin,Fumichon,Ouilly-du-Houley,Asnières,Saint-Pierre-de-Cormeilles
+Thiberville|1752|16|27|à l'est|Drucourt,L'Hôtellerie,Fontaine-la-Louvet,Le Planquay,Bournainville-Faverolles
+Dozulé|2244|22|14|à l'ouest|Angerville,Cricqueville-en-Auge,Putot-en-Auge,Saint-Léger-Dubosq,Saint-Jouin
+Cabourg|3725|29|14|à l'ouest|Dives-sur-Mer,Varaville,Houlgate,Grangues,Gonneville-en-Auge
+Dives-sur-Mer|5122|27|14|au nord-ouest|Cabourg,Houlgate,Grangues,Gonneville-sur-Mer,Varaville
+Argences|3959|28|14|à l'ouest|Canteloup,Vimont,Janville,Saint-Pierre-du-Jonquet,Moult-Chicheboville
+Mézidon Vallée d'Auge|9766|19|14|à l'ouest|Belle Vie en Auge,Notre-Dame-d'Estrées-Corbon,Ouézy,Méry-Bissières-en-Auge,Cesny-aux-Vignes
+Falaise|7680|41|14|au sud-ouest|Aubigny,Versainville,Eraines,Saint-Pierre-Canivet,Noron-l'Abbaye
+Vimoutiers|2978|25|61|au sud|Crouttes,Lisores,Camembert,Val-de-Vie,Pontchardon
+Cormeilles|1105|16|27|au nord-est|Saint-Pierre-de-Cormeilles,Saint-Sylvestre-de-Cormeilles,Le Bois-Hellain,La Chapelle-Bayvel,Bonneville-la-Louvet

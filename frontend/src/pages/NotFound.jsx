@@ -5,7 +5,7 @@ import { CallButton } from "@/components/CallButton";
 export default function NotFound() {
   return (
     <>
-      <Seo title="Page introuvable | Multi Taille Services — Lisieux, Pays d'Auge" description="La page demandée n'existe pas. Retournez à l'accueil de Multi Taille Services, élagueur et paysagiste à Lisieux." path="/404" />
+      <Seo title="Page introuvable | Multi Taille Services" description="La page demandée n'existe pas. Retournez à l'accueil de Multi Taille Services, élagueur et paysagiste à Lisieux." path="/404" />
       <section data-testid="not-found" className="grain bg-forest">
         <div className="mx-auto flex max-w-4xl flex-col items-start gap-8 px-6 py-28 sm:px-10 sm:py-36">
           <p className="font-serif text-8xl font-semibold text-bone/20">404</p>

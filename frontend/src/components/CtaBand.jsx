@@ -7,7 +7,7 @@ export const CtaBand = ({ title = "Un arbre à tailler, un jardin à reprendre ?
     <div className="pointer-events-none absolute -bottom-32 -left-16 h-80 w-80 rounded-full border border-white/10" />
     <div className="relative mx-auto flex max-w-6xl flex-col items-start gap-8 px-6 sm:px-10 lg:flex-row lg:items-center lg:justify-between">
       <Reveal className="max-w-2xl">
-        <p className="overline-tag mb-4">Devis gratuit — Pays d'Auge</p>
+        <p className="overline-tag mb-4">Devis gratuit, Pays d'Auge</p>
         <h2 className="font-serif text-4xl font-semibold leading-[1.05] tracking-tight text-bone sm:text-5xl">
           {title}
         </h2>

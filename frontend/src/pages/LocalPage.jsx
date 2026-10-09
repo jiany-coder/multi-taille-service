@@ -65,7 +65,7 @@ export default function LocalPage({ page }) {
             </div>
             <FadeIn delay={0.2}>
               <div className="clip-frame shadow-[0_30px_60px_rgba(0,0,0,0.35)]">
-                <img src={service.image} alt={`${page.shortName} ${page.city} — intervention Multi Taille Services`} width="1400" height="788" className="h-64 w-full object-cover sm:h-80" loading="lazy" />
+                <img src={service.image} alt={`${page.shortName} ${page.city}, intervention Multi Taille Services`} width="1400" height="788" className="h-64 w-full object-cover sm:h-80" loading="lazy" />
               </div>
             </FadeIn>
           </div>

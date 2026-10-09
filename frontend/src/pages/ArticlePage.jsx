@@ -48,7 +48,7 @@ export default function ArticlePage() {
             </ol>
           </nav>
           <FadeIn>
-            <p className="overline-tag mb-5">Conseils — {article.categoryName}</p>
+            <p className="overline-tag mb-5">Conseils, {article.categoryName}</p>
           </FadeIn>
           <h1 className="font-serif text-4xl font-semibold leading-[1.05] tracking-tight text-bone sm:text-5xl">
             {article.h1}

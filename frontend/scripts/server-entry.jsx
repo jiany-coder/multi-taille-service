@@ -10,7 +10,7 @@ import { SITE } from "../src/data/site";
 
 export function routes() {
   const list = [
-    "/", "/conseils",
+    "/", "/conseils", "/zone-d-intervention",
     ...SERVICES.map((s) => `/${s.slug}`),
     ...LOCAL_PAGES.map((p) => `/${p.slug}`),
     ...ARTICLES.map((a) => `/conseils/${a.slug}`),

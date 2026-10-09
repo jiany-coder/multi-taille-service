@@ -43,14 +43,14 @@ export default function Home() {
 
   const schemas = [
     localBusinessSchema(),
-    { "@context": "https://schema.org", "@type": "WebPage", name: "Multi Taille Services — Élagueur, jardinier et paysagiste à Lisieux, Pays d'Auge", url: `${SITE.baseUrl}/` },
+    { "@context": "https://schema.org", "@type": "WebPage", name: "Multi Taille Services, Élagueur, jardinier et paysagiste à Lisieux, Pays d'Auge", url: `${SITE.baseUrl}/` },
     faqSchema(HOME_FAQ),
   ];
 
   return (
     <>
       <Seo
-        title="Élagueur, Jardinier & Paysagiste à Lisieux | Multi Taille Services — Pays d'Auge"
+        title="Élagueur, jardinier et paysagiste à Lisieux | Multi Taille"
         description="Multi Taille Services : élagueur, jardinier et paysagiste à Lisieux et dans le Pays d'Auge. Élagage, abattage, taille de haie, entretien de jardin. Devis gratuit : 07 67 23 41 23."
         path="/"
         schemas={schemas}
@@ -61,7 +61,7 @@ export default function Home() {
         <div className="mx-auto grid max-w-7xl gap-12 px-6 pb-20 pt-16 sm:px-10 lg:grid-cols-[1.15fr_0.85fr] lg:items-center lg:pb-28 lg:pt-24">
           <div>
             <FadeIn>
-              <p className="overline-tag mb-6">Lisieux — Pays d'Auge, Normandie</p>
+              <p className="overline-tag mb-6">Lisieux, Pays d'Auge, Normandie</p>
             </FadeIn>
             <h1 className="font-serif text-5xl font-semibold leading-[1.02] tracking-tight text-bone sm:text-6xl lg:text-7xl">
               <MaskLines
@@ -119,7 +119,7 @@ export default function Home() {
       {/* SERVICES */}
       <section id="services" data-testid="home-services" className="mx-auto max-w-7xl px-6 py-20 sm:px-10 sm:py-28">
         <Reveal>
-          <p className="overline-tag mb-4">01 — Nos services</p>
+          <p className="overline-tag mb-4">01, Nos services</p>
           <h2 className="max-w-3xl font-serif text-4xl font-semibold tracking-tight text-forest sm:text-5xl">
             Tout l'extérieur de votre propriété, une seule entreprise.
           </h2>
@@ -168,7 +168,7 @@ export default function Home() {
       <section id="zones" data-testid="home-zones" className="border-y border-charcoal/10 bg-cream/60">
         <div className="mx-auto max-w-7xl px-6 py-20 sm:px-10 sm:py-28">
           <Reveal>
-            <p className="overline-tag mb-4">02 — Zones d'intervention</p>
+            <p className="overline-tag mb-4">02, Zones d'intervention</p>
             <h2 className="max-w-3xl font-serif text-4xl font-semibold tracking-tight text-forest sm:text-5xl">
               Basés à Lisieux, présents dans tout le Pays d'Auge.
             </h2>
@@ -212,7 +212,7 @@ export default function Home() {
       {/* RÉALISATIONS */}
       <section data-testid="home-realisations" className="mx-auto max-w-7xl px-6 py-20 sm:px-10 sm:py-28">
         <Reveal>
-          <p className="overline-tag mb-4">03 — Nos métiers en images</p>
+          <p className="overline-tag mb-4">03, Nos métiers en images</p>
           <h2 className="max-w-3xl font-serif text-4xl font-semibold tracking-tight text-forest sm:text-5xl">
             Des gestes précis, des chantiers propres.
           </h2>
@@ -237,17 +237,17 @@ export default function Home() {
       <section data-testid="home-avantages" className="grain bg-forest">
         <div className="mx-auto max-w-7xl px-6 py-20 sm:px-10 sm:py-28">
           <Reveal>
-            <p className="overline-tag mb-4">04 — Pourquoi nous</p>
+            <p className="overline-tag mb-4">04, Pourquoi nous</p>
             <h2 className="max-w-3xl font-serif text-4xl font-semibold tracking-tight text-bone sm:text-5xl">
               Les raisons pour lesquelles on nous rappelle.
             </h2>
           </Reveal>
           <div className="mt-14 grid gap-10 md:grid-cols-2">
             {[
-              { icon: ShieldCheck, t: "Un travail soigné, sans compromis", d: "Taille respectueuse des arbres, chantier sécurisé, terrain rendu impeccable. Nous traitons votre jardin comme le nôtre — et ça se voit." },
+              { icon: ShieldCheck, t: "Un travail soigné, sans compromis", d: "Taille respectueuse des arbres, chantier sécurisé, terrain rendu impeccable. Nous traitons votre jardin comme le nôtre, et ça se voit." },
               { icon: Phone_icon, t: "Un seul appel, une réponse rapide", d: `Pas de formulaire, pas d'attente : vous appelez le ${SITE.phoneDisplay}, nous échangeons, nous passons voir. Simple et direct.` },
               { icon: MapPin, t: "Une entreprise vraiment locale", d: "Basés à Lisieux, nous connaissons les sols, les essences et les jardins du Pays d'Auge. Le diagnostic est gratuit, le déplacement rapide." },
-              { icon: Clock, t: "De la ponctualité et de la clarté", d: "Devis ferme avant les travaux, dates tenues, déchets évacués. Ce qui est annoncé est ce qui est fait — rien de plus, rien de moins." },
+              { icon: Clock, t: "De la ponctualité et de la clarté", d: "Devis ferme avant les travaux, dates tenues, déchets évacués. Ce qui est annoncé est ce qui est fait, rien de plus, rien de moins." },
             ].map((a, i) => (
               <Reveal key={a.t} delay={i * 0.08}>
                 <div data-testid={`advantage-${i}`} className="flex gap-5">

@@ -83,8 +83,8 @@ export const Header = () => {
     <>
       <header data-testid="site-header" className="sticky top-0 z-50 border-b border-charcoal/10 bg-bone/90 backdrop-blur-md">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6">
-          <Link to="/" data-testid="header-logo" className="flex items-center gap-3" aria-label="Multi Taille Services — Accueil">
-            <img src="/images/logo.webp" alt="Logo Multi Taille Services — élagueur jardinier paysagiste Lisieux" width="40" height="59" className="h-12 w-auto rounded-sm" />
+          <Link to="/" data-testid="header-logo" className="flex items-center gap-3" aria-label="Multi Taille Services, Accueil">
+            <img src="/images/logo.webp" alt="Logo Multi Taille Services, élagueur jardinier paysagiste Lisieux" width="40" height="59" className="h-12 w-auto rounded-sm" />
             <span className="leading-none">
               <span className="block font-sans text-sm font-extrabold tracking-[0.14em] text-forest">MULTI TAILLE</span>
               <span className="mt-0.5 block text-[11px] font-bold tracking-[0.34em] text-ember">SERVICES</span>
