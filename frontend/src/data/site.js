@@ -6,7 +6,8 @@ export const SITE = {
   city: "Lisieux",
   region: "Pays d'Auge",
   slogan: "Appel direct, réponse rapide — Devis gratuit",
-  baseUrl: process.env.REACT_APP_BACKEND_URL,
+  // Domaine définitif : à confirmer à l'achat (une seule source de vérité, utilisée par le canonical, le sitemap et les schémas).
+  baseUrl: "https://www.multitailleservices.fr",
 };
 
 export const CITIES = [

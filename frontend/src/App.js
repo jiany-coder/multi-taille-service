@@ -37,13 +37,9 @@ const SmoothScroll = () => {
   return null;
 };
 
-function App() {
+export function AppRoutes() {
   return (
-    <div className="App">
-      <BrowserRouter>
-        <SmoothScroll />
-        <ScrollToTop />
-        <Layout>
+    <Layout>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/conseils" element={<BlogIndex />} />
@@ -56,7 +52,17 @@ function App() {
             ))}
             <Route path="*" element={<NotFound />} />
           </Routes>
-        </Layout>
+    </Layout>
+  );
+}
+
+function App() {
+  return (
+    <div className="App">
+      <BrowserRouter>
+        <SmoothScroll />
+        <ScrollToTop />
+        <AppRoutes />
       </BrowserRouter>
     </div>
   );
