@@ -16,7 +16,7 @@ const ICONS = {
   "elagage": TreeDeciduous, "abattage-arbres": Axe, "dessouchage": Shovel,
   "taille-de-haie": Scissors, "debroussaillage": Sprout, "jardinier": Leaf,
   "paysagiste": Flower2, "entretien-de-jardin": Sun, "entretien-espaces-verts": Trees,
-  "tonte-de-pelouse": Layers, "entretien-exterieur": HomeIcon,
+  "tonte-de-pelouse": Layers, "entretien-exterieur": HomeIcon, "recuperation-chat-arbre": TreeDeciduous,
 };
 
 const FEATURED = ["elagage", "jardinier", "paysagiste"];
