@@ -78,7 +78,7 @@ function page(url, noindex = false) {
   const out = template
     .replace(/<title>.*?<\/title>/s, "")
     .replace(/<meta name="description"[^>]*>/s, "")
-    .replace("</head>", headTags(head, noindex) + "</head>")
+    .replace("</head>", (url === "/" ? '<link rel="preload" as="image" href="/images/elagage-v2.webp" fetchpriority="high">' : "") + headTags(head, noindex) + "</head>")
     .replace('<div id="root"></div>', `<div id="root">${html}</div>`);
   return { out, html, head };
 }
