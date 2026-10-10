@@ -30,10 +30,10 @@ const HOME_FAQ = [
 ];
 
 const GALLERY = [
-  { src: "/images/elagage.webp", alt: "Élagueur en grimpe lors d'un élagage dans le Pays d'Auge", label: "Élagage en hauteur" },
-  { src: "/images/abattage.webp", alt: "Abattage maîtrisé d'un arbre à Lisieux", label: "Abattage maîtrisé" },
-  { src: "/images/taille-haie.webp", alt: "Taille précise d'une haie de jardin", label: "Taille de haie" },
-  { src: "/images/paysagiste.webp", alt: "Aménagement paysager d'un jardin normand", label: "Aménagement paysager" },
+  { src: "/images/elagage-v2.webp", alt: "Élagueur en grimpe lors d'un élagage dans le Pays d'Auge", label: "Élagage en hauteur" },
+  { src: "/images/abattage-v2.webp", alt: "Abattage maîtrisé d'un arbre à Lisieux", label: "Abattage maîtrisé" },
+  { src: "/images/taille-haie-v2.webp", alt: "Taille précise d'une haie de jardin", label: "Taille de haie" },
+  { src: "/images/paysagiste-v2.webp", alt: "Aménagement paysager d'un jardin normand", label: "Aménagement paysager" },
 ];
 
 export default function Home() {
@@ -98,7 +98,7 @@ export default function Home() {
           <FadeIn delay={0.4} className="relative">
             <motion.div style={{ y: imgY }} className="clip-frame relative shadow-[0_40px_80px_rgba(0,0,0,0.4)]">
               <img
-                src="/images/elagage.webp"
+                src="/images/elagage-v2.webp"
                 alt="Élagueur en grimpe avec matériel de sécurité lors d'un élagage d'arbre dans le Pays d'Auge"
                 width="1400"
                 height="788"

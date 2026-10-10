@@ -8,7 +8,7 @@ export const SERVICES = [
     meta: "Élagueur à Lisieux et dans le Pays d'Auge : élagage d'arbres, taille douce, taille de formation, ébranchage, taille de fruitiers. Appel direct : 07 67 23 41 23.",
     h1: "Élagage d'arbres dans le Pays d'Auge",
     overline: "Service n°01: Soin des arbres",
-    image: "/images/elagage.webp",
+    image: "/images/elagage-v2.webp",
     imageAlt: "Élagueur grimpant dans un grand arbre pour un élagage dans le Pays d'Auge",
     intro: "Un arbre bien taillé vit plus longtemps, résiste mieux aux tempêtes normandes et embellit votre propriété. Multi Taille Services pratique un élagage raisonné à Lisieux et dans tout le Pays d'Auge : nous taillons au bon moment, au bon endroit, sans jamais sur-tailler. Du pommier de verger au chêne centenaire, chaque intervention commence par un diagnostic de l'arbre et de son environnement.",
     sections: [
@@ -76,7 +76,7 @@ export const SERVICES = [
     meta: "Abattage et démontage d'arbres à Lisieux et dans le Pays d'Auge : arbre dangereux, mort ou trop encombrant. Chantier sécurisé. Appel direct : 07 67 23 41 23.",
     h1: "Abattage d'arbres : sécurité d'abord",
     overline: "Service n°02: Abattage & démontage",
-    image: "/images/abattage.webp",
+    image: "/images/abattage-v2.webp",
     imageAlt: "Professionnel équipé d'une tronçonneuse lors d'un abattage d'arbre en Normandie",
     intro: "Un arbre mort, penché après une tempête, malade ou devenu trop imposant près de votre maison ne doit pas attendre. Multi Taille Services réalise l'abattage de vos arbres à Lisieux et dans le Pays d'Auge, y compris dans les situations délicates : jardins exigus, proximité de bâtiments, de clôtures ou de lignes. Notre priorité : un chantier maîtrisé, sans casse, et un terrain rendu propre.",
     sections: [
@@ -137,7 +137,7 @@ export const SERVICES = [
     meta: "Dessouchage et rognage de souches à Lisieux et dans le Pays d'Auge : supprimez les souches après abattage et retrouvez un terrain. Appel direct : 07 67 23 41 23.",
     h1: "Dessouchage : effacer les dernières traces d'un arbre",
     overline: "Service n°03: Souches & racines",
-    image: "/images/abattage.webp",
+    image: "/images/abattage-v2.webp",
     imageAlt: "Dessouchage d'une souche après abattage d'un arbre dans un jardin normand",
     intro: "Après un abattage, la souche reste : inesthétique, gênante pour la tonte, et source de rejets pour certaines essences. Multi Taille Services réalise le dessouchage de vos terrains à Lisieux et dans tout le Pays d'Auge. L'objectif : vous rendre un sol plat et sain, prêt à être regazonné, replanté ou aménagé.",
     sections: [
@@ -191,7 +191,7 @@ export const SERVICES = [
     meta: "Taille de haies à Lisieux et dans le Pays d'Auge : haies de thuyas, lauriers, charmilles, haies champêtres. Appel direct : 07 67 23 41 23.",
     h1: "Taille de haie : des lignes nettes, des haies en pleine santé",
     overline: "Service n°04: Haies & clôtures végétales",
-    image: "/images/taille-haie.webp",
+    image: "/images/taille-haie-v2.webp",
     imageAlt: "Taille précise d'une haie verte dans un jardin du Pays d'Auge",
     intro: "Une haie bien taillée structure tout le jardin : elle délimite, protège du vent et des regards, et donne du caractère à votre propriété. Multi Taille Services entretient les haies de Lisieux et du Pays d'Auge, des charmilles bocagères aux haies de thuyas des lotissements, en passant par les lauriers et les haies libres champêtres. Taille de formation, taille d'entretien ou reprise complète d'une haie laissée à l'abandon : nous adaptons le geste à chaque essence.",
     sections: [
@@ -252,7 +252,7 @@ export const SERVICES = [
     meta: "Débroussaillage de terrains et parcelles à Lisieux et dans le Pays d'Auge : ronces, friches, broussailles. Appel direct : 07 67 23 41 23.",
     h1: "Débroussaillage : reprendre la main sur un terrain",
     overline: "Service n°05: Terrains & friches",
-    image: "/images/taille-haie.webp",
+    image: "/images/taille-haie-v2.webp",
     imageAlt: "Débroussaillage d'un terrain envahi par les ronces en Normandie",
     intro: "Ronces, orties, prêles, jeunes pousses d'arbres : un terrain laissé sans entretien se referme vite en Normandie. Multi Taille Services débroussaille vos parcelles à Lisieux et dans le Pays d'Auge, terrain à bâtir avant construction, friche avant mise en vente, fond de jardin envahi, abords d'un bois ou d'un chemin. Nous vous rendons une parcelle propre, accessible et valorisée.",
     sections: [
@@ -306,7 +306,7 @@ export const SERVICES = [
     meta: "Jardinier à Lisieux et dans le Pays d'Auge : tonte, taille, entretien des massifs, remise en état de jardins. Appel direct : 07 67 23 41 23.",
     h1: "Un jardinier de confiance pour votre jardin",
     overline: "Service n°06: Jardinage au quotidien",
-    image: "/images/taille-haie.webp",
+    image: "/images/taille-haie-v2.webp",
     imageAlt: "Jardinier entretenant les massifs d'un jardin dans le Pays d'Auge",
     intro: "Un beau jardin demande du temps et du régulier, deux choses qui manquent souvent. Multi Taille Services met son savoir-faire de jardinier à votre service à Lisieux et dans le Pays d'Auge : tonte, taille, entretien des massifs, nettoyage des allées, remise en état après un hiver ou une absence. Ponctuellement ou toute l'année, nous entretenons votre jardin comme s'il était le nôtre.",
     sections: [
@@ -361,7 +361,7 @@ export const SERVICES = [
     meta: "Paysagiste à Lisieux et dans le Pays d'Auge : création et aménagement de jardins, plantation de haies, création de massifs. Appel direct : 07 67 23 41 23.",
     h1: "Paysagiste : dessiner un jardin qui vous ressemble",
     overline: "Service n°07: Création & aménagement",
-    image: "/images/paysagiste.webp",
+    image: "/images/paysagiste-v2.webp",
     imageAlt: "Aménagement paysager d'un jardin avec végétaux et pierre en Normandie",
     intro: "Un jardin bien pensé se vit mieux et s'entretient plus facilement. Multi Taille Services conçoit et aménage les jardins de Lisieux et du Pays d'Auge avec une approche simple : comprendre comment vous vivez dehors, respecter le caractère du bocage augeron, et choisir des végétaux adaptés au sol et au climat normand. Plantation de haies, création de massifs, engazonnement, structuration des espaces : nous transformons votre extérieur sans artifices superflus.",
     sections: [
@@ -417,7 +417,7 @@ export const SERVICES = [
     meta: "Entretien de jardins à Lisieux et dans le Pays d'Auge : tonte, taille, désherbage, nettoyage de printemps et d'automne. Appel direct : 07 67 23 41 23.",
     h1: "Entretien de jardin : un extérieur impeccable toute l'année",
     overline: "Service n°08: Entretien au fil des saisons",
-    image: "/images/paysagiste.webp",
+    image: "/images/paysagiste-v2.webp",
     imageAlt: "Entretien régulier d'un jardin fleuri dans le Pays d'Auge",
     intro: "Un jardin, ça vit : il pousse au printemps, s'affole en été, se couvre de feuilles à l'automne et se prépare en hiver. Multi Taille Services assure l'entretien complet des jardins de Lisieux et du Pays d'Auge, avec des passages planifiés qui suivent le rythme des saisons. Vous profitez de votre extérieur, nous gérons le reste.",
     sections: [
@@ -471,7 +471,7 @@ export const SERVICES = [
     meta: "Entretien d'espaces verts à Lisieux et dans le Pays d'Auge : copropriétés, entreprises, commerces, résidences. Appel direct : 07 67 23 41 23.",
     h1: "Entretien des espaces verts professionnels et collectifs",
     overline: "Service n°09: Copropriétés & professionnels",
-    image: "/images/paysagiste.webp",
+    image: "/images/paysagiste-v2.webp",
     imageAlt: "Entretien professionnel d'espaces verts d'une résidence en Normandie",
     intro: "Les espaces verts d'une copropriété, d'une entreprise ou d'un commerce sont la première chose que voient vos visiteurs. Multi Taille Services assure leur entretien à Lisieux et dans tout le Pays d'Auge : pelouses, haies, massifs, arbres d'alignement, parkings paysagers. Des contrats d'entretien clairs, des passages planifiés et un site toujours présentable.",
     sections: [
@@ -525,7 +525,7 @@ export const SERVICES = [
     meta: "Tonte de pelouse à Lisieux et dans le Pays d'Auge : tonte régulière ou ponctuelle, bordures, ramassage ou mulching. Jardins, parcs. Appel direct : 07 67 23 41 23.",
     h1: "Tonte de pelouse : un gazon dense et des lignes nettes",
     overline: "Service n°10: Pelouses & gazons",
-    image: "/images/taille-haie.webp",
+    image: "/images/taille-haie-v2.webp",
     imageAlt: "Tonte régulière d'une pelouse verte dans un jardin normand",
     intro: "Rien ne change l'allure d'un jardin comme une pelouse fraîchement tondue. Multi Taille Services tond vos pelouses à Lisieux et dans le Pays d'Auge, du jardin de ville au parc de plusieurs milliers de mètres carrés. En passage ponctuel ou en tonte régulière, avec ramassage ou mulching, et toujours des bordures finies au propre.",
     sections: [
@@ -579,7 +579,7 @@ export const SERVICES = [
     meta: "Entretien extérieur de propriétés à Lisieux et dans le Pays d'Auge : abords, allées, débroussaillage, petits travaux extérieurs. Devis gratuit : 07 67 23 41 23.",
     h1: "Entretien extérieur : une propriété nette, de l'allée au fond du jardin",
     overline: "Service n°11: Abords & extérieurs",
-    image: "/images/elagage.webp",
+    image: "/images/elagage-v2.webp",
     imageAlt: "Entretien complet des extérieurs d'une propriété dans le Pays d'Auge",
     intro: "Entretenir une propriété ne s'arrête pas au gazon : il y a les allées à désherber, les abords à dégager, les bordures à finir, les encombrants verts à évacuer, les zones d'ombre à reprendre. Multi Taille Services prend en charge l'entretien extérieur complet des propriétés de Lisieux et du Pays d'Auge, résidences principales, secondaires, biens en location ou en vente.",
     sections: [
