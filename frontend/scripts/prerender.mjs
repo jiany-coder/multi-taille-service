@@ -47,14 +47,14 @@ const template = fs.readFileSync(path.join(buildDir, "index.html"), "utf8");
 const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
 const ld = (o) => JSON.stringify(o).replace(/</g, "\\u003c");
 
-function headTags(h) {
+function headTags(h, noindex = false) {
   if (!h) throw new Error("balises de page absentes");
   const lds = (Array.isArray(h.jsonLd) ? h.jsonLd : h.jsonLd ? [h.jsonLd] : [])
     .map((o) => `<script type="application/ld+json" data-rh="true">${ld(o)}</script>`).join("");
   return [
     `<title data-rh="true">${esc(h.title)}</title>`,
     `<meta data-rh="true" name="description" content="${esc(h.desc)}">`,
-    `<meta data-rh="true" name="robots" content="${INDEXABLE ? "index, follow, max-image-preview:large" : "noindex, nofollow"}">`,
+    `<meta data-rh="true" name="robots" content="${INDEXABLE && !noindex ? "index, follow, max-image-preview:large" : "noindex, nofollow"}">`,
     `<meta data-rh="true" name="geo.region" content="FR-14">`,
     `<meta data-rh="true" name="geo.placename" content="Lisieux, Calvados, Normandie">`,
     `<link data-rh="true" rel="canonical" href="${esc(h.url)}">`,
@@ -73,12 +73,12 @@ function headTags(h) {
   ].join("");
 }
 
-function page(url) {
+function page(url, noindex = false) {
   const { html, head } = render(url);
   const out = template
     .replace(/<title>.*?<\/title>/s, "")
     .replace(/<meta name="description"[^>]*>/s, "")
-    .replace("</head>", headTags(head) + "</head>")
+    .replace("</head>", headTags(head, noindex) + "</head>")
     .replace('<div id="root"></div>', `<div id="root">${html}</div>`);
   return { out, html, head };
 }
@@ -110,7 +110,7 @@ for (const url of list) {
 }
 
 // 404 : vrai code 404 (Cloudflare Pages sert 404.html pour toute adresse inconnue)
-const nf = page("/page-introuvable-404");
+const nf = page("/page-introuvable-404", true); // la 404 ne doit jamais être indexée
 fs.writeFileSync(path.join(buildDir, "404.html"), nf.out);
 
 const today = new Date().toISOString().slice(0, 10);
