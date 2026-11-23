@@ -6,7 +6,7 @@ export const SITE = {
   city: "Lisieux",
   region: "Pays d'Auge",
   slogan: "Appel direct, réponse rapide — Devis gratuit",
-  baseUrl: process.env.REACT_APP_BACKEND_URL,
+  baseUrl: (process.env.REACT_APP_SITE_URL || "https://multi-taille-services.online").replace(/\/$/, ""),
 };
 
 export const CITIES = [
@@ -41,6 +41,9 @@ export const BLOG_CATEGORIES = [
   { slug: "arbres", name: "Arbres", desc: "Reconnaître les essences du Pays d'Auge et préserver vos sujets remarquables." },
   { slug: "paysagisme", name: "Paysagisme", desc: "Idées d'aménagement pour les jardins et propriétés du bocage augeron." },
   { slug: "entretien-de-jardin", name: "Entretien de jardin", desc: "Tonte, débroussaillage et gestion des espaces verts toute l'année." },
+  { slug: "abattage", name: "Abattage", desc: "Quand abattre, comment se déroule le chantier, démontage, nacelle et dessouchage." },
+  { slug: "entretien-espaces-verts", name: "Entretien des espaces verts", desc: "Calendrier, tonte, débroussaillage et entretien pour résidences secondaires et professionnels." },
+  { slug: "conseils-reglementation", name: "Conseils et réglementation", desc: "Distances de plantation, arbres du voisin, autorisations d'abattage et déchets verts." },
 ];
 
 export const localBusinessSchema = () => ({

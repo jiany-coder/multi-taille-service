@@ -1,4 +1,13 @@
-export const ARTICLES = [
+import { LOCAL_PAGES } from "@/data/localPages";
+import { RAW_ELAGAGE } from "@/data/articlesElagage";
+import { RAW_HAIES } from "@/data/articlesHaies";
+import { RAW_ABATTAGE } from "@/data/articlesAbattage";
+import { RAW_ESPACES_VERTS, RAW_REGLEMENTATION } from "@/data/articlesAutres";
+import { EXTRA_ELAGAGE } from "@/data/extrasElagage";
+import { EXTRA_HAIES } from "@/data/extrasHaies";
+import { EXTRA_ABATTAGE } from "@/data/extrasAbattage";
+
+const BASE_ARTICLES = [
   {
     slug: "quand-tailler-sa-haie-en-normandie",
     category: "taille-de-haie",
@@ -212,4 +221,80 @@ export const ARTICLES = [
   },
 ];
 
+// ---------------------------------------------------------------------------
+// Bibliothèque de 60 articles SEO : les fichiers articles*.js contiennent le
+// contenu brut ; on complète ici catégorie, date, temps de lecture et maillage.
+// ---------------------------------------------------------------------------
+const SUFFIX = " | Multi Taille Services";
+const PUBLISH_DATE = "2026-11-23";
+const PUBLISH_LABEL = "23 novembre 2026";
+
+const CATEGORY_META = {
+  elagage: { name: "Élagage", service: { to: "/elagage", label: "Notre service d'élagage dans le Pays d'Auge" } },
+  "taille-de-haie": { name: "Taille de haie", service: { to: "/taille-de-haie", label: "Notre service de taille de haie dans le Pays d'Auge" } },
+  abattage: { name: "Abattage", service: { to: "/abattage-arbres", label: "Notre service d'abattage d'arbres dans le Pays d'Auge" } },
+  "entretien-espaces-verts": { name: "Entretien des espaces verts", service: { to: "/entretien-espaces-verts", label: "Notre service d'entretien d'espaces verts" } },
+  "conseils-reglementation": { name: "Conseils et réglementation", service: { to: "/elagage", label: "Élagage, taille et abattage : nos services" } },
+};
+
+const LOCAL_BY_SLUG = Object.fromEntries(LOCAL_PAGES.map((p) => [p.slug, p]));
+
+const countWords = (a) => {
+  const parts = [a.intro];
+  a.sections.forEach((s) => { parts.push(...s.paras, ...(s.list || [])); });
+  (a.faq || []).forEach((f) => parts.push(f.q, f.a));
+  return parts.join(" ").split(/\s+/).length;
+};
+
+const RAW_GROUPS = [
+  ["elagage", RAW_ELAGAGE],
+  ["taille-de-haie", RAW_HAIES],
+  ["abattage", RAW_ABATTAGE],
+  ["entretien-espaces-verts", RAW_ESPACES_VERTS],
+  ["conseils-reglementation", RAW_REGLEMENTATION],
+];
+
+const EXTRAS = { ...EXTRA_ELAGAGE, ...EXTRA_HAIES, ...EXTRA_ABATTAGE };
+
+// Fusionne le contenu complémentaire (sections, questions, liens) dans chaque article.
+const withExtras = (a) => {
+  const x = EXTRAS[a.slug];
+  if (!x) return a;
+  return {
+    ...a,
+    sections: [...a.sections, ...(x.sections || [])],
+    faq: [...(a.faq || []), ...(x.faq || [])],
+    related: [...(a.related || []), ...(x.relatedAdd || [])],
+  };
+};
+
+const NEW_RAW = RAW_GROUPS.flatMap(([cat, list]) => list.map((a) => withExtras({ ...a, cat })));
+const H1_BY_SLUG = Object.fromEntries([...BASE_ARTICLES, ...NEW_RAW].map((a) => [a.slug, a.h1]));
+
+const NEW_ARTICLES = NEW_RAW.map((a) => {
+  const meta = CATEGORY_META[a.cat];
+  const links = [
+    meta.service,
+    ...(a.local || []).filter((s) => LOCAL_BY_SLUG[s]).map((s) => ({
+      to: `/${s}`,
+      label: `${LOCAL_BY_SLUG[s].shortName} à ${LOCAL_BY_SLUG[s].city}`,
+    })),
+    ...(a.related || []).filter((s) => H1_BY_SLUG[s]).map((s) => ({
+      to: `/conseils/${s}`,
+      label: H1_BY_SLUG[s],
+    })),
+  ];
+  return {
+    ...a,
+    category: a.cat,
+    categoryName: meta.name,
+    title: a.title.length + SUFFIX.length <= 66 ? `${a.title}${SUFFIX}` : a.title,
+    date: PUBLISH_DATE,
+    dateLabel: PUBLISH_LABEL,
+    readTime: `${Math.max(2, Math.round(countWords(a) / 200))} min`,
+    links,
+  };
+});
+
+export const ARTICLES = [...NEW_ARTICLES, ...BASE_ARTICLES];
 export const ARTICLES_BY_SLUG = Object.fromEntries(ARTICLES.map((a) => [a.slug, a]));

@@ -22,6 +22,9 @@ export default function ArticlePage() {
       headline: article.h1,
       description: article.meta,
       datePublished: article.date,
+      dateModified: article.date,
+      inLanguage: "fr-FR",
+      image: `${SITE.baseUrl}/images/logo.webp`,
       author: { "@type": "Organization", name: SITE.name },
       publisher: { "@type": "Organization", name: SITE.name },
       mainEntityOfPage: `${SITE.baseUrl}/conseils/${article.slug}`,
@@ -77,6 +80,13 @@ export default function ArticlePage() {
                   <li key={j} className="flex gap-3 border-l-2 border-ember/60 pl-4 text-base leading-relaxed text-charcoal/75">{li}</li>
                 ))}
               </ul>
+            )}
+            {i === 1 && (
+              <p className="mt-8 rounded-lg border border-ember/25 bg-ember/5 p-5 text-base font-semibold text-forest">
+                Un arbre ou une haie vous inquiète ? Appelez-nous au{" "}
+                <a href={SITE.tel} data-testid={`inline-call-${article.slug}`} className="font-bold text-ember link-underline">{SITE.phoneDisplay}</a>
+                {" "}— devis gratuit autour de Lisieux.
+              </p>
             )}
           </Reveal>
         ))}
