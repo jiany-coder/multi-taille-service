@@ -82,6 +82,41 @@ export default function LocalPage({ page }) {
         </Reveal>
       </section>
 
+      {/* REPÈRES LOCAUX, CAS CONCRETS ET PRÉPARATION DE L'APPEL (pages communes) */}
+      {page.local && (
+        <section data-testid={`local-terrain-${page.slug}`} className="mx-auto max-w-4xl px-6 pb-16 sm:px-10 sm:pb-24">
+          <Reveal>
+            <h2 className="font-serif text-3xl font-semibold tracking-tight text-forest sm:text-4xl">{page.local.h2}</h2>
+            {page.local.paras.map((p, i) => (
+              <p key={i} className="mt-5 text-base leading-relaxed text-charcoal/75">{p}</p>
+            ))}
+          </Reveal>
+          {page.cas && (
+            <Reveal className="mt-10">
+              <h3 className="font-serif text-2xl font-semibold text-forest">Des situations que nous rencontrons à {page.city}</h3>
+              <ul className="mt-5 space-y-4">
+                {page.cas.map((c) => (
+                  <li key={c.t} className="border-l-2 border-ember/60 pl-4 text-base leading-relaxed text-charcoal/75">
+                    <span className="font-bold text-forest">{c.t}.</span> {c.x}
+                  </li>
+                ))}
+              </ul>
+            </Reveal>
+          )}
+          {page.conseilsRdv && (
+            <Reveal className="mt-10">
+              <h3 className="font-serif text-2xl font-semibold text-forest">Avant de nous appeler</h3>
+              <p className="mt-3 text-base leading-relaxed text-charcoal/75">Ces détails nous permettent de préparer la visite et de vous répondre plus vite :</p>
+              <ul className="mt-4 space-y-2">
+                {page.conseilsRdv.map((t) => (
+                  <li key={t} className="flex items-start gap-3 text-base text-charcoal/75"><Check className="mt-1 h-5 w-5 shrink-0 text-ember" strokeWidth={3} /> {t}</li>
+                ))}
+              </ul>
+            </Reveal>
+          )}
+        </section>
+      )}
+
       {/* PRESTATIONS LOCALES */}
       <section data-testid={`local-prestations-${page.slug}`} className="border-y border-charcoal/10 bg-cream/60">
         <div className="mx-auto max-w-7xl px-6 py-16 sm:px-10 sm:py-20">

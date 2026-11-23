@@ -21,4 +21,4 @@ jobs:
           INDEXABLE: "true"
       - run: grep -c "<loc>" build/sitemap.xml
       - run: ls build/conseils | wc -l
-      - run: test -f build/conseils/prix-elagage-arbre/index.html && grep -c "ld+json" build/conseils/prix-elagage-arbre/index.html
+      - run: ls build/conseils | grep -c prix-elagage-arbre

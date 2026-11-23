@@ -4,6 +4,7 @@ dans ~36 km autour de Lisieux. Données réelles (population, distance à vol d'
 geo.api.gouv.fr ; aucune information locale inventée : les conseils sont des généralités horticoles propres à chaque
 type de territoire (littoral, plaine, bocage, vallée de la Risle...)."""
 import hashlib, json, os, re, unicodedata
+from local_enrich import enrich
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "src", "data", "localPagesRing.js")
@@ -468,7 +469,13 @@ def build():
                 {"q": fq_s[0], "a": fq_s[1]},
                 {"q": pick(c, "zq", FAQ_ZONE_Q).format(c=c), "a": pick(c, "za", FAQ_ZONE_A).format(c=c, nb=listfr(nb3[:4]))},
             ]
+            _page = {"city": c, "serviceSlug": svc}
+            local, cas, tips, extra_faq = enrich(_page, r, arch, listfr)
+            faq = faq + extra_faq
             pages.append({
+                "local": local,
+                "cas": cas,
+                "conseilsRdv": tips,
                 "slug": slug,
                 "serviceSlug": svc,
                 "citySlug": slugify(c),
