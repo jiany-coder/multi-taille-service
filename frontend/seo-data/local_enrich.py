@@ -203,6 +203,36 @@ def _choose(name, salt, items, k):
     return out
 
 
+_SURF = {}
+for _l in open(__import__("os").path.join(__import__("os").path.dirname(__file__), "surfaces.txt"), encoding="utf-8"):
+    if "|" in _l:
+        _n, _s = _l.strip().split("|")
+        _SURF[_n] = float(_s) / 100.0  # hectares -> km2
+
+
+def _fr(n, d=0):
+    return f"{n:,.{d}f}".replace(",", " ").replace(".", ",")
+
+
+def profil(c, pop):
+    s = _SURF.get(c)
+    if not s or not pop:
+        return ""
+    dens = pop / s
+    sd = _fr(s, 1 if s < 100 else 0)
+    if dens >= 1500:
+        t = "un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent"
+    elif dens >= 500:
+        t = "un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles"
+    elif dens >= 150:
+        t = "un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie"
+    elif dens >= 60:
+        t = "un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles"
+    else:
+        t = "un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture"
+    return f"La commune compte environ {_fr(pop)} habitants sur {sd} km², soit environ {_fr(dens)} habitants au km² : {t}."
+
+
 def enrich(page, row, arch, listfr):
     c, svc = page["city"], page["serviceSlug"]
     kind = FACTS.get(c, (DEFAULT_KIND.get(arch, "herbages"), ""))[0]
@@ -215,7 +245,7 @@ def enrich(page, row, arch, listfr):
         geo = (f"{c} se trouve {row['dir']} de Lisieux, à environ {row['d']} km à vol d'oiseau, dans le département {('du ' + dep) if dep else ''}."
                .replace("département du Calvados", "Calvados").replace("département du Eure", "Eure").replace("département du Orne", "Orne"))
         geo = f"{c} est située {row['dir']} de Lisieux, à environ {row['d']} km à vol d'oiseau ({dep}). Ses communes voisines : {listfr(nb[:4])}."
-    p1 = (fact + " " + geo).strip()
+    p1 = (fact + " " + geo + " " + profil(c, row.get("p"))).strip()
     p2 = ANGLE[kind][svc]
     p3 = f"Si vous êtes à {nb[0]} ou à {nb[1]}, nous pouvons regrouper les passages avec ceux de {c} pour limiter les déplacements."
     local = {"h2": _choose(c, svc + "h", [x.format(c=c) for x in H2[svc]], 1)[0], "paras": [p1, p2, p3]}

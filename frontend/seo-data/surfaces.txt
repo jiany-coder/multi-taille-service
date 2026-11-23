@@ -1,0 +1,93 @@
+Saint-Désir|1952.11
+Valorbiquet|2887.37
+Équemauville|602.63
+Moult-Chicheboville|1772.01
+Bavent|1855.24
+Valambray|4138.48
+Sannerville|519.29
+Bellengreville|1018.72
+Frénouville|653.46
+Cagny|851
+Cuverville|205.76
+Démouville|356.21
+Beuvillers|493.09
+Saint-Martin-de-Mailloc|730.89
+Le Breuil-en-Auge|937.98
+Glos|1300.46
+Hermival-les-Vaux|1395.78
+Coquainvilliers|1195.74
+Le Pré-d'Auge|1076.68
+Blangy-le-Château|1065.45
+Bonneville-la-Louvet|2088.98
+Le Pin|1155.21
+Saint-Martin-de-la-Lieue|839.86
+Ouilly-le-Vicomte|799.47
+Marolles|1233.78
+Saint-Germain-de-Livet|1649.57
+Courtonne-la-Meurdrac|1281.48
+Saint-Hymer|1259.61
+Bonnebosq|1234.56
+Saint-Philbert-des-Champs|1208.94
+Courtonne-les-Deux-Églises|1404.87
+Le Mesnil-Guillaume|387.19
+Manerbe|1840.78
+Le Torquesne|530.09
+La Rivière-Saint-Sauveur|538.51
+Moyaux|1659.64
+Blonville-sur-Mer|687.55
+Villers-sur-Mer|901.01
+Touques|814.3
+Deauville|384.07
+Trouville-sur-Mer|681.18
+Houlgate|472.38
+Honfleur|1375.47
+Troarn|1146.68
+Merville-Franceville-Plage|1071.77
+Lisieux|1306.17
+Orbec|1020.39
+Livarot-Pays-d'Auge|18332.7
+Saint-Pierre-en-Auge|14637.24
+Cambremer|2762.47
+Pont-l'Évêque|1313.21
+Dozulé|522.95
+Cabourg|538.25
+Dives-sur-Mer|630.67
+Argences|977.07
+Mézidon Vallée d'Auge|10393.78
+Falaise|1182.94
+Caen|2569.73
+Hérouville-Saint-Clair|1064.81
+Ifs|904.97
+Mondeville|905.11
+Ouistreham|912.9
+Colombelles|711.9
+Bretteville-sur-Odon|648.15
+Douvres-la-Délivrande|1083.07
+Luc-sur-Mer|362.92
+Verson|1036.42
+Épaignes|2627.41
+Menneval|663.87
+Beuzeville|2330.4
+Bernay|2408.64
+Pont-Audemer|1480.65
+Brionne|1685.87
+Serquigny|1146.89
+Thiberville|798.73
+Cormeilles|308.59
+Mesnil-en-Ouche|16620.59
+Beaumont-le-Roger|3652.54
+Bosroumois|1337.98
+Bourg-Achard|1239.91
+Grand Bourgtheroulde|1968.94
+Breteuil|5527.61
+Conches-en-Ouche|1666.56
+Le Neubourg|988.99
+Rugles|1413.29
+Vimoutiers|1602.86
+Argentan|1841.76
+Écouché-les-Vallées|4149.58
+La Ferté-en-Ouche|13262.77
+Gacé|649.12
+L'Aigle|1846.22
+Putanges-le-Lac|7743.41
+Sées|4047.96

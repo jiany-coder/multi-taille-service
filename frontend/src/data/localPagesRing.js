@@ -4,7 +4,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Saint-Désir selon le quartier",
       "paras": [
-        "Saint-Désir est située à l'ouest de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs.",
+        "Saint-Désir est située à l'ouest de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs. La commune compte environ 1 756 habitants sur 19,5 km², soit environ 90 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Lisieux ou à Ouilly-le-Vicomte, nous pouvons regrouper les passages avec ceux de Saint-Désir pour limiter les déplacements."
       ]
@@ -91,7 +91,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Saint-Désir selon le quartier",
       "paras": [
-        "Saint-Désir est située à l'ouest de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs.",
+        "Saint-Désir est située à l'ouest de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs. La commune compte environ 1 756 habitants sur 19,5 km², soit environ 90 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Lisieux ou à Ouilly-le-Vicomte, nous pouvons regrouper les passages avec ceux de Saint-Désir pour limiter les déplacements."
       ]
@@ -178,7 +178,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Désir et ses haies : repères du terrain",
       "paras": [
-        "Saint-Désir est située à l'ouest de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs.",
+        "Saint-Désir est située à l'ouest de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs. La commune compte environ 1 756 habitants sur 19,5 km², soit environ 90 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Lisieux ou à Ouilly-le-Vicomte, nous pouvons regrouper les passages avec ceux de Saint-Désir pour limiter les déplacements."
       ]
@@ -265,7 +265,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Désir et ses pelouses : repères du terrain",
       "paras": [
-        "Saint-Désir est située à l'ouest de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs.",
+        "Saint-Désir est située à l'ouest de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs. La commune compte environ 1 756 habitants sur 19,5 km², soit environ 90 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Lisieux ou à Ouilly-le-Vicomte, nous pouvons regrouper les passages avec ceux de Saint-Désir pour limiter les déplacements."
       ]
@@ -352,7 +352,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Désir et ses terrains : repères",
       "paras": [
-        "Saint-Désir est située à l'ouest de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs.",
+        "Saint-Désir est située à l'ouest de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs. La commune compte environ 1 756 habitants sur 19,5 km², soit environ 90 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Lisieux ou à Ouilly-le-Vicomte, nous pouvons regrouper les passages avec ceux de Saint-Désir pour limiter les déplacements."
       ]
@@ -439,7 +439,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Saint-Désir selon le quartier",
       "paras": [
-        "Saint-Désir est située à l'ouest de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs.",
+        "Saint-Désir est située à l'ouest de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Ouilly-le-Vicomte, Le Pré-d'Auge et Saint-Pierre-des-Ifs. La commune compte environ 1 756 habitants sur 19,5 km², soit environ 90 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Lisieux ou à Ouilly-le-Vicomte, nous pouvons regrouper les passages avec ceux de Saint-Désir pour limiter les déplacements."
       ]
@@ -526,7 +526,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Valorbiquet : ce que le terrain change pour l'élagage",
       "paras": [
-        "Valorbiquet est située au sud-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec.",
+        "Valorbiquet est située au sud-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec. La commune compte environ 2 439 habitants sur 28,9 km², soit environ 84 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Saint-Martin-de-Bienfaite-la-Cressonnière ou à Courtonne-les-Deux-Églises, nous pouvons regrouper les passages avec ceux de Valorbiquet pour limiter les déplacements."
       ]
@@ -613,7 +613,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Valorbiquet selon le quartier",
       "paras": [
-        "Valorbiquet est située au sud-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec.",
+        "Valorbiquet est située au sud-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec. La commune compte environ 2 439 habitants sur 28,9 km², soit environ 84 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Saint-Martin-de-Bienfaite-la-Cressonnière ou à Courtonne-les-Deux-Églises, nous pouvons regrouper les passages avec ceux de Valorbiquet pour limiter les déplacements."
       ]
@@ -700,7 +700,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Valorbiquet : ce que le terrain change pour les haies",
       "paras": [
-        "Valorbiquet est située au sud-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec.",
+        "Valorbiquet est située au sud-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec. La commune compte environ 2 439 habitants sur 28,9 km², soit environ 84 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Saint-Martin-de-Bienfaite-la-Cressonnière ou à Courtonne-les-Deux-Églises, nous pouvons regrouper les passages avec ceux de Valorbiquet pour limiter les déplacements."
       ]
@@ -787,7 +787,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Valorbiquet et ses pelouses : repères du terrain",
       "paras": [
-        "Valorbiquet est située au sud-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec.",
+        "Valorbiquet est située au sud-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec. La commune compte environ 2 439 habitants sur 28,9 km², soit environ 84 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Saint-Martin-de-Bienfaite-la-Cressonnière ou à Courtonne-les-Deux-Églises, nous pouvons regrouper les passages avec ceux de Valorbiquet pour limiter les déplacements."
       ]
@@ -874,7 +874,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Valorbiquet : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Valorbiquet est située au sud-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec.",
+        "Valorbiquet est située au sud-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec. La commune compte environ 2 439 habitants sur 28,9 km², soit environ 84 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Saint-Martin-de-Bienfaite-la-Cressonnière ou à Courtonne-les-Deux-Églises, nous pouvons regrouper les passages avec ceux de Valorbiquet pour limiter les déplacements."
       ]
@@ -961,7 +961,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Valorbiquet selon le quartier",
       "paras": [
-        "Valorbiquet est située au sud-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec.",
+        "Valorbiquet est située au sud-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, Courtonne-les-Deux-Églises, Saint-Martin-de-Mailloc et Orbec. La commune compte environ 2 439 habitants sur 28,9 km², soit environ 84 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Saint-Martin-de-Bienfaite-la-Cressonnière ou à Courtonne-les-Deux-Églises, nous pouvons regrouper les passages avec ceux de Valorbiquet pour limiter les déplacements."
       ]
@@ -1048,7 +1048,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Épaignes selon le quartier",
       "paras": [
-        "Épaignes est située au nord-est de Lisieux, à environ 22 km à vol d'oiseau (Eure). Ses communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon.",
+        "Épaignes est située au nord-est de Lisieux, à environ 22 km à vol d'oiseau (Eure). Ses communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon. La commune compte environ 1 597 habitants sur 26,3 km², soit environ 61 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En fond de vallée, l'humidité favorise les peupliers, saules et aulnes, qui poussent vite et casent facilement. Nous les contrôlons régulièrement, surtout au bord des rivières et près des habitations.",
         "Si vous êtes à La Chapelle-Bayvel ou à Selles, nous pouvons regrouper les passages avec ceux de Épaignes pour limiter les déplacements."
       ]
@@ -1135,7 +1135,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Épaignes et ses jardins : repères du terrain",
       "paras": [
-        "Épaignes est située au nord-est de Lisieux, à environ 22 km à vol d'oiseau (Eure). Ses communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon.",
+        "Épaignes est située au nord-est de Lisieux, à environ 22 km à vol d'oiseau (Eure). Ses communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon. La commune compte environ 1 597 habitants sur 26,3 km², soit environ 61 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En vallée humide, le sol reste frais : la pelouse se couvre de mousse, les massifs demandent un bon drainage. Nous adaptons tontes, désherbage et soins au terrain.",
         "Si vous êtes à La Chapelle-Bayvel ou à Selles, nous pouvons regrouper les passages avec ceux de Épaignes pour limiter les déplacements."
       ]
@@ -1222,7 +1222,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Épaignes selon le quartier",
       "paras": [
-        "Épaignes est située au nord-est de Lisieux, à environ 22 km à vol d'oiseau (Eure). Ses communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon.",
+        "Épaignes est située au nord-est de Lisieux, à environ 22 km à vol d'oiseau (Eure). Ses communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon. La commune compte environ 1 597 habitants sur 26,3 km², soit environ 61 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies de vallée aiment l'humidité mais souffrent de la mousse et des maladies : une taille aérée et un nettoyage du pied de haie les gardent en bonne santé.",
         "Si vous êtes à La Chapelle-Bayvel ou à Selles, nous pouvons regrouper les passages avec ceux de Épaignes pour limiter les déplacements."
       ]
@@ -1309,7 +1309,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Épaignes selon le quartier",
       "paras": [
-        "Épaignes est située au nord-est de Lisieux, à environ 22 km à vol d'oiseau (Eure). Ses communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon.",
+        "Épaignes est située au nord-est de Lisieux, à environ 22 km à vol d'oiseau (Eure). Ses communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon. La commune compte environ 1 597 habitants sur 26,3 km², soit environ 61 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur sol humide, la tonte demande de la patience : nous évitons les terrains détrempés pour ne pas creuser d'ornières et ramassons l'herbe pour limiter la mousse.",
         "Si vous êtes à La Chapelle-Bayvel ou à Selles, nous pouvons regrouper les passages avec ceux de Épaignes pour limiter les déplacements."
       ]
@@ -1396,7 +1396,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Épaignes selon le terrain",
       "paras": [
-        "Épaignes est située au nord-est de Lisieux, à environ 22 km à vol d'oiseau (Eure). Ses communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon.",
+        "Épaignes est située au nord-est de Lisieux, à environ 22 km à vol d'oiseau (Eure). Ses communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon. La commune compte environ 1 597 habitants sur 26,3 km², soit environ 61 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les terrains de vallée se couvrent vite de végétation dense : ronces, roseaux, saules. Nous les reprenons avec un matériel adapté aux sols humides.",
         "Si vous êtes à La Chapelle-Bayvel ou à Selles, nous pouvons regrouper les passages avec ceux de Épaignes pour limiter les déplacements."
       ]
@@ -1483,7 +1483,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Épaignes selon le quartier",
       "paras": [
-        "Épaignes est située au nord-est de Lisieux, à environ 22 km à vol d'oiseau (Eure). Ses communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon.",
+        "Épaignes est située au nord-est de Lisieux, à environ 22 km à vol d'oiseau (Eure). Ses communes voisines : La Chapelle-Bayvel, Selles, Saint-Symphorien et Saint-Siméon. La commune compte environ 1 597 habitants sur 26,3 km², soit environ 61 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Nous planifions les passages en tenant compte de l'humidité : travaux lourds quand le sol est ressuyé, entretien courant le reste du temps.",
         "Si vous êtes à La Chapelle-Bayvel ou à Selles, nous pouvons regrouper les passages avec ceux de Épaignes pour limiter les déplacements."
       ]
@@ -1570,7 +1570,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beuzeville et ses arbres : repères du terrain",
       "paras": [
-        "Beuzeville, dans l'Eure, se trouve entre l'estuaire de la Seine et la vallée de la Risle. Beuzeville est située au nord de Lisieux, à environ 23 km à vol d'oiseau (Eure). Ses communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville.",
+        "Beuzeville, dans l'Eure, se trouve entre l'estuaire de la Seine et la vallée de la Risle. Beuzeville est située au nord de Lisieux, à environ 23 km à vol d'oiseau (Eure). Ses communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville. La commune compte environ 4 704 habitants sur 23,3 km², soit environ 202 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Quetteville ou à Le Torpt, nous pouvons regrouper les passages avec ceux de Beuzeville pour limiter les déplacements."
       ]
@@ -1657,7 +1657,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beuzeville : ce que le terrain change pour le jardin",
       "paras": [
-        "Beuzeville, dans l'Eure, se trouve entre l'estuaire de la Seine et la vallée de la Risle. Beuzeville est située au nord de Lisieux, à environ 23 km à vol d'oiseau (Eure). Ses communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville.",
+        "Beuzeville, dans l'Eure, se trouve entre l'estuaire de la Seine et la vallée de la Risle. Beuzeville est située au nord de Lisieux, à environ 23 km à vol d'oiseau (Eure). Ses communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville. La commune compte environ 4 704 habitants sur 23,3 km², soit environ 202 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Quetteville ou à Le Torpt, nous pouvons regrouper les passages avec ceux de Beuzeville pour limiter les déplacements."
       ]
@@ -1744,7 +1744,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beuzeville et ses haies : repères du terrain",
       "paras": [
-        "Beuzeville, dans l'Eure, se trouve entre l'estuaire de la Seine et la vallée de la Risle. Beuzeville est située au nord de Lisieux, à environ 23 km à vol d'oiseau (Eure). Ses communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville.",
+        "Beuzeville, dans l'Eure, se trouve entre l'estuaire de la Seine et la vallée de la Risle. Beuzeville est située au nord de Lisieux, à environ 23 km à vol d'oiseau (Eure). Ses communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville. La commune compte environ 4 704 habitants sur 23,3 km², soit environ 202 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Quetteville ou à Le Torpt, nous pouvons regrouper les passages avec ceux de Beuzeville pour limiter les déplacements."
       ]
@@ -1831,7 +1831,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beuzeville : ce que le terrain change pour la pelouse",
       "paras": [
-        "Beuzeville, dans l'Eure, se trouve entre l'estuaire de la Seine et la vallée de la Risle. Beuzeville est située au nord de Lisieux, à environ 23 km à vol d'oiseau (Eure). Ses communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville.",
+        "Beuzeville, dans l'Eure, se trouve entre l'estuaire de la Seine et la vallée de la Risle. Beuzeville est située au nord de Lisieux, à environ 23 km à vol d'oiseau (Eure). Ses communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville. La commune compte environ 4 704 habitants sur 23,3 km², soit environ 202 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Quetteville ou à Le Torpt, nous pouvons regrouper les passages avec ceux de Beuzeville pour limiter les déplacements."
       ]
@@ -1918,7 +1918,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beuzeville et ses terrains : repères",
       "paras": [
-        "Beuzeville, dans l'Eure, se trouve entre l'estuaire de la Seine et la vallée de la Risle. Beuzeville est située au nord de Lisieux, à environ 23 km à vol d'oiseau (Eure). Ses communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville.",
+        "Beuzeville, dans l'Eure, se trouve entre l'estuaire de la Seine et la vallée de la Risle. Beuzeville est située au nord de Lisieux, à environ 23 km à vol d'oiseau (Eure). Ses communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville. La commune compte environ 4 704 habitants sur 23,3 km², soit environ 202 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Quetteville ou à Le Torpt, nous pouvons regrouper les passages avec ceux de Beuzeville pour limiter les déplacements."
       ]
@@ -2005,7 +2005,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beuzeville et ses jardins : repères du terrain",
       "paras": [
-        "Beuzeville, dans l'Eure, se trouve entre l'estuaire de la Seine et la vallée de la Risle. Beuzeville est située au nord de Lisieux, à environ 23 km à vol d'oiseau (Eure). Ses communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville.",
+        "Beuzeville, dans l'Eure, se trouve entre l'estuaire de la Seine et la vallée de la Risle. Beuzeville est située au nord de Lisieux, à environ 23 km à vol d'oiseau (Eure). Ses communes voisines : Quetteville, Le Torpt, Manneville-la-Raoult et Fort-Moville. La commune compte environ 4 704 habitants sur 23,3 km², soit environ 202 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Quetteville ou à Le Torpt, nous pouvons regrouper les passages avec ceux de Beuzeville pour limiter les déplacements."
       ]
@@ -2092,7 +2092,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Blonville-sur-Mer et ses arbres : repères du terrain",
       "paras": [
-        "Blonville-sur-Mer est une station balnéaire de la Côte Fleurie, entre Deauville et Villers-sur-Mer, avec sa grande plage de sable. Blonville-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult.",
+        "Blonville-sur-Mer est une station balnéaire de la Côte Fleurie, entre Deauville et Villers-sur-Mer, avec sa grande plage de sable. Blonville-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult. La commune compte environ 1 621 habitants sur 6,9 km², soit environ 236 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Près de la mer, vent et embruns marquent les arbres : couronnes déportées, branches cassées, feuillage brûlé côté large. Nous allégeons les arbres exposés pour qu'ils résistent mieux aux tempêtes.",
         "Si vous êtes à Benerville-sur-Mer ou à Villers-sur-Mer, nous pouvons regrouper les passages avec ceux de Blonville-sur-Mer pour limiter les déplacements."
       ]
@@ -2179,7 +2179,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Blonville-sur-Mer et ses jardins : repères du terrain",
       "paras": [
-        "Blonville-sur-Mer est une station balnéaire de la Côte Fleurie, entre Deauville et Villers-sur-Mer, avec sa grande plage de sable. Blonville-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult.",
+        "Blonville-sur-Mer est une station balnéaire de la Côte Fleurie, entre Deauville et Villers-sur-Mer, avec sa grande plage de sable. Blonville-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult. La commune compte environ 1 621 habitants sur 6,9 km², soit environ 236 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur la côte, le vent, le sel et le sol léger changent le jardin : plantations plus rustiques, arrosage plus attentif, nettoyage après les tempêtes. Beaucoup de maisons sont aussi des résidences secondaires : nous entretenons en votre absence.",
         "Si vous êtes à Benerville-sur-Mer ou à Villers-sur-Mer, nous pouvons regrouper les passages avec ceux de Blonville-sur-Mer pour limiter les déplacements."
       ]
@@ -2266,7 +2266,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Blonville-sur-Mer selon le quartier",
       "paras": [
-        "Blonville-sur-Mer est une station balnéaire de la Côte Fleurie, entre Deauville et Villers-sur-Mer, avec sa grande plage de sable. Blonville-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult.",
+        "Blonville-sur-Mer est une station balnéaire de la Côte Fleurie, entre Deauville et Villers-sur-Mer, avec sa grande plage de sable. Blonville-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult. La commune compte environ 1 621 habitants sur 6,9 km², soit environ 236 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies du littoral font brise-vent : thuyas, lauriers, tamaris, cyprès. Le vent salé brûle les pousses trop sévèrement taillées, d'où une taille mesurée et à la bonne saison.",
         "Si vous êtes à Benerville-sur-Mer ou à Villers-sur-Mer, nous pouvons regrouper les passages avec ceux de Blonville-sur-Mer pour limiter les déplacements."
       ]
@@ -2353,7 +2353,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Blonville-sur-Mer et ses pelouses : repères du terrain",
       "paras": [
-        "Blonville-sur-Mer est une station balnéaire de la Côte Fleurie, entre Deauville et Villers-sur-Mer, avec sa grande plage de sable. Blonville-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult.",
+        "Blonville-sur-Mer est une station balnéaire de la Côte Fleurie, entre Deauville et Villers-sur-Mer, avec sa grande plage de sable. Blonville-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult. La commune compte environ 1 621 habitants sur 6,9 km², soit environ 236 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Près de la mer, la pelouse sèche vite en été sur sol léger : nous relevons la hauteur de coupe et espaçons les tontes en période chaude.",
         "Si vous êtes à Benerville-sur-Mer ou à Villers-sur-Mer, nous pouvons regrouper les passages avec ceux de Blonville-sur-Mer pour limiter les déplacements."
       ]
@@ -2440,7 +2440,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Blonville-sur-Mer selon le terrain",
       "paras": [
-        "Blonville-sur-Mer est une station balnéaire de la Côte Fleurie, entre Deauville et Villers-sur-Mer, avec sa grande plage de sable. Blonville-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult.",
+        "Blonville-sur-Mer est une station balnéaire de la Côte Fleurie, entre Deauville et Villers-sur-Mer, avec sa grande plage de sable. Blonville-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult. La commune compte environ 1 621 habitants sur 6,9 km², soit environ 236 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur la côte, les terrains peu entretenus se couvrent vite de ronces et d'arbustes tourmentés par le vent : nous les reprenons sans abîmer les plantations utiles.",
         "Si vous êtes à Benerville-sur-Mer ou à Villers-sur-Mer, nous pouvons regrouper les passages avec ceux de Blonville-sur-Mer pour limiter les déplacements."
       ]
@@ -2527,7 +2527,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Blonville-sur-Mer selon le quartier",
       "paras": [
-        "Blonville-sur-Mer est une station balnéaire de la Côte Fleurie, entre Deauville et Villers-sur-Mer, avec sa grande plage de sable. Blonville-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult.",
+        "Blonville-sur-Mer est une station balnéaire de la Côte Fleurie, entre Deauville et Villers-sur-Mer, avec sa grande plage de sable. Blonville-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Benerville-sur-Mer, Villers-sur-Mer, Tourgéville et Saint-Arnoult. La commune compte environ 1 621 habitants sur 6,9 km², soit environ 236 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins de villas et résidences secondaires : nous prévoyons des passages avant l'été, en septembre et après les coups de vent, pour que tout soit net à chaque arrivée.",
         "Si vous êtes à Benerville-sur-Mer ou à Villers-sur-Mer, nous pouvons regrouper les passages avec ceux de Blonville-sur-Mer pour limiter les déplacements."
       ]
@@ -2614,7 +2614,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Villers-sur-Mer selon le quartier",
       "paras": [
-        "Villers-sur-Mer est connue pour sa plage et pour les falaises des Vaches Noires, un site apprécié des amateurs de fossiles. Les jardins y reçoivent vent et embruns. Villers-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer.",
+        "Villers-sur-Mer est connue pour sa plage et pour les falaises des Vaches Noires, un site apprécié des amateurs de fossiles. Les jardins y reçoivent vent et embruns. Villers-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer. La commune compte environ 2 440 habitants sur 9,0 km², soit environ 271 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Près de la mer, vent et embruns marquent les arbres : couronnes déportées, branches cassées, feuillage brûlé côté large. Nous allégeons les arbres exposés pour qu'ils résistent mieux aux tempêtes.",
         "Si vous êtes à Blonville-sur-Mer ou à Auberville, nous pouvons regrouper les passages avec ceux de Villers-sur-Mer pour limiter les déplacements."
       ]
@@ -2701,7 +2701,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Villers-sur-Mer : ce que le terrain change pour le jardin",
       "paras": [
-        "Villers-sur-Mer est connue pour sa plage et pour les falaises des Vaches Noires, un site apprécié des amateurs de fossiles. Les jardins y reçoivent vent et embruns. Villers-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer.",
+        "Villers-sur-Mer est connue pour sa plage et pour les falaises des Vaches Noires, un site apprécié des amateurs de fossiles. Les jardins y reçoivent vent et embruns. Villers-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer. La commune compte environ 2 440 habitants sur 9,0 km², soit environ 271 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur la côte, le vent, le sel et le sol léger changent le jardin : plantations plus rustiques, arrosage plus attentif, nettoyage après les tempêtes. Beaucoup de maisons sont aussi des résidences secondaires : nous entretenons en votre absence.",
         "Si vous êtes à Blonville-sur-Mer ou à Auberville, nous pouvons regrouper les passages avec ceux de Villers-sur-Mer pour limiter les déplacements."
       ]
@@ -2788,7 +2788,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Villers-sur-Mer selon le quartier",
       "paras": [
-        "Villers-sur-Mer est connue pour sa plage et pour les falaises des Vaches Noires, un site apprécié des amateurs de fossiles. Les jardins y reçoivent vent et embruns. Villers-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer.",
+        "Villers-sur-Mer est connue pour sa plage et pour les falaises des Vaches Noires, un site apprécié des amateurs de fossiles. Les jardins y reçoivent vent et embruns. Villers-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer. La commune compte environ 2 440 habitants sur 9,0 km², soit environ 271 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies du littoral font brise-vent : thuyas, lauriers, tamaris, cyprès. Le vent salé brûle les pousses trop sévèrement taillées, d'où une taille mesurée et à la bonne saison.",
         "Si vous êtes à Blonville-sur-Mer ou à Auberville, nous pouvons regrouper les passages avec ceux de Villers-sur-Mer pour limiter les déplacements."
       ]
@@ -2875,7 +2875,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Villers-sur-Mer et ses pelouses : repères du terrain",
       "paras": [
-        "Villers-sur-Mer est connue pour sa plage et pour les falaises des Vaches Noires, un site apprécié des amateurs de fossiles. Les jardins y reçoivent vent et embruns. Villers-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer.",
+        "Villers-sur-Mer est connue pour sa plage et pour les falaises des Vaches Noires, un site apprécié des amateurs de fossiles. Les jardins y reçoivent vent et embruns. Villers-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer. La commune compte environ 2 440 habitants sur 9,0 km², soit environ 271 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Près de la mer, la pelouse sèche vite en été sur sol léger : nous relevons la hauteur de coupe et espaçons les tontes en période chaude.",
         "Si vous êtes à Blonville-sur-Mer ou à Auberville, nous pouvons regrouper les passages avec ceux de Villers-sur-Mer pour limiter les déplacements."
       ]
@@ -2962,7 +2962,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Villers-sur-Mer : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Villers-sur-Mer est connue pour sa plage et pour les falaises des Vaches Noires, un site apprécié des amateurs de fossiles. Les jardins y reçoivent vent et embruns. Villers-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer.",
+        "Villers-sur-Mer est connue pour sa plage et pour les falaises des Vaches Noires, un site apprécié des amateurs de fossiles. Les jardins y reçoivent vent et embruns. Villers-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer. La commune compte environ 2 440 habitants sur 9,0 km², soit environ 271 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur la côte, les terrains peu entretenus se couvrent vite de ronces et d'arbustes tourmentés par le vent : nous les reprenons sans abîmer les plantations utiles.",
         "Si vous êtes à Blonville-sur-Mer ou à Auberville, nous pouvons regrouper les passages avec ceux de Villers-sur-Mer pour limiter les déplacements."
       ]
@@ -3049,7 +3049,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Villers-sur-Mer : ce que le terrain change pour l'entretien",
       "paras": [
-        "Villers-sur-Mer est connue pour sa plage et pour les falaises des Vaches Noires, un site apprécié des amateurs de fossiles. Les jardins y reçoivent vent et embruns. Villers-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer.",
+        "Villers-sur-Mer est connue pour sa plage et pour les falaises des Vaches Noires, un site apprécié des amateurs de fossiles. Les jardins y reçoivent vent et embruns. Villers-sur-Mer est située au nord-ouest de Lisieux, à environ 24 km à vol d'oiseau (Calvados). Ses communes voisines : Blonville-sur-Mer, Auberville, Gonneville-sur-Mer et Benerville-sur-Mer. La commune compte environ 2 440 habitants sur 9,0 km², soit environ 271 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins de villas et résidences secondaires : nous prévoyons des passages avant l'été, en septembre et après les coups de vent, pour que tout soit net à chaque arrivée.",
         "Si vous êtes à Blonville-sur-Mer ou à Auberville, nous pouvons regrouper les passages avec ceux de Villers-sur-Mer pour limiter les déplacements."
       ]
@@ -3136,7 +3136,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Touques selon le quartier",
       "paras": [
-        "Touques s'étend au bord de la rivière du même nom, à l'arrière de Trouville et de Deauville, et accueille l'hippodrome de Deauville-La Touques. Touques est située au nord de Lisieux, à environ 25 km à vol d'oiseau (Calvados). Ses communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques.",
+        "Touques s'étend au bord de la rivière du même nom, à l'arrière de Trouville et de Deauville, et accueille l'hippodrome de Deauville-La Touques. Touques est située au nord de Lisieux, à environ 25 km à vol d'oiseau (Calvados). Ses communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques. La commune compte environ 3 913 habitants sur 8,1 km², soit environ 481 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En fond de vallée, l'humidité favorise les peupliers, saules et aulnes, qui poussent vite et casent facilement. Nous les contrôlons régulièrement, surtout au bord des rivières et près des habitations.",
         "Si vous êtes à Trouville-sur-Mer ou à Deauville, nous pouvons regrouper les passages avec ceux de Touques pour limiter les déplacements."
       ]
@@ -3223,7 +3223,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Touques selon le quartier",
       "paras": [
-        "Touques s'étend au bord de la rivière du même nom, à l'arrière de Trouville et de Deauville, et accueille l'hippodrome de Deauville-La Touques. Touques est située au nord de Lisieux, à environ 25 km à vol d'oiseau (Calvados). Ses communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques.",
+        "Touques s'étend au bord de la rivière du même nom, à l'arrière de Trouville et de Deauville, et accueille l'hippodrome de Deauville-La Touques. Touques est située au nord de Lisieux, à environ 25 km à vol d'oiseau (Calvados). Ses communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques. La commune compte environ 3 913 habitants sur 8,1 km², soit environ 481 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En vallée humide, le sol reste frais : la pelouse se couvre de mousse, les massifs demandent un bon drainage. Nous adaptons tontes, désherbage et soins au terrain.",
         "Si vous êtes à Trouville-sur-Mer ou à Deauville, nous pouvons regrouper les passages avec ceux de Touques pour limiter les déplacements."
       ]
@@ -3310,7 +3310,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Touques selon le quartier",
       "paras": [
-        "Touques s'étend au bord de la rivière du même nom, à l'arrière de Trouville et de Deauville, et accueille l'hippodrome de Deauville-La Touques. Touques est située au nord de Lisieux, à environ 25 km à vol d'oiseau (Calvados). Ses communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques.",
+        "Touques s'étend au bord de la rivière du même nom, à l'arrière de Trouville et de Deauville, et accueille l'hippodrome de Deauville-La Touques. Touques est située au nord de Lisieux, à environ 25 km à vol d'oiseau (Calvados). Ses communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques. La commune compte environ 3 913 habitants sur 8,1 km², soit environ 481 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies de vallée aiment l'humidité mais souffrent de la mousse et des maladies : une taille aérée et un nettoyage du pied de haie les gardent en bonne santé.",
         "Si vous êtes à Trouville-sur-Mer ou à Deauville, nous pouvons regrouper les passages avec ceux de Touques pour limiter les déplacements."
       ]
@@ -3397,7 +3397,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Touques et ses pelouses : repères du terrain",
       "paras": [
-        "Touques s'étend au bord de la rivière du même nom, à l'arrière de Trouville et de Deauville, et accueille l'hippodrome de Deauville-La Touques. Touques est située au nord de Lisieux, à environ 25 km à vol d'oiseau (Calvados). Ses communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques.",
+        "Touques s'étend au bord de la rivière du même nom, à l'arrière de Trouville et de Deauville, et accueille l'hippodrome de Deauville-La Touques. Touques est située au nord de Lisieux, à environ 25 km à vol d'oiseau (Calvados). Ses communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques. La commune compte environ 3 913 habitants sur 8,1 km², soit environ 481 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur sol humide, la tonte demande de la patience : nous évitons les terrains détrempés pour ne pas creuser d'ornières et ramassons l'herbe pour limiter la mousse.",
         "Si vous êtes à Trouville-sur-Mer ou à Deauville, nous pouvons regrouper les passages avec ceux de Touques pour limiter les déplacements."
       ]
@@ -3484,7 +3484,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Touques et ses terrains : repères",
       "paras": [
-        "Touques s'étend au bord de la rivière du même nom, à l'arrière de Trouville et de Deauville, et accueille l'hippodrome de Deauville-La Touques. Touques est située au nord de Lisieux, à environ 25 km à vol d'oiseau (Calvados). Ses communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques.",
+        "Touques s'étend au bord de la rivière du même nom, à l'arrière de Trouville et de Deauville, et accueille l'hippodrome de Deauville-La Touques. Touques est située au nord de Lisieux, à environ 25 km à vol d'oiseau (Calvados). Ses communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques. La commune compte environ 3 913 habitants sur 8,1 km², soit environ 481 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les terrains de vallée se couvrent vite de végétation dense : ronces, roseaux, saules. Nous les reprenons avec un matériel adapté aux sols humides.",
         "Si vous êtes à Trouville-sur-Mer ou à Deauville, nous pouvons regrouper les passages avec ceux de Touques pour limiter les déplacements."
       ]
@@ -3571,7 +3571,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Touques et ses jardins : repères du terrain",
       "paras": [
-        "Touques s'étend au bord de la rivière du même nom, à l'arrière de Trouville et de Deauville, et accueille l'hippodrome de Deauville-La Touques. Touques est située au nord de Lisieux, à environ 25 km à vol d'oiseau (Calvados). Ses communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques.",
+        "Touques s'étend au bord de la rivière du même nom, à l'arrière de Trouville et de Deauville, et accueille l'hippodrome de Deauville-La Touques. Touques est située au nord de Lisieux, à environ 25 km à vol d'oiseau (Calvados). Ses communes voisines : Trouville-sur-Mer, Deauville, Saint-Arnoult et Bonneville-sur-Touques. La commune compte environ 3 913 habitants sur 8,1 km², soit environ 481 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Nous planifions les passages en tenant compte de l'humidité : travaux lourds quand le sol est ressuyé, entretien courant le reste du temps.",
         "Si vous êtes à Trouville-sur-Mer ou à Deauville, nous pouvons regrouper les passages avec ceux de Touques pour limiter les déplacements."
       ]
@@ -3658,7 +3658,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Deauville et ses arbres : repères du terrain",
       "paras": [
-        "Deauville est connue pour ses Planches, son hippodrome et son casino. Derrière le front de mer, de nombreuses villas des XIXe et XXe siècles ont des jardins arborés et des clôtures végétales à entretenir. Deauville est située au nord-ouest de Lisieux, à environ 26 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer.",
+        "Deauville est connue pour ses Planches, son hippodrome et son casino. Derrière le front de mer, de nombreuses villas des XIXe et XXe siècles ont des jardins arborés et des clôtures végétales à entretenir. Deauville est située au nord-ouest de Lisieux, à environ 26 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer. La commune compte environ 3 539 habitants sur 3,8 km², soit environ 921 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Près de la mer, vent et embruns marquent les arbres : couronnes déportées, branches cassées, feuillage brûlé côté large. Nous allégeons les arbres exposés pour qu'ils résistent mieux aux tempêtes.",
         "Si vous êtes à Touques ou à Benerville-sur-Mer, nous pouvons regrouper les passages avec ceux de Deauville pour limiter les déplacements."
       ]
@@ -3745,7 +3745,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Deauville selon le quartier",
       "paras": [
-        "Deauville est connue pour ses Planches, son hippodrome et son casino. Derrière le front de mer, de nombreuses villas des XIXe et XXe siècles ont des jardins arborés et des clôtures végétales à entretenir. Deauville est située au nord-ouest de Lisieux, à environ 26 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer.",
+        "Deauville est connue pour ses Planches, son hippodrome et son casino. Derrière le front de mer, de nombreuses villas des XIXe et XXe siècles ont des jardins arborés et des clôtures végétales à entretenir. Deauville est située au nord-ouest de Lisieux, à environ 26 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer. La commune compte environ 3 539 habitants sur 3,8 km², soit environ 921 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur la côte, le vent, le sel et le sol léger changent le jardin : plantations plus rustiques, arrosage plus attentif, nettoyage après les tempêtes. Beaucoup de maisons sont aussi des résidences secondaires : nous entretenons en votre absence.",
         "Si vous êtes à Touques ou à Benerville-sur-Mer, nous pouvons regrouper les passages avec ceux de Deauville pour limiter les déplacements."
       ]
@@ -3832,7 +3832,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Deauville selon le quartier",
       "paras": [
-        "Deauville est connue pour ses Planches, son hippodrome et son casino. Derrière le front de mer, de nombreuses villas des XIXe et XXe siècles ont des jardins arborés et des clôtures végétales à entretenir. Deauville est située au nord-ouest de Lisieux, à environ 26 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer.",
+        "Deauville est connue pour ses Planches, son hippodrome et son casino. Derrière le front de mer, de nombreuses villas des XIXe et XXe siècles ont des jardins arborés et des clôtures végétales à entretenir. Deauville est située au nord-ouest de Lisieux, à environ 26 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer. La commune compte environ 3 539 habitants sur 3,8 km², soit environ 921 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les haies du littoral font brise-vent : thuyas, lauriers, tamaris, cyprès. Le vent salé brûle les pousses trop sévèrement taillées, d'où une taille mesurée et à la bonne saison.",
         "Si vous êtes à Touques ou à Benerville-sur-Mer, nous pouvons regrouper les passages avec ceux de Deauville pour limiter les déplacements."
       ]
@@ -3919,7 +3919,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Deauville : ce que le terrain change pour la pelouse",
       "paras": [
-        "Deauville est connue pour ses Planches, son hippodrome et son casino. Derrière le front de mer, de nombreuses villas des XIXe et XXe siècles ont des jardins arborés et des clôtures végétales à entretenir. Deauville est située au nord-ouest de Lisieux, à environ 26 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer.",
+        "Deauville est connue pour ses Planches, son hippodrome et son casino. Derrière le front de mer, de nombreuses villas des XIXe et XXe siècles ont des jardins arborés et des clôtures végétales à entretenir. Deauville est située au nord-ouest de Lisieux, à environ 26 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer. La commune compte environ 3 539 habitants sur 3,8 km², soit environ 921 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Près de la mer, la pelouse sèche vite en été sur sol léger : nous relevons la hauteur de coupe et espaçons les tontes en période chaude.",
         "Si vous êtes à Touques ou à Benerville-sur-Mer, nous pouvons regrouper les passages avec ceux de Deauville pour limiter les déplacements."
       ]
@@ -4006,7 +4006,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Deauville et ses terrains : repères",
       "paras": [
-        "Deauville est connue pour ses Planches, son hippodrome et son casino. Derrière le front de mer, de nombreuses villas des XIXe et XXe siècles ont des jardins arborés et des clôtures végétales à entretenir. Deauville est située au nord-ouest de Lisieux, à environ 26 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer.",
+        "Deauville est connue pour ses Planches, son hippodrome et son casino. Derrière le front de mer, de nombreuses villas des XIXe et XXe siècles ont des jardins arborés et des clôtures végétales à entretenir. Deauville est située au nord-ouest de Lisieux, à environ 26 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer. La commune compte environ 3 539 habitants sur 3,8 km², soit environ 921 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur la côte, les terrains peu entretenus se couvrent vite de ronces et d'arbustes tourmentés par le vent : nous les reprenons sans abîmer les plantations utiles.",
         "Si vous êtes à Touques ou à Benerville-sur-Mer, nous pouvons regrouper les passages avec ceux de Deauville pour limiter les déplacements."
       ]
@@ -4093,7 +4093,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Deauville et ses jardins : repères du terrain",
       "paras": [
-        "Deauville est connue pour ses Planches, son hippodrome et son casino. Derrière le front de mer, de nombreuses villas des XIXe et XXe siècles ont des jardins arborés et des clôtures végétales à entretenir. Deauville est située au nord-ouest de Lisieux, à environ 26 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer.",
+        "Deauville est connue pour ses Planches, son hippodrome et son casino. Derrière le front de mer, de nombreuses villas des XIXe et XXe siècles ont des jardins arborés et des clôtures végétales à entretenir. Deauville est située au nord-ouest de Lisieux, à environ 26 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Benerville-sur-Mer, Saint-Arnoult et Trouville-sur-Mer. La commune compte environ 3 539 habitants sur 3,8 km², soit environ 921 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Jardins de villas et résidences secondaires : nous prévoyons des passages avant l'été, en septembre et après les coups de vent, pour que tout soit net à chaque arrivée.",
         "Si vous êtes à Touques ou à Benerville-sur-Mer, nous pouvons regrouper les passages avec ceux de Deauville pour limiter les déplacements."
       ]
@@ -4180,7 +4180,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Trouville-sur-Mer et ses arbres : repères du terrain",
       "paras": [
-        "Trouville-sur-Mer s'étire entre l'embouchure de la Touques et le front de mer, avec son marché aux poissons sur le quai. Les maisons de ville serrées en bas laissent place, sur les coteaux, à des villas et à des jardins en pente. Trouville-sur-Mer est située au nord de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Villerville, Deauville et Saint-Arnoult.",
+        "Trouville-sur-Mer s'étire entre l'embouchure de la Touques et le front de mer, avec son marché aux poissons sur le quai. Les maisons de ville serrées en bas laissent place, sur les coteaux, à des villas et à des jardins en pente. Trouville-sur-Mer est située au nord de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Villerville, Deauville et Saint-Arnoult. La commune compte environ 4 619 habitants sur 6,8 km², soit environ 678 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Près de la mer, vent et embruns marquent les arbres : couronnes déportées, branches cassées, feuillage brûlé côté large. Nous allégeons les arbres exposés pour qu'ils résistent mieux aux tempêtes.",
         "Si vous êtes à Touques ou à Villerville, nous pouvons regrouper les passages avec ceux de Trouville-sur-Mer pour limiter les déplacements."
       ]
@@ -4267,7 +4267,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Trouville-sur-Mer : ce que le terrain change pour le jardin",
       "paras": [
-        "Trouville-sur-Mer s'étire entre l'embouchure de la Touques et le front de mer, avec son marché aux poissons sur le quai. Les maisons de ville serrées en bas laissent place, sur les coteaux, à des villas et à des jardins en pente. Trouville-sur-Mer est située au nord de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Villerville, Deauville et Saint-Arnoult.",
+        "Trouville-sur-Mer s'étire entre l'embouchure de la Touques et le front de mer, avec son marché aux poissons sur le quai. Les maisons de ville serrées en bas laissent place, sur les coteaux, à des villas et à des jardins en pente. Trouville-sur-Mer est située au nord de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Villerville, Deauville et Saint-Arnoult. La commune compte environ 4 619 habitants sur 6,8 km², soit environ 678 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur la côte, le vent, le sel et le sol léger changent le jardin : plantations plus rustiques, arrosage plus attentif, nettoyage après les tempêtes. Beaucoup de maisons sont aussi des résidences secondaires : nous entretenons en votre absence.",
         "Si vous êtes à Touques ou à Villerville, nous pouvons regrouper les passages avec ceux de Trouville-sur-Mer pour limiter les déplacements."
       ]
@@ -4354,7 +4354,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Trouville-sur-Mer selon le quartier",
       "paras": [
-        "Trouville-sur-Mer s'étire entre l'embouchure de la Touques et le front de mer, avec son marché aux poissons sur le quai. Les maisons de ville serrées en bas laissent place, sur les coteaux, à des villas et à des jardins en pente. Trouville-sur-Mer est située au nord de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Villerville, Deauville et Saint-Arnoult.",
+        "Trouville-sur-Mer s'étire entre l'embouchure de la Touques et le front de mer, avec son marché aux poissons sur le quai. Les maisons de ville serrées en bas laissent place, sur les coteaux, à des villas et à des jardins en pente. Trouville-sur-Mer est située au nord de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Villerville, Deauville et Saint-Arnoult. La commune compte environ 4 619 habitants sur 6,8 km², soit environ 678 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les haies du littoral font brise-vent : thuyas, lauriers, tamaris, cyprès. Le vent salé brûle les pousses trop sévèrement taillées, d'où une taille mesurée et à la bonne saison.",
         "Si vous êtes à Touques ou à Villerville, nous pouvons regrouper les passages avec ceux de Trouville-sur-Mer pour limiter les déplacements."
       ]
@@ -4441,7 +4441,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Trouville-sur-Mer selon le quartier",
       "paras": [
-        "Trouville-sur-Mer s'étire entre l'embouchure de la Touques et le front de mer, avec son marché aux poissons sur le quai. Les maisons de ville serrées en bas laissent place, sur les coteaux, à des villas et à des jardins en pente. Trouville-sur-Mer est située au nord de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Villerville, Deauville et Saint-Arnoult.",
+        "Trouville-sur-Mer s'étire entre l'embouchure de la Touques et le front de mer, avec son marché aux poissons sur le quai. Les maisons de ville serrées en bas laissent place, sur les coteaux, à des villas et à des jardins en pente. Trouville-sur-Mer est située au nord de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Villerville, Deauville et Saint-Arnoult. La commune compte environ 4 619 habitants sur 6,8 km², soit environ 678 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Près de la mer, la pelouse sèche vite en été sur sol léger : nous relevons la hauteur de coupe et espaçons les tontes en période chaude.",
         "Si vous êtes à Touques ou à Villerville, nous pouvons regrouper les passages avec ceux de Trouville-sur-Mer pour limiter les déplacements."
       ]
@@ -4528,7 +4528,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Trouville-sur-Mer et ses terrains : repères",
       "paras": [
-        "Trouville-sur-Mer s'étire entre l'embouchure de la Touques et le front de mer, avec son marché aux poissons sur le quai. Les maisons de ville serrées en bas laissent place, sur les coteaux, à des villas et à des jardins en pente. Trouville-sur-Mer est située au nord de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Villerville, Deauville et Saint-Arnoult.",
+        "Trouville-sur-Mer s'étire entre l'embouchure de la Touques et le front de mer, avec son marché aux poissons sur le quai. Les maisons de ville serrées en bas laissent place, sur les coteaux, à des villas et à des jardins en pente. Trouville-sur-Mer est située au nord de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Villerville, Deauville et Saint-Arnoult. La commune compte environ 4 619 habitants sur 6,8 km², soit environ 678 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur la côte, les terrains peu entretenus se couvrent vite de ronces et d'arbustes tourmentés par le vent : nous les reprenons sans abîmer les plantations utiles.",
         "Si vous êtes à Touques ou à Villerville, nous pouvons regrouper les passages avec ceux de Trouville-sur-Mer pour limiter les déplacements."
       ]
@@ -4615,7 +4615,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Trouville-sur-Mer selon le quartier",
       "paras": [
-        "Trouville-sur-Mer s'étire entre l'embouchure de la Touques et le front de mer, avec son marché aux poissons sur le quai. Les maisons de ville serrées en bas laissent place, sur les coteaux, à des villas et à des jardins en pente. Trouville-sur-Mer est située au nord de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Villerville, Deauville et Saint-Arnoult.",
+        "Trouville-sur-Mer s'étire entre l'embouchure de la Touques et le front de mer, avec son marché aux poissons sur le quai. Les maisons de ville serrées en bas laissent place, sur les coteaux, à des villas et à des jardins en pente. Trouville-sur-Mer est située au nord de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Touques, Villerville, Deauville et Saint-Arnoult. La commune compte environ 4 619 habitants sur 6,8 km², soit environ 678 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Jardins de villas et résidences secondaires : nous prévoyons des passages avant l'été, en septembre et après les coups de vent, pour que tout soit net à chaque arrivée.",
         "Si vous êtes à Touques ou à Villerville, nous pouvons regrouper les passages avec ceux de Trouville-sur-Mer pour limiter les déplacements."
       ]
@@ -4702,7 +4702,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Houlgate selon le quartier",
       "paras": [
-        "Houlgate est une station balnéaire réputée pour ses villas et, à proximité, les falaises des Vaches Noires. Les jardins de villas y sont souvent abrités par de grandes haies. Houlgate est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg.",
+        "Houlgate est une station balnéaire réputée pour ses villas et, à proximité, les falaises des Vaches Noires. Les jardins de villas y sont souvent abrités par de grandes haies. Houlgate est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg. La commune compte environ 1 834 habitants sur 4,7 km², soit environ 388 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Près de la mer, vent et embruns marquent les arbres : couronnes déportées, branches cassées, feuillage brûlé côté large. Nous allégeons les arbres exposés pour qu'ils résistent mieux aux tempêtes.",
         "Si vous êtes à Dives-sur-Mer ou à Gonneville-sur-Mer, nous pouvons regrouper les passages avec ceux de Houlgate pour limiter les déplacements."
       ]
@@ -4789,7 +4789,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Houlgate : ce que le terrain change pour le jardin",
       "paras": [
-        "Houlgate est une station balnéaire réputée pour ses villas et, à proximité, les falaises des Vaches Noires. Les jardins de villas y sont souvent abrités par de grandes haies. Houlgate est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg.",
+        "Houlgate est une station balnéaire réputée pour ses villas et, à proximité, les falaises des Vaches Noires. Les jardins de villas y sont souvent abrités par de grandes haies. Houlgate est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg. La commune compte environ 1 834 habitants sur 4,7 km², soit environ 388 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur la côte, le vent, le sel et le sol léger changent le jardin : plantations plus rustiques, arrosage plus attentif, nettoyage après les tempêtes. Beaucoup de maisons sont aussi des résidences secondaires : nous entretenons en votre absence.",
         "Si vous êtes à Dives-sur-Mer ou à Gonneville-sur-Mer, nous pouvons regrouper les passages avec ceux de Houlgate pour limiter les déplacements."
       ]
@@ -4876,7 +4876,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Houlgate : ce que le terrain change pour les haies",
       "paras": [
-        "Houlgate est une station balnéaire réputée pour ses villas et, à proximité, les falaises des Vaches Noires. Les jardins de villas y sont souvent abrités par de grandes haies. Houlgate est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg.",
+        "Houlgate est une station balnéaire réputée pour ses villas et, à proximité, les falaises des Vaches Noires. Les jardins de villas y sont souvent abrités par de grandes haies. Houlgate est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg. La commune compte environ 1 834 habitants sur 4,7 km², soit environ 388 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies du littoral font brise-vent : thuyas, lauriers, tamaris, cyprès. Le vent salé brûle les pousses trop sévèrement taillées, d'où une taille mesurée et à la bonne saison.",
         "Si vous êtes à Dives-sur-Mer ou à Gonneville-sur-Mer, nous pouvons regrouper les passages avec ceux de Houlgate pour limiter les déplacements."
       ]
@@ -4963,7 +4963,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Houlgate et ses pelouses : repères du terrain",
       "paras": [
-        "Houlgate est une station balnéaire réputée pour ses villas et, à proximité, les falaises des Vaches Noires. Les jardins de villas y sont souvent abrités par de grandes haies. Houlgate est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg.",
+        "Houlgate est une station balnéaire réputée pour ses villas et, à proximité, les falaises des Vaches Noires. Les jardins de villas y sont souvent abrités par de grandes haies. Houlgate est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg. La commune compte environ 1 834 habitants sur 4,7 km², soit environ 388 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Près de la mer, la pelouse sèche vite en été sur sol léger : nous relevons la hauteur de coupe et espaçons les tontes en période chaude.",
         "Si vous êtes à Dives-sur-Mer ou à Gonneville-sur-Mer, nous pouvons regrouper les passages avec ceux de Houlgate pour limiter les déplacements."
       ]
@@ -5050,7 +5050,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Houlgate selon le terrain",
       "paras": [
-        "Houlgate est une station balnéaire réputée pour ses villas et, à proximité, les falaises des Vaches Noires. Les jardins de villas y sont souvent abrités par de grandes haies. Houlgate est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg.",
+        "Houlgate est une station balnéaire réputée pour ses villas et, à proximité, les falaises des Vaches Noires. Les jardins de villas y sont souvent abrités par de grandes haies. Houlgate est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg. La commune compte environ 1 834 habitants sur 4,7 km², soit environ 388 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur la côte, les terrains peu entretenus se couvrent vite de ronces et d'arbustes tourmentés par le vent : nous les reprenons sans abîmer les plantations utiles.",
         "Si vous êtes à Dives-sur-Mer ou à Gonneville-sur-Mer, nous pouvons regrouper les passages avec ceux de Houlgate pour limiter les déplacements."
       ]
@@ -5137,7 +5137,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Houlgate selon le quartier",
       "paras": [
-        "Houlgate est une station balnéaire réputée pour ses villas et, à proximité, les falaises des Vaches Noires. Les jardins de villas y sont souvent abrités par de grandes haies. Houlgate est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg.",
+        "Houlgate est une station balnéaire réputée pour ses villas et, à proximité, les falaises des Vaches Noires. Les jardins de villas y sont souvent abrités par de grandes haies. Houlgate est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Gonneville-sur-Mer, Auberville et Cabourg. La commune compte environ 1 834 habitants sur 4,7 km², soit environ 388 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins de villas et résidences secondaires : nous prévoyons des passages avant l'été, en septembre et après les coups de vent, pour que tout soit net à chaque arrivée.",
         "Si vous êtes à Dives-sur-Mer ou à Gonneville-sur-Mer, nous pouvons regrouper les passages avec ceux de Houlgate pour limiter les déplacements."
       ]
@@ -5224,7 +5224,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bernay et ses arbres : repères du terrain",
       "paras": [
-        "Bernay s'étend sur la Charentonne, dans l'Eure, et conserve son abbatiale Notre-Dame. Bernay est située à l'est de Lisieux, à environ 28 km à vol d'oiseau (Eure). Ses communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche.",
+        "Bernay s'étend sur la Charentonne, dans l'Eure, et conserve son abbatiale Notre-Dame. Bernay est située à l'est de Lisieux, à environ 28 km à vol d'oiseau (Eure). Ses communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche. La commune compte environ 9 765 habitants sur 24,1 km², soit environ 405 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En fond de vallée, l'humidité favorise les peupliers, saules et aulnes, qui poussent vite et casent facilement. Nous les contrôlons régulièrement, surtout au bord des rivières et près des habitations.",
         "Si vous êtes à Menneval ou à Valailles, nous pouvons regrouper les passages avec ceux de Bernay pour limiter les déplacements."
       ]
@@ -5311,7 +5311,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Bernay selon le quartier",
       "paras": [
-        "Bernay s'étend sur la Charentonne, dans l'Eure, et conserve son abbatiale Notre-Dame. Bernay est située à l'est de Lisieux, à environ 28 km à vol d'oiseau (Eure). Ses communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche.",
+        "Bernay s'étend sur la Charentonne, dans l'Eure, et conserve son abbatiale Notre-Dame. Bernay est située à l'est de Lisieux, à environ 28 km à vol d'oiseau (Eure). Ses communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche. La commune compte environ 9 765 habitants sur 24,1 km², soit environ 405 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En vallée humide, le sol reste frais : la pelouse se couvre de mousse, les massifs demandent un bon drainage. Nous adaptons tontes, désherbage et soins au terrain.",
         "Si vous êtes à Menneval ou à Valailles, nous pouvons regrouper les passages avec ceux de Bernay pour limiter les déplacements."
       ]
@@ -5398,7 +5398,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Bernay selon le quartier",
       "paras": [
-        "Bernay s'étend sur la Charentonne, dans l'Eure, et conserve son abbatiale Notre-Dame. Bernay est située à l'est de Lisieux, à environ 28 km à vol d'oiseau (Eure). Ses communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche.",
+        "Bernay s'étend sur la Charentonne, dans l'Eure, et conserve son abbatiale Notre-Dame. Bernay est située à l'est de Lisieux, à environ 28 km à vol d'oiseau (Eure). Ses communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche. La commune compte environ 9 765 habitants sur 24,1 km², soit environ 405 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies de vallée aiment l'humidité mais souffrent de la mousse et des maladies : une taille aérée et un nettoyage du pied de haie les gardent en bonne santé.",
         "Si vous êtes à Menneval ou à Valailles, nous pouvons regrouper les passages avec ceux de Bernay pour limiter les déplacements."
       ]
@@ -5485,7 +5485,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bernay : ce que le terrain change pour la pelouse",
       "paras": [
-        "Bernay s'étend sur la Charentonne, dans l'Eure, et conserve son abbatiale Notre-Dame. Bernay est située à l'est de Lisieux, à environ 28 km à vol d'oiseau (Eure). Ses communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche.",
+        "Bernay s'étend sur la Charentonne, dans l'Eure, et conserve son abbatiale Notre-Dame. Bernay est située à l'est de Lisieux, à environ 28 km à vol d'oiseau (Eure). Ses communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche. La commune compte environ 9 765 habitants sur 24,1 km², soit environ 405 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur sol humide, la tonte demande de la patience : nous évitons les terrains détrempés pour ne pas creuser d'ornières et ramassons l'herbe pour limiter la mousse.",
         "Si vous êtes à Menneval ou à Valailles, nous pouvons regrouper les passages avec ceux de Bernay pour limiter les déplacements."
       ]
@@ -5572,7 +5572,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bernay : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Bernay s'étend sur la Charentonne, dans l'Eure, et conserve son abbatiale Notre-Dame. Bernay est située à l'est de Lisieux, à environ 28 km à vol d'oiseau (Eure). Ses communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche.",
+        "Bernay s'étend sur la Charentonne, dans l'Eure, et conserve son abbatiale Notre-Dame. Bernay est située à l'est de Lisieux, à environ 28 km à vol d'oiseau (Eure). Ses communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche. La commune compte environ 9 765 habitants sur 24,1 km², soit environ 405 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les terrains de vallée se couvrent vite de végétation dense : ronces, roseaux, saules. Nous les reprenons avec un matériel adapté aux sols humides.",
         "Si vous êtes à Menneval ou à Valailles, nous pouvons regrouper les passages avec ceux de Bernay pour limiter les déplacements."
       ]
@@ -5659,7 +5659,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bernay et ses jardins : repères du terrain",
       "paras": [
-        "Bernay s'étend sur la Charentonne, dans l'Eure, et conserve son abbatiale Notre-Dame. Bernay est située à l'est de Lisieux, à environ 28 km à vol d'oiseau (Eure). Ses communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche.",
+        "Bernay s'étend sur la Charentonne, dans l'Eure, et conserve son abbatiale Notre-Dame. Bernay est située à l'est de Lisieux, à environ 28 km à vol d'oiseau (Eure). Ses communes voisines : Menneval, Valailles, Caorches-Saint-Nicolas et Treis-Sants-en-Ouche. La commune compte environ 9 765 habitants sur 24,1 km², soit environ 405 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Nous planifions les passages en tenant compte de l'humidité : travaux lourds quand le sol est ressuyé, entretien courant le reste du temps.",
         "Si vous êtes à Menneval ou à Valailles, nous pouvons regrouper les passages avec ceux de Bernay pour limiter les déplacements."
       ]
@@ -5746,7 +5746,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Équemauville : ce que le terrain change pour l'élagage",
       "paras": [
-        "Équemauville est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur.",
+        "Équemauville est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur. La commune compte environ 1 574 habitants sur 6,0 km², soit environ 261 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En centre ancien, les cours et jardins sont petits, l'accès est souvent étroit et les arbres touchent façades et toitures voisines : nous travaillons plutôt en grimpe, branche par branche, avec des protections et des cordes de rappel.",
         "Si vous êtes à Honfleur ou à Gonneville-sur-Honfleur, nous pouvons regrouper les passages avec ceux de Équemauville pour limiter les déplacements."
       ]
@@ -5833,7 +5833,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Équemauville et ses jardins : repères du terrain",
       "paras": [
-        "Équemauville est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur.",
+        "Équemauville est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur. La commune compte environ 1 574 habitants sur 6,0 km², soit environ 261 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En centre ancien, les jardins sont petits et enclavés : pas de remorque devant la porte, parfois un passage par la maison. Nous organisons les passages en conséquence et évacuons les déchets nous-mêmes.",
         "Si vous êtes à Honfleur ou à Gonneville-sur-Honfleur, nous pouvons regrouper les passages avec ceux de Équemauville pour limiter les déplacements."
       ]
@@ -5920,7 +5920,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Équemauville selon le quartier",
       "paras": [
-        "Équemauville est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur.",
+        "Équemauville est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur. La commune compte environ 1 574 habitants sur 6,0 km², soit environ 261 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans les rues serrées, les haies bordent des trottoirs et des murs : la taille se fait proprement, avec bâches au sol et ramassage immédiat pour ne rien laisser sur la voie.",
         "Si vous êtes à Honfleur ou à Gonneville-sur-Honfleur, nous pouvons regrouper les passages avec ceux de Équemauville pour limiter les déplacements."
       ]
@@ -6007,7 +6007,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Équemauville selon le quartier",
       "paras": [
-        "Équemauville est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur.",
+        "Équemauville est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur. La commune compte environ 1 574 habitants sur 6,0 km², soit environ 261 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les petites pelouses de centre-ville se tondent vite mais demandent des finitions soignées le long des murs et des massifs, avec du matériel compact.",
         "Si vous êtes à Honfleur ou à Gonneville-sur-Honfleur, nous pouvons regrouper les passages avec ceux de Équemauville pour limiter les déplacements."
       ]
@@ -6094,7 +6094,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Équemauville : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Équemauville est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur.",
+        "Équemauville est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur. La commune compte environ 1 574 habitants sur 6,0 km², soit environ 261 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En ville, le débroussaillage concerne surtout des fonds de parcelle, des talus et des terrains vides : nous travaillons avec un matériel adapté aux accès étroits.",
         "Si vous êtes à Honfleur ou à Gonneville-sur-Honfleur, nous pouvons regrouper les passages avec ceux de Équemauville pour limiter les déplacements."
       ]
@@ -6181,7 +6181,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Équemauville et ses jardins : repères du terrain",
       "paras": [
-        "Équemauville est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur.",
+        "Équemauville est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Honfleur, Gonneville-sur-Honfleur, Pennedepie et La Rivière-Saint-Sauveur. La commune compte environ 1 574 habitants sur 6,0 km², soit environ 261 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Petits jardins, murs et pots : l'entretien passe par des passages courts et réguliers, sans gros engins, avec un seul interlocuteur.",
         "Si vous êtes à Honfleur ou à Gonneville-sur-Honfleur, nous pouvons regrouper les passages avec ceux de Équemauville pour limiter les déplacements."
       ]
@@ -6268,7 +6268,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Honfleur selon le quartier",
       "paras": [
-        "Honfleur ouvre sur l'estuaire de la Seine, autour du Vieux Bassin et de ses maisons à pans de bois. Les rues du centre sont étroites, alors que les propriétés du plateau, vers la Côte de Grâce, ont de bien plus grands jardins. Honfleur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon.",
+        "Honfleur ouvre sur l'estuaire de la Seine, autour du Vieux Bassin et de ses maisons à pans de bois. Les rues du centre sont étroites, alors que les propriétés du plateau, vers la Côte de Grâce, ont de bien plus grands jardins. Honfleur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon. La commune compte environ 6 640 habitants sur 13,8 km², soit environ 483 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En centre ancien, les cours et jardins sont petits, l'accès est souvent étroit et les arbres touchent façades et toitures voisines : nous travaillons plutôt en grimpe, branche par branche, avec des protections et des cordes de rappel.",
         "Si vous êtes à Équemauville ou à La Rivière-Saint-Sauveur, nous pouvons regrouper les passages avec ceux de Honfleur pour limiter les déplacements."
       ]
@@ -6355,7 +6355,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Honfleur : ce que le terrain change pour le jardin",
       "paras": [
-        "Honfleur ouvre sur l'estuaire de la Seine, autour du Vieux Bassin et de ses maisons à pans de bois. Les rues du centre sont étroites, alors que les propriétés du plateau, vers la Côte de Grâce, ont de bien plus grands jardins. Honfleur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon.",
+        "Honfleur ouvre sur l'estuaire de la Seine, autour du Vieux Bassin et de ses maisons à pans de bois. Les rues du centre sont étroites, alors que les propriétés du plateau, vers la Côte de Grâce, ont de bien plus grands jardins. Honfleur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon. La commune compte environ 6 640 habitants sur 13,8 km², soit environ 483 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En centre ancien, les jardins sont petits et enclavés : pas de remorque devant la porte, parfois un passage par la maison. Nous organisons les passages en conséquence et évacuons les déchets nous-mêmes.",
         "Si vous êtes à Équemauville ou à La Rivière-Saint-Sauveur, nous pouvons regrouper les passages avec ceux de Honfleur pour limiter les déplacements."
       ]
@@ -6442,7 +6442,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Honfleur et ses haies : repères du terrain",
       "paras": [
-        "Honfleur ouvre sur l'estuaire de la Seine, autour du Vieux Bassin et de ses maisons à pans de bois. Les rues du centre sont étroites, alors que les propriétés du plateau, vers la Côte de Grâce, ont de bien plus grands jardins. Honfleur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon.",
+        "Honfleur ouvre sur l'estuaire de la Seine, autour du Vieux Bassin et de ses maisons à pans de bois. Les rues du centre sont étroites, alors que les propriétés du plateau, vers la Côte de Grâce, ont de bien plus grands jardins. Honfleur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon. La commune compte environ 6 640 habitants sur 13,8 km², soit environ 483 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans les rues serrées, les haies bordent des trottoirs et des murs : la taille se fait proprement, avec bâches au sol et ramassage immédiat pour ne rien laisser sur la voie.",
         "Si vous êtes à Équemauville ou à La Rivière-Saint-Sauveur, nous pouvons regrouper les passages avec ceux de Honfleur pour limiter les déplacements."
       ]
@@ -6529,7 +6529,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Honfleur : ce que le terrain change pour la pelouse",
       "paras": [
-        "Honfleur ouvre sur l'estuaire de la Seine, autour du Vieux Bassin et de ses maisons à pans de bois. Les rues du centre sont étroites, alors que les propriétés du plateau, vers la Côte de Grâce, ont de bien plus grands jardins. Honfleur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon.",
+        "Honfleur ouvre sur l'estuaire de la Seine, autour du Vieux Bassin et de ses maisons à pans de bois. Les rues du centre sont étroites, alors que les propriétés du plateau, vers la Côte de Grâce, ont de bien plus grands jardins. Honfleur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon. La commune compte environ 6 640 habitants sur 13,8 km², soit environ 483 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les petites pelouses de centre-ville se tondent vite mais demandent des finitions soignées le long des murs et des massifs, avec du matériel compact.",
         "Si vous êtes à Équemauville ou à La Rivière-Saint-Sauveur, nous pouvons regrouper les passages avec ceux de Honfleur pour limiter les déplacements."
       ]
@@ -6616,7 +6616,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Honfleur et ses terrains : repères",
       "paras": [
-        "Honfleur ouvre sur l'estuaire de la Seine, autour du Vieux Bassin et de ses maisons à pans de bois. Les rues du centre sont étroites, alors que les propriétés du plateau, vers la Côte de Grâce, ont de bien plus grands jardins. Honfleur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon.",
+        "Honfleur ouvre sur l'estuaire de la Seine, autour du Vieux Bassin et de ses maisons à pans de bois. Les rues du centre sont étroites, alors que les propriétés du plateau, vers la Côte de Grâce, ont de bien plus grands jardins. Honfleur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon. La commune compte environ 6 640 habitants sur 13,8 km², soit environ 483 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En ville, le débroussaillage concerne surtout des fonds de parcelle, des talus et des terrains vides : nous travaillons avec un matériel adapté aux accès étroits.",
         "Si vous êtes à Équemauville ou à La Rivière-Saint-Sauveur, nous pouvons regrouper les passages avec ceux de Honfleur pour limiter les déplacements."
       ]
@@ -6703,7 +6703,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Honfleur et ses jardins : repères du terrain",
       "paras": [
-        "Honfleur ouvre sur l'estuaire de la Seine, autour du Vieux Bassin et de ses maisons à pans de bois. Les rues du centre sont étroites, alors que les propriétés du plateau, vers la Côte de Grâce, ont de bien plus grands jardins. Honfleur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon.",
+        "Honfleur ouvre sur l'estuaire de la Seine, autour du Vieux Bassin et de ses maisons à pans de bois. Les rues du centre sont étroites, alors que les propriétés du plateau, vers la Côte de Grâce, ont de bien plus grands jardins. Honfleur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Équemauville, La Rivière-Saint-Sauveur, Gonneville-sur-Honfleur et Ablon. La commune compte environ 6 640 habitants sur 13,8 km², soit environ 483 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Petits jardins, murs et pots : l'entretien passe par des passages courts et réguliers, sans gros engins, avec un seul interlocuteur.",
         "Si vous êtes à Équemauville ou à La Rivière-Saint-Sauveur, nous pouvons regrouper les passages avec ceux de Honfleur pour limiter les déplacements."
       ]
@@ -6790,7 +6790,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Menneval et ses arbres : repères du terrain",
       "paras": [
-        "Menneval est située à l'est de Lisieux, à environ 29 km à vol d'oiseau (Eure). Ses communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes.",
+        "Menneval est située à l'est de Lisieux, à environ 29 km à vol d'oiseau (Eure). Ses communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes. La commune compte environ 1 527 habitants sur 6,6 km², soit environ 230 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En fond de vallée, l'humidité favorise les peupliers, saules et aulnes, qui poussent vite et casent facilement. Nous les contrôlons régulièrement, surtout au bord des rivières et près des habitations.",
         "Si vous êtes à Valailles ou à Bernay, nous pouvons regrouper les passages avec ceux de Menneval pour limiter les déplacements."
       ]
@@ -6877,7 +6877,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Menneval et ses jardins : repères du terrain",
       "paras": [
-        "Menneval est située à l'est de Lisieux, à environ 29 km à vol d'oiseau (Eure). Ses communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes.",
+        "Menneval est située à l'est de Lisieux, à environ 29 km à vol d'oiseau (Eure). Ses communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes. La commune compte environ 1 527 habitants sur 6,6 km², soit environ 230 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En vallée humide, le sol reste frais : la pelouse se couvre de mousse, les massifs demandent un bon drainage. Nous adaptons tontes, désherbage et soins au terrain.",
         "Si vous êtes à Valailles ou à Bernay, nous pouvons regrouper les passages avec ceux de Menneval pour limiter les déplacements."
       ]
@@ -6964,7 +6964,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Menneval : ce que le terrain change pour les haies",
       "paras": [
-        "Menneval est située à l'est de Lisieux, à environ 29 km à vol d'oiseau (Eure). Ses communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes.",
+        "Menneval est située à l'est de Lisieux, à environ 29 km à vol d'oiseau (Eure). Ses communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes. La commune compte environ 1 527 habitants sur 6,6 km², soit environ 230 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies de vallée aiment l'humidité mais souffrent de la mousse et des maladies : une taille aérée et un nettoyage du pied de haie les gardent en bonne santé.",
         "Si vous êtes à Valailles ou à Bernay, nous pouvons regrouper les passages avec ceux de Menneval pour limiter les déplacements."
       ]
@@ -7051,7 +7051,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Menneval et ses pelouses : repères du terrain",
       "paras": [
-        "Menneval est située à l'est de Lisieux, à environ 29 km à vol d'oiseau (Eure). Ses communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes.",
+        "Menneval est située à l'est de Lisieux, à environ 29 km à vol d'oiseau (Eure). Ses communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes. La commune compte environ 1 527 habitants sur 6,6 km², soit environ 230 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur sol humide, la tonte demande de la patience : nous évitons les terrains détrempés pour ne pas creuser d'ornières et ramassons l'herbe pour limiter la mousse.",
         "Si vous êtes à Valailles ou à Bernay, nous pouvons regrouper les passages avec ceux de Menneval pour limiter les déplacements."
       ]
@@ -7138,7 +7138,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Menneval selon le terrain",
       "paras": [
-        "Menneval est située à l'est de Lisieux, à environ 29 km à vol d'oiseau (Eure). Ses communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes.",
+        "Menneval est située à l'est de Lisieux, à environ 29 km à vol d'oiseau (Eure). Ses communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes. La commune compte environ 1 527 habitants sur 6,6 km², soit environ 230 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les terrains de vallée se couvrent vite de végétation dense : ronces, roseaux, saules. Nous les reprenons avec un matériel adapté aux sols humides.",
         "Si vous êtes à Valailles ou à Bernay, nous pouvons regrouper les passages avec ceux de Menneval pour limiter les déplacements."
       ]
@@ -7225,7 +7225,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Menneval selon le quartier",
       "paras": [
-        "Menneval est située à l'est de Lisieux, à environ 29 km à vol d'oiseau (Eure). Ses communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes.",
+        "Menneval est située à l'est de Lisieux, à environ 29 km à vol d'oiseau (Eure). Ses communes voisines : Valailles, Bernay, Saint-Léger-de-Rôtes et Plasnes. La commune compte environ 1 527 habitants sur 6,6 km², soit environ 230 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Nous planifions les passages en tenant compte de l'humidité : travaux lourds quand le sol est ressuyé, entretien courant le reste du temps.",
         "Si vous êtes à Valailles ou à Bernay, nous pouvons regrouper les passages avec ceux de Menneval pour limiter les déplacements."
       ]
@@ -7312,7 +7312,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à La Rivière-Saint-Sauveur selon le quartier",
       "paras": [
-        "La Rivière-Saint-Sauveur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville.",
+        "La Rivière-Saint-Sauveur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville. La commune compte environ 2 527 habitants sur 5,4 km², soit environ 469 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En centre ancien, les cours et jardins sont petits, l'accès est souvent étroit et les arbres touchent façades et toitures voisines : nous travaillons plutôt en grimpe, branche par branche, avec des protections et des cordes de rappel.",
         "Si vous êtes à Ablon ou à Honfleur, nous pouvons regrouper les passages avec ceux de La Rivière-Saint-Sauveur pour limiter les déplacements."
       ]
@@ -7399,7 +7399,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à La Rivière-Saint-Sauveur selon le quartier",
       "paras": [
-        "La Rivière-Saint-Sauveur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville.",
+        "La Rivière-Saint-Sauveur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville. La commune compte environ 2 527 habitants sur 5,4 km², soit environ 469 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En centre ancien, les jardins sont petits et enclavés : pas de remorque devant la porte, parfois un passage par la maison. Nous organisons les passages en conséquence et évacuons les déchets nous-mêmes.",
         "Si vous êtes à Ablon ou à Honfleur, nous pouvons regrouper les passages avec ceux de La Rivière-Saint-Sauveur pour limiter les déplacements."
       ]
@@ -7486,7 +7486,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "La Rivière-Saint-Sauveur et ses haies : repères du terrain",
       "paras": [
-        "La Rivière-Saint-Sauveur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville.",
+        "La Rivière-Saint-Sauveur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville. La commune compte environ 2 527 habitants sur 5,4 km², soit environ 469 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans les rues serrées, les haies bordent des trottoirs et des murs : la taille se fait proprement, avec bâches au sol et ramassage immédiat pour ne rien laisser sur la voie.",
         "Si vous êtes à Ablon ou à Honfleur, nous pouvons regrouper les passages avec ceux de La Rivière-Saint-Sauveur pour limiter les déplacements."
       ]
@@ -7573,7 +7573,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "La Rivière-Saint-Sauveur : ce que le terrain change pour la pelouse",
       "paras": [
-        "La Rivière-Saint-Sauveur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville.",
+        "La Rivière-Saint-Sauveur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville. La commune compte environ 2 527 habitants sur 5,4 km², soit environ 469 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les petites pelouses de centre-ville se tondent vite mais demandent des finitions soignées le long des murs et des massifs, avec du matériel compact.",
         "Si vous êtes à Ablon ou à Honfleur, nous pouvons regrouper les passages avec ceux de La Rivière-Saint-Sauveur pour limiter les déplacements."
       ]
@@ -7660,7 +7660,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "La Rivière-Saint-Sauveur : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "La Rivière-Saint-Sauveur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville.",
+        "La Rivière-Saint-Sauveur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville. La commune compte environ 2 527 habitants sur 5,4 km², soit environ 469 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En ville, le débroussaillage concerne surtout des fonds de parcelle, des talus et des terrains vides : nous travaillons avec un matériel adapté aux accès étroits.",
         "Si vous êtes à Ablon ou à Honfleur, nous pouvons regrouper les passages avec ceux de La Rivière-Saint-Sauveur pour limiter les déplacements."
       ]
@@ -7747,7 +7747,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "La Rivière-Saint-Sauveur : ce que le terrain change pour l'entretien",
       "paras": [
-        "La Rivière-Saint-Sauveur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville.",
+        "La Rivière-Saint-Sauveur est située au nord de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Ablon, Honfleur, Gonneville-sur-Honfleur et Équemauville. La commune compte environ 2 527 habitants sur 5,4 km², soit environ 469 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Petits jardins, murs et pots : l'entretien passe par des passages courts et réguliers, sans gros engins, avec un seul interlocuteur.",
         "Si vous êtes à Ablon ou à Honfleur, nous pouvons regrouper les passages avec ceux de La Rivière-Saint-Sauveur pour limiter les déplacements."
       ]
@@ -7834,7 +7834,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Troarn et ses arbres : repères du terrain",
       "paras": [
-        "Troarn est un bourg ancien marqué par son abbaye, à la lisière des marais de la Dives. Troarn est située à l'ouest de Lisieux, à environ 30 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Samson, Touffréville, Sannerville et Janville.",
+        "Troarn est un bourg ancien marqué par son abbaye, à la lisière des marais de la Dives. Troarn est située à l'ouest de Lisieux, à environ 30 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Samson, Touffréville, Sannerville et Janville. La commune compte environ 3 439 habitants sur 11,5 km², soit environ 300 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Saint-Samson ou à Touffréville, nous pouvons regrouper les passages avec ceux de Troarn pour limiter les déplacements."
       ]
@@ -7921,7 +7921,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Troarn selon le quartier",
       "paras": [
-        "Troarn est un bourg ancien marqué par son abbaye, à la lisière des marais de la Dives. Troarn est située à l'ouest de Lisieux, à environ 30 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Samson, Touffréville, Sannerville et Janville.",
+        "Troarn est un bourg ancien marqué par son abbaye, à la lisière des marais de la Dives. Troarn est située à l'ouest de Lisieux, à environ 30 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Samson, Touffréville, Sannerville et Janville. La commune compte environ 3 439 habitants sur 11,5 km², soit environ 300 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Saint-Samson ou à Touffréville, nous pouvons regrouper les passages avec ceux de Troarn pour limiter les déplacements."
       ]
@@ -8008,7 +8008,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Troarn selon le quartier",
       "paras": [
-        "Troarn est un bourg ancien marqué par son abbaye, à la lisière des marais de la Dives. Troarn est située à l'ouest de Lisieux, à environ 30 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Samson, Touffréville, Sannerville et Janville.",
+        "Troarn est un bourg ancien marqué par son abbaye, à la lisière des marais de la Dives. Troarn est située à l'ouest de Lisieux, à environ 30 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Samson, Touffréville, Sannerville et Janville. La commune compte environ 3 439 habitants sur 11,5 km², soit environ 300 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Saint-Samson ou à Touffréville, nous pouvons regrouper les passages avec ceux de Troarn pour limiter les déplacements."
       ]
@@ -8095,7 +8095,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Troarn et ses pelouses : repères du terrain",
       "paras": [
-        "Troarn est un bourg ancien marqué par son abbaye, à la lisière des marais de la Dives. Troarn est située à l'ouest de Lisieux, à environ 30 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Samson, Touffréville, Sannerville et Janville.",
+        "Troarn est un bourg ancien marqué par son abbaye, à la lisière des marais de la Dives. Troarn est située à l'ouest de Lisieux, à environ 30 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Samson, Touffréville, Sannerville et Janville. La commune compte environ 3 439 habitants sur 11,5 km², soit environ 300 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Saint-Samson ou à Touffréville, nous pouvons regrouper les passages avec ceux de Troarn pour limiter les déplacements."
       ]
@@ -8182,7 +8182,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Troarn et ses terrains : repères",
       "paras": [
-        "Troarn est un bourg ancien marqué par son abbaye, à la lisière des marais de la Dives. Troarn est située à l'ouest de Lisieux, à environ 30 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Samson, Touffréville, Sannerville et Janville.",
+        "Troarn est un bourg ancien marqué par son abbaye, à la lisière des marais de la Dives. Troarn est située à l'ouest de Lisieux, à environ 30 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Samson, Touffréville, Sannerville et Janville. La commune compte environ 3 439 habitants sur 11,5 km², soit environ 300 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Saint-Samson ou à Touffréville, nous pouvons regrouper les passages avec ceux de Troarn pour limiter les déplacements."
       ]
@@ -8269,7 +8269,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Troarn selon le quartier",
       "paras": [
-        "Troarn est un bourg ancien marqué par son abbaye, à la lisière des marais de la Dives. Troarn est située à l'ouest de Lisieux, à environ 30 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Samson, Touffréville, Sannerville et Janville.",
+        "Troarn est un bourg ancien marqué par son abbaye, à la lisière des marais de la Dives. Troarn est située à l'ouest de Lisieux, à environ 30 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Samson, Touffréville, Sannerville et Janville. La commune compte environ 3 439 habitants sur 11,5 km², soit environ 300 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Saint-Samson ou à Touffréville, nous pouvons regrouper les passages avec ceux de Troarn pour limiter les déplacements."
       ]
@@ -8356,7 +8356,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Moult-Chicheboville et ses arbres : repères du terrain",
       "paras": [
-        "Moult-Chicheboville est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Valambray, Vimont, Bellengreville et Argences.",
+        "Moult-Chicheboville est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Valambray, Vimont, Bellengreville et Argences. La commune compte environ 3 441 habitants sur 17,7 km², soit environ 194 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Valambray ou à Vimont, nous pouvons regrouper les passages avec ceux de Moult-Chicheboville pour limiter les déplacements."
       ]
@@ -8443,7 +8443,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Moult-Chicheboville selon le quartier",
       "paras": [
-        "Moult-Chicheboville est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Valambray, Vimont, Bellengreville et Argences.",
+        "Moult-Chicheboville est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Valambray, Vimont, Bellengreville et Argences. La commune compte environ 3 441 habitants sur 17,7 km², soit environ 194 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Valambray ou à Vimont, nous pouvons regrouper les passages avec ceux de Moult-Chicheboville pour limiter les déplacements."
       ]
@@ -8530,7 +8530,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Moult-Chicheboville : ce que le terrain change pour les haies",
       "paras": [
-        "Moult-Chicheboville est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Valambray, Vimont, Bellengreville et Argences.",
+        "Moult-Chicheboville est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Valambray, Vimont, Bellengreville et Argences. La commune compte environ 3 441 habitants sur 17,7 km², soit environ 194 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Valambray ou à Vimont, nous pouvons regrouper les passages avec ceux de Moult-Chicheboville pour limiter les déplacements."
       ]
@@ -8617,7 +8617,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Moult-Chicheboville et ses pelouses : repères du terrain",
       "paras": [
-        "Moult-Chicheboville est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Valambray, Vimont, Bellengreville et Argences.",
+        "Moult-Chicheboville est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Valambray, Vimont, Bellengreville et Argences. La commune compte environ 3 441 habitants sur 17,7 km², soit environ 194 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Valambray ou à Vimont, nous pouvons regrouper les passages avec ceux de Moult-Chicheboville pour limiter les déplacements."
       ]
@@ -8704,7 +8704,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Moult-Chicheboville : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Moult-Chicheboville est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Valambray, Vimont, Bellengreville et Argences.",
+        "Moult-Chicheboville est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Valambray, Vimont, Bellengreville et Argences. La commune compte environ 3 441 habitants sur 17,7 km², soit environ 194 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Valambray ou à Vimont, nous pouvons regrouper les passages avec ceux de Moult-Chicheboville pour limiter les déplacements."
       ]
@@ -8791,7 +8791,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Moult-Chicheboville selon le quartier",
       "paras": [
-        "Moult-Chicheboville est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Valambray, Vimont, Bellengreville et Argences.",
+        "Moult-Chicheboville est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Valambray, Vimont, Bellengreville et Argences. La commune compte environ 3 441 habitants sur 17,7 km², soit environ 194 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Valambray ou à Vimont, nous pouvons regrouper les passages avec ceux de Moult-Chicheboville pour limiter les déplacements."
       ]
@@ -8878,7 +8878,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Bavent selon le quartier",
       "paras": [
-        "Bavent est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn.",
+        "Bavent est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn. La commune compte environ 1 885 habitants sur 18,6 km², soit environ 102 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Petiville ou à Bréville-les-Monts, nous pouvons regrouper les passages avec ceux de Bavent pour limiter les déplacements."
       ]
@@ -8965,7 +8965,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bavent et ses jardins : repères du terrain",
       "paras": [
-        "Bavent est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn.",
+        "Bavent est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn. La commune compte environ 1 885 habitants sur 18,6 km², soit environ 102 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Petiville ou à Bréville-les-Monts, nous pouvons regrouper les passages avec ceux de Bavent pour limiter les déplacements."
       ]
@@ -9052,7 +9052,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Bavent selon le quartier",
       "paras": [
-        "Bavent est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn.",
+        "Bavent est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn. La commune compte environ 1 885 habitants sur 18,6 km², soit environ 102 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Petiville ou à Bréville-les-Monts, nous pouvons regrouper les passages avec ceux de Bavent pour limiter les déplacements."
       ]
@@ -9139,7 +9139,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bavent et ses pelouses : repères du terrain",
       "paras": [
-        "Bavent est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn.",
+        "Bavent est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn. La commune compte environ 1 885 habitants sur 18,6 km², soit environ 102 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Petiville ou à Bréville-les-Monts, nous pouvons regrouper les passages avec ceux de Bavent pour limiter les déplacements."
       ]
@@ -9226,7 +9226,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bavent : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Bavent est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn.",
+        "Bavent est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn. La commune compte environ 1 885 habitants sur 18,6 km², soit environ 102 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Petiville ou à Bréville-les-Monts, nous pouvons regrouper les passages avec ceux de Bavent pour limiter les déplacements."
       ]
@@ -9313,7 +9313,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bavent : ce que le terrain change pour l'entretien",
       "paras": [
-        "Bavent est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn.",
+        "Bavent est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Petiville, Bréville-les-Monts, Gonneville-en-Auge et Troarn. La commune compte environ 1 885 habitants sur 18,6 km², soit environ 102 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Petiville ou à Bréville-les-Monts, nous pouvons regrouper les passages avec ceux de Bavent pour limiter les déplacements."
       ]
@@ -9400,7 +9400,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Valambray selon le quartier",
       "paras": [
-        "Valambray est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes.",
+        "Valambray est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes. La commune compte environ 1 682 habitants sur 41,4 km², soit environ 41 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Moult-Chicheboville ou à Saint-Sylvain, nous pouvons regrouper les passages avec ceux de Valambray pour limiter les déplacements."
       ]
@@ -9487,7 +9487,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Valambray et ses jardins : repères du terrain",
       "paras": [
-        "Valambray est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes.",
+        "Valambray est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes. La commune compte environ 1 682 habitants sur 41,4 km², soit environ 41 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Moult-Chicheboville ou à Saint-Sylvain, nous pouvons regrouper les passages avec ceux de Valambray pour limiter les déplacements."
       ]
@@ -9574,7 +9574,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Valambray selon le quartier",
       "paras": [
-        "Valambray est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes.",
+        "Valambray est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes. La commune compte environ 1 682 habitants sur 41,4 km², soit environ 41 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Moult-Chicheboville ou à Saint-Sylvain, nous pouvons regrouper les passages avec ceux de Valambray pour limiter les déplacements."
       ]
@@ -9661,7 +9661,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Valambray selon le quartier",
       "paras": [
-        "Valambray est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes.",
+        "Valambray est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes. La commune compte environ 1 682 habitants sur 41,4 km², soit environ 41 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Moult-Chicheboville ou à Saint-Sylvain, nous pouvons regrouper les passages avec ceux de Valambray pour limiter les déplacements."
       ]
@@ -9748,7 +9748,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Valambray et ses terrains : repères",
       "paras": [
-        "Valambray est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes.",
+        "Valambray est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes. La commune compte environ 1 682 habitants sur 41,4 km², soit environ 41 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Moult-Chicheboville ou à Saint-Sylvain, nous pouvons regrouper les passages avec ceux de Valambray pour limiter les déplacements."
       ]
@@ -9835,7 +9835,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Valambray : ce que le terrain change pour l'entretien",
       "paras": [
-        "Valambray est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes.",
+        "Valambray est située à l'ouest de Lisieux, à environ 31 km à vol d'oiseau (Calvados). Ses communes voisines : Moult-Chicheboville, Saint-Sylvain, Bellengreville et Cesny-aux-Vignes. La commune compte environ 1 682 habitants sur 41,4 km², soit environ 41 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Moult-Chicheboville ou à Saint-Sylvain, nous pouvons regrouper les passages avec ceux de Valambray pour limiter les déplacements."
       ]
@@ -9922,7 +9922,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Pont-Audemer et ses arbres : repères du terrain",
       "paras": [
-        "Pont-Audemer, sur la Risle, est surnommée la petite Venise normande pour ses canaux et ses maisons à colombages. Pont-Audemer est située au nord-est de Lisieux, à environ 31 km à vol d'oiseau (Eure). Ses communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux.",
+        "Pont-Audemer, sur la Risle, est surnommée la petite Venise normande pour ses canaux et ses maisons à colombages. Pont-Audemer est située au nord-est de Lisieux, à environ 31 km à vol d'oiseau (Eure). Ses communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux. La commune compte environ 10 023 habitants sur 14,8 km², soit environ 677 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En fond de vallée, l'humidité favorise les peupliers, saules et aulnes, qui poussent vite et casent facilement. Nous les contrôlons régulièrement, surtout au bord des rivières et près des habitations.",
         "Si vous êtes à Manneville-sur-Risle ou à Tourville-sur-Pont-Audemer, nous pouvons regrouper les passages avec ceux de Pont-Audemer pour limiter les déplacements."
       ]
@@ -10009,7 +10009,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Pont-Audemer selon le quartier",
       "paras": [
-        "Pont-Audemer, sur la Risle, est surnommée la petite Venise normande pour ses canaux et ses maisons à colombages. Pont-Audemer est située au nord-est de Lisieux, à environ 31 km à vol d'oiseau (Eure). Ses communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux.",
+        "Pont-Audemer, sur la Risle, est surnommée la petite Venise normande pour ses canaux et ses maisons à colombages. Pont-Audemer est située au nord-est de Lisieux, à environ 31 km à vol d'oiseau (Eure). Ses communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux. La commune compte environ 10 023 habitants sur 14,8 km², soit environ 677 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En vallée humide, le sol reste frais : la pelouse se couvre de mousse, les massifs demandent un bon drainage. Nous adaptons tontes, désherbage et soins au terrain.",
         "Si vous êtes à Manneville-sur-Risle ou à Tourville-sur-Pont-Audemer, nous pouvons regrouper les passages avec ceux de Pont-Audemer pour limiter les déplacements."
       ]
@@ -10096,7 +10096,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Pont-Audemer : ce que le terrain change pour les haies",
       "paras": [
-        "Pont-Audemer, sur la Risle, est surnommée la petite Venise normande pour ses canaux et ses maisons à colombages. Pont-Audemer est située au nord-est de Lisieux, à environ 31 km à vol d'oiseau (Eure). Ses communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux.",
+        "Pont-Audemer, sur la Risle, est surnommée la petite Venise normande pour ses canaux et ses maisons à colombages. Pont-Audemer est située au nord-est de Lisieux, à environ 31 km à vol d'oiseau (Eure). Ses communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux. La commune compte environ 10 023 habitants sur 14,8 km², soit environ 677 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les haies de vallée aiment l'humidité mais souffrent de la mousse et des maladies : une taille aérée et un nettoyage du pied de haie les gardent en bonne santé.",
         "Si vous êtes à Manneville-sur-Risle ou à Tourville-sur-Pont-Audemer, nous pouvons regrouper les passages avec ceux de Pont-Audemer pour limiter les déplacements."
       ]
@@ -10183,7 +10183,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Pont-Audemer : ce que le terrain change pour la pelouse",
       "paras": [
-        "Pont-Audemer, sur la Risle, est surnommée la petite Venise normande pour ses canaux et ses maisons à colombages. Pont-Audemer est située au nord-est de Lisieux, à environ 31 km à vol d'oiseau (Eure). Ses communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux.",
+        "Pont-Audemer, sur la Risle, est surnommée la petite Venise normande pour ses canaux et ses maisons à colombages. Pont-Audemer est située au nord-est de Lisieux, à environ 31 km à vol d'oiseau (Eure). Ses communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux. La commune compte environ 10 023 habitants sur 14,8 km², soit environ 677 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur sol humide, la tonte demande de la patience : nous évitons les terrains détrempés pour ne pas creuser d'ornières et ramassons l'herbe pour limiter la mousse.",
         "Si vous êtes à Manneville-sur-Risle ou à Tourville-sur-Pont-Audemer, nous pouvons regrouper les passages avec ceux de Pont-Audemer pour limiter les déplacements."
       ]
@@ -10270,7 +10270,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Pont-Audemer et ses terrains : repères",
       "paras": [
-        "Pont-Audemer, sur la Risle, est surnommée la petite Venise normande pour ses canaux et ses maisons à colombages. Pont-Audemer est située au nord-est de Lisieux, à environ 31 km à vol d'oiseau (Eure). Ses communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux.",
+        "Pont-Audemer, sur la Risle, est surnommée la petite Venise normande pour ses canaux et ses maisons à colombages. Pont-Audemer est située au nord-est de Lisieux, à environ 31 km à vol d'oiseau (Eure). Ses communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux. La commune compte environ 10 023 habitants sur 14,8 km², soit environ 677 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les terrains de vallée se couvrent vite de végétation dense : ronces, roseaux, saules. Nous les reprenons avec un matériel adapté aux sols humides.",
         "Si vous êtes à Manneville-sur-Risle ou à Tourville-sur-Pont-Audemer, nous pouvons regrouper les passages avec ceux de Pont-Audemer pour limiter les déplacements."
       ]
@@ -10357,7 +10357,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Pont-Audemer selon le quartier",
       "paras": [
-        "Pont-Audemer, sur la Risle, est surnommée la petite Venise normande pour ses canaux et ses maisons à colombages. Pont-Audemer est située au nord-est de Lisieux, à environ 31 km à vol d'oiseau (Eure). Ses communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux.",
+        "Pont-Audemer, sur la Risle, est surnommée la petite Venise normande pour ses canaux et ses maisons à colombages. Pont-Audemer est située au nord-est de Lisieux, à environ 31 km à vol d'oiseau (Eure). Ses communes voisines : Manneville-sur-Risle, Tourville-sur-Pont-Audemer, Saint-Mards-de-Blacarville et Les Préaux. La commune compte environ 10 023 habitants sur 14,8 km², soit environ 677 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Nous planifions les passages en tenant compte de l'humidité : travaux lourds quand le sol est ressuyé, entretien courant le reste du temps.",
         "Si vous êtes à Manneville-sur-Risle ou à Tourville-sur-Pont-Audemer, nous pouvons regrouper les passages avec ceux de Pont-Audemer pour limiter les déplacements."
       ]
@@ -10444,7 +10444,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Sannerville selon le quartier",
       "paras": [
-        "Sannerville est située à l'ouest de Lisieux, à environ 33 km à vol d'oiseau (Calvados). Ses communes voisines : Touffréville, Cuverville, Escoville et Démouville.",
+        "Sannerville est située à l'ouest de Lisieux, à environ 33 km à vol d'oiseau (Calvados). Ses communes voisines : Touffréville, Cuverville, Escoville et Démouville. La commune compte environ 1 905 habitants sur 5,2 km², soit environ 367 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Touffréville ou à Cuverville, nous pouvons regrouper les passages avec ceux de Sannerville pour limiter les déplacements."
       ]
@@ -10531,7 +10531,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Sannerville et ses jardins : repères du terrain",
       "paras": [
-        "Sannerville est située à l'ouest de Lisieux, à environ 33 km à vol d'oiseau (Calvados). Ses communes voisines : Touffréville, Cuverville, Escoville et Démouville.",
+        "Sannerville est située à l'ouest de Lisieux, à environ 33 km à vol d'oiseau (Calvados). Ses communes voisines : Touffréville, Cuverville, Escoville et Démouville. La commune compte environ 1 905 habitants sur 5,2 km², soit environ 367 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Touffréville ou à Cuverville, nous pouvons regrouper les passages avec ceux de Sannerville pour limiter les déplacements."
       ]
@@ -10618,7 +10618,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Sannerville selon le quartier",
       "paras": [
-        "Sannerville est située à l'ouest de Lisieux, à environ 33 km à vol d'oiseau (Calvados). Ses communes voisines : Touffréville, Cuverville, Escoville et Démouville.",
+        "Sannerville est située à l'ouest de Lisieux, à environ 33 km à vol d'oiseau (Calvados). Ses communes voisines : Touffréville, Cuverville, Escoville et Démouville. La commune compte environ 1 905 habitants sur 5,2 km², soit environ 367 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Touffréville ou à Cuverville, nous pouvons regrouper les passages avec ceux de Sannerville pour limiter les déplacements."
       ]
@@ -10705,7 +10705,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Sannerville et ses pelouses : repères du terrain",
       "paras": [
-        "Sannerville est située à l'ouest de Lisieux, à environ 33 km à vol d'oiseau (Calvados). Ses communes voisines : Touffréville, Cuverville, Escoville et Démouville.",
+        "Sannerville est située à l'ouest de Lisieux, à environ 33 km à vol d'oiseau (Calvados). Ses communes voisines : Touffréville, Cuverville, Escoville et Démouville. La commune compte environ 1 905 habitants sur 5,2 km², soit environ 367 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Touffréville ou à Cuverville, nous pouvons regrouper les passages avec ceux de Sannerville pour limiter les déplacements."
       ]
@@ -10792,7 +10792,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Sannerville selon le terrain",
       "paras": [
-        "Sannerville est située à l'ouest de Lisieux, à environ 33 km à vol d'oiseau (Calvados). Ses communes voisines : Touffréville, Cuverville, Escoville et Démouville.",
+        "Sannerville est située à l'ouest de Lisieux, à environ 33 km à vol d'oiseau (Calvados). Ses communes voisines : Touffréville, Cuverville, Escoville et Démouville. La commune compte environ 1 905 habitants sur 5,2 km², soit environ 367 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Touffréville ou à Cuverville, nous pouvons regrouper les passages avec ceux de Sannerville pour limiter les déplacements."
       ]
@@ -10879,7 +10879,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Sannerville et ses jardins : repères du terrain",
       "paras": [
-        "Sannerville est située à l'ouest de Lisieux, à environ 33 km à vol d'oiseau (Calvados). Ses communes voisines : Touffréville, Cuverville, Escoville et Démouville.",
+        "Sannerville est située à l'ouest de Lisieux, à environ 33 km à vol d'oiseau (Calvados). Ses communes voisines : Touffréville, Cuverville, Escoville et Démouville. La commune compte environ 1 905 habitants sur 5,2 km², soit environ 367 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Touffréville ou à Cuverville, nous pouvons regrouper les passages avec ceux de Sannerville pour limiter les déplacements."
       ]
@@ -10966,7 +10966,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bellengreville : ce que le terrain change pour l'élagage",
       "paras": [
-        "Bellengreville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Frénouville, Moult-Chicheboville, Vimont et Émiéville.",
+        "Bellengreville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Frénouville, Moult-Chicheboville, Vimont et Émiéville. La commune compte environ 1 598 habitants sur 10,2 km², soit environ 157 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Frénouville ou à Moult-Chicheboville, nous pouvons regrouper les passages avec ceux de Bellengreville pour limiter les déplacements."
       ]
@@ -11053,7 +11053,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Bellengreville selon le quartier",
       "paras": [
-        "Bellengreville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Frénouville, Moult-Chicheboville, Vimont et Émiéville.",
+        "Bellengreville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Frénouville, Moult-Chicheboville, Vimont et Émiéville. La commune compte environ 1 598 habitants sur 10,2 km², soit environ 157 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Frénouville ou à Moult-Chicheboville, nous pouvons regrouper les passages avec ceux de Bellengreville pour limiter les déplacements."
       ]
@@ -11140,7 +11140,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bellengreville et ses haies : repères du terrain",
       "paras": [
-        "Bellengreville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Frénouville, Moult-Chicheboville, Vimont et Émiéville.",
+        "Bellengreville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Frénouville, Moult-Chicheboville, Vimont et Émiéville. La commune compte environ 1 598 habitants sur 10,2 km², soit environ 157 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Frénouville ou à Moult-Chicheboville, nous pouvons regrouper les passages avec ceux de Bellengreville pour limiter les déplacements."
       ]
@@ -11227,7 +11227,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Bellengreville selon le quartier",
       "paras": [
-        "Bellengreville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Frénouville, Moult-Chicheboville, Vimont et Émiéville.",
+        "Bellengreville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Frénouville, Moult-Chicheboville, Vimont et Émiéville. La commune compte environ 1 598 habitants sur 10,2 km², soit environ 157 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Frénouville ou à Moult-Chicheboville, nous pouvons regrouper les passages avec ceux de Bellengreville pour limiter les déplacements."
       ]
@@ -11314,7 +11314,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bellengreville : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Bellengreville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Frénouville, Moult-Chicheboville, Vimont et Émiéville.",
+        "Bellengreville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Frénouville, Moult-Chicheboville, Vimont et Émiéville. La commune compte environ 1 598 habitants sur 10,2 km², soit environ 157 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Frénouville ou à Moult-Chicheboville, nous pouvons regrouper les passages avec ceux de Bellengreville pour limiter les déplacements."
       ]
@@ -11401,7 +11401,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bellengreville : ce que le terrain change pour l'entretien",
       "paras": [
-        "Bellengreville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Frénouville, Moult-Chicheboville, Vimont et Émiéville.",
+        "Bellengreville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Frénouville, Moult-Chicheboville, Vimont et Émiéville. La commune compte environ 1 598 habitants sur 10,2 km², soit environ 157 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Frénouville ou à Moult-Chicheboville, nous pouvons regrouper les passages avec ceux de Bellengreville pour limiter les déplacements."
       ]
@@ -11488,7 +11488,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Merville-Franceville-Plage et ses arbres : repères du terrain",
       "paras": [
-        "Merville-Franceville-Plage est une station balnéaire proche de l'embouchure de la Dives, connue pour la batterie de Merville, site de mémoire du Débarquement. Merville-Franceville-Plage est située au nord-ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville.",
+        "Merville-Franceville-Plage est une station balnéaire proche de l'embouchure de la Dives, connue pour la batterie de Merville, site de mémoire du Débarquement. Merville-Franceville-Plage est située au nord-ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville. La commune compte environ 2 231 habitants sur 10,7 km², soit environ 208 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Près de la mer, vent et embruns marquent les arbres : couronnes déportées, branches cassées, feuillage brûlé côté large. Nous allégeons les arbres exposés pour qu'ils résistent mieux aux tempêtes.",
         "Si vous êtes à Gonneville-en-Auge ou à Amfreville, nous pouvons regrouper les passages avec ceux de Merville-Franceville-Plage pour limiter les déplacements."
       ]
@@ -11575,7 +11575,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Merville-Franceville-Plage : ce que le terrain change pour le jardin",
       "paras": [
-        "Merville-Franceville-Plage est une station balnéaire proche de l'embouchure de la Dives, connue pour la batterie de Merville, site de mémoire du Débarquement. Merville-Franceville-Plage est située au nord-ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville.",
+        "Merville-Franceville-Plage est une station balnéaire proche de l'embouchure de la Dives, connue pour la batterie de Merville, site de mémoire du Débarquement. Merville-Franceville-Plage est située au nord-ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville. La commune compte environ 2 231 habitants sur 10,7 km², soit environ 208 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur la côte, le vent, le sel et le sol léger changent le jardin : plantations plus rustiques, arrosage plus attentif, nettoyage après les tempêtes. Beaucoup de maisons sont aussi des résidences secondaires : nous entretenons en votre absence.",
         "Si vous êtes à Gonneville-en-Auge ou à Amfreville, nous pouvons regrouper les passages avec ceux de Merville-Franceville-Plage pour limiter les déplacements."
       ]
@@ -11662,7 +11662,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Merville-Franceville-Plage et ses haies : repères du terrain",
       "paras": [
-        "Merville-Franceville-Plage est une station balnéaire proche de l'embouchure de la Dives, connue pour la batterie de Merville, site de mémoire du Débarquement. Merville-Franceville-Plage est située au nord-ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville.",
+        "Merville-Franceville-Plage est une station balnéaire proche de l'embouchure de la Dives, connue pour la batterie de Merville, site de mémoire du Débarquement. Merville-Franceville-Plage est située au nord-ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville. La commune compte environ 2 231 habitants sur 10,7 km², soit environ 208 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies du littoral font brise-vent : thuyas, lauriers, tamaris, cyprès. Le vent salé brûle les pousses trop sévèrement taillées, d'où une taille mesurée et à la bonne saison.",
         "Si vous êtes à Gonneville-en-Auge ou à Amfreville, nous pouvons regrouper les passages avec ceux de Merville-Franceville-Plage pour limiter les déplacements."
       ]
@@ -11749,7 +11749,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Merville-Franceville-Plage : ce que le terrain change pour la pelouse",
       "paras": [
-        "Merville-Franceville-Plage est une station balnéaire proche de l'embouchure de la Dives, connue pour la batterie de Merville, site de mémoire du Débarquement. Merville-Franceville-Plage est située au nord-ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville.",
+        "Merville-Franceville-Plage est une station balnéaire proche de l'embouchure de la Dives, connue pour la batterie de Merville, site de mémoire du Débarquement. Merville-Franceville-Plage est située au nord-ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville. La commune compte environ 2 231 habitants sur 10,7 km², soit environ 208 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Près de la mer, la pelouse sèche vite en été sur sol léger : nous relevons la hauteur de coupe et espaçons les tontes en période chaude.",
         "Si vous êtes à Gonneville-en-Auge ou à Amfreville, nous pouvons regrouper les passages avec ceux de Merville-Franceville-Plage pour limiter les déplacements."
       ]
@@ -11836,7 +11836,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Merville-Franceville-Plage : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Merville-Franceville-Plage est une station balnéaire proche de l'embouchure de la Dives, connue pour la batterie de Merville, site de mémoire du Débarquement. Merville-Franceville-Plage est située au nord-ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville.",
+        "Merville-Franceville-Plage est une station balnéaire proche de l'embouchure de la Dives, connue pour la batterie de Merville, site de mémoire du Débarquement. Merville-Franceville-Plage est située au nord-ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville. La commune compte environ 2 231 habitants sur 10,7 km², soit environ 208 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur la côte, les terrains peu entretenus se couvrent vite de ronces et d'arbustes tourmentés par le vent : nous les reprenons sans abîmer les plantations utiles.",
         "Si vous êtes à Gonneville-en-Auge ou à Amfreville, nous pouvons regrouper les passages avec ceux de Merville-Franceville-Plage pour limiter les déplacements."
       ]
@@ -11923,7 +11923,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Merville-Franceville-Plage et ses jardins : repères du terrain",
       "paras": [
-        "Merville-Franceville-Plage est une station balnéaire proche de l'embouchure de la Dives, connue pour la batterie de Merville, site de mémoire du Débarquement. Merville-Franceville-Plage est située au nord-ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville.",
+        "Merville-Franceville-Plage est une station balnéaire proche de l'embouchure de la Dives, connue pour la batterie de Merville, site de mémoire du Débarquement. Merville-Franceville-Plage est située au nord-ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Gonneville-en-Auge, Amfreville, Bréville-les-Monts et Petiville. La commune compte environ 2 231 habitants sur 10,7 km², soit environ 208 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins de villas et résidences secondaires : nous prévoyons des passages avant l'été, en septembre et après les coups de vent, pour que tout soit net à chaque arrivée.",
         "Si vous êtes à Gonneville-en-Auge ou à Amfreville, nous pouvons regrouper les passages avec ceux de Merville-Franceville-Plage pour limiter les déplacements."
       ]
@@ -12010,7 +12010,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Frénouville : ce que le terrain change pour l'élagage",
       "paras": [
-        "Frénouville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Bellengreville, Cagny, Émiéville et Soliers.",
+        "Frénouville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Bellengreville, Cagny, Émiéville et Soliers. La commune compte environ 2 050 habitants sur 6,5 km², soit environ 314 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Bellengreville ou à Cagny, nous pouvons regrouper les passages avec ceux de Frénouville pour limiter les déplacements."
       ]
@@ -12097,7 +12097,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Frénouville : ce que le terrain change pour le jardin",
       "paras": [
-        "Frénouville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Bellengreville, Cagny, Émiéville et Soliers.",
+        "Frénouville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Bellengreville, Cagny, Émiéville et Soliers. La commune compte environ 2 050 habitants sur 6,5 km², soit environ 314 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Bellengreville ou à Cagny, nous pouvons regrouper les passages avec ceux de Frénouville pour limiter les déplacements."
       ]
@@ -12184,7 +12184,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Frénouville et ses haies : repères du terrain",
       "paras": [
-        "Frénouville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Bellengreville, Cagny, Émiéville et Soliers.",
+        "Frénouville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Bellengreville, Cagny, Émiéville et Soliers. La commune compte environ 2 050 habitants sur 6,5 km², soit environ 314 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Bellengreville ou à Cagny, nous pouvons regrouper les passages avec ceux de Frénouville pour limiter les déplacements."
       ]
@@ -12271,7 +12271,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Frénouville selon le quartier",
       "paras": [
-        "Frénouville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Bellengreville, Cagny, Émiéville et Soliers.",
+        "Frénouville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Bellengreville, Cagny, Émiéville et Soliers. La commune compte environ 2 050 habitants sur 6,5 km², soit environ 314 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Bellengreville ou à Cagny, nous pouvons regrouper les passages avec ceux de Frénouville pour limiter les déplacements."
       ]
@@ -12358,7 +12358,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Frénouville : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Frénouville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Bellengreville, Cagny, Émiéville et Soliers.",
+        "Frénouville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Bellengreville, Cagny, Émiéville et Soliers. La commune compte environ 2 050 habitants sur 6,5 km², soit environ 314 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Bellengreville ou à Cagny, nous pouvons regrouper les passages avec ceux de Frénouville pour limiter les déplacements."
       ]
@@ -12445,7 +12445,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Frénouville et ses jardins : repères du terrain",
       "paras": [
-        "Frénouville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Bellengreville, Cagny, Émiéville et Soliers.",
+        "Frénouville est située à l'ouest de Lisieux, à environ 34 km à vol d'oiseau (Calvados). Ses communes voisines : Bellengreville, Cagny, Émiéville et Soliers. La commune compte environ 2 050 habitants sur 6,5 km², soit environ 314 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Bellengreville ou à Cagny, nous pouvons regrouper les passages avec ceux de Frénouville pour limiter les déplacements."
       ]
@@ -12532,7 +12532,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Brionne : ce que le terrain change pour l'élagage",
       "paras": [
-        "Brionne, sur la Risle, est dominée par les vestiges de son donjon. Brionne est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Franqueville, Aclou, Hecmanville et Calleville.",
+        "Brionne, sur la Risle, est dominée par les vestiges de son donjon. Brionne est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Franqueville, Aclou, Hecmanville et Calleville. La commune compte environ 4 185 habitants sur 16,9 km², soit environ 248 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En fond de vallée, l'humidité favorise les peupliers, saules et aulnes, qui poussent vite et casent facilement. Nous les contrôlons régulièrement, surtout au bord des rivières et près des habitations.",
         "Si vous êtes à Franqueville ou à Aclou, nous pouvons regrouper les passages avec ceux de Brionne pour limiter les déplacements."
       ]
@@ -12619,7 +12619,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Brionne selon le quartier",
       "paras": [
-        "Brionne, sur la Risle, est dominée par les vestiges de son donjon. Brionne est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Franqueville, Aclou, Hecmanville et Calleville.",
+        "Brionne, sur la Risle, est dominée par les vestiges de son donjon. Brionne est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Franqueville, Aclou, Hecmanville et Calleville. La commune compte environ 4 185 habitants sur 16,9 km², soit environ 248 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En vallée humide, le sol reste frais : la pelouse se couvre de mousse, les massifs demandent un bon drainage. Nous adaptons tontes, désherbage et soins au terrain.",
         "Si vous êtes à Franqueville ou à Aclou, nous pouvons regrouper les passages avec ceux de Brionne pour limiter les déplacements."
       ]
@@ -12706,7 +12706,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Brionne : ce que le terrain change pour les haies",
       "paras": [
-        "Brionne, sur la Risle, est dominée par les vestiges de son donjon. Brionne est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Franqueville, Aclou, Hecmanville et Calleville.",
+        "Brionne, sur la Risle, est dominée par les vestiges de son donjon. Brionne est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Franqueville, Aclou, Hecmanville et Calleville. La commune compte environ 4 185 habitants sur 16,9 km², soit environ 248 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies de vallée aiment l'humidité mais souffrent de la mousse et des maladies : une taille aérée et un nettoyage du pied de haie les gardent en bonne santé.",
         "Si vous êtes à Franqueville ou à Aclou, nous pouvons regrouper les passages avec ceux de Brionne pour limiter les déplacements."
       ]
@@ -12793,7 +12793,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Brionne : ce que le terrain change pour la pelouse",
       "paras": [
-        "Brionne, sur la Risle, est dominée par les vestiges de son donjon. Brionne est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Franqueville, Aclou, Hecmanville et Calleville.",
+        "Brionne, sur la Risle, est dominée par les vestiges de son donjon. Brionne est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Franqueville, Aclou, Hecmanville et Calleville. La commune compte environ 4 185 habitants sur 16,9 km², soit environ 248 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur sol humide, la tonte demande de la patience : nous évitons les terrains détrempés pour ne pas creuser d'ornières et ramassons l'herbe pour limiter la mousse.",
         "Si vous êtes à Franqueville ou à Aclou, nous pouvons regrouper les passages avec ceux de Brionne pour limiter les déplacements."
       ]
@@ -12880,7 +12880,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Brionne et ses terrains : repères",
       "paras": [
-        "Brionne, sur la Risle, est dominée par les vestiges de son donjon. Brionne est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Franqueville, Aclou, Hecmanville et Calleville.",
+        "Brionne, sur la Risle, est dominée par les vestiges de son donjon. Brionne est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Franqueville, Aclou, Hecmanville et Calleville. La commune compte environ 4 185 habitants sur 16,9 km², soit environ 248 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les terrains de vallée se couvrent vite de végétation dense : ronces, roseaux, saules. Nous les reprenons avec un matériel adapté aux sols humides.",
         "Si vous êtes à Franqueville ou à Aclou, nous pouvons regrouper les passages avec ceux de Brionne pour limiter les déplacements."
       ]
@@ -12967,7 +12967,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Brionne et ses jardins : repères du terrain",
       "paras": [
-        "Brionne, sur la Risle, est dominée par les vestiges de son donjon. Brionne est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Franqueville, Aclou, Hecmanville et Calleville.",
+        "Brionne, sur la Risle, est dominée par les vestiges de son donjon. Brionne est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Franqueville, Aclou, Hecmanville et Calleville. La commune compte environ 4 185 habitants sur 16,9 km², soit environ 248 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Nous planifions les passages en tenant compte de l'humidité : travaux lourds quand le sol est ressuyé, entretien courant le reste du temps.",
         "Si vous êtes à Franqueville ou à Aclou, nous pouvons regrouper les passages avec ceux de Brionne pour limiter les déplacements."
       ]
@@ -13054,7 +13054,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Serquigny et ses arbres : repères du terrain",
       "paras": [
-        "Serquigny est un carrefour ferroviaire installé dans la vallée de la Risle. Serquigny est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes.",
+        "Serquigny est un carrefour ferroviaire installé dans la vallée de la Risle. Serquigny est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes. La commune compte environ 1 754 habitants sur 11,5 km², soit environ 153 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En fond de vallée, l'humidité favorise les peupliers, saules et aulnes, qui poussent vite et casent facilement. Nous les contrôlons régulièrement, surtout au bord des rivières et près des habitations.",
         "Si vous êtes à Launay ou à Fontaine-l'Abbé, nous pouvons regrouper les passages avec ceux de Serquigny pour limiter les déplacements."
       ]
@@ -13141,7 +13141,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Serquigny et ses jardins : repères du terrain",
       "paras": [
-        "Serquigny est un carrefour ferroviaire installé dans la vallée de la Risle. Serquigny est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes.",
+        "Serquigny est un carrefour ferroviaire installé dans la vallée de la Risle. Serquigny est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes. La commune compte environ 1 754 habitants sur 11,5 km², soit environ 153 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En vallée humide, le sol reste frais : la pelouse se couvre de mousse, les massifs demandent un bon drainage. Nous adaptons tontes, désherbage et soins au terrain.",
         "Si vous êtes à Launay ou à Fontaine-l'Abbé, nous pouvons regrouper les passages avec ceux de Serquigny pour limiter les déplacements."
       ]
@@ -13228,7 +13228,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Serquigny selon le quartier",
       "paras": [
-        "Serquigny est un carrefour ferroviaire installé dans la vallée de la Risle. Serquigny est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes.",
+        "Serquigny est un carrefour ferroviaire installé dans la vallée de la Risle. Serquigny est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes. La commune compte environ 1 754 habitants sur 11,5 km², soit environ 153 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies de vallée aiment l'humidité mais souffrent de la mousse et des maladies : une taille aérée et un nettoyage du pied de haie les gardent en bonne santé.",
         "Si vous êtes à Launay ou à Fontaine-l'Abbé, nous pouvons regrouper les passages avec ceux de Serquigny pour limiter les déplacements."
       ]
@@ -13315,7 +13315,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Serquigny selon le quartier",
       "paras": [
-        "Serquigny est un carrefour ferroviaire installé dans la vallée de la Risle. Serquigny est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes.",
+        "Serquigny est un carrefour ferroviaire installé dans la vallée de la Risle. Serquigny est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes. La commune compte environ 1 754 habitants sur 11,5 km², soit environ 153 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur sol humide, la tonte demande de la patience : nous évitons les terrains détrempés pour ne pas creuser d'ornières et ramassons l'herbe pour limiter la mousse.",
         "Si vous êtes à Launay ou à Fontaine-l'Abbé, nous pouvons regrouper les passages avec ceux de Serquigny pour limiter les déplacements."
       ]
@@ -13402,7 +13402,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Serquigny et ses terrains : repères",
       "paras": [
-        "Serquigny est un carrefour ferroviaire installé dans la vallée de la Risle. Serquigny est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes.",
+        "Serquigny est un carrefour ferroviaire installé dans la vallée de la Risle. Serquigny est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes. La commune compte environ 1 754 habitants sur 11,5 km², soit environ 153 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les terrains de vallée se couvrent vite de végétation dense : ronces, roseaux, saules. Nous les reprenons avec un matériel adapté aux sols humides.",
         "Si vous êtes à Launay ou à Fontaine-l'Abbé, nous pouvons regrouper les passages avec ceux de Serquigny pour limiter les déplacements."
       ]
@@ -13489,7 +13489,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Serquigny selon le quartier",
       "paras": [
-        "Serquigny est un carrefour ferroviaire installé dans la vallée de la Risle. Serquigny est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes.",
+        "Serquigny est un carrefour ferroviaire installé dans la vallée de la Risle. Serquigny est située à l'est de Lisieux, à environ 35 km à vol d'oiseau (Eure). Ses communes voisines : Launay, Fontaine-l'Abbé, Nassandres sur Risle et Saint-Léger-de-Rôtes. La commune compte environ 1 754 habitants sur 11,5 km², soit environ 153 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Nous planifions les passages en tenant compte de l'humidité : travaux lourds quand le sol est ressuyé, entretien courant le reste du temps.",
         "Si vous êtes à Launay ou à Fontaine-l'Abbé, nous pouvons regrouper les passages avec ceux de Serquigny pour limiter les déplacements."
       ]
@@ -13576,7 +13576,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cagny : ce que le terrain change pour l'élagage",
       "paras": [
-        "Cagny est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Grentheville, Démouville, Émiéville et Frénouville.",
+        "Cagny est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Grentheville, Démouville, Émiéville et Frénouville. La commune compte environ 2 066 habitants sur 8,5 km², soit environ 243 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Grentheville ou à Démouville, nous pouvons regrouper les passages avec ceux de Cagny pour limiter les déplacements."
       ]
@@ -13663,7 +13663,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Cagny selon le quartier",
       "paras": [
-        "Cagny est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Grentheville, Démouville, Émiéville et Frénouville.",
+        "Cagny est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Grentheville, Démouville, Émiéville et Frénouville. La commune compte environ 2 066 habitants sur 8,5 km², soit environ 243 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Grentheville ou à Démouville, nous pouvons regrouper les passages avec ceux de Cagny pour limiter les déplacements."
       ]
@@ -13750,7 +13750,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cagny : ce que le terrain change pour les haies",
       "paras": [
-        "Cagny est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Grentheville, Démouville, Émiéville et Frénouville.",
+        "Cagny est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Grentheville, Démouville, Émiéville et Frénouville. La commune compte environ 2 066 habitants sur 8,5 km², soit environ 243 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Grentheville ou à Démouville, nous pouvons regrouper les passages avec ceux de Cagny pour limiter les déplacements."
       ]
@@ -13837,7 +13837,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cagny : ce que le terrain change pour la pelouse",
       "paras": [
-        "Cagny est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Grentheville, Démouville, Émiéville et Frénouville.",
+        "Cagny est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Grentheville, Démouville, Émiéville et Frénouville. La commune compte environ 2 066 habitants sur 8,5 km², soit environ 243 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Grentheville ou à Démouville, nous pouvons regrouper les passages avec ceux de Cagny pour limiter les déplacements."
       ]
@@ -13924,7 +13924,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Cagny selon le terrain",
       "paras": [
-        "Cagny est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Grentheville, Démouville, Émiéville et Frénouville.",
+        "Cagny est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Grentheville, Démouville, Émiéville et Frénouville. La commune compte environ 2 066 habitants sur 8,5 km², soit environ 243 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Grentheville ou à Démouville, nous pouvons regrouper les passages avec ceux de Cagny pour limiter les déplacements."
       ]
@@ -14011,7 +14011,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cagny : ce que le terrain change pour l'entretien",
       "paras": [
-        "Cagny est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Grentheville, Démouville, Émiéville et Frénouville.",
+        "Cagny est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Grentheville, Démouville, Émiéville et Frénouville. La commune compte environ 2 066 habitants sur 8,5 km², soit environ 243 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Grentheville ou à Démouville, nous pouvons regrouper les passages avec ceux de Cagny pour limiter les déplacements."
       ]
@@ -14098,7 +14098,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Cuverville selon le quartier",
       "paras": [
-        "Cuverville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Escoville, Démouville, Colombelles et Hérouvillette.",
+        "Cuverville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Escoville, Démouville, Colombelles et Hérouvillette. La commune compte environ 2 267 habitants sur 2,1 km², soit environ 1 102 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Escoville ou à Démouville, nous pouvons regrouper les passages avec ceux de Cuverville pour limiter les déplacements."
       ]
@@ -14185,7 +14185,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cuverville : ce que le terrain change pour le jardin",
       "paras": [
-        "Cuverville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Escoville, Démouville, Colombelles et Hérouvillette.",
+        "Cuverville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Escoville, Démouville, Colombelles et Hérouvillette. La commune compte environ 2 267 habitants sur 2,1 km², soit environ 1 102 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Escoville ou à Démouville, nous pouvons regrouper les passages avec ceux de Cuverville pour limiter les déplacements."
       ]
@@ -14272,7 +14272,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Cuverville selon le quartier",
       "paras": [
-        "Cuverville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Escoville, Démouville, Colombelles et Hérouvillette.",
+        "Cuverville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Escoville, Démouville, Colombelles et Hérouvillette. La commune compte environ 2 267 habitants sur 2,1 km², soit environ 1 102 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Escoville ou à Démouville, nous pouvons regrouper les passages avec ceux de Cuverville pour limiter les déplacements."
       ]
@@ -14359,7 +14359,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cuverville : ce que le terrain change pour la pelouse",
       "paras": [
-        "Cuverville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Escoville, Démouville, Colombelles et Hérouvillette.",
+        "Cuverville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Escoville, Démouville, Colombelles et Hérouvillette. La commune compte environ 2 267 habitants sur 2,1 km², soit environ 1 102 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Escoville ou à Démouville, nous pouvons regrouper les passages avec ceux de Cuverville pour limiter les déplacements."
       ]
@@ -14446,7 +14446,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cuverville et ses terrains : repères",
       "paras": [
-        "Cuverville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Escoville, Démouville, Colombelles et Hérouvillette.",
+        "Cuverville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Escoville, Démouville, Colombelles et Hérouvillette. La commune compte environ 2 267 habitants sur 2,1 km², soit environ 1 102 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Escoville ou à Démouville, nous pouvons regrouper les passages avec ceux de Cuverville pour limiter les déplacements."
       ]
@@ -14533,7 +14533,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cuverville : ce que le terrain change pour l'entretien",
       "paras": [
-        "Cuverville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Escoville, Démouville, Colombelles et Hérouvillette.",
+        "Cuverville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Escoville, Démouville, Colombelles et Hérouvillette. La commune compte environ 2 267 habitants sur 2,1 km², soit environ 1 102 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Escoville ou à Démouville, nous pouvons regrouper les passages avec ceux de Cuverville pour limiter les déplacements."
       ]
@@ -14620,7 +14620,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Démouville et ses arbres : repères du terrain",
       "paras": [
-        "Démouville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cuverville, Cagny et Banneville-la-Campagne.",
+        "Démouville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cuverville, Cagny et Banneville-la-Campagne. La commune compte environ 3 035 habitants sur 3,6 km², soit environ 852 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Giberville ou à Cuverville, nous pouvons regrouper les passages avec ceux de Démouville pour limiter les déplacements."
       ]
@@ -14707,7 +14707,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Démouville selon le quartier",
       "paras": [
-        "Démouville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cuverville, Cagny et Banneville-la-Campagne.",
+        "Démouville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cuverville, Cagny et Banneville-la-Campagne. La commune compte environ 3 035 habitants sur 3,6 km², soit environ 852 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Giberville ou à Cuverville, nous pouvons regrouper les passages avec ceux de Démouville pour limiter les déplacements."
       ]
@@ -14794,7 +14794,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Démouville : ce que le terrain change pour les haies",
       "paras": [
-        "Démouville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cuverville, Cagny et Banneville-la-Campagne.",
+        "Démouville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cuverville, Cagny et Banneville-la-Campagne. La commune compte environ 3 035 habitants sur 3,6 km², soit environ 852 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Giberville ou à Cuverville, nous pouvons regrouper les passages avec ceux de Démouville pour limiter les déplacements."
       ]
@@ -14881,7 +14881,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Démouville selon le quartier",
       "paras": [
-        "Démouville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cuverville, Cagny et Banneville-la-Campagne.",
+        "Démouville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cuverville, Cagny et Banneville-la-Campagne. La commune compte environ 3 035 habitants sur 3,6 km², soit environ 852 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Giberville ou à Cuverville, nous pouvons regrouper les passages avec ceux de Démouville pour limiter les déplacements."
       ]
@@ -14968,7 +14968,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Démouville et ses terrains : repères",
       "paras": [
-        "Démouville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cuverville, Cagny et Banneville-la-Campagne.",
+        "Démouville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cuverville, Cagny et Banneville-la-Campagne. La commune compte environ 3 035 habitants sur 3,6 km², soit environ 852 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Giberville ou à Cuverville, nous pouvons regrouper les passages avec ceux de Démouville pour limiter les déplacements."
       ]
@@ -15055,7 +15055,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Démouville et ses jardins : repères du terrain",
       "paras": [
-        "Démouville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cuverville, Cagny et Banneville-la-Campagne.",
+        "Démouville est située à l'ouest de Lisieux, à environ 36 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cuverville, Cagny et Banneville-la-Campagne. La commune compte environ 3 035 habitants sur 3,6 km², soit environ 852 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Giberville ou à Cuverville, nous pouvons regrouper les passages avec ceux de Démouville pour limiter les déplacements."
       ]
@@ -15142,7 +15142,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beuvillers et ses arbres : repères du terrain",
       "paras": [
-        "Beuvillers est située au sud-est de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume.",
+        "Beuvillers est située au sud-est de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume. La commune compte environ 1 283 habitants sur 4,9 km², soit environ 260 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Lisieux ou à Glos, nous pouvons regrouper les passages avec ceux de Beuvillers pour limiter les déplacements."
       ]
@@ -15229,7 +15229,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beuvillers et ses jardins : repères du terrain",
       "paras": [
-        "Beuvillers est située au sud-est de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume.",
+        "Beuvillers est située au sud-est de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume. La commune compte environ 1 283 habitants sur 4,9 km², soit environ 260 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Lisieux ou à Glos, nous pouvons regrouper les passages avec ceux de Beuvillers pour limiter les déplacements."
       ]
@@ -15316,7 +15316,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beuvillers : ce que le terrain change pour les haies",
       "paras": [
-        "Beuvillers est située au sud-est de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume.",
+        "Beuvillers est située au sud-est de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume. La commune compte environ 1 283 habitants sur 4,9 km², soit environ 260 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Lisieux ou à Glos, nous pouvons regrouper les passages avec ceux de Beuvillers pour limiter les déplacements."
       ]
@@ -15403,7 +15403,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beuvillers : ce que le terrain change pour la pelouse",
       "paras": [
-        "Beuvillers est située au sud-est de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume.",
+        "Beuvillers est située au sud-est de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume. La commune compte environ 1 283 habitants sur 4,9 km², soit environ 260 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Lisieux ou à Glos, nous pouvons regrouper les passages avec ceux de Beuvillers pour limiter les déplacements."
       ]
@@ -15490,7 +15490,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Beuvillers selon le terrain",
       "paras": [
-        "Beuvillers est située au sud-est de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume.",
+        "Beuvillers est située au sud-est de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume. La commune compte environ 1 283 habitants sur 4,9 km², soit environ 260 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Lisieux ou à Glos, nous pouvons regrouper les passages avec ceux de Beuvillers pour limiter les déplacements."
       ]
@@ -15577,7 +15577,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beuvillers et ses jardins : repères du terrain",
       "paras": [
-        "Beuvillers est située au sud-est de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume.",
+        "Beuvillers est située au sud-est de Lisieux, à environ 3 km à vol d'oiseau (Calvados). Ses communes voisines : Lisieux, Glos, Saint-Martin-de-la-Lieue et Le Mesnil-Guillaume. La commune compte environ 1 283 habitants sur 4,9 km², soit environ 260 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Lisieux ou à Glos, nous pouvons regrouper les passages avec ceux de Beuvillers pour limiter les déplacements."
       ]
@@ -15664,7 +15664,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Martin-de-Mailloc et ses arbres : repères du terrain",
       "paras": [
-        "Saint-Martin-de-Mailloc est située au sud-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet.",
+        "Saint-Martin-de-Mailloc est située au sud-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet. La commune compte environ 1 040 habitants sur 7,3 km², soit environ 142 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Le Mesnil-Guillaume ou à Saint-Denis-de-Mailloc, nous pouvons regrouper les passages avec ceux de Saint-Martin-de-Mailloc pour limiter les déplacements."
       ]
@@ -15751,7 +15751,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Martin-de-Mailloc et ses jardins : repères du terrain",
       "paras": [
-        "Saint-Martin-de-Mailloc est située au sud-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet.",
+        "Saint-Martin-de-Mailloc est située au sud-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet. La commune compte environ 1 040 habitants sur 7,3 km², soit environ 142 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Le Mesnil-Guillaume ou à Saint-Denis-de-Mailloc, nous pouvons regrouper les passages avec ceux de Saint-Martin-de-Mailloc pour limiter les déplacements."
       ]
@@ -15838,7 +15838,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Martin-de-Mailloc et ses haies : repères du terrain",
       "paras": [
-        "Saint-Martin-de-Mailloc est située au sud-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet.",
+        "Saint-Martin-de-Mailloc est située au sud-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet. La commune compte environ 1 040 habitants sur 7,3 km², soit environ 142 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Le Mesnil-Guillaume ou à Saint-Denis-de-Mailloc, nous pouvons regrouper les passages avec ceux de Saint-Martin-de-Mailloc pour limiter les déplacements."
       ]
@@ -15925,7 +15925,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Saint-Martin-de-Mailloc selon le quartier",
       "paras": [
-        "Saint-Martin-de-Mailloc est située au sud-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet.",
+        "Saint-Martin-de-Mailloc est située au sud-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet. La commune compte environ 1 040 habitants sur 7,3 km², soit environ 142 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Le Mesnil-Guillaume ou à Saint-Denis-de-Mailloc, nous pouvons regrouper les passages avec ceux de Saint-Martin-de-Mailloc pour limiter les déplacements."
       ]
@@ -16012,7 +16012,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Saint-Martin-de-Mailloc selon le terrain",
       "paras": [
-        "Saint-Martin-de-Mailloc est située au sud-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet.",
+        "Saint-Martin-de-Mailloc est située au sud-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet. La commune compte environ 1 040 habitants sur 7,3 km², soit environ 142 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Le Mesnil-Guillaume ou à Saint-Denis-de-Mailloc, nous pouvons regrouper les passages avec ceux de Saint-Martin-de-Mailloc pour limiter les déplacements."
       ]
@@ -16099,7 +16099,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Martin-de-Mailloc : ce que le terrain change pour l'entretien",
       "paras": [
-        "Saint-Martin-de-Mailloc est située au sud-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet.",
+        "Saint-Martin-de-Mailloc est située au sud-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Saint-Denis-de-Mailloc, Prêtreville et Saint-Jean-de-Livet. La commune compte environ 1 040 habitants sur 7,3 km², soit environ 142 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Le Mesnil-Guillaume ou à Saint-Denis-de-Mailloc, nous pouvons regrouper les passages avec ceux de Saint-Martin-de-Mailloc pour limiter les déplacements."
       ]
@@ -16186,7 +16186,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Le Breuil-en-Auge selon le quartier",
       "paras": [
-        "Le Breuil-en-Auge est située au nord de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers.",
+        "Le Breuil-en-Auge est située au nord de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers. La commune compte environ 952 habitants sur 9,4 km², soit environ 101 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Fierville-les-Parcs ou à Norolles, nous pouvons regrouper les passages avec ceux de Le Breuil-en-Auge pour limiter les déplacements."
       ]
@@ -16273,7 +16273,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Breuil-en-Auge et ses jardins : repères du terrain",
       "paras": [
-        "Le Breuil-en-Auge est située au nord de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers.",
+        "Le Breuil-en-Auge est située au nord de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers. La commune compte environ 952 habitants sur 9,4 km², soit environ 101 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Fierville-les-Parcs ou à Norolles, nous pouvons regrouper les passages avec ceux de Le Breuil-en-Auge pour limiter les déplacements."
       ]
@@ -16360,7 +16360,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Le Breuil-en-Auge selon le quartier",
       "paras": [
-        "Le Breuil-en-Auge est située au nord de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers.",
+        "Le Breuil-en-Auge est située au nord de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers. La commune compte environ 952 habitants sur 9,4 km², soit environ 101 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Fierville-les-Parcs ou à Norolles, nous pouvons regrouper les passages avec ceux de Le Breuil-en-Auge pour limiter les déplacements."
       ]
@@ -16447,7 +16447,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Breuil-en-Auge : ce que le terrain change pour la pelouse",
       "paras": [
-        "Le Breuil-en-Auge est située au nord de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers.",
+        "Le Breuil-en-Auge est située au nord de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers. La commune compte environ 952 habitants sur 9,4 km², soit environ 101 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Fierville-les-Parcs ou à Norolles, nous pouvons regrouper les passages avec ceux de Le Breuil-en-Auge pour limiter les déplacements."
       ]
@@ -16534,7 +16534,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Breuil-en-Auge : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Le Breuil-en-Auge est située au nord de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers.",
+        "Le Breuil-en-Auge est située au nord de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers. La commune compte environ 952 habitants sur 9,4 km², soit environ 101 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Fierville-les-Parcs ou à Norolles, nous pouvons regrouper les passages avec ceux de Le Breuil-en-Auge pour limiter les déplacements."
       ]
@@ -16621,7 +16621,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Breuil-en-Auge et ses jardins : repères du terrain",
       "paras": [
-        "Le Breuil-en-Auge est située au nord de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers.",
+        "Le Breuil-en-Auge est située au nord de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Fierville-les-Parcs, Norolles, Pierrefitte-en-Auge et Coquainvilliers. La commune compte environ 952 habitants sur 9,4 km², soit environ 101 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Fierville-les-Parcs ou à Norolles, nous pouvons regrouper les passages avec ceux de Le Breuil-en-Auge pour limiter les déplacements."
       ]
@@ -16708,7 +16708,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Glos : ce que le terrain change pour l'élagage",
       "paras": [
-        "Glos est située à l'est de Lisieux, à environ 5 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux.",
+        "Glos est située à l'est de Lisieux, à environ 5 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux. La commune compte environ 931 habitants sur 13,0 km², soit environ 72 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Le Mesnil-Guillaume ou à Beuvillers, nous pouvons regrouper les passages avec ceux de Glos pour limiter les déplacements."
       ]
@@ -16795,7 +16795,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Glos et ses jardins : repères du terrain",
       "paras": [
-        "Glos est située à l'est de Lisieux, à environ 5 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux.",
+        "Glos est située à l'est de Lisieux, à environ 5 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux. La commune compte environ 931 habitants sur 13,0 km², soit environ 72 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Le Mesnil-Guillaume ou à Beuvillers, nous pouvons regrouper les passages avec ceux de Glos pour limiter les déplacements."
       ]
@@ -16882,7 +16882,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Glos selon le quartier",
       "paras": [
-        "Glos est située à l'est de Lisieux, à environ 5 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux.",
+        "Glos est située à l'est de Lisieux, à environ 5 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux. La commune compte environ 931 habitants sur 13,0 km², soit environ 72 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Le Mesnil-Guillaume ou à Beuvillers, nous pouvons regrouper les passages avec ceux de Glos pour limiter les déplacements."
       ]
@@ -16969,7 +16969,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Glos : ce que le terrain change pour la pelouse",
       "paras": [
-        "Glos est située à l'est de Lisieux, à environ 5 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux.",
+        "Glos est située à l'est de Lisieux, à environ 5 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux. La commune compte environ 931 habitants sur 13,0 km², soit environ 72 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Le Mesnil-Guillaume ou à Beuvillers, nous pouvons regrouper les passages avec ceux de Glos pour limiter les déplacements."
       ]
@@ -17056,7 +17056,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Glos : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Glos est située à l'est de Lisieux, à environ 5 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux.",
+        "Glos est située à l'est de Lisieux, à environ 5 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux. La commune compte environ 931 habitants sur 13,0 km², soit environ 72 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Le Mesnil-Guillaume ou à Beuvillers, nous pouvons regrouper les passages avec ceux de Glos pour limiter les déplacements."
       ]
@@ -17143,7 +17143,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Glos et ses jardins : repères du terrain",
       "paras": [
-        "Glos est située à l'est de Lisieux, à environ 5 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux.",
+        "Glos est située à l'est de Lisieux, à environ 5 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Guillaume, Beuvillers, Courtonne-la-Meurdrac et Lisieux. La commune compte environ 931 habitants sur 13,0 km², soit environ 72 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Le Mesnil-Guillaume ou à Beuvillers, nous pouvons regrouper les passages avec ceux de Glos pour limiter les déplacements."
       ]
@@ -17230,7 +17230,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Hermival-les-Vaux : ce que le terrain change pour l'élagage",
       "paras": [
-        "Hermival-les-Vaux est située à l'est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Firfol, Ouilly-du-Houley, Fauguernon et Rocques.",
+        "Hermival-les-Vaux est située à l'est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Firfol, Ouilly-du-Houley, Fauguernon et Rocques. La commune compte environ 861 habitants sur 14,0 km², soit environ 62 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Firfol ou à Ouilly-du-Houley, nous pouvons regrouper les passages avec ceux de Hermival-les-Vaux pour limiter les déplacements."
       ]
@@ -17317,7 +17317,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Hermival-les-Vaux selon le quartier",
       "paras": [
-        "Hermival-les-Vaux est située à l'est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Firfol, Ouilly-du-Houley, Fauguernon et Rocques.",
+        "Hermival-les-Vaux est située à l'est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Firfol, Ouilly-du-Houley, Fauguernon et Rocques. La commune compte environ 861 habitants sur 14,0 km², soit environ 62 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Firfol ou à Ouilly-du-Houley, nous pouvons regrouper les passages avec ceux de Hermival-les-Vaux pour limiter les déplacements."
       ]
@@ -17404,7 +17404,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Hermival-les-Vaux : ce que le terrain change pour les haies",
       "paras": [
-        "Hermival-les-Vaux est située à l'est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Firfol, Ouilly-du-Houley, Fauguernon et Rocques.",
+        "Hermival-les-Vaux est située à l'est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Firfol, Ouilly-du-Houley, Fauguernon et Rocques. La commune compte environ 861 habitants sur 14,0 km², soit environ 62 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Firfol ou à Ouilly-du-Houley, nous pouvons regrouper les passages avec ceux de Hermival-les-Vaux pour limiter les déplacements."
       ]
@@ -17491,7 +17491,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Hermival-les-Vaux et ses pelouses : repères du terrain",
       "paras": [
-        "Hermival-les-Vaux est située à l'est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Firfol, Ouilly-du-Houley, Fauguernon et Rocques.",
+        "Hermival-les-Vaux est située à l'est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Firfol, Ouilly-du-Houley, Fauguernon et Rocques. La commune compte environ 861 habitants sur 14,0 km², soit environ 62 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Firfol ou à Ouilly-du-Houley, nous pouvons regrouper les passages avec ceux de Hermival-les-Vaux pour limiter les déplacements."
       ]
@@ -17578,7 +17578,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Hermival-les-Vaux selon le terrain",
       "paras": [
-        "Hermival-les-Vaux est située à l'est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Firfol, Ouilly-du-Houley, Fauguernon et Rocques.",
+        "Hermival-les-Vaux est située à l'est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Firfol, Ouilly-du-Houley, Fauguernon et Rocques. La commune compte environ 861 habitants sur 14,0 km², soit environ 62 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Firfol ou à Ouilly-du-Houley, nous pouvons regrouper les passages avec ceux de Hermival-les-Vaux pour limiter les déplacements."
       ]
@@ -17665,7 +17665,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Hermival-les-Vaux : ce que le terrain change pour l'entretien",
       "paras": [
-        "Hermival-les-Vaux est située à l'est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Firfol, Ouilly-du-Houley, Fauguernon et Rocques.",
+        "Hermival-les-Vaux est située à l'est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Firfol, Ouilly-du-Houley, Fauguernon et Rocques. La commune compte environ 861 habitants sur 14,0 km², soit environ 62 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Firfol ou à Ouilly-du-Houley, nous pouvons regrouper les passages avec ceux de Hermival-les-Vaux pour limiter les déplacements."
       ]
@@ -17752,7 +17752,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Coquainvilliers et ses arbres : repères du terrain",
       "paras": [
-        "Coquainvilliers est située au nord-ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge.",
+        "Coquainvilliers est située au nord-ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge. La commune compte environ 849 habitants sur 12,0 km², soit environ 71 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Le Torquesne ou à Ouilly-le-Vicomte, nous pouvons regrouper les passages avec ceux de Coquainvilliers pour limiter les déplacements."
       ]
@@ -17839,7 +17839,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Coquainvilliers : ce que le terrain change pour le jardin",
       "paras": [
-        "Coquainvilliers est située au nord-ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge.",
+        "Coquainvilliers est située au nord-ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge. La commune compte environ 849 habitants sur 12,0 km², soit environ 71 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Le Torquesne ou à Ouilly-le-Vicomte, nous pouvons regrouper les passages avec ceux de Coquainvilliers pour limiter les déplacements."
       ]
@@ -17926,7 +17926,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Coquainvilliers : ce que le terrain change pour les haies",
       "paras": [
-        "Coquainvilliers est située au nord-ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge.",
+        "Coquainvilliers est située au nord-ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge. La commune compte environ 849 habitants sur 12,0 km², soit environ 71 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Le Torquesne ou à Ouilly-le-Vicomte, nous pouvons regrouper les passages avec ceux de Coquainvilliers pour limiter les déplacements."
       ]
@@ -18013,7 +18013,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Coquainvilliers : ce que le terrain change pour la pelouse",
       "paras": [
-        "Coquainvilliers est située au nord-ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge.",
+        "Coquainvilliers est située au nord-ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge. La commune compte environ 849 habitants sur 12,0 km², soit environ 71 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Le Torquesne ou à Ouilly-le-Vicomte, nous pouvons regrouper les passages avec ceux de Coquainvilliers pour limiter les déplacements."
       ]
@@ -18100,7 +18100,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Coquainvilliers : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Coquainvilliers est située au nord-ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge.",
+        "Coquainvilliers est située au nord-ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge. La commune compte environ 849 habitants sur 12,0 km², soit environ 71 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Le Torquesne ou à Ouilly-le-Vicomte, nous pouvons regrouper les passages avec ceux de Coquainvilliers pour limiter les déplacements."
       ]
@@ -18187,7 +18187,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Coquainvilliers et ses jardins : repères du terrain",
       "paras": [
-        "Coquainvilliers est située au nord-ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge.",
+        "Coquainvilliers est située au nord-ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Le Torquesne, Ouilly-le-Vicomte, Norolles et Le Breuil-en-Auge. La commune compte environ 849 habitants sur 12,0 km², soit environ 71 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Le Torquesne ou à Ouilly-le-Vicomte, nous pouvons regrouper les passages avec ceux de Coquainvilliers pour limiter les déplacements."
       ]
@@ -18274,7 +18274,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Pré-d'Auge : ce que le terrain change pour l'élagage",
       "paras": [
-        "Le Pré-d'Auge est située à l'ouest de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir.",
+        "Le Pré-d'Auge est située à l'ouest de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir. La commune compte environ 841 habitants sur 10,8 km², soit environ 78 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à La Boissière ou à Saint-Ouen-le-Pin, nous pouvons regrouper les passages avec ceux de Le Pré-d'Auge pour limiter les déplacements."
       ]
@@ -18361,7 +18361,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Le Pré-d'Auge selon le quartier",
       "paras": [
-        "Le Pré-d'Auge est située à l'ouest de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir.",
+        "Le Pré-d'Auge est située à l'ouest de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir. La commune compte environ 841 habitants sur 10,8 km², soit environ 78 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à La Boissière ou à Saint-Ouen-le-Pin, nous pouvons regrouper les passages avec ceux de Le Pré-d'Auge pour limiter les déplacements."
       ]
@@ -18448,7 +18448,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Pré-d'Auge : ce que le terrain change pour les haies",
       "paras": [
-        "Le Pré-d'Auge est située à l'ouest de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir.",
+        "Le Pré-d'Auge est située à l'ouest de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir. La commune compte environ 841 habitants sur 10,8 km², soit environ 78 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à La Boissière ou à Saint-Ouen-le-Pin, nous pouvons regrouper les passages avec ceux de Le Pré-d'Auge pour limiter les déplacements."
       ]
@@ -18535,7 +18535,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Pré-d'Auge : ce que le terrain change pour la pelouse",
       "paras": [
-        "Le Pré-d'Auge est située à l'ouest de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir.",
+        "Le Pré-d'Auge est située à l'ouest de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir. La commune compte environ 841 habitants sur 10,8 km², soit environ 78 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à La Boissière ou à Saint-Ouen-le-Pin, nous pouvons regrouper les passages avec ceux de Le Pré-d'Auge pour limiter les déplacements."
       ]
@@ -18622,7 +18622,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Le Pré-d'Auge selon le terrain",
       "paras": [
-        "Le Pré-d'Auge est située à l'ouest de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir.",
+        "Le Pré-d'Auge est située à l'ouest de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir. La commune compte environ 841 habitants sur 10,8 km², soit environ 78 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à La Boissière ou à Saint-Ouen-le-Pin, nous pouvons regrouper les passages avec ceux de Le Pré-d'Auge pour limiter les déplacements."
       ]
@@ -18709,7 +18709,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Pré-d'Auge et ses jardins : repères du terrain",
       "paras": [
-        "Le Pré-d'Auge est située à l'ouest de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir.",
+        "Le Pré-d'Auge est située à l'ouest de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : La Boissière, Saint-Ouen-le-Pin, Manerbe et Saint-Désir. La commune compte environ 841 habitants sur 10,8 km², soit environ 78 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à La Boissière ou à Saint-Ouen-le-Pin, nous pouvons regrouper les passages avec ceux de Le Pré-d'Auge pour limiter les déplacements."
       ]
@@ -18796,7 +18796,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Blangy-le-Château et ses arbres : repères du terrain",
       "paras": [
-        "Blangy-le-Château est située au nord-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs.",
+        "Blangy-le-Château est située au nord-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs. La commune compte environ 828 habitants sur 10,7 km², soit environ 78 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Le Mesnil-sur-Blangy ou à Le Brévedent, nous pouvons regrouper les passages avec ceux de Blangy-le-Château pour limiter les déplacements."
       ]
@@ -18883,7 +18883,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Blangy-le-Château : ce que le terrain change pour le jardin",
       "paras": [
-        "Blangy-le-Château est située au nord-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs.",
+        "Blangy-le-Château est située au nord-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs. La commune compte environ 828 habitants sur 10,7 km², soit environ 78 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Le Mesnil-sur-Blangy ou à Le Brévedent, nous pouvons regrouper les passages avec ceux de Blangy-le-Château pour limiter les déplacements."
       ]
@@ -18970,7 +18970,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Blangy-le-Château : ce que le terrain change pour les haies",
       "paras": [
-        "Blangy-le-Château est située au nord-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs.",
+        "Blangy-le-Château est située au nord-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs. La commune compte environ 828 habitants sur 10,7 km², soit environ 78 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Le Mesnil-sur-Blangy ou à Le Brévedent, nous pouvons regrouper les passages avec ceux de Blangy-le-Château pour limiter les déplacements."
       ]
@@ -19057,7 +19057,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Blangy-le-Château et ses pelouses : repères du terrain",
       "paras": [
-        "Blangy-le-Château est située au nord-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs.",
+        "Blangy-le-Château est située au nord-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs. La commune compte environ 828 habitants sur 10,7 km², soit environ 78 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Le Mesnil-sur-Blangy ou à Le Brévedent, nous pouvons regrouper les passages avec ceux de Blangy-le-Château pour limiter les déplacements."
       ]
@@ -19144,7 +19144,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Blangy-le-Château selon le terrain",
       "paras": [
-        "Blangy-le-Château est située au nord-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs.",
+        "Blangy-le-Château est située au nord-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs. La commune compte environ 828 habitants sur 10,7 km², soit environ 78 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Le Mesnil-sur-Blangy ou à Le Brévedent, nous pouvons regrouper les passages avec ceux de Blangy-le-Château pour limiter les déplacements."
       ]
@@ -19231,7 +19231,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Blangy-le-Château et ses jardins : repères du terrain",
       "paras": [
-        "Blangy-le-Château est située au nord-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs.",
+        "Blangy-le-Château est située au nord-est de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-sur-Blangy, Le Brévedent, Le Faulq et Fierville-les-Parcs. La commune compte environ 828 habitants sur 10,7 km², soit environ 78 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Le Mesnil-sur-Blangy ou à Le Brévedent, nous pouvons regrouper les passages avec ceux de Blangy-le-Château pour limiter les déplacements."
       ]
@@ -19318,7 +19318,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Bonneville-la-Louvet selon le quartier",
       "paras": [
-        "Bonneville-la-Louvet est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles.",
+        "Bonneville-la-Louvet est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles. La commune compte environ 825 habitants sur 20,9 km², soit environ 39 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à La Lande-Saint-Léger ou à Le Bois-Hellain, nous pouvons regrouper les passages avec ceux de Bonneville-la-Louvet pour limiter les déplacements."
       ]
@@ -19405,7 +19405,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bonneville-la-Louvet : ce que le terrain change pour le jardin",
       "paras": [
-        "Bonneville-la-Louvet est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles.",
+        "Bonneville-la-Louvet est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles. La commune compte environ 825 habitants sur 20,9 km², soit environ 39 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à La Lande-Saint-Léger ou à Le Bois-Hellain, nous pouvons regrouper les passages avec ceux de Bonneville-la-Louvet pour limiter les déplacements."
       ]
@@ -19492,7 +19492,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Bonneville-la-Louvet selon le quartier",
       "paras": [
-        "Bonneville-la-Louvet est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles.",
+        "Bonneville-la-Louvet est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles. La commune compte environ 825 habitants sur 20,9 km², soit environ 39 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à La Lande-Saint-Léger ou à Le Bois-Hellain, nous pouvons regrouper les passages avec ceux de Bonneville-la-Louvet pour limiter les déplacements."
       ]
@@ -19579,7 +19579,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Bonneville-la-Louvet selon le quartier",
       "paras": [
-        "Bonneville-la-Louvet est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles.",
+        "Bonneville-la-Louvet est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles. La commune compte environ 825 habitants sur 20,9 km², soit environ 39 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à La Lande-Saint-Léger ou à Le Bois-Hellain, nous pouvons regrouper les passages avec ceux de Bonneville-la-Louvet pour limiter les déplacements."
       ]
@@ -19666,7 +19666,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bonneville-la-Louvet et ses terrains : repères",
       "paras": [
-        "Bonneville-la-Louvet est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles.",
+        "Bonneville-la-Louvet est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles. La commune compte environ 825 habitants sur 20,9 km², soit environ 39 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à La Lande-Saint-Léger ou à Le Bois-Hellain, nous pouvons regrouper les passages avec ceux de Bonneville-la-Louvet pour limiter les déplacements."
       ]
@@ -19753,7 +19753,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Bonneville-la-Louvet selon le quartier",
       "paras": [
-        "Bonneville-la-Louvet est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles.",
+        "Bonneville-la-Louvet est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : La Lande-Saint-Léger, Le Bois-Hellain, Le Faulq et Cormeilles. La commune compte environ 825 habitants sur 20,9 km², soit environ 39 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à La Lande-Saint-Léger ou à Le Bois-Hellain, nous pouvons regrouper les passages avec ceux de Bonneville-la-Louvet pour limiter les déplacements."
       ]
@@ -19840,7 +19840,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Pin : ce que le terrain change pour l'élagage",
       "paras": [
-        "Le Pin est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent.",
+        "Le Pin est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent. La commune compte environ 797 habitants sur 11,6 km², soit environ 69 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Moyaux ou à Saint-Pierre-de-Cormeilles, nous pouvons regrouper les passages avec ceux de Le Pin pour limiter les déplacements."
       ]
@@ -19927,7 +19927,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Pin : ce que le terrain change pour le jardin",
       "paras": [
-        "Le Pin est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent.",
+        "Le Pin est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent. La commune compte environ 797 habitants sur 11,6 km², soit environ 69 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Moyaux ou à Saint-Pierre-de-Cormeilles, nous pouvons regrouper les passages avec ceux de Le Pin pour limiter les déplacements."
       ]
@@ -20014,7 +20014,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Pin et ses haies : repères du terrain",
       "paras": [
-        "Le Pin est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent.",
+        "Le Pin est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent. La commune compte environ 797 habitants sur 11,6 km², soit environ 69 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Moyaux ou à Saint-Pierre-de-Cormeilles, nous pouvons regrouper les passages avec ceux de Le Pin pour limiter les déplacements."
       ]
@@ -20101,7 +20101,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Pin et ses pelouses : repères du terrain",
       "paras": [
-        "Le Pin est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent.",
+        "Le Pin est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent. La commune compte environ 797 habitants sur 11,6 km², soit environ 69 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Moyaux ou à Saint-Pierre-de-Cormeilles, nous pouvons regrouper les passages avec ceux de Le Pin pour limiter les déplacements."
       ]
@@ -20188,7 +20188,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Le Pin selon le terrain",
       "paras": [
-        "Le Pin est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent.",
+        "Le Pin est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent. La commune compte environ 797 habitants sur 11,6 km², soit environ 69 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Moyaux ou à Saint-Pierre-de-Cormeilles, nous pouvons regrouper les passages avec ceux de Le Pin pour limiter les déplacements."
       ]
@@ -20275,7 +20275,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Pin : ce que le terrain change pour l'entretien",
       "paras": [
-        "Le Pin est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent.",
+        "Le Pin est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Moyaux, Saint-Pierre-de-Cormeilles, Le Faulq et Le Brévedent. La commune compte environ 797 habitants sur 11,6 km², soit environ 69 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Moyaux ou à Saint-Pierre-de-Cormeilles, nous pouvons regrouper les passages avec ceux de Le Pin pour limiter les déplacements."
       ]
@@ -20362,7 +20362,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Martin-de-la-Lieue et ses arbres : repères du terrain",
       "paras": [
-        "Saint-Martin-de-la-Lieue est située au sud de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet.",
+        "Saint-Martin-de-la-Lieue est située au sud de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet. La commune compte environ 763 habitants sur 8,4 km², soit environ 91 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Saint-Jean-de-Livet ou à Beuvillers, nous pouvons regrouper les passages avec ceux de Saint-Martin-de-la-Lieue pour limiter les déplacements."
       ]
@@ -20449,7 +20449,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Martin-de-la-Lieue : ce que le terrain change pour le jardin",
       "paras": [
-        "Saint-Martin-de-la-Lieue est située au sud de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet.",
+        "Saint-Martin-de-la-Lieue est située au sud de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet. La commune compte environ 763 habitants sur 8,4 km², soit environ 91 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Saint-Jean-de-Livet ou à Beuvillers, nous pouvons regrouper les passages avec ceux de Saint-Martin-de-la-Lieue pour limiter les déplacements."
       ]
@@ -20536,7 +20536,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Saint-Martin-de-la-Lieue selon le quartier",
       "paras": [
-        "Saint-Martin-de-la-Lieue est située au sud de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet.",
+        "Saint-Martin-de-la-Lieue est située au sud de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet. La commune compte environ 763 habitants sur 8,4 km², soit environ 91 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Saint-Jean-de-Livet ou à Beuvillers, nous pouvons regrouper les passages avec ceux de Saint-Martin-de-la-Lieue pour limiter les déplacements."
       ]
@@ -20623,7 +20623,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Martin-de-la-Lieue et ses pelouses : repères du terrain",
       "paras": [
-        "Saint-Martin-de-la-Lieue est située au sud de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet.",
+        "Saint-Martin-de-la-Lieue est située au sud de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet. La commune compte environ 763 habitants sur 8,4 km², soit environ 91 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Saint-Jean-de-Livet ou à Beuvillers, nous pouvons regrouper les passages avec ceux de Saint-Martin-de-la-Lieue pour limiter les déplacements."
       ]
@@ -20710,7 +20710,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Martin-de-la-Lieue et ses terrains : repères",
       "paras": [
-        "Saint-Martin-de-la-Lieue est située au sud de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet.",
+        "Saint-Martin-de-la-Lieue est située au sud de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet. La commune compte environ 763 habitants sur 8,4 km², soit environ 91 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Saint-Jean-de-Livet ou à Beuvillers, nous pouvons regrouper les passages avec ceux de Saint-Martin-de-la-Lieue pour limiter les déplacements."
       ]
@@ -20797,7 +20797,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Saint-Martin-de-la-Lieue selon le quartier",
       "paras": [
-        "Saint-Martin-de-la-Lieue est située au sud de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet.",
+        "Saint-Martin-de-la-Lieue est située au sud de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Jean-de-Livet, Beuvillers, Le Mesnil-Eudes et Saint-Germain-de-Livet. La commune compte environ 763 habitants sur 8,4 km², soit environ 91 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Saint-Jean-de-Livet ou à Beuvillers, nous pouvons regrouper les passages avec ceux de Saint-Martin-de-la-Lieue pour limiter les déplacements."
       ]
@@ -20884,7 +20884,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Ouilly-le-Vicomte et ses arbres : repères du terrain",
       "paras": [
-        "Ouilly-le-Vicomte est située au nord-ouest de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Rocques, Norolles et Saint-Désir.",
+        "Ouilly-le-Vicomte est située au nord-ouest de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Rocques, Norolles et Saint-Désir. La commune compte environ 756 habitants sur 8,0 km², soit environ 95 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Coquainvilliers ou à Rocques, nous pouvons regrouper les passages avec ceux de Ouilly-le-Vicomte pour limiter les déplacements."
       ]
@@ -20971,7 +20971,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Ouilly-le-Vicomte : ce que le terrain change pour le jardin",
       "paras": [
-        "Ouilly-le-Vicomte est située au nord-ouest de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Rocques, Norolles et Saint-Désir.",
+        "Ouilly-le-Vicomte est située au nord-ouest de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Rocques, Norolles et Saint-Désir. La commune compte environ 756 habitants sur 8,0 km², soit environ 95 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Coquainvilliers ou à Rocques, nous pouvons regrouper les passages avec ceux de Ouilly-le-Vicomte pour limiter les déplacements."
       ]
@@ -21058,7 +21058,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Ouilly-le-Vicomte et ses haies : repères du terrain",
       "paras": [
-        "Ouilly-le-Vicomte est située au nord-ouest de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Rocques, Norolles et Saint-Désir.",
+        "Ouilly-le-Vicomte est située au nord-ouest de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Rocques, Norolles et Saint-Désir. La commune compte environ 756 habitants sur 8,0 km², soit environ 95 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Coquainvilliers ou à Rocques, nous pouvons regrouper les passages avec ceux de Ouilly-le-Vicomte pour limiter les déplacements."
       ]
@@ -21145,7 +21145,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Ouilly-le-Vicomte et ses pelouses : repères du terrain",
       "paras": [
-        "Ouilly-le-Vicomte est située au nord-ouest de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Rocques, Norolles et Saint-Désir.",
+        "Ouilly-le-Vicomte est située au nord-ouest de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Rocques, Norolles et Saint-Désir. La commune compte environ 756 habitants sur 8,0 km², soit environ 95 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Coquainvilliers ou à Rocques, nous pouvons regrouper les passages avec ceux de Ouilly-le-Vicomte pour limiter les déplacements."
       ]
@@ -21232,7 +21232,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Ouilly-le-Vicomte : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Ouilly-le-Vicomte est située au nord-ouest de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Rocques, Norolles et Saint-Désir.",
+        "Ouilly-le-Vicomte est située au nord-ouest de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Rocques, Norolles et Saint-Désir. La commune compte environ 756 habitants sur 8,0 km², soit environ 95 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Coquainvilliers ou à Rocques, nous pouvons regrouper les passages avec ceux de Ouilly-le-Vicomte pour limiter les déplacements."
       ]
@@ -21319,7 +21319,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Ouilly-le-Vicomte : ce que le terrain change pour l'entretien",
       "paras": [
-        "Ouilly-le-Vicomte est située au nord-ouest de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Rocques, Norolles et Saint-Désir.",
+        "Ouilly-le-Vicomte est située au nord-ouest de Lisieux, à environ 4 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Rocques, Norolles et Saint-Désir. La commune compte environ 756 habitants sur 8,0 km², soit environ 95 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Coquainvilliers ou à Rocques, nous pouvons regrouper les passages avec ceux de Ouilly-le-Vicomte pour limiter les déplacements."
       ]
@@ -21406,7 +21406,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Marolles : ce que le terrain change pour l'élagage",
       "paras": [
-        "Marolles est située à l'est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac.",
+        "Marolles est située à l'est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac. La commune compte environ 749 habitants sur 12,3 km², soit environ 61 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à L'Hôtellerie ou à Cordebugle, nous pouvons regrouper les passages avec ceux de Marolles pour limiter les déplacements."
       ]
@@ -21493,7 +21493,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Marolles : ce que le terrain change pour le jardin",
       "paras": [
-        "Marolles est située à l'est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac.",
+        "Marolles est située à l'est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac. La commune compte environ 749 habitants sur 12,3 km², soit environ 61 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à L'Hôtellerie ou à Cordebugle, nous pouvons regrouper les passages avec ceux de Marolles pour limiter les déplacements."
       ]
@@ -21580,7 +21580,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Marolles selon le quartier",
       "paras": [
-        "Marolles est située à l'est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac.",
+        "Marolles est située à l'est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac. La commune compte environ 749 habitants sur 12,3 km², soit environ 61 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à L'Hôtellerie ou à Cordebugle, nous pouvons regrouper les passages avec ceux de Marolles pour limiter les déplacements."
       ]
@@ -21667,7 +21667,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Marolles selon le quartier",
       "paras": [
-        "Marolles est située à l'est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac.",
+        "Marolles est située à l'est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac. La commune compte environ 749 habitants sur 12,3 km², soit environ 61 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à L'Hôtellerie ou à Cordebugle, nous pouvons regrouper les passages avec ceux de Marolles pour limiter les déplacements."
       ]
@@ -21754,7 +21754,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Marolles : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Marolles est située à l'est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac.",
+        "Marolles est située à l'est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac. La commune compte environ 749 habitants sur 12,3 km², soit environ 61 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à L'Hôtellerie ou à Cordebugle, nous pouvons regrouper les passages avec ceux de Marolles pour limiter les déplacements."
       ]
@@ -21841,7 +21841,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Marolles : ce que le terrain change pour l'entretien",
       "paras": [
-        "Marolles est située à l'est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac.",
+        "Marolles est située à l'est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : L'Hôtellerie, Cordebugle, Fumichon et Courtonne-la-Meurdrac. La commune compte environ 749 habitants sur 12,3 km², soit environ 61 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à L'Hôtellerie ou à Cordebugle, nous pouvons regrouper les passages avec ceux de Marolles pour limiter les déplacements."
       ]
@@ -21928,7 +21928,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Germain-de-Livet : ce que le terrain change pour l'élagage",
       "paras": [
-        "Saint-Germain-de-Livet est située au sud-ouest de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville.",
+        "Saint-Germain-de-Livet est située au sud-ouest de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville. La commune compte environ 688 habitants sur 16,5 km², soit environ 42 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Le Mesnil-Eudes ou à Saint-Jean-de-Livet, nous pouvons regrouper les passages avec ceux de Saint-Germain-de-Livet pour limiter les déplacements."
       ]
@@ -22015,7 +22015,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Germain-de-Livet : ce que le terrain change pour le jardin",
       "paras": [
-        "Saint-Germain-de-Livet est située au sud-ouest de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville.",
+        "Saint-Germain-de-Livet est située au sud-ouest de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville. La commune compte environ 688 habitants sur 16,5 km², soit environ 42 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Le Mesnil-Eudes ou à Saint-Jean-de-Livet, nous pouvons regrouper les passages avec ceux de Saint-Germain-de-Livet pour limiter les déplacements."
       ]
@@ -22102,7 +22102,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Germain-de-Livet et ses haies : repères du terrain",
       "paras": [
-        "Saint-Germain-de-Livet est située au sud-ouest de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville.",
+        "Saint-Germain-de-Livet est située au sud-ouest de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville. La commune compte environ 688 habitants sur 16,5 km², soit environ 42 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Le Mesnil-Eudes ou à Saint-Jean-de-Livet, nous pouvons regrouper les passages avec ceux de Saint-Germain-de-Livet pour limiter les déplacements."
       ]
@@ -22189,7 +22189,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Germain-de-Livet et ses pelouses : repères du terrain",
       "paras": [
-        "Saint-Germain-de-Livet est située au sud-ouest de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville.",
+        "Saint-Germain-de-Livet est située au sud-ouest de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville. La commune compte environ 688 habitants sur 16,5 km², soit environ 42 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Le Mesnil-Eudes ou à Saint-Jean-de-Livet, nous pouvons regrouper les passages avec ceux de Saint-Germain-de-Livet pour limiter les déplacements."
       ]
@@ -22276,7 +22276,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Saint-Germain-de-Livet selon le terrain",
       "paras": [
-        "Saint-Germain-de-Livet est située au sud-ouest de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville.",
+        "Saint-Germain-de-Livet est située au sud-ouest de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville. La commune compte environ 688 habitants sur 16,5 km², soit environ 42 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Le Mesnil-Eudes ou à Saint-Jean-de-Livet, nous pouvons regrouper les passages avec ceux de Saint-Germain-de-Livet pour limiter les déplacements."
       ]
@@ -22363,7 +22363,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Germain-de-Livet et ses jardins : repères du terrain",
       "paras": [
-        "Saint-Germain-de-Livet est située au sud-ouest de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville.",
+        "Saint-Germain-de-Livet est située au sud-ouest de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Mesnil-Eudes, Saint-Jean-de-Livet, Saint-Martin-de-la-Lieue et Prêtreville. La commune compte environ 688 habitants sur 16,5 km², soit environ 42 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Le Mesnil-Eudes ou à Saint-Jean-de-Livet, nous pouvons regrouper les passages avec ceux de Saint-Germain-de-Livet pour limiter les déplacements."
       ]
@@ -22450,7 +22450,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Courtonne-la-Meurdrac : ce que le terrain change pour l'élagage",
       "paras": [
-        "Courtonne-la-Meurdrac est située à l'est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos.",
+        "Courtonne-la-Meurdrac est située à l'est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos. La commune compte environ 683 habitants sur 12,8 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Saint-Denis-de-Mailloc ou à Cordebugle, nous pouvons regrouper les passages avec ceux de Courtonne-la-Meurdrac pour limiter les déplacements."
       ]
@@ -22537,7 +22537,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Courtonne-la-Meurdrac : ce que le terrain change pour le jardin",
       "paras": [
-        "Courtonne-la-Meurdrac est située à l'est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos.",
+        "Courtonne-la-Meurdrac est située à l'est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos. La commune compte environ 683 habitants sur 12,8 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Saint-Denis-de-Mailloc ou à Cordebugle, nous pouvons regrouper les passages avec ceux de Courtonne-la-Meurdrac pour limiter les déplacements."
       ]
@@ -22624,7 +22624,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Courtonne-la-Meurdrac : ce que le terrain change pour les haies",
       "paras": [
-        "Courtonne-la-Meurdrac est située à l'est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos.",
+        "Courtonne-la-Meurdrac est située à l'est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos. La commune compte environ 683 habitants sur 12,8 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Saint-Denis-de-Mailloc ou à Cordebugle, nous pouvons regrouper les passages avec ceux de Courtonne-la-Meurdrac pour limiter les déplacements."
       ]
@@ -22711,7 +22711,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Courtonne-la-Meurdrac et ses pelouses : repères du terrain",
       "paras": [
-        "Courtonne-la-Meurdrac est située à l'est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos.",
+        "Courtonne-la-Meurdrac est située à l'est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos. La commune compte environ 683 habitants sur 12,8 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Saint-Denis-de-Mailloc ou à Cordebugle, nous pouvons regrouper les passages avec ceux de Courtonne-la-Meurdrac pour limiter les déplacements."
       ]
@@ -22798,7 +22798,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Courtonne-la-Meurdrac et ses terrains : repères",
       "paras": [
-        "Courtonne-la-Meurdrac est située à l'est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos.",
+        "Courtonne-la-Meurdrac est située à l'est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos. La commune compte environ 683 habitants sur 12,8 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Saint-Denis-de-Mailloc ou à Cordebugle, nous pouvons regrouper les passages avec ceux de Courtonne-la-Meurdrac pour limiter les déplacements."
       ]
@@ -22885,7 +22885,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Courtonne-la-Meurdrac selon le quartier",
       "paras": [
-        "Courtonne-la-Meurdrac est située à l'est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos.",
+        "Courtonne-la-Meurdrac est située à l'est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Denis-de-Mailloc, Cordebugle, Marolles et Glos. La commune compte environ 683 habitants sur 12,8 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Saint-Denis-de-Mailloc ou à Cordebugle, nous pouvons regrouper les passages avec ceux de Courtonne-la-Meurdrac pour limiter les déplacements."
       ]
@@ -22972,7 +22972,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Hymer et ses arbres : repères du terrain",
       "paras": [
-        "Saint-Hymer est située au nord-ouest de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux.",
+        "Saint-Hymer est située au nord-ouest de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux. La commune compte environ 656 habitants sur 12,6 km², soit environ 52 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Clarbec ou à Le Torquesne, nous pouvons regrouper les passages avec ceux de Saint-Hymer pour limiter les déplacements."
       ]
@@ -23059,7 +23059,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Hymer : ce que le terrain change pour le jardin",
       "paras": [
-        "Saint-Hymer est située au nord-ouest de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux.",
+        "Saint-Hymer est située au nord-ouest de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux. La commune compte environ 656 habitants sur 12,6 km², soit environ 52 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Clarbec ou à Le Torquesne, nous pouvons regrouper les passages avec ceux de Saint-Hymer pour limiter les déplacements."
       ]
@@ -23146,7 +23146,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Saint-Hymer selon le quartier",
       "paras": [
-        "Saint-Hymer est située au nord-ouest de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux.",
+        "Saint-Hymer est située au nord-ouest de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux. La commune compte environ 656 habitants sur 12,6 km², soit environ 52 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Clarbec ou à Le Torquesne, nous pouvons regrouper les passages avec ceux de Saint-Hymer pour limiter les déplacements."
       ]
@@ -23233,7 +23233,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Hymer et ses pelouses : repères du terrain",
       "paras": [
-        "Saint-Hymer est située au nord-ouest de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux.",
+        "Saint-Hymer est située au nord-ouest de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux. La commune compte environ 656 habitants sur 12,6 km², soit environ 52 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Clarbec ou à Le Torquesne, nous pouvons regrouper les passages avec ceux de Saint-Hymer pour limiter les déplacements."
       ]
@@ -23320,7 +23320,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Hymer et ses terrains : repères",
       "paras": [
-        "Saint-Hymer est située au nord-ouest de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux.",
+        "Saint-Hymer est située au nord-ouest de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux. La commune compte environ 656 habitants sur 12,6 km², soit environ 52 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Clarbec ou à Le Torquesne, nous pouvons regrouper les passages avec ceux de Saint-Hymer pour limiter les déplacements."
       ]
@@ -23407,7 +23407,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Hymer et ses jardins : repères du terrain",
       "paras": [
-        "Saint-Hymer est située au nord-ouest de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux.",
+        "Saint-Hymer est située au nord-ouest de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Clarbec, Le Torquesne, Pierrefitte-en-Auge et Reux. La commune compte environ 656 habitants sur 12,6 km², soit environ 52 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Clarbec ou à Le Torquesne, nous pouvons regrouper les passages avec ceux de Saint-Hymer pour limiter les déplacements."
       ]
@@ -23494,7 +23494,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bonnebosq : ce que le terrain change pour l'élagage",
       "paras": [
-        "Bonnebosq est située au nord-ouest de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Auvillars, Valsemé, Formentin et Clarbec.",
+        "Bonnebosq est située au nord-ouest de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Auvillars, Valsemé, Formentin et Clarbec. La commune compte environ 649 habitants sur 12,3 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Auvillars ou à Valsemé, nous pouvons regrouper les passages avec ceux de Bonnebosq pour limiter les déplacements."
       ]
@@ -23581,7 +23581,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bonnebosq et ses jardins : repères du terrain",
       "paras": [
-        "Bonnebosq est située au nord-ouest de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Auvillars, Valsemé, Formentin et Clarbec.",
+        "Bonnebosq est située au nord-ouest de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Auvillars, Valsemé, Formentin et Clarbec. La commune compte environ 649 habitants sur 12,3 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Auvillars ou à Valsemé, nous pouvons regrouper les passages avec ceux de Bonnebosq pour limiter les déplacements."
       ]
@@ -23668,7 +23668,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Bonnebosq selon le quartier",
       "paras": [
-        "Bonnebosq est située au nord-ouest de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Auvillars, Valsemé, Formentin et Clarbec.",
+        "Bonnebosq est située au nord-ouest de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Auvillars, Valsemé, Formentin et Clarbec. La commune compte environ 649 habitants sur 12,3 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Auvillars ou à Valsemé, nous pouvons regrouper les passages avec ceux de Bonnebosq pour limiter les déplacements."
       ]
@@ -23755,7 +23755,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Bonnebosq selon le quartier",
       "paras": [
-        "Bonnebosq est située au nord-ouest de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Auvillars, Valsemé, Formentin et Clarbec.",
+        "Bonnebosq est située au nord-ouest de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Auvillars, Valsemé, Formentin et Clarbec. La commune compte environ 649 habitants sur 12,3 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Auvillars ou à Valsemé, nous pouvons regrouper les passages avec ceux de Bonnebosq pour limiter les déplacements."
       ]
@@ -23842,7 +23842,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bonnebosq et ses terrains : repères",
       "paras": [
-        "Bonnebosq est située au nord-ouest de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Auvillars, Valsemé, Formentin et Clarbec.",
+        "Bonnebosq est située au nord-ouest de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Auvillars, Valsemé, Formentin et Clarbec. La commune compte environ 649 habitants sur 12,3 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Auvillars ou à Valsemé, nous pouvons regrouper les passages avec ceux de Bonnebosq pour limiter les déplacements."
       ]
@@ -23929,7 +23929,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Bonnebosq selon le quartier",
       "paras": [
-        "Bonnebosq est située au nord-ouest de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Auvillars, Valsemé, Formentin et Clarbec.",
+        "Bonnebosq est située au nord-ouest de Lisieux, à environ 12 km à vol d'oiseau (Calvados). Ses communes voisines : Auvillars, Valsemé, Formentin et Clarbec. La commune compte environ 649 habitants sur 12,3 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Auvillars ou à Valsemé, nous pouvons regrouper les passages avec ceux de Bonnebosq pour limiter les déplacements."
       ]
@@ -24016,7 +24016,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Philbert-des-Champs : ce que le terrain change pour l'élagage",
       "paras": [
-        "Saint-Philbert-des-Champs est située au nord-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge.",
+        "Saint-Philbert-des-Champs est située au nord-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge. La commune compte environ 639 habitants sur 12,1 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Le Brévedent ou à Fauguernon, nous pouvons regrouper les passages avec ceux de Saint-Philbert-des-Champs pour limiter les déplacements."
       ]
@@ -24103,7 +24103,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Philbert-des-Champs et ses jardins : repères du terrain",
       "paras": [
-        "Saint-Philbert-des-Champs est située au nord-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge.",
+        "Saint-Philbert-des-Champs est située au nord-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge. La commune compte environ 639 habitants sur 12,1 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Le Brévedent ou à Fauguernon, nous pouvons regrouper les passages avec ceux de Saint-Philbert-des-Champs pour limiter les déplacements."
       ]
@@ -24190,7 +24190,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Saint-Philbert-des-Champs selon le quartier",
       "paras": [
-        "Saint-Philbert-des-Champs est située au nord-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge.",
+        "Saint-Philbert-des-Champs est située au nord-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge. La commune compte environ 639 habitants sur 12,1 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Le Brévedent ou à Fauguernon, nous pouvons regrouper les passages avec ceux de Saint-Philbert-des-Champs pour limiter les déplacements."
       ]
@@ -24277,7 +24277,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Philbert-des-Champs : ce que le terrain change pour la pelouse",
       "paras": [
-        "Saint-Philbert-des-Champs est située au nord-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge.",
+        "Saint-Philbert-des-Champs est située au nord-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge. La commune compte environ 639 habitants sur 12,1 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Le Brévedent ou à Fauguernon, nous pouvons regrouper les passages avec ceux de Saint-Philbert-des-Champs pour limiter les déplacements."
       ]
@@ -24364,7 +24364,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Philbert-des-Champs et ses terrains : repères",
       "paras": [
-        "Saint-Philbert-des-Champs est située au nord-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge.",
+        "Saint-Philbert-des-Champs est située au nord-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge. La commune compte environ 639 habitants sur 12,1 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Le Brévedent ou à Fauguernon, nous pouvons regrouper les passages avec ceux de Saint-Philbert-des-Champs pour limiter les déplacements."
       ]
@@ -24451,7 +24451,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Philbert-des-Champs : ce que le terrain change pour l'entretien",
       "paras": [
-        "Saint-Philbert-des-Champs est située au nord-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge.",
+        "Saint-Philbert-des-Champs est située au nord-est de Lisieux, à environ 8 km à vol d'oiseau (Calvados). Ses communes voisines : Le Brévedent, Fauguernon, Norolles et Le Breuil-en-Auge. La commune compte environ 639 habitants sur 12,1 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Le Brévedent ou à Fauguernon, nous pouvons regrouper les passages avec ceux de Saint-Philbert-des-Champs pour limiter les déplacements."
       ]
@@ -24538,7 +24538,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Courtonne-les-Deux-Églises selon le quartier",
       "paras": [
-        "Courtonne-les-Deux-Églises est située à l'est de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc.",
+        "Courtonne-les-Deux-Églises est située à l'est de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc. La commune compte environ 627 habitants sur 14,0 km², soit environ 45 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Cordebugle ou à Le Planquay, nous pouvons regrouper les passages avec ceux de Courtonne-les-Deux-Églises pour limiter les déplacements."
       ]
@@ -24625,7 +24625,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Courtonne-les-Deux-Églises : ce que le terrain change pour le jardin",
       "paras": [
-        "Courtonne-les-Deux-Églises est située à l'est de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc.",
+        "Courtonne-les-Deux-Églises est située à l'est de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc. La commune compte environ 627 habitants sur 14,0 km², soit environ 45 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Cordebugle ou à Le Planquay, nous pouvons regrouper les passages avec ceux de Courtonne-les-Deux-Églises pour limiter les déplacements."
       ]
@@ -24712,7 +24712,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Courtonne-les-Deux-Églises : ce que le terrain change pour les haies",
       "paras": [
-        "Courtonne-les-Deux-Églises est située à l'est de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc.",
+        "Courtonne-les-Deux-Églises est située à l'est de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc. La commune compte environ 627 habitants sur 14,0 km², soit environ 45 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Cordebugle ou à Le Planquay, nous pouvons regrouper les passages avec ceux de Courtonne-les-Deux-Églises pour limiter les déplacements."
       ]
@@ -24799,7 +24799,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Courtonne-les-Deux-Églises et ses pelouses : repères du terrain",
       "paras": [
-        "Courtonne-les-Deux-Églises est située à l'est de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc.",
+        "Courtonne-les-Deux-Églises est située à l'est de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc. La commune compte environ 627 habitants sur 14,0 km², soit environ 45 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Cordebugle ou à Le Planquay, nous pouvons regrouper les passages avec ceux de Courtonne-les-Deux-Églises pour limiter les déplacements."
       ]
@@ -24886,7 +24886,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Courtonne-les-Deux-Églises : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Courtonne-les-Deux-Églises est située à l'est de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc.",
+        "Courtonne-les-Deux-Églises est située à l'est de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc. La commune compte environ 627 habitants sur 14,0 km², soit environ 45 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Cordebugle ou à Le Planquay, nous pouvons regrouper les passages avec ceux de Courtonne-les-Deux-Églises pour limiter les déplacements."
       ]
@@ -24973,7 +24973,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Courtonne-les-Deux-Églises et ses jardins : repères du terrain",
       "paras": [
-        "Courtonne-les-Deux-Églises est située à l'est de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc.",
+        "Courtonne-les-Deux-Églises est située à l'est de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Cordebugle, Le Planquay, Valorbiquet et Saint-Denis-de-Mailloc. La commune compte environ 627 habitants sur 14,0 km², soit environ 45 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Cordebugle ou à Le Planquay, nous pouvons regrouper les passages avec ceux de Courtonne-les-Deux-Églises pour limiter les déplacements."
       ]
@@ -25060,7 +25060,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Mesnil-Guillaume : ce que le terrain change pour l'élagage",
       "paras": [
-        "Le Mesnil-Guillaume est située au sud-est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet.",
+        "Le Mesnil-Guillaume est située au sud-est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet. La commune compte environ 551 habitants sur 3,9 km², soit environ 142 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Saint-Martin-de-Mailloc ou à Glos, nous pouvons regrouper les passages avec ceux de Le Mesnil-Guillaume pour limiter les déplacements."
       ]
@@ -25147,7 +25147,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Le Mesnil-Guillaume selon le quartier",
       "paras": [
-        "Le Mesnil-Guillaume est située au sud-est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet.",
+        "Le Mesnil-Guillaume est située au sud-est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet. La commune compte environ 551 habitants sur 3,9 km², soit environ 142 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Saint-Martin-de-Mailloc ou à Glos, nous pouvons regrouper les passages avec ceux de Le Mesnil-Guillaume pour limiter les déplacements."
       ]
@@ -25234,7 +25234,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Mesnil-Guillaume : ce que le terrain change pour les haies",
       "paras": [
-        "Le Mesnil-Guillaume est située au sud-est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet.",
+        "Le Mesnil-Guillaume est située au sud-est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet. La commune compte environ 551 habitants sur 3,9 km², soit environ 142 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Saint-Martin-de-Mailloc ou à Glos, nous pouvons regrouper les passages avec ceux de Le Mesnil-Guillaume pour limiter les déplacements."
       ]
@@ -25321,7 +25321,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Mesnil-Guillaume : ce que le terrain change pour la pelouse",
       "paras": [
-        "Le Mesnil-Guillaume est située au sud-est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet.",
+        "Le Mesnil-Guillaume est située au sud-est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet. La commune compte environ 551 habitants sur 3,9 km², soit environ 142 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Saint-Martin-de-Mailloc ou à Glos, nous pouvons regrouper les passages avec ceux de Le Mesnil-Guillaume pour limiter les déplacements."
       ]
@@ -25408,7 +25408,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Mesnil-Guillaume et ses terrains : repères",
       "paras": [
-        "Le Mesnil-Guillaume est située au sud-est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet.",
+        "Le Mesnil-Guillaume est située au sud-est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet. La commune compte environ 551 habitants sur 3,9 km², soit environ 142 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Saint-Martin-de-Mailloc ou à Glos, nous pouvons regrouper les passages avec ceux de Le Mesnil-Guillaume pour limiter les déplacements."
       ]
@@ -25495,7 +25495,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Le Mesnil-Guillaume selon le quartier",
       "paras": [
-        "Le Mesnil-Guillaume est située au sud-est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet.",
+        "Le Mesnil-Guillaume est située au sud-est de Lisieux, à environ 6 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Mailloc, Glos, Saint-Denis-de-Mailloc et Saint-Jean-de-Livet. La commune compte environ 551 habitants sur 3,9 km², soit environ 142 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Saint-Martin-de-Mailloc ou à Glos, nous pouvons regrouper les passages avec ceux de Le Mesnil-Guillaume pour limiter les déplacements."
       ]
@@ -25582,7 +25582,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Manerbe selon le quartier",
       "paras": [
-        "Manerbe est située à l'ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers.",
+        "Manerbe est située à l'ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers. La commune compte environ 544 habitants sur 18,4 km², soit environ 30 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Formentin ou à Le Pré-d'Auge, nous pouvons regrouper les passages avec ceux de Manerbe pour limiter les déplacements."
       ]
@@ -25669,7 +25669,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Manerbe : ce que le terrain change pour le jardin",
       "paras": [
-        "Manerbe est située à l'ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers.",
+        "Manerbe est située à l'ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers. La commune compte environ 544 habitants sur 18,4 km², soit environ 30 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Formentin ou à Le Pré-d'Auge, nous pouvons regrouper les passages avec ceux de Manerbe pour limiter les déplacements."
       ]
@@ -25756,7 +25756,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Manerbe et ses haies : repères du terrain",
       "paras": [
-        "Manerbe est située à l'ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers.",
+        "Manerbe est située à l'ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers. La commune compte environ 544 habitants sur 18,4 km², soit environ 30 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Formentin ou à Le Pré-d'Auge, nous pouvons regrouper les passages avec ceux de Manerbe pour limiter les déplacements."
       ]
@@ -25843,7 +25843,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Manerbe selon le quartier",
       "paras": [
-        "Manerbe est située à l'ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers.",
+        "Manerbe est située à l'ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers. La commune compte environ 544 habitants sur 18,4 km², soit environ 30 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Formentin ou à Le Pré-d'Auge, nous pouvons regrouper les passages avec ceux de Manerbe pour limiter les déplacements."
       ]
@@ -25930,7 +25930,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Manerbe : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Manerbe est située à l'ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers.",
+        "Manerbe est située à l'ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers. La commune compte environ 544 habitants sur 18,4 km², soit environ 30 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Formentin ou à Le Pré-d'Auge, nous pouvons regrouper les passages avec ceux de Manerbe pour limiter les déplacements."
       ]
@@ -26017,7 +26017,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Manerbe selon le quartier",
       "paras": [
-        "Manerbe est située à l'ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers.",
+        "Manerbe est située à l'ouest de Lisieux, à environ 7 km à vol d'oiseau (Calvados). Ses communes voisines : Formentin, Le Pré-d'Auge, Saint-Ouen-le-Pin et Coquainvilliers. La commune compte environ 544 habitants sur 18,4 km², soit environ 30 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Formentin ou à Le Pré-d'Auge, nous pouvons regrouper les passages avec ceux de Manerbe pour limiter les déplacements."
       ]
@@ -26104,7 +26104,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Le Torquesne selon le quartier",
       "paras": [
-        "Le Torquesne est située au nord-ouest de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Saint-Hymer, Formentin et Clarbec.",
+        "Le Torquesne est située au nord-ouest de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Saint-Hymer, Formentin et Clarbec. La commune compte environ 529 habitants sur 5,3 km², soit environ 100 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Coquainvilliers ou à Saint-Hymer, nous pouvons regrouper les passages avec ceux de Le Torquesne pour limiter les déplacements."
       ]
@@ -26191,7 +26191,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Torquesne et ses jardins : repères du terrain",
       "paras": [
-        "Le Torquesne est située au nord-ouest de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Saint-Hymer, Formentin et Clarbec.",
+        "Le Torquesne est située au nord-ouest de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Saint-Hymer, Formentin et Clarbec. La commune compte environ 529 habitants sur 5,3 km², soit environ 100 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Coquainvilliers ou à Saint-Hymer, nous pouvons regrouper les passages avec ceux de Le Torquesne pour limiter les déplacements."
       ]
@@ -26278,7 +26278,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Le Torquesne selon le quartier",
       "paras": [
-        "Le Torquesne est située au nord-ouest de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Saint-Hymer, Formentin et Clarbec.",
+        "Le Torquesne est située au nord-ouest de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Saint-Hymer, Formentin et Clarbec. La commune compte environ 529 habitants sur 5,3 km², soit environ 100 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Coquainvilliers ou à Saint-Hymer, nous pouvons regrouper les passages avec ceux de Le Torquesne pour limiter les déplacements."
       ]
@@ -26365,7 +26365,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Torquesne et ses pelouses : repères du terrain",
       "paras": [
-        "Le Torquesne est située au nord-ouest de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Saint-Hymer, Formentin et Clarbec.",
+        "Le Torquesne est située au nord-ouest de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Saint-Hymer, Formentin et Clarbec. La commune compte environ 529 habitants sur 5,3 km², soit environ 100 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Coquainvilliers ou à Saint-Hymer, nous pouvons regrouper les passages avec ceux de Le Torquesne pour limiter les déplacements."
       ]
@@ -26452,7 +26452,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Torquesne : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Le Torquesne est située au nord-ouest de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Saint-Hymer, Formentin et Clarbec.",
+        "Le Torquesne est située au nord-ouest de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Saint-Hymer, Formentin et Clarbec. La commune compte environ 529 habitants sur 5,3 km², soit environ 100 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Coquainvilliers ou à Saint-Hymer, nous pouvons regrouper les passages avec ceux de Le Torquesne pour limiter les déplacements."
       ]
@@ -26539,7 +26539,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Torquesne : ce que le terrain change pour l'entretien",
       "paras": [
-        "Le Torquesne est située au nord-ouest de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Saint-Hymer, Formentin et Clarbec.",
+        "Le Torquesne est située au nord-ouest de Lisieux, à environ 9 km à vol d'oiseau (Calvados). Ses communes voisines : Coquainvilliers, Saint-Hymer, Formentin et Clarbec. La commune compte environ 529 habitants sur 5,3 km², soit environ 100 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Coquainvilliers ou à Saint-Hymer, nous pouvons regrouper les passages avec ceux de Le Torquesne pour limiter les déplacements."
       ]
@@ -26626,7 +26626,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Lisieux selon le quartier",
       "paras": [
-        "Lisieux s'étend dans la vallée de la Touques, avec la basilique Sainte-Thérèse sur la hauteur et la cathédrale Saint-Pierre dans le centre. Entre le centre dense et les quartiers pavillonnaires, les jardins vont de la cour ombragée au grand terrain en pente. Lisieux est notre ville de base : nous y sommes sur place, sans frais de déplacement.",
+        "Lisieux s'étend dans la vallée de la Touques, avec la basilique Sainte-Thérèse sur la hauteur et la cathédrale Saint-Pierre dans le centre. Entre le centre dense et les quartiers pavillonnaires, les jardins vont de la cour ombragée au grand terrain en pente. Lisieux est notre ville de base : nous y sommes sur place, sans frais de déplacement. La commune compte environ 19 645 habitants sur 13,1 km², soit environ 1 504 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "En centre ancien, les cours et jardins sont petits, l'accès est souvent étroit et les arbres touchent façades et toitures voisines : nous travaillons plutôt en grimpe, branche par branche, avec des protections et des cordes de rappel.",
         "Si vous êtes à Beuvillers ou à Rocques, nous pouvons regrouper les passages avec ceux de Lisieux pour limiter les déplacements."
       ]
@@ -26713,7 +26713,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Lisieux et ses jardins : repères du terrain",
       "paras": [
-        "Lisieux s'étend dans la vallée de la Touques, avec la basilique Sainte-Thérèse sur la hauteur et la cathédrale Saint-Pierre dans le centre. Entre le centre dense et les quartiers pavillonnaires, les jardins vont de la cour ombragée au grand terrain en pente. Lisieux est notre ville de base : nous y sommes sur place, sans frais de déplacement.",
+        "Lisieux s'étend dans la vallée de la Touques, avec la basilique Sainte-Thérèse sur la hauteur et la cathédrale Saint-Pierre dans le centre. Entre le centre dense et les quartiers pavillonnaires, les jardins vont de la cour ombragée au grand terrain en pente. Lisieux est notre ville de base : nous y sommes sur place, sans frais de déplacement. La commune compte environ 19 645 habitants sur 13,1 km², soit environ 1 504 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "En centre ancien, les jardins sont petits et enclavés : pas de remorque devant la porte, parfois un passage par la maison. Nous organisons les passages en conséquence et évacuons les déchets nous-mêmes.",
         "Si vous êtes à Beuvillers ou à Rocques, nous pouvons regrouper les passages avec ceux de Lisieux pour limiter les déplacements."
       ]
@@ -26800,7 +26800,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Lisieux selon le quartier",
       "paras": [
-        "Lisieux s'étend dans la vallée de la Touques, avec la basilique Sainte-Thérèse sur la hauteur et la cathédrale Saint-Pierre dans le centre. Entre le centre dense et les quartiers pavillonnaires, les jardins vont de la cour ombragée au grand terrain en pente. Lisieux est notre ville de base : nous y sommes sur place, sans frais de déplacement.",
+        "Lisieux s'étend dans la vallée de la Touques, avec la basilique Sainte-Thérèse sur la hauteur et la cathédrale Saint-Pierre dans le centre. Entre le centre dense et les quartiers pavillonnaires, les jardins vont de la cour ombragée au grand terrain en pente. Lisieux est notre ville de base : nous y sommes sur place, sans frais de déplacement. La commune compte environ 19 645 habitants sur 13,1 km², soit environ 1 504 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "Dans les rues serrées, les haies bordent des trottoirs et des murs : la taille se fait proprement, avec bâches au sol et ramassage immédiat pour ne rien laisser sur la voie.",
         "Si vous êtes à Beuvillers ou à Rocques, nous pouvons regrouper les passages avec ceux de Lisieux pour limiter les déplacements."
       ]
@@ -26887,7 +26887,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Lisieux : ce que le terrain change pour la pelouse",
       "paras": [
-        "Lisieux s'étend dans la vallée de la Touques, avec la basilique Sainte-Thérèse sur la hauteur et la cathédrale Saint-Pierre dans le centre. Entre le centre dense et les quartiers pavillonnaires, les jardins vont de la cour ombragée au grand terrain en pente. Lisieux est notre ville de base : nous y sommes sur place, sans frais de déplacement.",
+        "Lisieux s'étend dans la vallée de la Touques, avec la basilique Sainte-Thérèse sur la hauteur et la cathédrale Saint-Pierre dans le centre. Entre le centre dense et les quartiers pavillonnaires, les jardins vont de la cour ombragée au grand terrain en pente. Lisieux est notre ville de base : nous y sommes sur place, sans frais de déplacement. La commune compte environ 19 645 habitants sur 13,1 km², soit environ 1 504 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "Les petites pelouses de centre-ville se tondent vite mais demandent des finitions soignées le long des murs et des massifs, avec du matériel compact.",
         "Si vous êtes à Beuvillers ou à Rocques, nous pouvons regrouper les passages avec ceux de Lisieux pour limiter les déplacements."
       ]
@@ -26974,7 +26974,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Lisieux et ses terrains : repères",
       "paras": [
-        "Lisieux s'étend dans la vallée de la Touques, avec la basilique Sainte-Thérèse sur la hauteur et la cathédrale Saint-Pierre dans le centre. Entre le centre dense et les quartiers pavillonnaires, les jardins vont de la cour ombragée au grand terrain en pente. Lisieux est notre ville de base : nous y sommes sur place, sans frais de déplacement.",
+        "Lisieux s'étend dans la vallée de la Touques, avec la basilique Sainte-Thérèse sur la hauteur et la cathédrale Saint-Pierre dans le centre. Entre le centre dense et les quartiers pavillonnaires, les jardins vont de la cour ombragée au grand terrain en pente. Lisieux est notre ville de base : nous y sommes sur place, sans frais de déplacement. La commune compte environ 19 645 habitants sur 13,1 km², soit environ 1 504 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "En ville, le débroussaillage concerne surtout des fonds de parcelle, des talus et des terrains vides : nous travaillons avec un matériel adapté aux accès étroits.",
         "Si vous êtes à Beuvillers ou à Rocques, nous pouvons regrouper les passages avec ceux de Lisieux pour limiter les déplacements."
       ]
@@ -27061,7 +27061,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Lisieux et ses jardins : repères du terrain",
       "paras": [
-        "Lisieux s'étend dans la vallée de la Touques, avec la basilique Sainte-Thérèse sur la hauteur et la cathédrale Saint-Pierre dans le centre. Entre le centre dense et les quartiers pavillonnaires, les jardins vont de la cour ombragée au grand terrain en pente. Lisieux est notre ville de base : nous y sommes sur place, sans frais de déplacement.",
+        "Lisieux s'étend dans la vallée de la Touques, avec la basilique Sainte-Thérèse sur la hauteur et la cathédrale Saint-Pierre dans le centre. Entre le centre dense et les quartiers pavillonnaires, les jardins vont de la cour ombragée au grand terrain en pente. Lisieux est notre ville de base : nous y sommes sur place, sans frais de déplacement. La commune compte environ 19 645 habitants sur 13,1 km², soit environ 1 504 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "Petits jardins, murs et pots : l'entretien passe par des passages courts et réguliers, sans gros engins, avec un seul interlocuteur.",
         "Si vous êtes à Beuvillers ou à Rocques, nous pouvons regrouper les passages avec ceux de Lisieux pour limiter les déplacements."
       ]
@@ -27148,7 +27148,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Orbec : ce que le terrain change pour l'élagage",
       "paras": [
-        "Orbec s'étend le long de l'Orbiquet, avec un centre ancien à pans de bois, dont le Vieux Manoir, et des coteaux boisés autour. Orbec est située au sud-est de Lisieux, à environ 18 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet.",
+        "Orbec s'étend le long de l'Orbiquet, avec un centre ancien à pans de bois, dont le Vieux Manoir, et des coteaux boisés autour. Orbec est située au sud-est de Lisieux, à environ 18 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet. La commune compte environ 1 975 habitants sur 10,2 km², soit environ 194 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En centre ancien, les cours et jardins sont petits, l'accès est souvent étroit et les arbres touchent façades et toitures voisines : nous travaillons plutôt en grimpe, branche par branche, avec des protections et des cordes de rappel.",
         "Si vous êtes à Saint-Martin-de-Bienfaite-la-Cressonnière ou à La Vespière-Friardel, nous pouvons regrouper les passages avec ceux de Orbec pour limiter les déplacements."
       ]
@@ -27235,7 +27235,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Orbec selon le quartier",
       "paras": [
-        "Orbec s'étend le long de l'Orbiquet, avec un centre ancien à pans de bois, dont le Vieux Manoir, et des coteaux boisés autour. Orbec est située au sud-est de Lisieux, à environ 18 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet.",
+        "Orbec s'étend le long de l'Orbiquet, avec un centre ancien à pans de bois, dont le Vieux Manoir, et des coteaux boisés autour. Orbec est située au sud-est de Lisieux, à environ 18 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet. La commune compte environ 1 975 habitants sur 10,2 km², soit environ 194 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En centre ancien, les jardins sont petits et enclavés : pas de remorque devant la porte, parfois un passage par la maison. Nous organisons les passages en conséquence et évacuons les déchets nous-mêmes.",
         "Si vous êtes à Saint-Martin-de-Bienfaite-la-Cressonnière ou à La Vespière-Friardel, nous pouvons regrouper les passages avec ceux de Orbec pour limiter les déplacements."
       ]
@@ -27322,7 +27322,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Orbec et ses haies : repères du terrain",
       "paras": [
-        "Orbec s'étend le long de l'Orbiquet, avec un centre ancien à pans de bois, dont le Vieux Manoir, et des coteaux boisés autour. Orbec est située au sud-est de Lisieux, à environ 18 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet.",
+        "Orbec s'étend le long de l'Orbiquet, avec un centre ancien à pans de bois, dont le Vieux Manoir, et des coteaux boisés autour. Orbec est située au sud-est de Lisieux, à environ 18 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet. La commune compte environ 1 975 habitants sur 10,2 km², soit environ 194 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans les rues serrées, les haies bordent des trottoirs et des murs : la taille se fait proprement, avec bâches au sol et ramassage immédiat pour ne rien laisser sur la voie.",
         "Si vous êtes à Saint-Martin-de-Bienfaite-la-Cressonnière ou à La Vespière-Friardel, nous pouvons regrouper les passages avec ceux de Orbec pour limiter les déplacements."
       ]
@@ -27409,7 +27409,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Orbec et ses pelouses : repères du terrain",
       "paras": [
-        "Orbec s'étend le long de l'Orbiquet, avec un centre ancien à pans de bois, dont le Vieux Manoir, et des coteaux boisés autour. Orbec est située au sud-est de Lisieux, à environ 18 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet.",
+        "Orbec s'étend le long de l'Orbiquet, avec un centre ancien à pans de bois, dont le Vieux Manoir, et des coteaux boisés autour. Orbec est située au sud-est de Lisieux, à environ 18 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet. La commune compte environ 1 975 habitants sur 10,2 km², soit environ 194 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les petites pelouses de centre-ville se tondent vite mais demandent des finitions soignées le long des murs et des massifs, avec du matériel compact.",
         "Si vous êtes à Saint-Martin-de-Bienfaite-la-Cressonnière ou à La Vespière-Friardel, nous pouvons regrouper les passages avec ceux de Orbec pour limiter les déplacements."
       ]
@@ -27496,7 +27496,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Orbec et ses terrains : repères",
       "paras": [
-        "Orbec s'étend le long de l'Orbiquet, avec un centre ancien à pans de bois, dont le Vieux Manoir, et des coteaux boisés autour. Orbec est située au sud-est de Lisieux, à environ 18 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet.",
+        "Orbec s'étend le long de l'Orbiquet, avec un centre ancien à pans de bois, dont le Vieux Manoir, et des coteaux boisés autour. Orbec est située au sud-est de Lisieux, à environ 18 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet. La commune compte environ 1 975 habitants sur 10,2 km², soit environ 194 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En ville, le débroussaillage concerne surtout des fonds de parcelle, des talus et des terrains vides : nous travaillons avec un matériel adapté aux accès étroits.",
         "Si vous êtes à Saint-Martin-de-Bienfaite-la-Cressonnière ou à La Vespière-Friardel, nous pouvons regrouper les passages avec ceux de Orbec pour limiter les déplacements."
       ]
@@ -27583,7 +27583,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Orbec : ce que le terrain change pour l'entretien",
       "paras": [
-        "Orbec s'étend le long de l'Orbiquet, avec un centre ancien à pans de bois, dont le Vieux Manoir, et des coteaux boisés autour. Orbec est située au sud-est de Lisieux, à environ 18 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet.",
+        "Orbec s'étend le long de l'Orbiquet, avec un centre ancien à pans de bois, dont le Vieux Manoir, et des coteaux boisés autour. Orbec est située au sud-est de Lisieux, à environ 18 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-de-Bienfaite-la-Cressonnière, La Vespière-Friardel, Saint-Germain-la-Campagne et Valorbiquet. La commune compte environ 1 975 habitants sur 10,2 km², soit environ 194 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Petits jardins, murs et pots : l'entretien passe par des passages courts et réguliers, sans gros engins, avec un seul interlocuteur.",
         "Si vous êtes à Saint-Martin-de-Bienfaite-la-Cressonnière ou à La Vespière-Friardel, nous pouvons regrouper les passages avec ceux de Orbec pour limiter les déplacements."
       ]
@@ -27670,7 +27670,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Livarot-Pays-d'Auge selon le quartier",
       "paras": [
-        "Livarot-Pays-d'Auge, commune du fromage de Livarot, s'étend dans la vallée de la Vie, entre herbages et haies. Livarot-Pays-d'Auge est située au sud de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Lisores, Canapville, Val-de-Vie et Prêtreville.",
+        "Livarot-Pays-d'Auge, commune du fromage de Livarot, s'étend dans la vallée de la Vie, entre herbages et haies. Livarot-Pays-d'Auge est située au sud de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Lisores, Canapville, Val-de-Vie et Prêtreville. La commune compte environ 6 207 habitants sur 183 km², soit environ 34 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Lisores ou à Canapville, nous pouvons regrouper les passages avec ceux de Livarot-Pays-d'Auge pour limiter les déplacements."
       ]
@@ -27757,7 +27757,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Livarot-Pays-d'Auge et ses jardins : repères du terrain",
       "paras": [
-        "Livarot-Pays-d'Auge, commune du fromage de Livarot, s'étend dans la vallée de la Vie, entre herbages et haies. Livarot-Pays-d'Auge est située au sud de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Lisores, Canapville, Val-de-Vie et Prêtreville.",
+        "Livarot-Pays-d'Auge, commune du fromage de Livarot, s'étend dans la vallée de la Vie, entre herbages et haies. Livarot-Pays-d'Auge est située au sud de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Lisores, Canapville, Val-de-Vie et Prêtreville. La commune compte environ 6 207 habitants sur 183 km², soit environ 34 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Lisores ou à Canapville, nous pouvons regrouper les passages avec ceux de Livarot-Pays-d'Auge pour limiter les déplacements."
       ]
@@ -27844,7 +27844,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Livarot-Pays-d'Auge selon le quartier",
       "paras": [
-        "Livarot-Pays-d'Auge, commune du fromage de Livarot, s'étend dans la vallée de la Vie, entre herbages et haies. Livarot-Pays-d'Auge est située au sud de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Lisores, Canapville, Val-de-Vie et Prêtreville.",
+        "Livarot-Pays-d'Auge, commune du fromage de Livarot, s'étend dans la vallée de la Vie, entre herbages et haies. Livarot-Pays-d'Auge est située au sud de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Lisores, Canapville, Val-de-Vie et Prêtreville. La commune compte environ 6 207 habitants sur 183 km², soit environ 34 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Lisores ou à Canapville, nous pouvons regrouper les passages avec ceux de Livarot-Pays-d'Auge pour limiter les déplacements."
       ]
@@ -27931,7 +27931,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Livarot-Pays-d'Auge : ce que le terrain change pour la pelouse",
       "paras": [
-        "Livarot-Pays-d'Auge, commune du fromage de Livarot, s'étend dans la vallée de la Vie, entre herbages et haies. Livarot-Pays-d'Auge est située au sud de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Lisores, Canapville, Val-de-Vie et Prêtreville.",
+        "Livarot-Pays-d'Auge, commune du fromage de Livarot, s'étend dans la vallée de la Vie, entre herbages et haies. Livarot-Pays-d'Auge est située au sud de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Lisores, Canapville, Val-de-Vie et Prêtreville. La commune compte environ 6 207 habitants sur 183 km², soit environ 34 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Lisores ou à Canapville, nous pouvons regrouper les passages avec ceux de Livarot-Pays-d'Auge pour limiter les déplacements."
       ]
@@ -28018,7 +28018,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Livarot-Pays-d'Auge : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Livarot-Pays-d'Auge, commune du fromage de Livarot, s'étend dans la vallée de la Vie, entre herbages et haies. Livarot-Pays-d'Auge est située au sud de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Lisores, Canapville, Val-de-Vie et Prêtreville.",
+        "Livarot-Pays-d'Auge, commune du fromage de Livarot, s'étend dans la vallée de la Vie, entre herbages et haies. Livarot-Pays-d'Auge est située au sud de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Lisores, Canapville, Val-de-Vie et Prêtreville. La commune compte environ 6 207 habitants sur 183 km², soit environ 34 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Lisores ou à Canapville, nous pouvons regrouper les passages avec ceux de Livarot-Pays-d'Auge pour limiter les déplacements."
       ]
@@ -28105,7 +28105,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Livarot-Pays-d'Auge et ses jardins : repères du terrain",
       "paras": [
-        "Livarot-Pays-d'Auge, commune du fromage de Livarot, s'étend dans la vallée de la Vie, entre herbages et haies. Livarot-Pays-d'Auge est située au sud de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Lisores, Canapville, Val-de-Vie et Prêtreville.",
+        "Livarot-Pays-d'Auge, commune du fromage de Livarot, s'étend dans la vallée de la Vie, entre herbages et haies. Livarot-Pays-d'Auge est située au sud de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Lisores, Canapville, Val-de-Vie et Prêtreville. La commune compte environ 6 207 habitants sur 183 km², soit environ 34 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Lisores ou à Canapville, nous pouvons regrouper les passages avec ceux de Livarot-Pays-d'Auge pour limiter les déplacements."
       ]
@@ -28192,7 +28192,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Pierre-en-Auge et ses arbres : repères du terrain",
       "paras": [
-        "Saint-Pierre-en-Auge regroupe notamment l'ancienne Saint-Pierre-sur-Dives, connue pour ses halles et son abbatiale. Saint-Pierre-en-Auge est située au sud-ouest de Lisieux, à environ 23 km à vol d'oiseau (Calvados). Ses communes voisines : Castillon-en-Auge, Jort, Vendeuvre et Le Renouard.",
+        "Saint-Pierre-en-Auge regroupe notamment l'ancienne Saint-Pierre-sur-Dives, connue pour ses halles et son abbatiale. Saint-Pierre-en-Auge est située au sud-ouest de Lisieux, à environ 23 km à vol d'oiseau (Calvados). Ses communes voisines : Castillon-en-Auge, Jort, Vendeuvre et Le Renouard. La commune compte environ 7 100 habitants sur 146 km², soit environ 49 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En centre ancien, les cours et jardins sont petits, l'accès est souvent étroit et les arbres touchent façades et toitures voisines : nous travaillons plutôt en grimpe, branche par branche, avec des protections et des cordes de rappel.",
         "Si vous êtes à Castillon-en-Auge ou à Jort, nous pouvons regrouper les passages avec ceux de Saint-Pierre-en-Auge pour limiter les déplacements."
       ]
@@ -28279,7 +28279,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Pierre-en-Auge et ses jardins : repères du terrain",
       "paras": [
-        "Saint-Pierre-en-Auge regroupe notamment l'ancienne Saint-Pierre-sur-Dives, connue pour ses halles et son abbatiale. Saint-Pierre-en-Auge est située au sud-ouest de Lisieux, à environ 23 km à vol d'oiseau (Calvados). Ses communes voisines : Castillon-en-Auge, Jort, Vendeuvre et Le Renouard.",
+        "Saint-Pierre-en-Auge regroupe notamment l'ancienne Saint-Pierre-sur-Dives, connue pour ses halles et son abbatiale. Saint-Pierre-en-Auge est située au sud-ouest de Lisieux, à environ 23 km à vol d'oiseau (Calvados). Ses communes voisines : Castillon-en-Auge, Jort, Vendeuvre et Le Renouard. La commune compte environ 7 100 habitants sur 146 km², soit environ 49 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En centre ancien, les jardins sont petits et enclavés : pas de remorque devant la porte, parfois un passage par la maison. Nous organisons les passages en conséquence et évacuons les déchets nous-mêmes.",
         "Si vous êtes à Castillon-en-Auge ou à Jort, nous pouvons regrouper les passages avec ceux de Saint-Pierre-en-Auge pour limiter les déplacements."
       ]
@@ -28366,7 +28366,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Saint-Pierre-en-Auge selon le quartier",
       "paras": [
-        "Saint-Pierre-en-Auge regroupe notamment l'ancienne Saint-Pierre-sur-Dives, connue pour ses halles et son abbatiale. Saint-Pierre-en-Auge est située au sud-ouest de Lisieux, à environ 23 km à vol d'oiseau (Calvados). Ses communes voisines : Castillon-en-Auge, Jort, Vendeuvre et Le Renouard.",
+        "Saint-Pierre-en-Auge regroupe notamment l'ancienne Saint-Pierre-sur-Dives, connue pour ses halles et son abbatiale. Saint-Pierre-en-Auge est située au sud-ouest de Lisieux, à environ 23 km à vol d'oiseau (Calvados). Ses communes voisines : Castillon-en-Auge, Jort, Vendeuvre et Le Renouard. La commune compte environ 7 100 habitants sur 146 km², soit environ 49 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Dans les rues serrées, les haies bordent des trottoirs et des murs : la taille se fait proprement, avec bâches au sol et ramassage immédiat pour ne rien laisser sur la voie.",
         "Si vous êtes à Castillon-en-Auge ou à Jort, nous pouvons regrouper les passages avec ceux de Saint-Pierre-en-Auge pour limiter les déplacements."
       ]
@@ -28453,7 +28453,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Pierre-en-Auge et ses pelouses : repères du terrain",
       "paras": [
-        "Saint-Pierre-en-Auge regroupe notamment l'ancienne Saint-Pierre-sur-Dives, connue pour ses halles et son abbatiale. Saint-Pierre-en-Auge est située au sud-ouest de Lisieux, à environ 23 km à vol d'oiseau (Calvados). Ses communes voisines : Castillon-en-Auge, Jort, Vendeuvre et Le Renouard.",
+        "Saint-Pierre-en-Auge regroupe notamment l'ancienne Saint-Pierre-sur-Dives, connue pour ses halles et son abbatiale. Saint-Pierre-en-Auge est située au sud-ouest de Lisieux, à environ 23 km à vol d'oiseau (Calvados). Ses communes voisines : Castillon-en-Auge, Jort, Vendeuvre et Le Renouard. La commune compte environ 7 100 habitants sur 146 km², soit environ 49 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les petites pelouses de centre-ville se tondent vite mais demandent des finitions soignées le long des murs et des massifs, avec du matériel compact.",
         "Si vous êtes à Castillon-en-Auge ou à Jort, nous pouvons regrouper les passages avec ceux de Saint-Pierre-en-Auge pour limiter les déplacements."
       ]
@@ -28540,7 +28540,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Saint-Pierre-en-Auge selon le terrain",
       "paras": [
-        "Saint-Pierre-en-Auge regroupe notamment l'ancienne Saint-Pierre-sur-Dives, connue pour ses halles et son abbatiale. Saint-Pierre-en-Auge est située au sud-ouest de Lisieux, à environ 23 km à vol d'oiseau (Calvados). Ses communes voisines : Castillon-en-Auge, Jort, Vendeuvre et Le Renouard.",
+        "Saint-Pierre-en-Auge regroupe notamment l'ancienne Saint-Pierre-sur-Dives, connue pour ses halles et son abbatiale. Saint-Pierre-en-Auge est située au sud-ouest de Lisieux, à environ 23 km à vol d'oiseau (Calvados). Ses communes voisines : Castillon-en-Auge, Jort, Vendeuvre et Le Renouard. La commune compte environ 7 100 habitants sur 146 km², soit environ 49 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En ville, le débroussaillage concerne surtout des fonds de parcelle, des talus et des terrains vides : nous travaillons avec un matériel adapté aux accès étroits.",
         "Si vous êtes à Castillon-en-Auge ou à Jort, nous pouvons regrouper les passages avec ceux de Saint-Pierre-en-Auge pour limiter les déplacements."
       ]
@@ -28627,7 +28627,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Saint-Pierre-en-Auge : ce que le terrain change pour l'entretien",
       "paras": [
-        "Saint-Pierre-en-Auge regroupe notamment l'ancienne Saint-Pierre-sur-Dives, connue pour ses halles et son abbatiale. Saint-Pierre-en-Auge est située au sud-ouest de Lisieux, à environ 23 km à vol d'oiseau (Calvados). Ses communes voisines : Castillon-en-Auge, Jort, Vendeuvre et Le Renouard.",
+        "Saint-Pierre-en-Auge regroupe notamment l'ancienne Saint-Pierre-sur-Dives, connue pour ses halles et son abbatiale. Saint-Pierre-en-Auge est située au sud-ouest de Lisieux, à environ 23 km à vol d'oiseau (Calvados). Ses communes voisines : Castillon-en-Auge, Jort, Vendeuvre et Le Renouard. La commune compte environ 7 100 habitants sur 146 km², soit environ 49 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Petits jardins, murs et pots : l'entretien passe par des passages courts et réguliers, sans gros engins, avec un seul interlocuteur.",
         "Si vous êtes à Castillon-en-Auge ou à Jort, nous pouvons regrouper les passages avec ceux de Saint-Pierre-en-Auge pour limiter les déplacements."
       ]
@@ -28714,7 +28714,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cambremer et ses arbres : repères du terrain",
       "paras": [
-        "Cambremer est un repère de la route du cidre, au cœur des vergers du Pays d'Auge, entre manoirs, pommiers hautes tiges et herbages. Cambremer est située à l'ouest de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge.",
+        "Cambremer est un repère de la route du cidre, au cœur des vergers du Pays d'Auge, entre manoirs, pommiers hautes tiges et herbages. Cambremer est située à l'ouest de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge. La commune compte environ 1 294 habitants sur 27,6 km², soit environ 47 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Saint-Ouen-le-Pin ou à La Houblonnière, nous pouvons regrouper les passages avec ceux de Cambremer pour limiter les déplacements."
       ]
@@ -28801,7 +28801,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Cambremer selon le quartier",
       "paras": [
-        "Cambremer est un repère de la route du cidre, au cœur des vergers du Pays d'Auge, entre manoirs, pommiers hautes tiges et herbages. Cambremer est située à l'ouest de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge.",
+        "Cambremer est un repère de la route du cidre, au cœur des vergers du Pays d'Auge, entre manoirs, pommiers hautes tiges et herbages. Cambremer est située à l'ouest de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge. La commune compte environ 1 294 habitants sur 27,6 km², soit environ 47 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Saint-Ouen-le-Pin ou à La Houblonnière, nous pouvons regrouper les passages avec ceux de Cambremer pour limiter les déplacements."
       ]
@@ -28888,7 +28888,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cambremer et ses haies : repères du terrain",
       "paras": [
-        "Cambremer est un repère de la route du cidre, au cœur des vergers du Pays d'Auge, entre manoirs, pommiers hautes tiges et herbages. Cambremer est située à l'ouest de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge.",
+        "Cambremer est un repère de la route du cidre, au cœur des vergers du Pays d'Auge, entre manoirs, pommiers hautes tiges et herbages. Cambremer est située à l'ouest de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge. La commune compte environ 1 294 habitants sur 27,6 km², soit environ 47 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Saint-Ouen-le-Pin ou à La Houblonnière, nous pouvons regrouper les passages avec ceux de Cambremer pour limiter les déplacements."
       ]
@@ -28975,7 +28975,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Cambremer selon le quartier",
       "paras": [
-        "Cambremer est un repère de la route du cidre, au cœur des vergers du Pays d'Auge, entre manoirs, pommiers hautes tiges et herbages. Cambremer est située à l'ouest de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge.",
+        "Cambremer est un repère de la route du cidre, au cœur des vergers du Pays d'Auge, entre manoirs, pommiers hautes tiges et herbages. Cambremer est située à l'ouest de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge. La commune compte environ 1 294 habitants sur 27,6 km², soit environ 47 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Saint-Ouen-le-Pin ou à La Houblonnière, nous pouvons regrouper les passages avec ceux de Cambremer pour limiter les déplacements."
       ]
@@ -29062,7 +29062,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cambremer et ses terrains : repères",
       "paras": [
-        "Cambremer est un repère de la route du cidre, au cœur des vergers du Pays d'Auge, entre manoirs, pommiers hautes tiges et herbages. Cambremer est située à l'ouest de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge.",
+        "Cambremer est un repère de la route du cidre, au cœur des vergers du Pays d'Auge, entre manoirs, pommiers hautes tiges et herbages. Cambremer est située à l'ouest de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge. La commune compte environ 1 294 habitants sur 27,6 km², soit environ 47 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Saint-Ouen-le-Pin ou à La Houblonnière, nous pouvons regrouper les passages avec ceux de Cambremer pour limiter les déplacements."
       ]
@@ -29149,7 +29149,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Cambremer selon le quartier",
       "paras": [
-        "Cambremer est un repère de la route du cidre, au cœur des vergers du Pays d'Auge, entre manoirs, pommiers hautes tiges et herbages. Cambremer est située à l'ouest de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge.",
+        "Cambremer est un repère de la route du cidre, au cœur des vergers du Pays d'Auge, entre manoirs, pommiers hautes tiges et herbages. Cambremer est située à l'ouest de Lisieux, à environ 13 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Ouen-le-Pin, La Houblonnière, Notre-Dame-d'Estrées-Corbon et Le Pré-d'Auge. La commune compte environ 1 294 habitants sur 27,6 km², soit environ 47 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Saint-Ouen-le-Pin ou à La Houblonnière, nous pouvons regrouper les passages avec ceux de Cambremer pour limiter les déplacements."
       ]
@@ -29236,7 +29236,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Pont-l'Évêque et ses arbres : repères du terrain",
       "paras": [
-        "Pont-l'Évêque donne son nom à un fromage AOP et est traversée par la Touques, avec un centre ancien à pans de bois. Pont-l'Évêque est située au nord de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge.",
+        "Pont-l'Évêque donne son nom à un fromage AOP et est traversée par la Touques, avec un centre ancien à pans de bois. Pont-l'Évêque est située au nord de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge. La commune compte environ 5 145 habitants sur 13,1 km², soit environ 392 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En centre ancien, les cours et jardins sont petits, l'accès est souvent étroit et les arbres touchent façades et toitures voisines : nous travaillons plutôt en grimpe, branche par branche, avec des protections et des cordes de rappel.",
         "Si vous êtes à Saint-Martin-aux-Chartrains ou à Reux, nous pouvons regrouper les passages avec ceux de Pont-l'Évêque pour limiter les déplacements."
       ]
@@ -29323,7 +29323,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Pont-l'Évêque : ce que le terrain change pour le jardin",
       "paras": [
-        "Pont-l'Évêque donne son nom à un fromage AOP et est traversée par la Touques, avec un centre ancien à pans de bois. Pont-l'Évêque est située au nord de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge.",
+        "Pont-l'Évêque donne son nom à un fromage AOP et est traversée par la Touques, avec un centre ancien à pans de bois. Pont-l'Évêque est située au nord de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge. La commune compte environ 5 145 habitants sur 13,1 km², soit environ 392 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En centre ancien, les jardins sont petits et enclavés : pas de remorque devant la porte, parfois un passage par la maison. Nous organisons les passages en conséquence et évacuons les déchets nous-mêmes.",
         "Si vous êtes à Saint-Martin-aux-Chartrains ou à Reux, nous pouvons regrouper les passages avec ceux de Pont-l'Évêque pour limiter les déplacements."
       ]
@@ -29410,7 +29410,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Pont-l'Évêque selon le quartier",
       "paras": [
-        "Pont-l'Évêque donne son nom à un fromage AOP et est traversée par la Touques, avec un centre ancien à pans de bois. Pont-l'Évêque est située au nord de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge.",
+        "Pont-l'Évêque donne son nom à un fromage AOP et est traversée par la Touques, avec un centre ancien à pans de bois. Pont-l'Évêque est située au nord de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge. La commune compte environ 5 145 habitants sur 13,1 km², soit environ 392 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans les rues serrées, les haies bordent des trottoirs et des murs : la taille se fait proprement, avec bâches au sol et ramassage immédiat pour ne rien laisser sur la voie.",
         "Si vous êtes à Saint-Martin-aux-Chartrains ou à Reux, nous pouvons regrouper les passages avec ceux de Pont-l'Évêque pour limiter les déplacements."
       ]
@@ -29497,7 +29497,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Pont-l'Évêque et ses pelouses : repères du terrain",
       "paras": [
-        "Pont-l'Évêque donne son nom à un fromage AOP et est traversée par la Touques, avec un centre ancien à pans de bois. Pont-l'Évêque est située au nord de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge.",
+        "Pont-l'Évêque donne son nom à un fromage AOP et est traversée par la Touques, avec un centre ancien à pans de bois. Pont-l'Évêque est située au nord de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge. La commune compte environ 5 145 habitants sur 13,1 km², soit environ 392 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les petites pelouses de centre-ville se tondent vite mais demandent des finitions soignées le long des murs et des massifs, avec du matériel compact.",
         "Si vous êtes à Saint-Martin-aux-Chartrains ou à Reux, nous pouvons regrouper les passages avec ceux de Pont-l'Évêque pour limiter les déplacements."
       ]
@@ -29584,7 +29584,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Pont-l'Évêque et ses terrains : repères",
       "paras": [
-        "Pont-l'Évêque donne son nom à un fromage AOP et est traversée par la Touques, avec un centre ancien à pans de bois. Pont-l'Évêque est située au nord de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge.",
+        "Pont-l'Évêque donne son nom à un fromage AOP et est traversée par la Touques, avec un centre ancien à pans de bois. Pont-l'Évêque est située au nord de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge. La commune compte environ 5 145 habitants sur 13,1 km², soit environ 392 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En ville, le débroussaillage concerne surtout des fonds de parcelle, des talus et des terrains vides : nous travaillons avec un matériel adapté aux accès étroits.",
         "Si vous êtes à Saint-Martin-aux-Chartrains ou à Reux, nous pouvons regrouper les passages avec ceux de Pont-l'Évêque pour limiter les déplacements."
       ]
@@ -29671,7 +29671,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Pont-l'Évêque et ses jardins : repères du terrain",
       "paras": [
-        "Pont-l'Évêque donne son nom à un fromage AOP et est traversée par la Touques, avec un centre ancien à pans de bois. Pont-l'Évêque est située au nord de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge.",
+        "Pont-l'Évêque donne son nom à un fromage AOP et est traversée par la Touques, avec un centre ancien à pans de bois. Pont-l'Évêque est située au nord de Lisieux, à environ 16 km à vol d'oiseau (Calvados). Ses communes voisines : Saint-Martin-aux-Chartrains, Reux, Surville et Tourville-en-Auge. La commune compte environ 5 145 habitants sur 13,1 km², soit environ 392 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Petits jardins, murs et pots : l'entretien passe par des passages courts et réguliers, sans gros engins, avec un seul interlocuteur.",
         "Si vous êtes à Saint-Martin-aux-Chartrains ou à Reux, nous pouvons regrouper les passages avec ceux de Pont-l'Évêque pour limiter les déplacements."
       ]
@@ -29758,7 +29758,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Moyaux selon le quartier",
       "paras": [
-        "Moyaux est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Le Pin, Fumichon, Ouilly-du-Houley et Asnières.",
+        "Moyaux est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Le Pin, Fumichon, Ouilly-du-Houley et Asnières. La commune compte environ 1 383 habitants sur 16,6 km², soit environ 83 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Le Pin ou à Fumichon, nous pouvons regrouper les passages avec ceux de Moyaux pour limiter les déplacements."
       ]
@@ -29845,7 +29845,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Moyaux selon le quartier",
       "paras": [
-        "Moyaux est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Le Pin, Fumichon, Ouilly-du-Houley et Asnières.",
+        "Moyaux est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Le Pin, Fumichon, Ouilly-du-Houley et Asnières. La commune compte environ 1 383 habitants sur 16,6 km², soit environ 83 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Le Pin ou à Fumichon, nous pouvons regrouper les passages avec ceux de Moyaux pour limiter les déplacements."
       ]
@@ -29932,7 +29932,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Moyaux selon le quartier",
       "paras": [
-        "Moyaux est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Le Pin, Fumichon, Ouilly-du-Houley et Asnières.",
+        "Moyaux est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Le Pin, Fumichon, Ouilly-du-Houley et Asnières. La commune compte environ 1 383 habitants sur 16,6 km², soit environ 83 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Le Pin ou à Fumichon, nous pouvons regrouper les passages avec ceux de Moyaux pour limiter les déplacements."
       ]
@@ -30019,7 +30019,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Moyaux selon le quartier",
       "paras": [
-        "Moyaux est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Le Pin, Fumichon, Ouilly-du-Houley et Asnières.",
+        "Moyaux est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Le Pin, Fumichon, Ouilly-du-Houley et Asnières. La commune compte environ 1 383 habitants sur 16,6 km², soit environ 83 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Le Pin ou à Fumichon, nous pouvons regrouper les passages avec ceux de Moyaux pour limiter les déplacements."
       ]
@@ -30106,7 +30106,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Moyaux : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Moyaux est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Le Pin, Fumichon, Ouilly-du-Houley et Asnières.",
+        "Moyaux est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Le Pin, Fumichon, Ouilly-du-Houley et Asnières. La commune compte environ 1 383 habitants sur 16,6 km², soit environ 83 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Le Pin ou à Fumichon, nous pouvons regrouper les passages avec ceux de Moyaux pour limiter les déplacements."
       ]
@@ -30193,7 +30193,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Moyaux et ses jardins : repères du terrain",
       "paras": [
-        "Moyaux est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Le Pin, Fumichon, Ouilly-du-Houley et Asnières.",
+        "Moyaux est située au nord-est de Lisieux, à environ 11 km à vol d'oiseau (Calvados). Ses communes voisines : Le Pin, Fumichon, Ouilly-du-Houley et Asnières. La commune compte environ 1 383 habitants sur 16,6 km², soit environ 83 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Le Pin ou à Fumichon, nous pouvons regrouper les passages avec ceux de Moyaux pour limiter les déplacements."
       ]
@@ -30280,7 +30280,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Thiberville : ce que le terrain change pour l'élagage",
       "paras": [
-        "Thiberville est un bourg de l'Eure, aux confins du Lieuvin et du Pays d'Auge. Thiberville est située à l'est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay.",
+        "Thiberville est un bourg de l'Eure, aux confins du Lieuvin et du Pays d'Auge. Thiberville est située à l'est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay. La commune compte environ 1 752 habitants sur 8,0 km², soit environ 219 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Drucourt ou à L'Hôtellerie, nous pouvons regrouper les passages avec ceux de Thiberville pour limiter les déplacements."
       ]
@@ -30367,7 +30367,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Thiberville : ce que le terrain change pour le jardin",
       "paras": [
-        "Thiberville est un bourg de l'Eure, aux confins du Lieuvin et du Pays d'Auge. Thiberville est située à l'est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay.",
+        "Thiberville est un bourg de l'Eure, aux confins du Lieuvin et du Pays d'Auge. Thiberville est située à l'est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay. La commune compte environ 1 752 habitants sur 8,0 km², soit environ 219 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Drucourt ou à L'Hôtellerie, nous pouvons regrouper les passages avec ceux de Thiberville pour limiter les déplacements."
       ]
@@ -30454,7 +30454,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Thiberville et ses haies : repères du terrain",
       "paras": [
-        "Thiberville est un bourg de l'Eure, aux confins du Lieuvin et du Pays d'Auge. Thiberville est située à l'est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay.",
+        "Thiberville est un bourg de l'Eure, aux confins du Lieuvin et du Pays d'Auge. Thiberville est située à l'est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay. La commune compte environ 1 752 habitants sur 8,0 km², soit environ 219 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Drucourt ou à L'Hôtellerie, nous pouvons regrouper les passages avec ceux de Thiberville pour limiter les déplacements."
       ]
@@ -30541,7 +30541,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Thiberville et ses pelouses : repères du terrain",
       "paras": [
-        "Thiberville est un bourg de l'Eure, aux confins du Lieuvin et du Pays d'Auge. Thiberville est située à l'est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay.",
+        "Thiberville est un bourg de l'Eure, aux confins du Lieuvin et du Pays d'Auge. Thiberville est située à l'est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay. La commune compte environ 1 752 habitants sur 8,0 km², soit environ 219 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Drucourt ou à L'Hôtellerie, nous pouvons regrouper les passages avec ceux de Thiberville pour limiter les déplacements."
       ]
@@ -30628,7 +30628,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Thiberville selon le terrain",
       "paras": [
-        "Thiberville est un bourg de l'Eure, aux confins du Lieuvin et du Pays d'Auge. Thiberville est située à l'est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay.",
+        "Thiberville est un bourg de l'Eure, aux confins du Lieuvin et du Pays d'Auge. Thiberville est située à l'est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay. La commune compte environ 1 752 habitants sur 8,0 km², soit environ 219 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Drucourt ou à L'Hôtellerie, nous pouvons regrouper les passages avec ceux de Thiberville pour limiter les déplacements."
       ]
@@ -30715,7 +30715,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Thiberville : ce que le terrain change pour l'entretien",
       "paras": [
-        "Thiberville est un bourg de l'Eure, aux confins du Lieuvin et du Pays d'Auge. Thiberville est située à l'est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay.",
+        "Thiberville est un bourg de l'Eure, aux confins du Lieuvin et du Pays d'Auge. Thiberville est située à l'est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Drucourt, L'Hôtellerie, Fontaine-la-Louvet et Le Planquay. La commune compte environ 1 752 habitants sur 8,0 km², soit environ 219 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Drucourt ou à L'Hôtellerie, nous pouvons regrouper les passages avec ceux de Thiberville pour limiter les déplacements."
       ]
@@ -30802,7 +30802,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Dozulé selon le quartier",
       "paras": [
-        "Dozulé est un bourg du Pays d'Auge tourné vers la vallée de la Dives, à quelques kilomètres de la côte. Dozulé est située à l'ouest de Lisieux, à environ 22 km à vol d'oiseau (Calvados). Ses communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq.",
+        "Dozulé est un bourg du Pays d'Auge tourné vers la vallée de la Dives, à quelques kilomètres de la côte. Dozulé est située à l'ouest de Lisieux, à environ 22 km à vol d'oiseau (Calvados). Ses communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq. La commune compte environ 2 244 habitants sur 5,2 km², soit environ 429 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Angerville ou à Cricqueville-en-Auge, nous pouvons regrouper les passages avec ceux de Dozulé pour limiter les déplacements."
       ]
@@ -30889,7 +30889,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Dozulé et ses jardins : repères du terrain",
       "paras": [
-        "Dozulé est un bourg du Pays d'Auge tourné vers la vallée de la Dives, à quelques kilomètres de la côte. Dozulé est située à l'ouest de Lisieux, à environ 22 km à vol d'oiseau (Calvados). Ses communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq.",
+        "Dozulé est un bourg du Pays d'Auge tourné vers la vallée de la Dives, à quelques kilomètres de la côte. Dozulé est située à l'ouest de Lisieux, à environ 22 km à vol d'oiseau (Calvados). Ses communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq. La commune compte environ 2 244 habitants sur 5,2 km², soit environ 429 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Angerville ou à Cricqueville-en-Auge, nous pouvons regrouper les passages avec ceux de Dozulé pour limiter les déplacements."
       ]
@@ -30976,7 +30976,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Dozulé selon le quartier",
       "paras": [
-        "Dozulé est un bourg du Pays d'Auge tourné vers la vallée de la Dives, à quelques kilomètres de la côte. Dozulé est située à l'ouest de Lisieux, à environ 22 km à vol d'oiseau (Calvados). Ses communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq.",
+        "Dozulé est un bourg du Pays d'Auge tourné vers la vallée de la Dives, à quelques kilomètres de la côte. Dozulé est située à l'ouest de Lisieux, à environ 22 km à vol d'oiseau (Calvados). Ses communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq. La commune compte environ 2 244 habitants sur 5,2 km², soit environ 429 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Angerville ou à Cricqueville-en-Auge, nous pouvons regrouper les passages avec ceux de Dozulé pour limiter les déplacements."
       ]
@@ -31063,7 +31063,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Dozulé et ses pelouses : repères du terrain",
       "paras": [
-        "Dozulé est un bourg du Pays d'Auge tourné vers la vallée de la Dives, à quelques kilomètres de la côte. Dozulé est située à l'ouest de Lisieux, à environ 22 km à vol d'oiseau (Calvados). Ses communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq.",
+        "Dozulé est un bourg du Pays d'Auge tourné vers la vallée de la Dives, à quelques kilomètres de la côte. Dozulé est située à l'ouest de Lisieux, à environ 22 km à vol d'oiseau (Calvados). Ses communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq. La commune compte environ 2 244 habitants sur 5,2 km², soit environ 429 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Angerville ou à Cricqueville-en-Auge, nous pouvons regrouper les passages avec ceux de Dozulé pour limiter les déplacements."
       ]
@@ -31150,7 +31150,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Dozulé selon le terrain",
       "paras": [
-        "Dozulé est un bourg du Pays d'Auge tourné vers la vallée de la Dives, à quelques kilomètres de la côte. Dozulé est située à l'ouest de Lisieux, à environ 22 km à vol d'oiseau (Calvados). Ses communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq.",
+        "Dozulé est un bourg du Pays d'Auge tourné vers la vallée de la Dives, à quelques kilomètres de la côte. Dozulé est située à l'ouest de Lisieux, à environ 22 km à vol d'oiseau (Calvados). Ses communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq. La commune compte environ 2 244 habitants sur 5,2 km², soit environ 429 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Angerville ou à Cricqueville-en-Auge, nous pouvons regrouper les passages avec ceux de Dozulé pour limiter les déplacements."
       ]
@@ -31237,7 +31237,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Dozulé selon le quartier",
       "paras": [
-        "Dozulé est un bourg du Pays d'Auge tourné vers la vallée de la Dives, à quelques kilomètres de la côte. Dozulé est située à l'ouest de Lisieux, à environ 22 km à vol d'oiseau (Calvados). Ses communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq.",
+        "Dozulé est un bourg du Pays d'Auge tourné vers la vallée de la Dives, à quelques kilomètres de la côte. Dozulé est située à l'ouest de Lisieux, à environ 22 km à vol d'oiseau (Calvados). Ses communes voisines : Angerville, Cricqueville-en-Auge, Putot-en-Auge et Saint-Léger-Dubosq. La commune compte environ 2 244 habitants sur 5,2 km², soit environ 429 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Angerville ou à Cricqueville-en-Auge, nous pouvons regrouper les passages avec ceux de Dozulé pour limiter les déplacements."
       ]
@@ -31324,7 +31324,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cabourg et ses arbres : repères du terrain",
       "paras": [
-        "Cabourg est connue pour son Grand Hôtel, sa digue-promenade et le souvenir de Marcel Proust. Ses rues rayonnent en éventail depuis le casino et le Grand Hôtel, entre villas et jardins de ville. Cabourg est située à l'ouest de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Varaville, Houlgate et Grangues.",
+        "Cabourg est connue pour son Grand Hôtel, sa digue-promenade et le souvenir de Marcel Proust. Ses rues rayonnent en éventail depuis le casino et le Grand Hôtel, entre villas et jardins de ville. Cabourg est située à l'ouest de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Varaville, Houlgate et Grangues. La commune compte environ 3 725 habitants sur 5,4 km², soit environ 692 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Près de la mer, vent et embruns marquent les arbres : couronnes déportées, branches cassées, feuillage brûlé côté large. Nous allégeons les arbres exposés pour qu'ils résistent mieux aux tempêtes.",
         "Si vous êtes à Dives-sur-Mer ou à Varaville, nous pouvons regrouper les passages avec ceux de Cabourg pour limiter les déplacements."
       ]
@@ -31411,7 +31411,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cabourg : ce que le terrain change pour le jardin",
       "paras": [
-        "Cabourg est connue pour son Grand Hôtel, sa digue-promenade et le souvenir de Marcel Proust. Ses rues rayonnent en éventail depuis le casino et le Grand Hôtel, entre villas et jardins de ville. Cabourg est située à l'ouest de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Varaville, Houlgate et Grangues.",
+        "Cabourg est connue pour son Grand Hôtel, sa digue-promenade et le souvenir de Marcel Proust. Ses rues rayonnent en éventail depuis le casino et le Grand Hôtel, entre villas et jardins de ville. Cabourg est située à l'ouest de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Varaville, Houlgate et Grangues. La commune compte environ 3 725 habitants sur 5,4 km², soit environ 692 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur la côte, le vent, le sel et le sol léger changent le jardin : plantations plus rustiques, arrosage plus attentif, nettoyage après les tempêtes. Beaucoup de maisons sont aussi des résidences secondaires : nous entretenons en votre absence.",
         "Si vous êtes à Dives-sur-Mer ou à Varaville, nous pouvons regrouper les passages avec ceux de Cabourg pour limiter les déplacements."
       ]
@@ -31498,7 +31498,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cabourg : ce que le terrain change pour les haies",
       "paras": [
-        "Cabourg est connue pour son Grand Hôtel, sa digue-promenade et le souvenir de Marcel Proust. Ses rues rayonnent en éventail depuis le casino et le Grand Hôtel, entre villas et jardins de ville. Cabourg est située à l'ouest de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Varaville, Houlgate et Grangues.",
+        "Cabourg est connue pour son Grand Hôtel, sa digue-promenade et le souvenir de Marcel Proust. Ses rues rayonnent en éventail depuis le casino et le Grand Hôtel, entre villas et jardins de ville. Cabourg est située à l'ouest de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Varaville, Houlgate et Grangues. La commune compte environ 3 725 habitants sur 5,4 km², soit environ 692 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les haies du littoral font brise-vent : thuyas, lauriers, tamaris, cyprès. Le vent salé brûle les pousses trop sévèrement taillées, d'où une taille mesurée et à la bonne saison.",
         "Si vous êtes à Dives-sur-Mer ou à Varaville, nous pouvons regrouper les passages avec ceux de Cabourg pour limiter les déplacements."
       ]
@@ -31585,7 +31585,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cabourg et ses pelouses : repères du terrain",
       "paras": [
-        "Cabourg est connue pour son Grand Hôtel, sa digue-promenade et le souvenir de Marcel Proust. Ses rues rayonnent en éventail depuis le casino et le Grand Hôtel, entre villas et jardins de ville. Cabourg est située à l'ouest de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Varaville, Houlgate et Grangues.",
+        "Cabourg est connue pour son Grand Hôtel, sa digue-promenade et le souvenir de Marcel Proust. Ses rues rayonnent en éventail depuis le casino et le Grand Hôtel, entre villas et jardins de ville. Cabourg est située à l'ouest de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Varaville, Houlgate et Grangues. La commune compte environ 3 725 habitants sur 5,4 km², soit environ 692 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Près de la mer, la pelouse sèche vite en été sur sol léger : nous relevons la hauteur de coupe et espaçons les tontes en période chaude.",
         "Si vous êtes à Dives-sur-Mer ou à Varaville, nous pouvons regrouper les passages avec ceux de Cabourg pour limiter les déplacements."
       ]
@@ -31672,7 +31672,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cabourg : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Cabourg est connue pour son Grand Hôtel, sa digue-promenade et le souvenir de Marcel Proust. Ses rues rayonnent en éventail depuis le casino et le Grand Hôtel, entre villas et jardins de ville. Cabourg est située à l'ouest de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Varaville, Houlgate et Grangues.",
+        "Cabourg est connue pour son Grand Hôtel, sa digue-promenade et le souvenir de Marcel Proust. Ses rues rayonnent en éventail depuis le casino et le Grand Hôtel, entre villas et jardins de ville. Cabourg est située à l'ouest de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Varaville, Houlgate et Grangues. La commune compte environ 3 725 habitants sur 5,4 km², soit environ 692 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur la côte, les terrains peu entretenus se couvrent vite de ronces et d'arbustes tourmentés par le vent : nous les reprenons sans abîmer les plantations utiles.",
         "Si vous êtes à Dives-sur-Mer ou à Varaville, nous pouvons regrouper les passages avec ceux de Cabourg pour limiter les déplacements."
       ]
@@ -31759,7 +31759,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cabourg et ses jardins : repères du terrain",
       "paras": [
-        "Cabourg est connue pour son Grand Hôtel, sa digue-promenade et le souvenir de Marcel Proust. Ses rues rayonnent en éventail depuis le casino et le Grand Hôtel, entre villas et jardins de ville. Cabourg est située à l'ouest de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Varaville, Houlgate et Grangues.",
+        "Cabourg est connue pour son Grand Hôtel, sa digue-promenade et le souvenir de Marcel Proust. Ses rues rayonnent en éventail depuis le casino et le Grand Hôtel, entre villas et jardins de ville. Cabourg est située à l'ouest de Lisieux, à environ 29 km à vol d'oiseau (Calvados). Ses communes voisines : Dives-sur-Mer, Varaville, Houlgate et Grangues. La commune compte environ 3 725 habitants sur 5,4 km², soit environ 692 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Jardins de villas et résidences secondaires : nous prévoyons des passages avant l'été, en septembre et après les coups de vent, pour que tout soit net à chaque arrivée.",
         "Si vous êtes à Dives-sur-Mer ou à Varaville, nous pouvons regrouper les passages avec ceux de Cabourg pour limiter les déplacements."
       ]
@@ -31846,7 +31846,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Dives-sur-Mer et ses arbres : repères du terrain",
       "paras": [
-        "Dives-sur-Mer garde ses halles médiévales et le souvenir de Guillaume le Conquérant, dont la flotte aurait appareillé de l'estuaire de la Dives en 1066. Dives-sur-Mer est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer.",
+        "Dives-sur-Mer garde ses halles médiévales et le souvenir de Guillaume le Conquérant, dont la flotte aurait appareillé de l'estuaire de la Dives en 1066. Dives-sur-Mer est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer. La commune compte environ 5 122 habitants sur 6,3 km², soit environ 812 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En centre ancien, les cours et jardins sont petits, l'accès est souvent étroit et les arbres touchent façades et toitures voisines : nous travaillons plutôt en grimpe, branche par branche, avec des protections et des cordes de rappel.",
         "Si vous êtes à Cabourg ou à Houlgate, nous pouvons regrouper les passages avec ceux de Dives-sur-Mer pour limiter les déplacements."
       ]
@@ -31933,7 +31933,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Dives-sur-Mer : ce que le terrain change pour le jardin",
       "paras": [
-        "Dives-sur-Mer garde ses halles médiévales et le souvenir de Guillaume le Conquérant, dont la flotte aurait appareillé de l'estuaire de la Dives en 1066. Dives-sur-Mer est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer.",
+        "Dives-sur-Mer garde ses halles médiévales et le souvenir de Guillaume le Conquérant, dont la flotte aurait appareillé de l'estuaire de la Dives en 1066. Dives-sur-Mer est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer. La commune compte environ 5 122 habitants sur 6,3 km², soit environ 812 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En centre ancien, les jardins sont petits et enclavés : pas de remorque devant la porte, parfois un passage par la maison. Nous organisons les passages en conséquence et évacuons les déchets nous-mêmes.",
         "Si vous êtes à Cabourg ou à Houlgate, nous pouvons regrouper les passages avec ceux de Dives-sur-Mer pour limiter les déplacements."
       ]
@@ -32020,7 +32020,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Dives-sur-Mer : ce que le terrain change pour les haies",
       "paras": [
-        "Dives-sur-Mer garde ses halles médiévales et le souvenir de Guillaume le Conquérant, dont la flotte aurait appareillé de l'estuaire de la Dives en 1066. Dives-sur-Mer est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer.",
+        "Dives-sur-Mer garde ses halles médiévales et le souvenir de Guillaume le Conquérant, dont la flotte aurait appareillé de l'estuaire de la Dives en 1066. Dives-sur-Mer est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer. La commune compte environ 5 122 habitants sur 6,3 km², soit environ 812 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Dans les rues serrées, les haies bordent des trottoirs et des murs : la taille se fait proprement, avec bâches au sol et ramassage immédiat pour ne rien laisser sur la voie.",
         "Si vous êtes à Cabourg ou à Houlgate, nous pouvons regrouper les passages avec ceux de Dives-sur-Mer pour limiter les déplacements."
       ]
@@ -32107,7 +32107,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Dives-sur-Mer : ce que le terrain change pour la pelouse",
       "paras": [
-        "Dives-sur-Mer garde ses halles médiévales et le souvenir de Guillaume le Conquérant, dont la flotte aurait appareillé de l'estuaire de la Dives en 1066. Dives-sur-Mer est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer.",
+        "Dives-sur-Mer garde ses halles médiévales et le souvenir de Guillaume le Conquérant, dont la flotte aurait appareillé de l'estuaire de la Dives en 1066. Dives-sur-Mer est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer. La commune compte environ 5 122 habitants sur 6,3 km², soit environ 812 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les petites pelouses de centre-ville se tondent vite mais demandent des finitions soignées le long des murs et des massifs, avec du matériel compact.",
         "Si vous êtes à Cabourg ou à Houlgate, nous pouvons regrouper les passages avec ceux de Dives-sur-Mer pour limiter les déplacements."
       ]
@@ -32194,7 +32194,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Dives-sur-Mer et ses terrains : repères",
       "paras": [
-        "Dives-sur-Mer garde ses halles médiévales et le souvenir de Guillaume le Conquérant, dont la flotte aurait appareillé de l'estuaire de la Dives en 1066. Dives-sur-Mer est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer.",
+        "Dives-sur-Mer garde ses halles médiévales et le souvenir de Guillaume le Conquérant, dont la flotte aurait appareillé de l'estuaire de la Dives en 1066. Dives-sur-Mer est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer. La commune compte environ 5 122 habitants sur 6,3 km², soit environ 812 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En ville, le débroussaillage concerne surtout des fonds de parcelle, des talus et des terrains vides : nous travaillons avec un matériel adapté aux accès étroits.",
         "Si vous êtes à Cabourg ou à Houlgate, nous pouvons regrouper les passages avec ceux de Dives-sur-Mer pour limiter les déplacements."
       ]
@@ -32281,7 +32281,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Dives-sur-Mer et ses jardins : repères du terrain",
       "paras": [
-        "Dives-sur-Mer garde ses halles médiévales et le souvenir de Guillaume le Conquérant, dont la flotte aurait appareillé de l'estuaire de la Dives en 1066. Dives-sur-Mer est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer.",
+        "Dives-sur-Mer garde ses halles médiévales et le souvenir de Guillaume le Conquérant, dont la flotte aurait appareillé de l'estuaire de la Dives en 1066. Dives-sur-Mer est située au nord-ouest de Lisieux, à environ 27 km à vol d'oiseau (Calvados). Ses communes voisines : Cabourg, Houlgate, Grangues et Gonneville-sur-Mer. La commune compte environ 5 122 habitants sur 6,3 km², soit environ 812 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Petits jardins, murs et pots : l'entretien passe par des passages courts et réguliers, sans gros engins, avec un seul interlocuteur.",
         "Si vous êtes à Cabourg ou à Houlgate, nous pouvons regrouper les passages avec ceux de Dives-sur-Mer pour limiter les déplacements."
       ]
@@ -32368,7 +32368,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Argences selon le quartier",
       "paras": [
-        "Argences est un bourg de la plaine, à l'est de Caen, traversé par la Muance. Argences est située à l'ouest de Lisieux, à environ 28 km à vol d'oiseau (Calvados). Ses communes voisines : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet.",
+        "Argences est un bourg de la plaine, à l'est de Caen, traversé par la Muance. Argences est située à l'ouest de Lisieux, à environ 28 km à vol d'oiseau (Calvados). Ses communes voisines : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet. La commune compte environ 3 959 habitants sur 9,8 km², soit environ 405 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Canteloup ou à Vimont, nous pouvons regrouper les passages avec ceux de Argences pour limiter les déplacements."
       ]
@@ -32455,7 +32455,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Argences : ce que le terrain change pour le jardin",
       "paras": [
-        "Argences est un bourg de la plaine, à l'est de Caen, traversé par la Muance. Argences est située à l'ouest de Lisieux, à environ 28 km à vol d'oiseau (Calvados). Ses communes voisines : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet.",
+        "Argences est un bourg de la plaine, à l'est de Caen, traversé par la Muance. Argences est située à l'ouest de Lisieux, à environ 28 km à vol d'oiseau (Calvados). Ses communes voisines : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet. La commune compte environ 3 959 habitants sur 9,8 km², soit environ 405 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Canteloup ou à Vimont, nous pouvons regrouper les passages avec ceux de Argences pour limiter les déplacements."
       ]
@@ -32542,7 +32542,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Argences et ses haies : repères du terrain",
       "paras": [
-        "Argences est un bourg de la plaine, à l'est de Caen, traversé par la Muance. Argences est située à l'ouest de Lisieux, à environ 28 km à vol d'oiseau (Calvados). Ses communes voisines : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet.",
+        "Argences est un bourg de la plaine, à l'est de Caen, traversé par la Muance. Argences est située à l'ouest de Lisieux, à environ 28 km à vol d'oiseau (Calvados). Ses communes voisines : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet. La commune compte environ 3 959 habitants sur 9,8 km², soit environ 405 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Canteloup ou à Vimont, nous pouvons regrouper les passages avec ceux de Argences pour limiter les déplacements."
       ]
@@ -32629,7 +32629,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Argences et ses pelouses : repères du terrain",
       "paras": [
-        "Argences est un bourg de la plaine, à l'est de Caen, traversé par la Muance. Argences est située à l'ouest de Lisieux, à environ 28 km à vol d'oiseau (Calvados). Ses communes voisines : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet.",
+        "Argences est un bourg de la plaine, à l'est de Caen, traversé par la Muance. Argences est située à l'ouest de Lisieux, à environ 28 km à vol d'oiseau (Calvados). Ses communes voisines : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet. La commune compte environ 3 959 habitants sur 9,8 km², soit environ 405 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Canteloup ou à Vimont, nous pouvons regrouper les passages avec ceux de Argences pour limiter les déplacements."
       ]
@@ -32716,7 +32716,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Argences et ses terrains : repères",
       "paras": [
-        "Argences est un bourg de la plaine, à l'est de Caen, traversé par la Muance. Argences est située à l'ouest de Lisieux, à environ 28 km à vol d'oiseau (Calvados). Ses communes voisines : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet.",
+        "Argences est un bourg de la plaine, à l'est de Caen, traversé par la Muance. Argences est située à l'ouest de Lisieux, à environ 28 km à vol d'oiseau (Calvados). Ses communes voisines : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet. La commune compte environ 3 959 habitants sur 9,8 km², soit environ 405 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Canteloup ou à Vimont, nous pouvons regrouper les passages avec ceux de Argences pour limiter les déplacements."
       ]
@@ -32803,7 +32803,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Argences selon le quartier",
       "paras": [
-        "Argences est un bourg de la plaine, à l'est de Caen, traversé par la Muance. Argences est située à l'ouest de Lisieux, à environ 28 km à vol d'oiseau (Calvados). Ses communes voisines : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet.",
+        "Argences est un bourg de la plaine, à l'est de Caen, traversé par la Muance. Argences est située à l'ouest de Lisieux, à environ 28 km à vol d'oiseau (Calvados). Ses communes voisines : Canteloup, Vimont, Janville et Saint-Pierre-du-Jonquet. La commune compte environ 3 959 habitants sur 9,8 km², soit environ 405 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Canteloup ou à Vimont, nous pouvons regrouper les passages avec ceux de Argences pour limiter les déplacements."
       ]
@@ -32890,7 +32890,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mézidon Vallée d'Auge : ce que le terrain change pour l'élagage",
       "paras": [
-        "Mézidon Vallée d'Auge s'est construite autour de Mézidon-Canon, nœud ferroviaire à l'entrée de la vallée de la Dives. Mézidon Vallée d'Auge est située à l'ouest de Lisieux, à environ 19 km à vol d'oiseau (Calvados). Ses communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge.",
+        "Mézidon Vallée d'Auge s'est construite autour de Mézidon-Canon, nœud ferroviaire à l'entrée de la vallée de la Dives. Mézidon Vallée d'Auge est située à l'ouest de Lisieux, à environ 19 km à vol d'oiseau (Calvados). Ses communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge. La commune compte environ 9 766 habitants sur 104 km², soit environ 94 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Belle Vie en Auge ou à Notre-Dame-d'Estrées-Corbon, nous pouvons regrouper les passages avec ceux de Mézidon Vallée d'Auge pour limiter les déplacements."
       ]
@@ -32977,7 +32977,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mézidon Vallée d'Auge et ses jardins : repères du terrain",
       "paras": [
-        "Mézidon Vallée d'Auge s'est construite autour de Mézidon-Canon, nœud ferroviaire à l'entrée de la vallée de la Dives. Mézidon Vallée d'Auge est située à l'ouest de Lisieux, à environ 19 km à vol d'oiseau (Calvados). Ses communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge.",
+        "Mézidon Vallée d'Auge s'est construite autour de Mézidon-Canon, nœud ferroviaire à l'entrée de la vallée de la Dives. Mézidon Vallée d'Auge est située à l'ouest de Lisieux, à environ 19 km à vol d'oiseau (Calvados). Ses communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge. La commune compte environ 9 766 habitants sur 104 km², soit environ 94 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Belle Vie en Auge ou à Notre-Dame-d'Estrées-Corbon, nous pouvons regrouper les passages avec ceux de Mézidon Vallée d'Auge pour limiter les déplacements."
       ]
@@ -33064,7 +33064,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mézidon Vallée d'Auge : ce que le terrain change pour les haies",
       "paras": [
-        "Mézidon Vallée d'Auge s'est construite autour de Mézidon-Canon, nœud ferroviaire à l'entrée de la vallée de la Dives. Mézidon Vallée d'Auge est située à l'ouest de Lisieux, à environ 19 km à vol d'oiseau (Calvados). Ses communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge.",
+        "Mézidon Vallée d'Auge s'est construite autour de Mézidon-Canon, nœud ferroviaire à l'entrée de la vallée de la Dives. Mézidon Vallée d'Auge est située à l'ouest de Lisieux, à environ 19 km à vol d'oiseau (Calvados). Ses communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge. La commune compte environ 9 766 habitants sur 104 km², soit environ 94 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Belle Vie en Auge ou à Notre-Dame-d'Estrées-Corbon, nous pouvons regrouper les passages avec ceux de Mézidon Vallée d'Auge pour limiter les déplacements."
       ]
@@ -33151,7 +33151,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Mézidon Vallée d'Auge selon le quartier",
       "paras": [
-        "Mézidon Vallée d'Auge s'est construite autour de Mézidon-Canon, nœud ferroviaire à l'entrée de la vallée de la Dives. Mézidon Vallée d'Auge est située à l'ouest de Lisieux, à environ 19 km à vol d'oiseau (Calvados). Ses communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge.",
+        "Mézidon Vallée d'Auge s'est construite autour de Mézidon-Canon, nœud ferroviaire à l'entrée de la vallée de la Dives. Mézidon Vallée d'Auge est située à l'ouest de Lisieux, à environ 19 km à vol d'oiseau (Calvados). Ses communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge. La commune compte environ 9 766 habitants sur 104 km², soit environ 94 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Belle Vie en Auge ou à Notre-Dame-d'Estrées-Corbon, nous pouvons regrouper les passages avec ceux de Mézidon Vallée d'Auge pour limiter les déplacements."
       ]
@@ -33238,7 +33238,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Mézidon Vallée d'Auge selon le terrain",
       "paras": [
-        "Mézidon Vallée d'Auge s'est construite autour de Mézidon-Canon, nœud ferroviaire à l'entrée de la vallée de la Dives. Mézidon Vallée d'Auge est située à l'ouest de Lisieux, à environ 19 km à vol d'oiseau (Calvados). Ses communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge.",
+        "Mézidon Vallée d'Auge s'est construite autour de Mézidon-Canon, nœud ferroviaire à l'entrée de la vallée de la Dives. Mézidon Vallée d'Auge est située à l'ouest de Lisieux, à environ 19 km à vol d'oiseau (Calvados). Ses communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge. La commune compte environ 9 766 habitants sur 104 km², soit environ 94 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Belle Vie en Auge ou à Notre-Dame-d'Estrées-Corbon, nous pouvons regrouper les passages avec ceux de Mézidon Vallée d'Auge pour limiter les déplacements."
       ]
@@ -33325,7 +33325,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Mézidon Vallée d'Auge selon le quartier",
       "paras": [
-        "Mézidon Vallée d'Auge s'est construite autour de Mézidon-Canon, nœud ferroviaire à l'entrée de la vallée de la Dives. Mézidon Vallée d'Auge est située à l'ouest de Lisieux, à environ 19 km à vol d'oiseau (Calvados). Ses communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge.",
+        "Mézidon Vallée d'Auge s'est construite autour de Mézidon-Canon, nœud ferroviaire à l'entrée de la vallée de la Dives. Mézidon Vallée d'Auge est située à l'ouest de Lisieux, à environ 19 km à vol d'oiseau (Calvados). Ses communes voisines : Belle Vie en Auge, Notre-Dame-d'Estrées-Corbon, Ouézy et Méry-Bissières-en-Auge. La commune compte environ 9 766 habitants sur 104 km², soit environ 94 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Belle Vie en Auge ou à Notre-Dame-d'Estrées-Corbon, nous pouvons regrouper les passages avec ceux de Mézidon Vallée d'Auge pour limiter les déplacements."
       ]
@@ -33412,7 +33412,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Falaise et ses arbres : repères du terrain",
       "paras": [
-        "Falaise, ville natale de Guillaume le Conquérant, est dominée par son château. Son centre ancien côtoie des quartiers résidentiels aux jardins plus ouverts. Falaise est située au sud-ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet.",
+        "Falaise, ville natale de Guillaume le Conquérant, est dominée par son château. Son centre ancien côtoie des quartiers résidentiels aux jardins plus ouverts. Falaise est située au sud-ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet. La commune compte environ 7 680 habitants sur 11,8 km², soit environ 649 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En centre ancien, les cours et jardins sont petits, l'accès est souvent étroit et les arbres touchent façades et toitures voisines : nous travaillons plutôt en grimpe, branche par branche, avec des protections et des cordes de rappel.",
         "Si vous êtes à Aubigny ou à Versainville, nous pouvons regrouper les passages avec ceux de Falaise pour limiter les déplacements."
       ]
@@ -33499,7 +33499,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Falaise : ce que le terrain change pour le jardin",
       "paras": [
-        "Falaise, ville natale de Guillaume le Conquérant, est dominée par son château. Son centre ancien côtoie des quartiers résidentiels aux jardins plus ouverts. Falaise est située au sud-ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet.",
+        "Falaise, ville natale de Guillaume le Conquérant, est dominée par son château. Son centre ancien côtoie des quartiers résidentiels aux jardins plus ouverts. Falaise est située au sud-ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet. La commune compte environ 7 680 habitants sur 11,8 km², soit environ 649 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En centre ancien, les jardins sont petits et enclavés : pas de remorque devant la porte, parfois un passage par la maison. Nous organisons les passages en conséquence et évacuons les déchets nous-mêmes.",
         "Si vous êtes à Aubigny ou à Versainville, nous pouvons regrouper les passages avec ceux de Falaise pour limiter les déplacements."
       ]
@@ -33586,7 +33586,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Falaise : ce que le terrain change pour les haies",
       "paras": [
-        "Falaise, ville natale de Guillaume le Conquérant, est dominée par son château. Son centre ancien côtoie des quartiers résidentiels aux jardins plus ouverts. Falaise est située au sud-ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet.",
+        "Falaise, ville natale de Guillaume le Conquérant, est dominée par son château. Son centre ancien côtoie des quartiers résidentiels aux jardins plus ouverts. Falaise est située au sud-ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet. La commune compte environ 7 680 habitants sur 11,8 km², soit environ 649 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Dans les rues serrées, les haies bordent des trottoirs et des murs : la taille se fait proprement, avec bâches au sol et ramassage immédiat pour ne rien laisser sur la voie.",
         "Si vous êtes à Aubigny ou à Versainville, nous pouvons regrouper les passages avec ceux de Falaise pour limiter les déplacements."
       ]
@@ -33673,7 +33673,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Falaise et ses pelouses : repères du terrain",
       "paras": [
-        "Falaise, ville natale de Guillaume le Conquérant, est dominée par son château. Son centre ancien côtoie des quartiers résidentiels aux jardins plus ouverts. Falaise est située au sud-ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet.",
+        "Falaise, ville natale de Guillaume le Conquérant, est dominée par son château. Son centre ancien côtoie des quartiers résidentiels aux jardins plus ouverts. Falaise est située au sud-ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet. La commune compte environ 7 680 habitants sur 11,8 km², soit environ 649 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les petites pelouses de centre-ville se tondent vite mais demandent des finitions soignées le long des murs et des massifs, avec du matériel compact.",
         "Si vous êtes à Aubigny ou à Versainville, nous pouvons regrouper les passages avec ceux de Falaise pour limiter les déplacements."
       ]
@@ -33760,7 +33760,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Falaise selon le terrain",
       "paras": [
-        "Falaise, ville natale de Guillaume le Conquérant, est dominée par son château. Son centre ancien côtoie des quartiers résidentiels aux jardins plus ouverts. Falaise est située au sud-ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet.",
+        "Falaise, ville natale de Guillaume le Conquérant, est dominée par son château. Son centre ancien côtoie des quartiers résidentiels aux jardins plus ouverts. Falaise est située au sud-ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet. La commune compte environ 7 680 habitants sur 11,8 km², soit environ 649 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En ville, le débroussaillage concerne surtout des fonds de parcelle, des talus et des terrains vides : nous travaillons avec un matériel adapté aux accès étroits.",
         "Si vous êtes à Aubigny ou à Versainville, nous pouvons regrouper les passages avec ceux de Falaise pour limiter les déplacements."
       ]
@@ -33847,7 +33847,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Falaise selon le quartier",
       "paras": [
-        "Falaise, ville natale de Guillaume le Conquérant, est dominée par son château. Son centre ancien côtoie des quartiers résidentiels aux jardins plus ouverts. Falaise est située au sud-ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet.",
+        "Falaise, ville natale de Guillaume le Conquérant, est dominée par son château. Son centre ancien côtoie des quartiers résidentiels aux jardins plus ouverts. Falaise est située au sud-ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Aubigny, Versainville, Eraines et Saint-Pierre-Canivet. La commune compte environ 7 680 habitants sur 11,8 km², soit environ 649 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Petits jardins, murs et pots : l'entretien passe par des passages courts et réguliers, sans gros engins, avec un seul interlocuteur.",
         "Si vous êtes à Aubigny ou à Versainville, nous pouvons regrouper les passages avec ceux de Falaise pour limiter les déplacements."
       ]
@@ -33934,7 +33934,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Vimoutiers et ses arbres : repères du terrain",
       "paras": [
-        "Vimoutiers est associée au camembert et à Marie Harel. La ville a été en grande partie reconstruite après 1944 et s'ouvre sur les herbages de la vallée de la Vie. Vimoutiers est située au sud de Lisieux, à environ 25 km à vol d'oiseau (Orne). Ses communes voisines : Crouttes, Lisores, Camembert et Val-de-Vie.",
+        "Vimoutiers est associée au camembert et à Marie Harel. La ville a été en grande partie reconstruite après 1944 et s'ouvre sur les herbages de la vallée de la Vie. Vimoutiers est située au sud de Lisieux, à environ 25 km à vol d'oiseau (Orne). Ses communes voisines : Crouttes, Lisores, Camembert et Val-de-Vie. La commune compte environ 2 978 habitants sur 16,0 km², soit environ 186 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Crouttes ou à Lisores, nous pouvons regrouper les passages avec ceux de Vimoutiers pour limiter les déplacements."
       ]
@@ -34021,7 +34021,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Vimoutiers : ce que le terrain change pour le jardin",
       "paras": [
-        "Vimoutiers est associée au camembert et à Marie Harel. La ville a été en grande partie reconstruite après 1944 et s'ouvre sur les herbages de la vallée de la Vie. Vimoutiers est située au sud de Lisieux, à environ 25 km à vol d'oiseau (Orne). Ses communes voisines : Crouttes, Lisores, Camembert et Val-de-Vie.",
+        "Vimoutiers est associée au camembert et à Marie Harel. La ville a été en grande partie reconstruite après 1944 et s'ouvre sur les herbages de la vallée de la Vie. Vimoutiers est située au sud de Lisieux, à environ 25 km à vol d'oiseau (Orne). Ses communes voisines : Crouttes, Lisores, Camembert et Val-de-Vie. La commune compte environ 2 978 habitants sur 16,0 km², soit environ 186 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Crouttes ou à Lisores, nous pouvons regrouper les passages avec ceux de Vimoutiers pour limiter les déplacements."
       ]
@@ -34108,7 +34108,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Vimoutiers selon le quartier",
       "paras": [
-        "Vimoutiers est associée au camembert et à Marie Harel. La ville a été en grande partie reconstruite après 1944 et s'ouvre sur les herbages de la vallée de la Vie. Vimoutiers est située au sud de Lisieux, à environ 25 km à vol d'oiseau (Orne). Ses communes voisines : Crouttes, Lisores, Camembert et Val-de-Vie.",
+        "Vimoutiers est associée au camembert et à Marie Harel. La ville a été en grande partie reconstruite après 1944 et s'ouvre sur les herbages de la vallée de la Vie. Vimoutiers est située au sud de Lisieux, à environ 25 km à vol d'oiseau (Orne). Ses communes voisines : Crouttes, Lisores, Camembert et Val-de-Vie. La commune compte environ 2 978 habitants sur 16,0 km², soit environ 186 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Crouttes ou à Lisores, nous pouvons regrouper les passages avec ceux de Vimoutiers pour limiter les déplacements."
       ]
@@ -34195,7 +34195,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Vimoutiers : ce que le terrain change pour la pelouse",
       "paras": [
-        "Vimoutiers est associée au camembert et à Marie Harel. La ville a été en grande partie reconstruite après 1944 et s'ouvre sur les herbages de la vallée de la Vie. Vimoutiers est située au sud de Lisieux, à environ 25 km à vol d'oiseau (Orne). Ses communes voisines : Crouttes, Lisores, Camembert et Val-de-Vie.",
+        "Vimoutiers est associée au camembert et à Marie Harel. La ville a été en grande partie reconstruite après 1944 et s'ouvre sur les herbages de la vallée de la Vie. Vimoutiers est située au sud de Lisieux, à environ 25 km à vol d'oiseau (Orne). Ses communes voisines : Crouttes, Lisores, Camembert et Val-de-Vie. La commune compte environ 2 978 habitants sur 16,0 km², soit environ 186 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Crouttes ou à Lisores, nous pouvons regrouper les passages avec ceux de Vimoutiers pour limiter les déplacements."
       ]
@@ -34282,7 +34282,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Vimoutiers et ses terrains : repères",
       "paras": [
-        "Vimoutiers est associée au camembert et à Marie Harel. La ville a été en grande partie reconstruite après 1944 et s'ouvre sur les herbages de la vallée de la Vie. Vimoutiers est située au sud de Lisieux, à environ 25 km à vol d'oiseau (Orne). Ses communes voisines : Crouttes, Lisores, Camembert et Val-de-Vie.",
+        "Vimoutiers est associée au camembert et à Marie Harel. La ville a été en grande partie reconstruite après 1944 et s'ouvre sur les herbages de la vallée de la Vie. Vimoutiers est située au sud de Lisieux, à environ 25 km à vol d'oiseau (Orne). Ses communes voisines : Crouttes, Lisores, Camembert et Val-de-Vie. La commune compte environ 2 978 habitants sur 16,0 km², soit environ 186 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Crouttes ou à Lisores, nous pouvons regrouper les passages avec ceux de Vimoutiers pour limiter les déplacements."
       ]
@@ -34369,7 +34369,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Vimoutiers et ses jardins : repères du terrain",
       "paras": [
-        "Vimoutiers est associée au camembert et à Marie Harel. La ville a été en grande partie reconstruite après 1944 et s'ouvre sur les herbages de la vallée de la Vie. Vimoutiers est située au sud de Lisieux, à environ 25 km à vol d'oiseau (Orne). Ses communes voisines : Crouttes, Lisores, Camembert et Val-de-Vie.",
+        "Vimoutiers est associée au camembert et à Marie Harel. La ville a été en grande partie reconstruite après 1944 et s'ouvre sur les herbages de la vallée de la Vie. Vimoutiers est située au sud de Lisieux, à environ 25 km à vol d'oiseau (Orne). Ses communes voisines : Crouttes, Lisores, Camembert et Val-de-Vie. La commune compte environ 2 978 habitants sur 16,0 km², soit environ 186 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Crouttes ou à Lisores, nous pouvons regrouper les passages avec ceux de Vimoutiers pour limiter les déplacements."
       ]
@@ -34456,7 +34456,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cormeilles : ce que le terrain change pour l'élagage",
       "paras": [
-        "Cormeilles est un bourg de l'Eure, dans le Lieuvin, non loin de la limite du Calvados. Cormeilles est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel.",
+        "Cormeilles est un bourg de l'Eure, dans le Lieuvin, non loin de la limite du Calvados. Cormeilles est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel. La commune compte environ 1 105 habitants sur 3,1 km², soit environ 358 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Saint-Pierre-de-Cormeilles ou à Saint-Sylvestre-de-Cormeilles, nous pouvons regrouper les passages avec ceux de Cormeilles pour limiter les déplacements."
       ]
@@ -34543,7 +34543,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cormeilles et ses jardins : repères du terrain",
       "paras": [
-        "Cormeilles est un bourg de l'Eure, dans le Lieuvin, non loin de la limite du Calvados. Cormeilles est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel.",
+        "Cormeilles est un bourg de l'Eure, dans le Lieuvin, non loin de la limite du Calvados. Cormeilles est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel. La commune compte environ 1 105 habitants sur 3,1 km², soit environ 358 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Saint-Pierre-de-Cormeilles ou à Saint-Sylvestre-de-Cormeilles, nous pouvons regrouper les passages avec ceux de Cormeilles pour limiter les déplacements."
       ]
@@ -34630,7 +34630,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cormeilles : ce que le terrain change pour les haies",
       "paras": [
-        "Cormeilles est un bourg de l'Eure, dans le Lieuvin, non loin de la limite du Calvados. Cormeilles est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel.",
+        "Cormeilles est un bourg de l'Eure, dans le Lieuvin, non loin de la limite du Calvados. Cormeilles est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel. La commune compte environ 1 105 habitants sur 3,1 km², soit environ 358 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Saint-Pierre-de-Cormeilles ou à Saint-Sylvestre-de-Cormeilles, nous pouvons regrouper les passages avec ceux de Cormeilles pour limiter les déplacements."
       ]
@@ -34717,7 +34717,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cormeilles et ses pelouses : repères du terrain",
       "paras": [
-        "Cormeilles est un bourg de l'Eure, dans le Lieuvin, non loin de la limite du Calvados. Cormeilles est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel.",
+        "Cormeilles est un bourg de l'Eure, dans le Lieuvin, non loin de la limite du Calvados. Cormeilles est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel. La commune compte environ 1 105 habitants sur 3,1 km², soit environ 358 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Saint-Pierre-de-Cormeilles ou à Saint-Sylvestre-de-Cormeilles, nous pouvons regrouper les passages avec ceux de Cormeilles pour limiter les déplacements."
       ]
@@ -34804,7 +34804,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cormeilles et ses terrains : repères",
       "paras": [
-        "Cormeilles est un bourg de l'Eure, dans le Lieuvin, non loin de la limite du Calvados. Cormeilles est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel.",
+        "Cormeilles est un bourg de l'Eure, dans le Lieuvin, non loin de la limite du Calvados. Cormeilles est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel. La commune compte environ 1 105 habitants sur 3,1 km², soit environ 358 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Saint-Pierre-de-Cormeilles ou à Saint-Sylvestre-de-Cormeilles, nous pouvons regrouper les passages avec ceux de Cormeilles pour limiter les déplacements."
       ]
@@ -34891,7 +34891,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Cormeilles : ce que le terrain change pour l'entretien",
       "paras": [
-        "Cormeilles est un bourg de l'Eure, dans le Lieuvin, non loin de la limite du Calvados. Cormeilles est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel.",
+        "Cormeilles est un bourg de l'Eure, dans le Lieuvin, non loin de la limite du Calvados. Cormeilles est située au nord-est de Lisieux, à environ 16 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Pierre-de-Cormeilles, Saint-Sylvestre-de-Cormeilles, Le Bois-Hellain et La Chapelle-Bayvel. La commune compte environ 1 105 habitants sur 3,1 km², soit environ 358 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Saint-Pierre-de-Cormeilles ou à Saint-Sylvestre-de-Cormeilles, nous pouvons regrouper les passages avec ceux de Cormeilles pour limiter les déplacements."
       ]
@@ -34978,7 +34978,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Caen : ce que le terrain change pour l'élagage",
       "paras": [
-        "Caen est la préfecture du Calvados, connue pour son château de Guillaume le Conquérant, ses deux abbayes (l'Abbaye aux Hommes et l'Abbaye aux Dames) et son Mémorial. L'Orne traverse l'agglomération, où se côtoient jardins de ville, lotissements et grandes propriétés de périphérie. Caen est située à l'ouest de Lisieux, à environ 44 km à vol d'oiseau (Calvados). Ses communes voisines : Hérouville-Saint-Clair, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne.",
+        "Caen est la préfecture du Calvados, connue pour son château de Guillaume le Conquérant, ses deux abbayes (l'Abbaye aux Hommes et l'Abbaye aux Dames) et son Mémorial. L'Orne traverse l'agglomération, où se côtoient jardins de ville, lotissements et grandes propriétés de périphérie. Caen est située à l'ouest de Lisieux, à environ 44 km à vol d'oiseau (Calvados). Ses communes voisines : Hérouville-Saint-Clair, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne. La commune compte environ 109 400 habitants sur 25,7 km², soit environ 4 257 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "En centre ancien, les cours et jardins sont petits, l'accès est souvent étroit et les arbres touchent façades et toitures voisines : nous travaillons plutôt en grimpe, branche par branche, avec des protections et des cordes de rappel.",
         "Si vous êtes à Hérouville-Saint-Clair ou à Bretteville-sur-Odon, nous pouvons regrouper les passages avec ceux de Caen pour limiter les déplacements."
       ]
@@ -35065,7 +35065,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Caen : ce que le terrain change pour le jardin",
       "paras": [
-        "Caen est la préfecture du Calvados, connue pour son château de Guillaume le Conquérant, ses deux abbayes (l'Abbaye aux Hommes et l'Abbaye aux Dames) et son Mémorial. L'Orne traverse l'agglomération, où se côtoient jardins de ville, lotissements et grandes propriétés de périphérie. Caen est située à l'ouest de Lisieux, à environ 44 km à vol d'oiseau (Calvados). Ses communes voisines : Hérouville-Saint-Clair, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne.",
+        "Caen est la préfecture du Calvados, connue pour son château de Guillaume le Conquérant, ses deux abbayes (l'Abbaye aux Hommes et l'Abbaye aux Dames) et son Mémorial. L'Orne traverse l'agglomération, où se côtoient jardins de ville, lotissements et grandes propriétés de périphérie. Caen est située à l'ouest de Lisieux, à environ 44 km à vol d'oiseau (Calvados). Ses communes voisines : Hérouville-Saint-Clair, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne. La commune compte environ 109 400 habitants sur 25,7 km², soit environ 4 257 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "En centre ancien, les jardins sont petits et enclavés : pas de remorque devant la porte, parfois un passage par la maison. Nous organisons les passages en conséquence et évacuons les déchets nous-mêmes.",
         "Si vous êtes à Hérouville-Saint-Clair ou à Bretteville-sur-Odon, nous pouvons regrouper les passages avec ceux de Caen pour limiter les déplacements."
       ]
@@ -35152,7 +35152,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Caen et ses haies : repères du terrain",
       "paras": [
-        "Caen est la préfecture du Calvados, connue pour son château de Guillaume le Conquérant, ses deux abbayes (l'Abbaye aux Hommes et l'Abbaye aux Dames) et son Mémorial. L'Orne traverse l'agglomération, où se côtoient jardins de ville, lotissements et grandes propriétés de périphérie. Caen est située à l'ouest de Lisieux, à environ 44 km à vol d'oiseau (Calvados). Ses communes voisines : Hérouville-Saint-Clair, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne.",
+        "Caen est la préfecture du Calvados, connue pour son château de Guillaume le Conquérant, ses deux abbayes (l'Abbaye aux Hommes et l'Abbaye aux Dames) et son Mémorial. L'Orne traverse l'agglomération, où se côtoient jardins de ville, lotissements et grandes propriétés de périphérie. Caen est située à l'ouest de Lisieux, à environ 44 km à vol d'oiseau (Calvados). Ses communes voisines : Hérouville-Saint-Clair, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne. La commune compte environ 109 400 habitants sur 25,7 km², soit environ 4 257 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "Dans les rues serrées, les haies bordent des trottoirs et des murs : la taille se fait proprement, avec bâches au sol et ramassage immédiat pour ne rien laisser sur la voie.",
         "Si vous êtes à Hérouville-Saint-Clair ou à Bretteville-sur-Odon, nous pouvons regrouper les passages avec ceux de Caen pour limiter les déplacements."
       ]
@@ -35239,7 +35239,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Caen et ses pelouses : repères du terrain",
       "paras": [
-        "Caen est la préfecture du Calvados, connue pour son château de Guillaume le Conquérant, ses deux abbayes (l'Abbaye aux Hommes et l'Abbaye aux Dames) et son Mémorial. L'Orne traverse l'agglomération, où se côtoient jardins de ville, lotissements et grandes propriétés de périphérie. Caen est située à l'ouest de Lisieux, à environ 44 km à vol d'oiseau (Calvados). Ses communes voisines : Hérouville-Saint-Clair, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne.",
+        "Caen est la préfecture du Calvados, connue pour son château de Guillaume le Conquérant, ses deux abbayes (l'Abbaye aux Hommes et l'Abbaye aux Dames) et son Mémorial. L'Orne traverse l'agglomération, où se côtoient jardins de ville, lotissements et grandes propriétés de périphérie. Caen est située à l'ouest de Lisieux, à environ 44 km à vol d'oiseau (Calvados). Ses communes voisines : Hérouville-Saint-Clair, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne. La commune compte environ 109 400 habitants sur 25,7 km², soit environ 4 257 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "Les petites pelouses de centre-ville se tondent vite mais demandent des finitions soignées le long des murs et des massifs, avec du matériel compact.",
         "Si vous êtes à Hérouville-Saint-Clair ou à Bretteville-sur-Odon, nous pouvons regrouper les passages avec ceux de Caen pour limiter les déplacements."
       ]
@@ -35326,7 +35326,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Caen : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Caen est la préfecture du Calvados, connue pour son château de Guillaume le Conquérant, ses deux abbayes (l'Abbaye aux Hommes et l'Abbaye aux Dames) et son Mémorial. L'Orne traverse l'agglomération, où se côtoient jardins de ville, lotissements et grandes propriétés de périphérie. Caen est située à l'ouest de Lisieux, à environ 44 km à vol d'oiseau (Calvados). Ses communes voisines : Hérouville-Saint-Clair, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne.",
+        "Caen est la préfecture du Calvados, connue pour son château de Guillaume le Conquérant, ses deux abbayes (l'Abbaye aux Hommes et l'Abbaye aux Dames) et son Mémorial. L'Orne traverse l'agglomération, où se côtoient jardins de ville, lotissements et grandes propriétés de périphérie. Caen est située à l'ouest de Lisieux, à environ 44 km à vol d'oiseau (Calvados). Ses communes voisines : Hérouville-Saint-Clair, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne. La commune compte environ 109 400 habitants sur 25,7 km², soit environ 4 257 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "En ville, le débroussaillage concerne surtout des fonds de parcelle, des talus et des terrains vides : nous travaillons avec un matériel adapté aux accès étroits.",
         "Si vous êtes à Hérouville-Saint-Clair ou à Bretteville-sur-Odon, nous pouvons regrouper les passages avec ceux de Caen pour limiter les déplacements."
       ]
@@ -35413,7 +35413,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Caen : ce que le terrain change pour l'entretien",
       "paras": [
-        "Caen est la préfecture du Calvados, connue pour son château de Guillaume le Conquérant, ses deux abbayes (l'Abbaye aux Hommes et l'Abbaye aux Dames) et son Mémorial. L'Orne traverse l'agglomération, où se côtoient jardins de ville, lotissements et grandes propriétés de périphérie. Caen est située à l'ouest de Lisieux, à environ 44 km à vol d'oiseau (Calvados). Ses communes voisines : Hérouville-Saint-Clair, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne.",
+        "Caen est la préfecture du Calvados, connue pour son château de Guillaume le Conquérant, ses deux abbayes (l'Abbaye aux Hommes et l'Abbaye aux Dames) et son Mémorial. L'Orne traverse l'agglomération, où se côtoient jardins de ville, lotissements et grandes propriétés de périphérie. Caen est située à l'ouest de Lisieux, à environ 44 km à vol d'oiseau (Calvados). Ses communes voisines : Hérouville-Saint-Clair, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne. La commune compte environ 109 400 habitants sur 25,7 km², soit environ 4 257 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "Petits jardins, murs et pots : l'entretien passe par des passages courts et réguliers, sans gros engins, avec un seul interlocuteur.",
         "Si vous êtes à Hérouville-Saint-Clair ou à Bretteville-sur-Odon, nous pouvons regrouper les passages avec ceux de Caen pour limiter les déplacements."
       ]
@@ -35500,7 +35500,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Hérouville-Saint-Clair et ses arbres : repères du terrain",
       "paras": [
-        "Hérouville-Saint-Clair est la deuxième commune de l'agglomération caennaise, à proximité de l'Orne et du canal de Caen à la mer. Hérouville-Saint-Clair est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Colombelles, Blainville-sur-Orne, Caen et Mondeville.",
+        "Hérouville-Saint-Clair est la deuxième commune de l'agglomération caennaise, à proximité de l'Orne et du canal de Caen à la mer. Hérouville-Saint-Clair est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Colombelles, Blainville-sur-Orne, Caen et Mondeville. La commune compte environ 23 470 habitants sur 10,6 km², soit environ 2 204 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Colombelles ou à Blainville-sur-Orne, nous pouvons regrouper les passages avec ceux de Hérouville-Saint-Clair pour limiter les déplacements."
       ]
@@ -35587,7 +35587,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Hérouville-Saint-Clair : ce que le terrain change pour le jardin",
       "paras": [
-        "Hérouville-Saint-Clair est la deuxième commune de l'agglomération caennaise, à proximité de l'Orne et du canal de Caen à la mer. Hérouville-Saint-Clair est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Colombelles, Blainville-sur-Orne, Caen et Mondeville.",
+        "Hérouville-Saint-Clair est la deuxième commune de l'agglomération caennaise, à proximité de l'Orne et du canal de Caen à la mer. Hérouville-Saint-Clair est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Colombelles, Blainville-sur-Orne, Caen et Mondeville. La commune compte environ 23 470 habitants sur 10,6 km², soit environ 2 204 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Colombelles ou à Blainville-sur-Orne, nous pouvons regrouper les passages avec ceux de Hérouville-Saint-Clair pour limiter les déplacements."
       ]
@@ -35674,7 +35674,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Hérouville-Saint-Clair selon le quartier",
       "paras": [
-        "Hérouville-Saint-Clair est la deuxième commune de l'agglomération caennaise, à proximité de l'Orne et du canal de Caen à la mer. Hérouville-Saint-Clair est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Colombelles, Blainville-sur-Orne, Caen et Mondeville.",
+        "Hérouville-Saint-Clair est la deuxième commune de l'agglomération caennaise, à proximité de l'Orne et du canal de Caen à la mer. Hérouville-Saint-Clair est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Colombelles, Blainville-sur-Orne, Caen et Mondeville. La commune compte environ 23 470 habitants sur 10,6 km², soit environ 2 204 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Colombelles ou à Blainville-sur-Orne, nous pouvons regrouper les passages avec ceux de Hérouville-Saint-Clair pour limiter les déplacements."
       ]
@@ -35761,7 +35761,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Hérouville-Saint-Clair selon le quartier",
       "paras": [
-        "Hérouville-Saint-Clair est la deuxième commune de l'agglomération caennaise, à proximité de l'Orne et du canal de Caen à la mer. Hérouville-Saint-Clair est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Colombelles, Blainville-sur-Orne, Caen et Mondeville.",
+        "Hérouville-Saint-Clair est la deuxième commune de l'agglomération caennaise, à proximité de l'Orne et du canal de Caen à la mer. Hérouville-Saint-Clair est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Colombelles, Blainville-sur-Orne, Caen et Mondeville. La commune compte environ 23 470 habitants sur 10,6 km², soit environ 2 204 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Colombelles ou à Blainville-sur-Orne, nous pouvons regrouper les passages avec ceux de Hérouville-Saint-Clair pour limiter les déplacements."
       ]
@@ -35848,7 +35848,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Hérouville-Saint-Clair et ses terrains : repères",
       "paras": [
-        "Hérouville-Saint-Clair est la deuxième commune de l'agglomération caennaise, à proximité de l'Orne et du canal de Caen à la mer. Hérouville-Saint-Clair est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Colombelles, Blainville-sur-Orne, Caen et Mondeville.",
+        "Hérouville-Saint-Clair est la deuxième commune de l'agglomération caennaise, à proximité de l'Orne et du canal de Caen à la mer. Hérouville-Saint-Clair est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Colombelles, Blainville-sur-Orne, Caen et Mondeville. La commune compte environ 23 470 habitants sur 10,6 km², soit environ 2 204 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Colombelles ou à Blainville-sur-Orne, nous pouvons regrouper les passages avec ceux de Hérouville-Saint-Clair pour limiter les déplacements."
       ]
@@ -35935,7 +35935,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Hérouville-Saint-Clair et ses jardins : repères du terrain",
       "paras": [
-        "Hérouville-Saint-Clair est la deuxième commune de l'agglomération caennaise, à proximité de l'Orne et du canal de Caen à la mer. Hérouville-Saint-Clair est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Colombelles, Blainville-sur-Orne, Caen et Mondeville.",
+        "Hérouville-Saint-Clair est la deuxième commune de l'agglomération caennaise, à proximité de l'Orne et du canal de Caen à la mer. Hérouville-Saint-Clair est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Colombelles, Blainville-sur-Orne, Caen et Mondeville. La commune compte environ 23 470 habitants sur 10,6 km², soit environ 2 204 habitants au km² : un tissu urbain dense : jardins de ville, cours et petits espaces où chaque arbre et chaque haie comptent.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Colombelles ou à Blainville-sur-Orne, nous pouvons regrouper les passages avec ceux de Hérouville-Saint-Clair pour limiter les déplacements."
       ]
@@ -36022,7 +36022,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Ifs et ses arbres : repères du terrain",
       "paras": [
-        "Ifs, au sud de Caen, mêle quartiers résidentiels et zones d'activités. Ifs est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Cormelles-le-Royal, Fleury-sur-Orne, Mondeville et Soliers.",
+        "Ifs, au sud de Caen, mêle quartiers résidentiels et zones d'activités. Ifs est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Cormelles-le-Royal, Fleury-sur-Orne, Mondeville et Soliers. La commune compte environ 11 937 habitants sur 9,0 km², soit environ 1 319 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Cormelles-le-Royal ou à Fleury-sur-Orne, nous pouvons regrouper les passages avec ceux de Ifs pour limiter les déplacements."
       ]
@@ -36109,7 +36109,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Ifs et ses jardins : repères du terrain",
       "paras": [
-        "Ifs, au sud de Caen, mêle quartiers résidentiels et zones d'activités. Ifs est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Cormelles-le-Royal, Fleury-sur-Orne, Mondeville et Soliers.",
+        "Ifs, au sud de Caen, mêle quartiers résidentiels et zones d'activités. Ifs est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Cormelles-le-Royal, Fleury-sur-Orne, Mondeville et Soliers. La commune compte environ 11 937 habitants sur 9,0 km², soit environ 1 319 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Cormelles-le-Royal ou à Fleury-sur-Orne, nous pouvons regrouper les passages avec ceux de Ifs pour limiter les déplacements."
       ]
@@ -36196,7 +36196,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Ifs et ses haies : repères du terrain",
       "paras": [
-        "Ifs, au sud de Caen, mêle quartiers résidentiels et zones d'activités. Ifs est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Cormelles-le-Royal, Fleury-sur-Orne, Mondeville et Soliers.",
+        "Ifs, au sud de Caen, mêle quartiers résidentiels et zones d'activités. Ifs est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Cormelles-le-Royal, Fleury-sur-Orne, Mondeville et Soliers. La commune compte environ 11 937 habitants sur 9,0 km², soit environ 1 319 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Cormelles-le-Royal ou à Fleury-sur-Orne, nous pouvons regrouper les passages avec ceux de Ifs pour limiter les déplacements."
       ]
@@ -36283,7 +36283,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Ifs selon le quartier",
       "paras": [
-        "Ifs, au sud de Caen, mêle quartiers résidentiels et zones d'activités. Ifs est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Cormelles-le-Royal, Fleury-sur-Orne, Mondeville et Soliers.",
+        "Ifs, au sud de Caen, mêle quartiers résidentiels et zones d'activités. Ifs est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Cormelles-le-Royal, Fleury-sur-Orne, Mondeville et Soliers. La commune compte environ 11 937 habitants sur 9,0 km², soit environ 1 319 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Cormelles-le-Royal ou à Fleury-sur-Orne, nous pouvons regrouper les passages avec ceux de Ifs pour limiter les déplacements."
       ]
@@ -36370,7 +36370,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Ifs : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Ifs, au sud de Caen, mêle quartiers résidentiels et zones d'activités. Ifs est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Cormelles-le-Royal, Fleury-sur-Orne, Mondeville et Soliers.",
+        "Ifs, au sud de Caen, mêle quartiers résidentiels et zones d'activités. Ifs est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Cormelles-le-Royal, Fleury-sur-Orne, Mondeville et Soliers. La commune compte environ 11 937 habitants sur 9,0 km², soit environ 1 319 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Cormelles-le-Royal ou à Fleury-sur-Orne, nous pouvons regrouper les passages avec ceux de Ifs pour limiter les déplacements."
       ]
@@ -36457,7 +36457,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Ifs selon le quartier",
       "paras": [
-        "Ifs, au sud de Caen, mêle quartiers résidentiels et zones d'activités. Ifs est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Cormelles-le-Royal, Fleury-sur-Orne, Mondeville et Soliers.",
+        "Ifs, au sud de Caen, mêle quartiers résidentiels et zones d'activités. Ifs est située à l'ouest de Lisieux, à environ 41 km à vol d'oiseau (Calvados). Ses communes voisines : Cormelles-le-Royal, Fleury-sur-Orne, Mondeville et Soliers. La commune compte environ 11 937 habitants sur 9,0 km², soit environ 1 319 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Cormelles-le-Royal ou à Fleury-sur-Orne, nous pouvons regrouper les passages avec ceux de Ifs pour limiter les déplacements."
       ]
@@ -36544,7 +36544,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mondeville et ses arbres : repères du terrain",
       "paras": [
-        "Mondeville, à l'est de Caen, mêle quartiers résidentiels et zones d'activités. Mondeville est située à l'ouest de Lisieux, à environ 39 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cormelles-le-Royal, Colombelles et Ifs.",
+        "Mondeville, à l'est de Caen, mêle quartiers résidentiels et zones d'activités. Mondeville est située à l'ouest de Lisieux, à environ 39 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cormelles-le-Royal, Colombelles et Ifs. La commune compte environ 10 331 habitants sur 9,1 km², soit environ 1 141 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Giberville ou à Cormelles-le-Royal, nous pouvons regrouper les passages avec ceux de Mondeville pour limiter les déplacements."
       ]
@@ -36631,7 +36631,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mondeville : ce que le terrain change pour le jardin",
       "paras": [
-        "Mondeville, à l'est de Caen, mêle quartiers résidentiels et zones d'activités. Mondeville est située à l'ouest de Lisieux, à environ 39 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cormelles-le-Royal, Colombelles et Ifs.",
+        "Mondeville, à l'est de Caen, mêle quartiers résidentiels et zones d'activités. Mondeville est située à l'ouest de Lisieux, à environ 39 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cormelles-le-Royal, Colombelles et Ifs. La commune compte environ 10 331 habitants sur 9,1 km², soit environ 1 141 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Giberville ou à Cormelles-le-Royal, nous pouvons regrouper les passages avec ceux de Mondeville pour limiter les déplacements."
       ]
@@ -36718,7 +36718,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mondeville et ses haies : repères du terrain",
       "paras": [
-        "Mondeville, à l'est de Caen, mêle quartiers résidentiels et zones d'activités. Mondeville est située à l'ouest de Lisieux, à environ 39 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cormelles-le-Royal, Colombelles et Ifs.",
+        "Mondeville, à l'est de Caen, mêle quartiers résidentiels et zones d'activités. Mondeville est située à l'ouest de Lisieux, à environ 39 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cormelles-le-Royal, Colombelles et Ifs. La commune compte environ 10 331 habitants sur 9,1 km², soit environ 1 141 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Giberville ou à Cormelles-le-Royal, nous pouvons regrouper les passages avec ceux de Mondeville pour limiter les déplacements."
       ]
@@ -36805,7 +36805,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mondeville : ce que le terrain change pour la pelouse",
       "paras": [
-        "Mondeville, à l'est de Caen, mêle quartiers résidentiels et zones d'activités. Mondeville est située à l'ouest de Lisieux, à environ 39 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cormelles-le-Royal, Colombelles et Ifs.",
+        "Mondeville, à l'est de Caen, mêle quartiers résidentiels et zones d'activités. Mondeville est située à l'ouest de Lisieux, à environ 39 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cormelles-le-Royal, Colombelles et Ifs. La commune compte environ 10 331 habitants sur 9,1 km², soit environ 1 141 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Giberville ou à Cormelles-le-Royal, nous pouvons regrouper les passages avec ceux de Mondeville pour limiter les déplacements."
       ]
@@ -36892,7 +36892,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mondeville et ses terrains : repères",
       "paras": [
-        "Mondeville, à l'est de Caen, mêle quartiers résidentiels et zones d'activités. Mondeville est située à l'ouest de Lisieux, à environ 39 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cormelles-le-Royal, Colombelles et Ifs.",
+        "Mondeville, à l'est de Caen, mêle quartiers résidentiels et zones d'activités. Mondeville est située à l'ouest de Lisieux, à environ 39 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cormelles-le-Royal, Colombelles et Ifs. La commune compte environ 10 331 habitants sur 9,1 km², soit environ 1 141 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Giberville ou à Cormelles-le-Royal, nous pouvons regrouper les passages avec ceux de Mondeville pour limiter les déplacements."
       ]
@@ -36979,7 +36979,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mondeville : ce que le terrain change pour l'entretien",
       "paras": [
-        "Mondeville, à l'est de Caen, mêle quartiers résidentiels et zones d'activités. Mondeville est située à l'ouest de Lisieux, à environ 39 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cormelles-le-Royal, Colombelles et Ifs.",
+        "Mondeville, à l'est de Caen, mêle quartiers résidentiels et zones d'activités. Mondeville est située à l'ouest de Lisieux, à environ 39 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Cormelles-le-Royal, Colombelles et Ifs. La commune compte environ 10 331 habitants sur 9,1 km², soit environ 1 141 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Giberville ou à Cormelles-le-Royal, nous pouvons regrouper les passages avec ceux de Mondeville pour limiter les déplacements."
       ]
@@ -37066,7 +37066,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Ouistreham selon le quartier",
       "paras": [
-        "Ouistreham est le port de ferry vers l'Angleterre, à l'embouchure de l'Orne, avec sa plage et ses lieux de mémoire du Débarquement. Ouistreham est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Colleville-Montgomery, Bénouville, Ranville et Hermanville-sur-Mer.",
+        "Ouistreham est le port de ferry vers l'Angleterre, à l'embouchure de l'Orne, avec sa plage et ses lieux de mémoire du Débarquement. Ouistreham est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Colleville-Montgomery, Bénouville, Ranville et Hermanville-sur-Mer. La commune compte environ 9 212 habitants sur 9,1 km², soit environ 1 009 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Près de la mer, vent et embruns marquent les arbres : couronnes déportées, branches cassées, feuillage brûlé côté large. Nous allégeons les arbres exposés pour qu'ils résistent mieux aux tempêtes.",
         "Si vous êtes à Colleville-Montgomery ou à Bénouville, nous pouvons regrouper les passages avec ceux de Ouistreham pour limiter les déplacements."
       ]
@@ -37153,7 +37153,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Ouistreham : ce que le terrain change pour le jardin",
       "paras": [
-        "Ouistreham est le port de ferry vers l'Angleterre, à l'embouchure de l'Orne, avec sa plage et ses lieux de mémoire du Débarquement. Ouistreham est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Colleville-Montgomery, Bénouville, Ranville et Hermanville-sur-Mer.",
+        "Ouistreham est le port de ferry vers l'Angleterre, à l'embouchure de l'Orne, avec sa plage et ses lieux de mémoire du Débarquement. Ouistreham est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Colleville-Montgomery, Bénouville, Ranville et Hermanville-sur-Mer. La commune compte environ 9 212 habitants sur 9,1 km², soit environ 1 009 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur la côte, le vent, le sel et le sol léger changent le jardin : plantations plus rustiques, arrosage plus attentif, nettoyage après les tempêtes. Beaucoup de maisons sont aussi des résidences secondaires : nous entretenons en votre absence.",
         "Si vous êtes à Colleville-Montgomery ou à Bénouville, nous pouvons regrouper les passages avec ceux de Ouistreham pour limiter les déplacements."
       ]
@@ -37240,7 +37240,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Ouistreham et ses haies : repères du terrain",
       "paras": [
-        "Ouistreham est le port de ferry vers l'Angleterre, à l'embouchure de l'Orne, avec sa plage et ses lieux de mémoire du Débarquement. Ouistreham est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Colleville-Montgomery, Bénouville, Ranville et Hermanville-sur-Mer.",
+        "Ouistreham est le port de ferry vers l'Angleterre, à l'embouchure de l'Orne, avec sa plage et ses lieux de mémoire du Débarquement. Ouistreham est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Colleville-Montgomery, Bénouville, Ranville et Hermanville-sur-Mer. La commune compte environ 9 212 habitants sur 9,1 km², soit environ 1 009 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les haies du littoral font brise-vent : thuyas, lauriers, tamaris, cyprès. Le vent salé brûle les pousses trop sévèrement taillées, d'où une taille mesurée et à la bonne saison.",
         "Si vous êtes à Colleville-Montgomery ou à Bénouville, nous pouvons regrouper les passages avec ceux de Ouistreham pour limiter les déplacements."
       ]
@@ -37327,7 +37327,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Ouistreham selon le quartier",
       "paras": [
-        "Ouistreham est le port de ferry vers l'Angleterre, à l'embouchure de l'Orne, avec sa plage et ses lieux de mémoire du Débarquement. Ouistreham est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Colleville-Montgomery, Bénouville, Ranville et Hermanville-sur-Mer.",
+        "Ouistreham est le port de ferry vers l'Angleterre, à l'embouchure de l'Orne, avec sa plage et ses lieux de mémoire du Débarquement. Ouistreham est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Colleville-Montgomery, Bénouville, Ranville et Hermanville-sur-Mer. La commune compte environ 9 212 habitants sur 9,1 km², soit environ 1 009 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Près de la mer, la pelouse sèche vite en été sur sol léger : nous relevons la hauteur de coupe et espaçons les tontes en période chaude.",
         "Si vous êtes à Colleville-Montgomery ou à Bénouville, nous pouvons regrouper les passages avec ceux de Ouistreham pour limiter les déplacements."
       ]
@@ -37414,7 +37414,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Ouistreham selon le terrain",
       "paras": [
-        "Ouistreham est le port de ferry vers l'Angleterre, à l'embouchure de l'Orne, avec sa plage et ses lieux de mémoire du Débarquement. Ouistreham est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Colleville-Montgomery, Bénouville, Ranville et Hermanville-sur-Mer.",
+        "Ouistreham est le port de ferry vers l'Angleterre, à l'embouchure de l'Orne, avec sa plage et ses lieux de mémoire du Débarquement. Ouistreham est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Colleville-Montgomery, Bénouville, Ranville et Hermanville-sur-Mer. La commune compte environ 9 212 habitants sur 9,1 km², soit environ 1 009 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur la côte, les terrains peu entretenus se couvrent vite de ronces et d'arbustes tourmentés par le vent : nous les reprenons sans abîmer les plantations utiles.",
         "Si vous êtes à Colleville-Montgomery ou à Bénouville, nous pouvons regrouper les passages avec ceux de Ouistreham pour limiter les déplacements."
       ]
@@ -37501,7 +37501,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Ouistreham et ses jardins : repères du terrain",
       "paras": [
-        "Ouistreham est le port de ferry vers l'Angleterre, à l'embouchure de l'Orne, avec sa plage et ses lieux de mémoire du Débarquement. Ouistreham est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Colleville-Montgomery, Bénouville, Ranville et Hermanville-sur-Mer.",
+        "Ouistreham est le port de ferry vers l'Angleterre, à l'embouchure de l'Orne, avec sa plage et ses lieux de mémoire du Débarquement. Ouistreham est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Colleville-Montgomery, Bénouville, Ranville et Hermanville-sur-Mer. La commune compte environ 9 212 habitants sur 9,1 km², soit environ 1 009 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Jardins de villas et résidences secondaires : nous prévoyons des passages avant l'été, en septembre et après les coups de vent, pour que tout soit net à chaque arrivée.",
         "Si vous êtes à Colleville-Montgomery ou à Bénouville, nous pouvons regrouper les passages avec ceux de Ouistreham pour limiter les déplacements."
       ]
@@ -37588,7 +37588,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Colombelles et ses arbres : repères du terrain",
       "paras": [
-        "Colombelles garde la mémoire de son passé sidérurgique et se renouvelle en quartiers résidentiels, à l'est de Caen. Colombelles est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Hérouville-Saint-Clair, Blainville-sur-Orne et Mondeville.",
+        "Colombelles garde la mémoire de son passé sidérurgique et se renouvelle en quartiers résidentiels, à l'est de Caen. Colombelles est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Hérouville-Saint-Clair, Blainville-sur-Orne et Mondeville. La commune compte environ 7 243 habitants sur 7,1 km², soit environ 1 017 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Giberville ou à Hérouville-Saint-Clair, nous pouvons regrouper les passages avec ceux de Colombelles pour limiter les déplacements."
       ]
@@ -37675,7 +37675,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Colombelles et ses jardins : repères du terrain",
       "paras": [
-        "Colombelles garde la mémoire de son passé sidérurgique et se renouvelle en quartiers résidentiels, à l'est de Caen. Colombelles est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Hérouville-Saint-Clair, Blainville-sur-Orne et Mondeville.",
+        "Colombelles garde la mémoire de son passé sidérurgique et se renouvelle en quartiers résidentiels, à l'est de Caen. Colombelles est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Hérouville-Saint-Clair, Blainville-sur-Orne et Mondeville. La commune compte environ 7 243 habitants sur 7,1 km², soit environ 1 017 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Giberville ou à Hérouville-Saint-Clair, nous pouvons regrouper les passages avec ceux de Colombelles pour limiter les déplacements."
       ]
@@ -37762,7 +37762,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Colombelles selon le quartier",
       "paras": [
-        "Colombelles garde la mémoire de son passé sidérurgique et se renouvelle en quartiers résidentiels, à l'est de Caen. Colombelles est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Hérouville-Saint-Clair, Blainville-sur-Orne et Mondeville.",
+        "Colombelles garde la mémoire de son passé sidérurgique et se renouvelle en quartiers résidentiels, à l'est de Caen. Colombelles est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Hérouville-Saint-Clair, Blainville-sur-Orne et Mondeville. La commune compte environ 7 243 habitants sur 7,1 km², soit environ 1 017 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Giberville ou à Hérouville-Saint-Clair, nous pouvons regrouper les passages avec ceux de Colombelles pour limiter les déplacements."
       ]
@@ -37849,7 +37849,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Colombelles selon le quartier",
       "paras": [
-        "Colombelles garde la mémoire de son passé sidérurgique et se renouvelle en quartiers résidentiels, à l'est de Caen. Colombelles est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Hérouville-Saint-Clair, Blainville-sur-Orne et Mondeville.",
+        "Colombelles garde la mémoire de son passé sidérurgique et se renouvelle en quartiers résidentiels, à l'est de Caen. Colombelles est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Hérouville-Saint-Clair, Blainville-sur-Orne et Mondeville. La commune compte environ 7 243 habitants sur 7,1 km², soit environ 1 017 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Giberville ou à Hérouville-Saint-Clair, nous pouvons regrouper les passages avec ceux de Colombelles pour limiter les déplacements."
       ]
@@ -37936,7 +37936,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Colombelles selon le terrain",
       "paras": [
-        "Colombelles garde la mémoire de son passé sidérurgique et se renouvelle en quartiers résidentiels, à l'est de Caen. Colombelles est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Hérouville-Saint-Clair, Blainville-sur-Orne et Mondeville.",
+        "Colombelles garde la mémoire de son passé sidérurgique et se renouvelle en quartiers résidentiels, à l'est de Caen. Colombelles est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Hérouville-Saint-Clair, Blainville-sur-Orne et Mondeville. La commune compte environ 7 243 habitants sur 7,1 km², soit environ 1 017 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Giberville ou à Hérouville-Saint-Clair, nous pouvons regrouper les passages avec ceux de Colombelles pour limiter les déplacements."
       ]
@@ -38023,7 +38023,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Colombelles et ses jardins : repères du terrain",
       "paras": [
-        "Colombelles garde la mémoire de son passé sidérurgique et se renouvelle en quartiers résidentiels, à l'est de Caen. Colombelles est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Hérouville-Saint-Clair, Blainville-sur-Orne et Mondeville.",
+        "Colombelles garde la mémoire de son passé sidérurgique et se renouvelle en quartiers résidentiels, à l'est de Caen. Colombelles est située à l'ouest de Lisieux, à environ 38 km à vol d'oiseau (Calvados). Ses communes voisines : Giberville, Hérouville-Saint-Clair, Blainville-sur-Orne et Mondeville. La commune compte environ 7 243 habitants sur 7,1 km², soit environ 1 017 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Giberville ou à Hérouville-Saint-Clair, nous pouvons regrouper les passages avec ceux de Colombelles pour limiter les déplacements."
       ]
@@ -38110,7 +38110,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bretteville-sur-Odon : ce que le terrain change pour l'élagage",
       "paras": [
-        "Bretteville-sur-Odon est une commune résidentielle de la périphérie ouest de Caen, sur l'Odon. Bretteville-sur-Odon est située à l'ouest de Lisieux, à environ 47 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Louvigny, Verson et Caen.",
+        "Bretteville-sur-Odon est une commune résidentielle de la périphérie ouest de Caen, sur l'Odon. Bretteville-sur-Odon est située à l'ouest de Lisieux, à environ 47 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Louvigny, Verson et Caen. La commune compte environ 4 494 habitants sur 6,5 km², soit environ 693 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Carpiquet ou à Louvigny, nous pouvons regrouper les passages avec ceux de Bretteville-sur-Odon pour limiter les déplacements."
       ]
@@ -38197,7 +38197,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Bretteville-sur-Odon selon le quartier",
       "paras": [
-        "Bretteville-sur-Odon est une commune résidentielle de la périphérie ouest de Caen, sur l'Odon. Bretteville-sur-Odon est située à l'ouest de Lisieux, à environ 47 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Louvigny, Verson et Caen.",
+        "Bretteville-sur-Odon est une commune résidentielle de la périphérie ouest de Caen, sur l'Odon. Bretteville-sur-Odon est située à l'ouest de Lisieux, à environ 47 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Louvigny, Verson et Caen. La commune compte environ 4 494 habitants sur 6,5 km², soit environ 693 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Carpiquet ou à Louvigny, nous pouvons regrouper les passages avec ceux de Bretteville-sur-Odon pour limiter les déplacements."
       ]
@@ -38284,7 +38284,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Bretteville-sur-Odon selon le quartier",
       "paras": [
-        "Bretteville-sur-Odon est une commune résidentielle de la périphérie ouest de Caen, sur l'Odon. Bretteville-sur-Odon est située à l'ouest de Lisieux, à environ 47 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Louvigny, Verson et Caen.",
+        "Bretteville-sur-Odon est une commune résidentielle de la périphérie ouest de Caen, sur l'Odon. Bretteville-sur-Odon est située à l'ouest de Lisieux, à environ 47 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Louvigny, Verson et Caen. La commune compte environ 4 494 habitants sur 6,5 km², soit environ 693 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Carpiquet ou à Louvigny, nous pouvons regrouper les passages avec ceux de Bretteville-sur-Odon pour limiter les déplacements."
       ]
@@ -38371,7 +38371,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bretteville-sur-Odon et ses pelouses : repères du terrain",
       "paras": [
-        "Bretteville-sur-Odon est une commune résidentielle de la périphérie ouest de Caen, sur l'Odon. Bretteville-sur-Odon est située à l'ouest de Lisieux, à environ 47 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Louvigny, Verson et Caen.",
+        "Bretteville-sur-Odon est une commune résidentielle de la périphérie ouest de Caen, sur l'Odon. Bretteville-sur-Odon est située à l'ouest de Lisieux, à environ 47 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Louvigny, Verson et Caen. La commune compte environ 4 494 habitants sur 6,5 km², soit environ 693 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Carpiquet ou à Louvigny, nous pouvons regrouper les passages avec ceux de Bretteville-sur-Odon pour limiter les déplacements."
       ]
@@ -38458,7 +38458,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bretteville-sur-Odon : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Bretteville-sur-Odon est une commune résidentielle de la périphérie ouest de Caen, sur l'Odon. Bretteville-sur-Odon est située à l'ouest de Lisieux, à environ 47 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Louvigny, Verson et Caen.",
+        "Bretteville-sur-Odon est une commune résidentielle de la périphérie ouest de Caen, sur l'Odon. Bretteville-sur-Odon est située à l'ouest de Lisieux, à environ 47 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Louvigny, Verson et Caen. La commune compte environ 4 494 habitants sur 6,5 km², soit environ 693 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Carpiquet ou à Louvigny, nous pouvons regrouper les passages avec ceux de Bretteville-sur-Odon pour limiter les déplacements."
       ]
@@ -38545,7 +38545,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Bretteville-sur-Odon selon le quartier",
       "paras": [
-        "Bretteville-sur-Odon est une commune résidentielle de la périphérie ouest de Caen, sur l'Odon. Bretteville-sur-Odon est située à l'ouest de Lisieux, à environ 47 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Louvigny, Verson et Caen.",
+        "Bretteville-sur-Odon est une commune résidentielle de la périphérie ouest de Caen, sur l'Odon. Bretteville-sur-Odon est située à l'ouest de Lisieux, à environ 47 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Louvigny, Verson et Caen. La commune compte environ 4 494 habitants sur 6,5 km², soit environ 693 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Carpiquet ou à Louvigny, nous pouvons regrouper les passages avec ceux de Bretteville-sur-Odon pour limiter les déplacements."
       ]
@@ -38632,7 +38632,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Douvres-la-Délivrande : ce que le terrain change pour l'élagage",
       "paras": [
-        "Douvres-la-Délivrande est connue pour la basilique Notre-Dame de la Délivrande, lieu de pèlerinage, à quelques kilomètres de la Côte de Nacre. Douvres-la-Délivrande est située à l'ouest de Lisieux, à environ 48 km à vol d'oiseau (Calvados). Ses communes voisines : Luc-sur-Mer, Saint-Aubin-sur-Mer, Lion-sur-Mer et Hermanville-sur-Mer.",
+        "Douvres-la-Délivrande est connue pour la basilique Notre-Dame de la Délivrande, lieu de pèlerinage, à quelques kilomètres de la Côte de Nacre. Douvres-la-Délivrande est située à l'ouest de Lisieux, à environ 48 km à vol d'oiseau (Calvados). Ses communes voisines : Luc-sur-Mer, Saint-Aubin-sur-Mer, Lion-sur-Mer et Hermanville-sur-Mer. La commune compte environ 5 143 habitants sur 10,8 km², soit environ 475 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Luc-sur-Mer ou à Saint-Aubin-sur-Mer, nous pouvons regrouper les passages avec ceux de Douvres-la-Délivrande pour limiter les déplacements."
       ]
@@ -38719,7 +38719,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Douvres-la-Délivrande et ses jardins : repères du terrain",
       "paras": [
-        "Douvres-la-Délivrande est connue pour la basilique Notre-Dame de la Délivrande, lieu de pèlerinage, à quelques kilomètres de la Côte de Nacre. Douvres-la-Délivrande est située à l'ouest de Lisieux, à environ 48 km à vol d'oiseau (Calvados). Ses communes voisines : Luc-sur-Mer, Saint-Aubin-sur-Mer, Lion-sur-Mer et Hermanville-sur-Mer.",
+        "Douvres-la-Délivrande est connue pour la basilique Notre-Dame de la Délivrande, lieu de pèlerinage, à quelques kilomètres de la Côte de Nacre. Douvres-la-Délivrande est située à l'ouest de Lisieux, à environ 48 km à vol d'oiseau (Calvados). Ses communes voisines : Luc-sur-Mer, Saint-Aubin-sur-Mer, Lion-sur-Mer et Hermanville-sur-Mer. La commune compte environ 5 143 habitants sur 10,8 km², soit environ 475 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Luc-sur-Mer ou à Saint-Aubin-sur-Mer, nous pouvons regrouper les passages avec ceux de Douvres-la-Délivrande pour limiter les déplacements."
       ]
@@ -38806,7 +38806,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Douvres-la-Délivrande selon le quartier",
       "paras": [
-        "Douvres-la-Délivrande est connue pour la basilique Notre-Dame de la Délivrande, lieu de pèlerinage, à quelques kilomètres de la Côte de Nacre. Douvres-la-Délivrande est située à l'ouest de Lisieux, à environ 48 km à vol d'oiseau (Calvados). Ses communes voisines : Luc-sur-Mer, Saint-Aubin-sur-Mer, Lion-sur-Mer et Hermanville-sur-Mer.",
+        "Douvres-la-Délivrande est connue pour la basilique Notre-Dame de la Délivrande, lieu de pèlerinage, à quelques kilomètres de la Côte de Nacre. Douvres-la-Délivrande est située à l'ouest de Lisieux, à environ 48 km à vol d'oiseau (Calvados). Ses communes voisines : Luc-sur-Mer, Saint-Aubin-sur-Mer, Lion-sur-Mer et Hermanville-sur-Mer. La commune compte environ 5 143 habitants sur 10,8 km², soit environ 475 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Luc-sur-Mer ou à Saint-Aubin-sur-Mer, nous pouvons regrouper les passages avec ceux de Douvres-la-Délivrande pour limiter les déplacements."
       ]
@@ -38893,7 +38893,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Douvres-la-Délivrande : ce que le terrain change pour la pelouse",
       "paras": [
-        "Douvres-la-Délivrande est connue pour la basilique Notre-Dame de la Délivrande, lieu de pèlerinage, à quelques kilomètres de la Côte de Nacre. Douvres-la-Délivrande est située à l'ouest de Lisieux, à environ 48 km à vol d'oiseau (Calvados). Ses communes voisines : Luc-sur-Mer, Saint-Aubin-sur-Mer, Lion-sur-Mer et Hermanville-sur-Mer.",
+        "Douvres-la-Délivrande est connue pour la basilique Notre-Dame de la Délivrande, lieu de pèlerinage, à quelques kilomètres de la Côte de Nacre. Douvres-la-Délivrande est située à l'ouest de Lisieux, à environ 48 km à vol d'oiseau (Calvados). Ses communes voisines : Luc-sur-Mer, Saint-Aubin-sur-Mer, Lion-sur-Mer et Hermanville-sur-Mer. La commune compte environ 5 143 habitants sur 10,8 km², soit environ 475 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Luc-sur-Mer ou à Saint-Aubin-sur-Mer, nous pouvons regrouper les passages avec ceux de Douvres-la-Délivrande pour limiter les déplacements."
       ]
@@ -38980,7 +38980,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Douvres-la-Délivrande selon le terrain",
       "paras": [
-        "Douvres-la-Délivrande est connue pour la basilique Notre-Dame de la Délivrande, lieu de pèlerinage, à quelques kilomètres de la Côte de Nacre. Douvres-la-Délivrande est située à l'ouest de Lisieux, à environ 48 km à vol d'oiseau (Calvados). Ses communes voisines : Luc-sur-Mer, Saint-Aubin-sur-Mer, Lion-sur-Mer et Hermanville-sur-Mer.",
+        "Douvres-la-Délivrande est connue pour la basilique Notre-Dame de la Délivrande, lieu de pèlerinage, à quelques kilomètres de la Côte de Nacre. Douvres-la-Délivrande est située à l'ouest de Lisieux, à environ 48 km à vol d'oiseau (Calvados). Ses communes voisines : Luc-sur-Mer, Saint-Aubin-sur-Mer, Lion-sur-Mer et Hermanville-sur-Mer. La commune compte environ 5 143 habitants sur 10,8 km², soit environ 475 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Luc-sur-Mer ou à Saint-Aubin-sur-Mer, nous pouvons regrouper les passages avec ceux de Douvres-la-Délivrande pour limiter les déplacements."
       ]
@@ -39067,7 +39067,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Douvres-la-Délivrande : ce que le terrain change pour l'entretien",
       "paras": [
-        "Douvres-la-Délivrande est connue pour la basilique Notre-Dame de la Délivrande, lieu de pèlerinage, à quelques kilomètres de la Côte de Nacre. Douvres-la-Délivrande est située à l'ouest de Lisieux, à environ 48 km à vol d'oiseau (Calvados). Ses communes voisines : Luc-sur-Mer, Saint-Aubin-sur-Mer, Lion-sur-Mer et Hermanville-sur-Mer.",
+        "Douvres-la-Délivrande est connue pour la basilique Notre-Dame de la Délivrande, lieu de pèlerinage, à quelques kilomètres de la Côte de Nacre. Douvres-la-Délivrande est située à l'ouest de Lisieux, à environ 48 km à vol d'oiseau (Calvados). Ses communes voisines : Luc-sur-Mer, Saint-Aubin-sur-Mer, Lion-sur-Mer et Hermanville-sur-Mer. La commune compte environ 5 143 habitants sur 10,8 km², soit environ 475 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Luc-sur-Mer ou à Saint-Aubin-sur-Mer, nous pouvons regrouper les passages avec ceux de Douvres-la-Délivrande pour limiter les déplacements."
       ]
@@ -39154,7 +39154,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Luc-sur-Mer et ses arbres : repères du terrain",
       "paras": [
-        "Luc-sur-Mer est une station balnéaire de la Côte de Nacre. Luc-sur-Mer est située au nord-ouest de Lisieux, à environ 46 km à vol d'oiseau (Calvados). Ses communes voisines : Lion-sur-Mer, Douvres-la-Délivrande, Saint-Aubin-sur-Mer et Hermanville-sur-Mer.",
+        "Luc-sur-Mer est une station balnéaire de la Côte de Nacre. Luc-sur-Mer est située au nord-ouest de Lisieux, à environ 46 km à vol d'oiseau (Calvados). Ses communes voisines : Lion-sur-Mer, Douvres-la-Délivrande, Saint-Aubin-sur-Mer et Hermanville-sur-Mer. La commune compte environ 3 275 habitants sur 3,6 km², soit environ 902 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Près de la mer, vent et embruns marquent les arbres : couronnes déportées, branches cassées, feuillage brûlé côté large. Nous allégeons les arbres exposés pour qu'ils résistent mieux aux tempêtes.",
         "Si vous êtes à Lion-sur-Mer ou à Douvres-la-Délivrande, nous pouvons regrouper les passages avec ceux de Luc-sur-Mer pour limiter les déplacements."
       ]
@@ -39241,7 +39241,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Luc-sur-Mer : ce que le terrain change pour le jardin",
       "paras": [
-        "Luc-sur-Mer est une station balnéaire de la Côte de Nacre. Luc-sur-Mer est située au nord-ouest de Lisieux, à environ 46 km à vol d'oiseau (Calvados). Ses communes voisines : Lion-sur-Mer, Douvres-la-Délivrande, Saint-Aubin-sur-Mer et Hermanville-sur-Mer.",
+        "Luc-sur-Mer est une station balnéaire de la Côte de Nacre. Luc-sur-Mer est située au nord-ouest de Lisieux, à environ 46 km à vol d'oiseau (Calvados). Ses communes voisines : Lion-sur-Mer, Douvres-la-Délivrande, Saint-Aubin-sur-Mer et Hermanville-sur-Mer. La commune compte environ 3 275 habitants sur 3,6 km², soit environ 902 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur la côte, le vent, le sel et le sol léger changent le jardin : plantations plus rustiques, arrosage plus attentif, nettoyage après les tempêtes. Beaucoup de maisons sont aussi des résidences secondaires : nous entretenons en votre absence.",
         "Si vous êtes à Lion-sur-Mer ou à Douvres-la-Délivrande, nous pouvons regrouper les passages avec ceux de Luc-sur-Mer pour limiter les déplacements."
       ]
@@ -39328,7 +39328,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Luc-sur-Mer selon le quartier",
       "paras": [
-        "Luc-sur-Mer est une station balnéaire de la Côte de Nacre. Luc-sur-Mer est située au nord-ouest de Lisieux, à environ 46 km à vol d'oiseau (Calvados). Ses communes voisines : Lion-sur-Mer, Douvres-la-Délivrande, Saint-Aubin-sur-Mer et Hermanville-sur-Mer.",
+        "Luc-sur-Mer est une station balnéaire de la Côte de Nacre. Luc-sur-Mer est située au nord-ouest de Lisieux, à environ 46 km à vol d'oiseau (Calvados). Ses communes voisines : Lion-sur-Mer, Douvres-la-Délivrande, Saint-Aubin-sur-Mer et Hermanville-sur-Mer. La commune compte environ 3 275 habitants sur 3,6 km², soit environ 902 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les haies du littoral font brise-vent : thuyas, lauriers, tamaris, cyprès. Le vent salé brûle les pousses trop sévèrement taillées, d'où une taille mesurée et à la bonne saison.",
         "Si vous êtes à Lion-sur-Mer ou à Douvres-la-Délivrande, nous pouvons regrouper les passages avec ceux de Luc-sur-Mer pour limiter les déplacements."
       ]
@@ -39415,7 +39415,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Luc-sur-Mer selon le quartier",
       "paras": [
-        "Luc-sur-Mer est une station balnéaire de la Côte de Nacre. Luc-sur-Mer est située au nord-ouest de Lisieux, à environ 46 km à vol d'oiseau (Calvados). Ses communes voisines : Lion-sur-Mer, Douvres-la-Délivrande, Saint-Aubin-sur-Mer et Hermanville-sur-Mer.",
+        "Luc-sur-Mer est une station balnéaire de la Côte de Nacre. Luc-sur-Mer est située au nord-ouest de Lisieux, à environ 46 km à vol d'oiseau (Calvados). Ses communes voisines : Lion-sur-Mer, Douvres-la-Délivrande, Saint-Aubin-sur-Mer et Hermanville-sur-Mer. La commune compte environ 3 275 habitants sur 3,6 km², soit environ 902 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Près de la mer, la pelouse sèche vite en été sur sol léger : nous relevons la hauteur de coupe et espaçons les tontes en période chaude.",
         "Si vous êtes à Lion-sur-Mer ou à Douvres-la-Délivrande, nous pouvons regrouper les passages avec ceux de Luc-sur-Mer pour limiter les déplacements."
       ]
@@ -39502,7 +39502,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Luc-sur-Mer : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Luc-sur-Mer est une station balnéaire de la Côte de Nacre. Luc-sur-Mer est située au nord-ouest de Lisieux, à environ 46 km à vol d'oiseau (Calvados). Ses communes voisines : Lion-sur-Mer, Douvres-la-Délivrande, Saint-Aubin-sur-Mer et Hermanville-sur-Mer.",
+        "Luc-sur-Mer est une station balnéaire de la Côte de Nacre. Luc-sur-Mer est située au nord-ouest de Lisieux, à environ 46 km à vol d'oiseau (Calvados). Ses communes voisines : Lion-sur-Mer, Douvres-la-Délivrande, Saint-Aubin-sur-Mer et Hermanville-sur-Mer. La commune compte environ 3 275 habitants sur 3,6 km², soit environ 902 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur la côte, les terrains peu entretenus se couvrent vite de ronces et d'arbustes tourmentés par le vent : nous les reprenons sans abîmer les plantations utiles.",
         "Si vous êtes à Lion-sur-Mer ou à Douvres-la-Délivrande, nous pouvons regrouper les passages avec ceux de Luc-sur-Mer pour limiter les déplacements."
       ]
@@ -39589,7 +39589,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Luc-sur-Mer et ses jardins : repères du terrain",
       "paras": [
-        "Luc-sur-Mer est une station balnéaire de la Côte de Nacre. Luc-sur-Mer est située au nord-ouest de Lisieux, à environ 46 km à vol d'oiseau (Calvados). Ses communes voisines : Lion-sur-Mer, Douvres-la-Délivrande, Saint-Aubin-sur-Mer et Hermanville-sur-Mer.",
+        "Luc-sur-Mer est une station balnéaire de la Côte de Nacre. Luc-sur-Mer est située au nord-ouest de Lisieux, à environ 46 km à vol d'oiseau (Calvados). Ses communes voisines : Lion-sur-Mer, Douvres-la-Délivrande, Saint-Aubin-sur-Mer et Hermanville-sur-Mer. La commune compte environ 3 275 habitants sur 3,6 km², soit environ 902 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Jardins de villas et résidences secondaires : nous prévoyons des passages avant l'été, en septembre et après les coups de vent, pour que tout soit net à chaque arrivée.",
         "Si vous êtes à Lion-sur-Mer ou à Douvres-la-Délivrande, nous pouvons regrouper les passages avec ceux de Luc-sur-Mer pour limiter les déplacements."
       ]
@@ -39676,7 +39676,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Verson : ce que le terrain change pour l'élagage",
       "paras": [
-        "Verson est une commune résidentielle de l'ouest de Caen, dans la vallée de l'Odon. Verson est située à l'ouest de Lisieux, à environ 51 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne.",
+        "Verson est une commune résidentielle de l'ouest de Caen, dans la vallée de l'Odon. Verson est située à l'ouest de Lisieux, à environ 51 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne. La commune compte environ 4 059 habitants sur 10,4 km², soit environ 392 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Carpiquet ou à Bretteville-sur-Odon, nous pouvons regrouper les passages avec ceux de Verson pour limiter les déplacements."
       ]
@@ -39763,7 +39763,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Verson : ce que le terrain change pour le jardin",
       "paras": [
-        "Verson est une commune résidentielle de l'ouest de Caen, dans la vallée de l'Odon. Verson est située à l'ouest de Lisieux, à environ 51 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne.",
+        "Verson est une commune résidentielle de l'ouest de Caen, dans la vallée de l'Odon. Verson est située à l'ouest de Lisieux, à environ 51 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne. La commune compte environ 4 059 habitants sur 10,4 km², soit environ 392 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Carpiquet ou à Bretteville-sur-Odon, nous pouvons regrouper les passages avec ceux de Verson pour limiter les déplacements."
       ]
@@ -39850,7 +39850,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Verson et ses haies : repères du terrain",
       "paras": [
-        "Verson est une commune résidentielle de l'ouest de Caen, dans la vallée de l'Odon. Verson est située à l'ouest de Lisieux, à environ 51 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne.",
+        "Verson est une commune résidentielle de l'ouest de Caen, dans la vallée de l'Odon. Verson est située à l'ouest de Lisieux, à environ 51 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne. La commune compte environ 4 059 habitants sur 10,4 km², soit environ 392 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Carpiquet ou à Bretteville-sur-Odon, nous pouvons regrouper les passages avec ceux de Verson pour limiter les déplacements."
       ]
@@ -39937,7 +39937,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Verson : ce que le terrain change pour la pelouse",
       "paras": [
-        "Verson est une commune résidentielle de l'ouest de Caen, dans la vallée de l'Odon. Verson est située à l'ouest de Lisieux, à environ 51 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne.",
+        "Verson est une commune résidentielle de l'ouest de Caen, dans la vallée de l'Odon. Verson est située à l'ouest de Lisieux, à environ 51 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne. La commune compte environ 4 059 habitants sur 10,4 km², soit environ 392 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Carpiquet ou à Bretteville-sur-Odon, nous pouvons regrouper les passages avec ceux de Verson pour limiter les déplacements."
       ]
@@ -40024,7 +40024,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Verson selon le terrain",
       "paras": [
-        "Verson est une commune résidentielle de l'ouest de Caen, dans la vallée de l'Odon. Verson est située à l'ouest de Lisieux, à environ 51 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne.",
+        "Verson est une commune résidentielle de l'ouest de Caen, dans la vallée de l'Odon. Verson est située à l'ouest de Lisieux, à environ 51 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne. La commune compte environ 4 059 habitants sur 10,4 km², soit environ 392 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Carpiquet ou à Bretteville-sur-Odon, nous pouvons regrouper les passages avec ceux de Verson pour limiter les déplacements."
       ]
@@ -40111,7 +40111,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Verson et ses jardins : repères du terrain",
       "paras": [
-        "Verson est une commune résidentielle de l'ouest de Caen, dans la vallée de l'Odon. Verson est située à l'ouest de Lisieux, à environ 51 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne.",
+        "Verson est une commune résidentielle de l'ouest de Caen, dans la vallée de l'Odon. Verson est située à l'ouest de Lisieux, à environ 51 km à vol d'oiseau (Calvados). Ses communes voisines : Carpiquet, Bretteville-sur-Odon, Louvigny et Fleury-sur-Orne. La commune compte environ 4 059 habitants sur 10,4 km², soit environ 392 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Carpiquet ou à Bretteville-sur-Odon, nous pouvons regrouper les passages avec ceux de Verson pour limiter les déplacements."
       ]
@@ -40198,7 +40198,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Argentan : ce que le terrain change pour l'élagage",
       "paras": [
-        "Argentan, sur l'Orne, est connue pour la dentelle au point d'Argentan et pour son centre ancien, au sud du Pays d'Auge. Argentan est située au sud de Lisieux, à environ 50 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Gouffern en Auge, Sées et Putanges-le-Lac.",
+        "Argentan, sur l'Orne, est connue pour la dentelle au point d'Argentan et pour son centre ancien, au sud du Pays d'Auge. Argentan est située au sud de Lisieux, à environ 50 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Gouffern en Auge, Sées et Putanges-le-Lac. La commune compte environ 13 527 habitants sur 18,4 km², soit environ 734 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Écouché-les-Vallées ou à Gouffern en Auge, nous pouvons regrouper les passages avec ceux de Argentan pour limiter les déplacements."
       ]
@@ -40285,7 +40285,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Argentan selon le quartier",
       "paras": [
-        "Argentan, sur l'Orne, est connue pour la dentelle au point d'Argentan et pour son centre ancien, au sud du Pays d'Auge. Argentan est située au sud de Lisieux, à environ 50 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Gouffern en Auge, Sées et Putanges-le-Lac.",
+        "Argentan, sur l'Orne, est connue pour la dentelle au point d'Argentan et pour son centre ancien, au sud du Pays d'Auge. Argentan est située au sud de Lisieux, à environ 50 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Gouffern en Auge, Sées et Putanges-le-Lac. La commune compte environ 13 527 habitants sur 18,4 km², soit environ 734 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Écouché-les-Vallées ou à Gouffern en Auge, nous pouvons regrouper les passages avec ceux de Argentan pour limiter les déplacements."
       ]
@@ -40372,7 +40372,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Argentan : ce que le terrain change pour les haies",
       "paras": [
-        "Argentan, sur l'Orne, est connue pour la dentelle au point d'Argentan et pour son centre ancien, au sud du Pays d'Auge. Argentan est située au sud de Lisieux, à environ 50 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Gouffern en Auge, Sées et Putanges-le-Lac.",
+        "Argentan, sur l'Orne, est connue pour la dentelle au point d'Argentan et pour son centre ancien, au sud du Pays d'Auge. Argentan est située au sud de Lisieux, à environ 50 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Gouffern en Auge, Sées et Putanges-le-Lac. La commune compte environ 13 527 habitants sur 18,4 km², soit environ 734 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Écouché-les-Vallées ou à Gouffern en Auge, nous pouvons regrouper les passages avec ceux de Argentan pour limiter les déplacements."
       ]
@@ -40459,7 +40459,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Argentan selon le quartier",
       "paras": [
-        "Argentan, sur l'Orne, est connue pour la dentelle au point d'Argentan et pour son centre ancien, au sud du Pays d'Auge. Argentan est située au sud de Lisieux, à environ 50 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Gouffern en Auge, Sées et Putanges-le-Lac.",
+        "Argentan, sur l'Orne, est connue pour la dentelle au point d'Argentan et pour son centre ancien, au sud du Pays d'Auge. Argentan est située au sud de Lisieux, à environ 50 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Gouffern en Auge, Sées et Putanges-le-Lac. La commune compte environ 13 527 habitants sur 18,4 km², soit environ 734 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Écouché-les-Vallées ou à Gouffern en Auge, nous pouvons regrouper les passages avec ceux de Argentan pour limiter les déplacements."
       ]
@@ -40546,7 +40546,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Argentan et ses terrains : repères",
       "paras": [
-        "Argentan, sur l'Orne, est connue pour la dentelle au point d'Argentan et pour son centre ancien, au sud du Pays d'Auge. Argentan est située au sud de Lisieux, à environ 50 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Gouffern en Auge, Sées et Putanges-le-Lac.",
+        "Argentan, sur l'Orne, est connue pour la dentelle au point d'Argentan et pour son centre ancien, au sud du Pays d'Auge. Argentan est située au sud de Lisieux, à environ 50 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Gouffern en Auge, Sées et Putanges-le-Lac. La commune compte environ 13 527 habitants sur 18,4 km², soit environ 734 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Écouché-les-Vallées ou à Gouffern en Auge, nous pouvons regrouper les passages avec ceux de Argentan pour limiter les déplacements."
       ]
@@ -40633,7 +40633,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Argentan et ses jardins : repères du terrain",
       "paras": [
-        "Argentan, sur l'Orne, est connue pour la dentelle au point d'Argentan et pour son centre ancien, au sud du Pays d'Auge. Argentan est située au sud de Lisieux, à environ 50 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Gouffern en Auge, Sées et Putanges-le-Lac.",
+        "Argentan, sur l'Orne, est connue pour la dentelle au point d'Argentan et pour son centre ancien, au sud du Pays d'Auge. Argentan est située au sud de Lisieux, à environ 50 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Gouffern en Auge, Sées et Putanges-le-Lac. La commune compte environ 13 527 habitants sur 18,4 km², soit environ 734 habitants au km² : un habitat résidentiel, avec de nombreux jardins de lotissement et de maisons individuelles.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Écouché-les-Vallées ou à Gouffern en Auge, nous pouvons regrouper les passages avec ceux de Argentan pour limiter les déplacements."
       ]
@@ -40720,7 +40720,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Écouché-les-Vallées : ce que le terrain change pour l'élagage",
       "paras": [
-        "Écouché-les-Vallées est une commune de l'Orne, proche d'Argentan, dans la vallée de l'Orne. Écouché-les-Vallées est située au sud-ouest de Lisieux, à environ 54 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Putanges-le-Lac, Gouffern en Auge et Sées.",
+        "Écouché-les-Vallées est une commune de l'Orne, proche d'Argentan, dans la vallée de l'Orne. Écouché-les-Vallées est située au sud-ouest de Lisieux, à environ 54 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Putanges-le-Lac, Gouffern en Auge et Sées. La commune compte environ 2 193 habitants sur 41,5 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En fond de vallée, l'humidité favorise les peupliers, saules et aulnes, qui poussent vite et casent facilement. Nous les contrôlons régulièrement, surtout au bord des rivières et près des habitations.",
         "Si vous êtes à Argentan ou à Putanges-le-Lac, nous pouvons regrouper les passages avec ceux de Écouché-les-Vallées pour limiter les déplacements."
       ]
@@ -40807,7 +40807,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Écouché-les-Vallées selon le quartier",
       "paras": [
-        "Écouché-les-Vallées est une commune de l'Orne, proche d'Argentan, dans la vallée de l'Orne. Écouché-les-Vallées est située au sud-ouest de Lisieux, à environ 54 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Putanges-le-Lac, Gouffern en Auge et Sées.",
+        "Écouché-les-Vallées est une commune de l'Orne, proche d'Argentan, dans la vallée de l'Orne. Écouché-les-Vallées est située au sud-ouest de Lisieux, à environ 54 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Putanges-le-Lac, Gouffern en Auge et Sées. La commune compte environ 2 193 habitants sur 41,5 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En vallée humide, le sol reste frais : la pelouse se couvre de mousse, les massifs demandent un bon drainage. Nous adaptons tontes, désherbage et soins au terrain.",
         "Si vous êtes à Argentan ou à Putanges-le-Lac, nous pouvons regrouper les passages avec ceux de Écouché-les-Vallées pour limiter les déplacements."
       ]
@@ -40894,7 +40894,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Écouché-les-Vallées selon le quartier",
       "paras": [
-        "Écouché-les-Vallées est une commune de l'Orne, proche d'Argentan, dans la vallée de l'Orne. Écouché-les-Vallées est située au sud-ouest de Lisieux, à environ 54 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Putanges-le-Lac, Gouffern en Auge et Sées.",
+        "Écouché-les-Vallées est une commune de l'Orne, proche d'Argentan, dans la vallée de l'Orne. Écouché-les-Vallées est située au sud-ouest de Lisieux, à environ 54 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Putanges-le-Lac, Gouffern en Auge et Sées. La commune compte environ 2 193 habitants sur 41,5 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies de vallée aiment l'humidité mais souffrent de la mousse et des maladies : une taille aérée et un nettoyage du pied de haie les gardent en bonne santé.",
         "Si vous êtes à Argentan ou à Putanges-le-Lac, nous pouvons regrouper les passages avec ceux de Écouché-les-Vallées pour limiter les déplacements."
       ]
@@ -40981,7 +40981,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Écouché-les-Vallées : ce que le terrain change pour la pelouse",
       "paras": [
-        "Écouché-les-Vallées est une commune de l'Orne, proche d'Argentan, dans la vallée de l'Orne. Écouché-les-Vallées est située au sud-ouest de Lisieux, à environ 54 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Putanges-le-Lac, Gouffern en Auge et Sées.",
+        "Écouché-les-Vallées est une commune de l'Orne, proche d'Argentan, dans la vallée de l'Orne. Écouché-les-Vallées est située au sud-ouest de Lisieux, à environ 54 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Putanges-le-Lac, Gouffern en Auge et Sées. La commune compte environ 2 193 habitants sur 41,5 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur sol humide, la tonte demande de la patience : nous évitons les terrains détrempés pour ne pas creuser d'ornières et ramassons l'herbe pour limiter la mousse.",
         "Si vous êtes à Argentan ou à Putanges-le-Lac, nous pouvons regrouper les passages avec ceux de Écouché-les-Vallées pour limiter les déplacements."
       ]
@@ -41068,7 +41068,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Écouché-les-Vallées selon le terrain",
       "paras": [
-        "Écouché-les-Vallées est une commune de l'Orne, proche d'Argentan, dans la vallée de l'Orne. Écouché-les-Vallées est située au sud-ouest de Lisieux, à environ 54 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Putanges-le-Lac, Gouffern en Auge et Sées.",
+        "Écouché-les-Vallées est une commune de l'Orne, proche d'Argentan, dans la vallée de l'Orne. Écouché-les-Vallées est située au sud-ouest de Lisieux, à environ 54 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Putanges-le-Lac, Gouffern en Auge et Sées. La commune compte environ 2 193 habitants sur 41,5 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les terrains de vallée se couvrent vite de végétation dense : ronces, roseaux, saules. Nous les reprenons avec un matériel adapté aux sols humides.",
         "Si vous êtes à Argentan ou à Putanges-le-Lac, nous pouvons regrouper les passages avec ceux de Écouché-les-Vallées pour limiter les déplacements."
       ]
@@ -41155,7 +41155,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Écouché-les-Vallées : ce que le terrain change pour l'entretien",
       "paras": [
-        "Écouché-les-Vallées est une commune de l'Orne, proche d'Argentan, dans la vallée de l'Orne. Écouché-les-Vallées est située au sud-ouest de Lisieux, à environ 54 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Putanges-le-Lac, Gouffern en Auge et Sées.",
+        "Écouché-les-Vallées est une commune de l'Orne, proche d'Argentan, dans la vallée de l'Orne. Écouché-les-Vallées est située au sud-ouest de Lisieux, à environ 54 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Putanges-le-Lac, Gouffern en Auge et Sées. La commune compte environ 2 193 habitants sur 41,5 km², soit environ 53 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Nous planifions les passages en tenant compte de l'humidité : travaux lourds quand le sol est ressuyé, entretien courant le reste du temps.",
         "Si vous êtes à Argentan ou à Putanges-le-Lac, nous pouvons regrouper les passages avec ceux de Écouché-les-Vallées pour limiter les déplacements."
       ]
@@ -41242,7 +41242,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "La Ferté-en-Ouche : ce que le terrain change pour l'élagage",
       "paras": [
-        "La Ferté-en-Ouche est une commune de l'Orne, au cœur du pays d'Ouche. La Ferté-en-Ouche est située au sud-est de Lisieux, à environ 39 km à vol d'oiseau (Orne). Ses communes voisines : L'Aigle, Rugles, Gacé et Saint-Sulpice-sur-Risle.",
+        "La Ferté-en-Ouche est une commune de l'Orne, au cœur du pays d'Ouche. La Ferté-en-Ouche est située au sud-est de Lisieux, à environ 39 km à vol d'oiseau (Orne). Ses communes voisines : L'Aigle, Rugles, Gacé et Saint-Sulpice-sur-Risle. La commune compte environ 2 938 habitants sur 133 km², soit environ 22 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à L'Aigle ou à Rugles, nous pouvons regrouper les passages avec ceux de La Ferté-en-Ouche pour limiter les déplacements."
       ]
@@ -41329,7 +41329,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "La Ferté-en-Ouche : ce que le terrain change pour le jardin",
       "paras": [
-        "La Ferté-en-Ouche est une commune de l'Orne, au cœur du pays d'Ouche. La Ferté-en-Ouche est située au sud-est de Lisieux, à environ 39 km à vol d'oiseau (Orne). Ses communes voisines : L'Aigle, Rugles, Gacé et Saint-Sulpice-sur-Risle.",
+        "La Ferté-en-Ouche est une commune de l'Orne, au cœur du pays d'Ouche. La Ferté-en-Ouche est située au sud-est de Lisieux, à environ 39 km à vol d'oiseau (Orne). Ses communes voisines : L'Aigle, Rugles, Gacé et Saint-Sulpice-sur-Risle. La commune compte environ 2 938 habitants sur 133 km², soit environ 22 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à L'Aigle ou à Rugles, nous pouvons regrouper les passages avec ceux de La Ferté-en-Ouche pour limiter les déplacements."
       ]
@@ -41416,7 +41416,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "La Ferté-en-Ouche et ses haies : repères du terrain",
       "paras": [
-        "La Ferté-en-Ouche est une commune de l'Orne, au cœur du pays d'Ouche. La Ferté-en-Ouche est située au sud-est de Lisieux, à environ 39 km à vol d'oiseau (Orne). Ses communes voisines : L'Aigle, Rugles, Gacé et Saint-Sulpice-sur-Risle.",
+        "La Ferté-en-Ouche est une commune de l'Orne, au cœur du pays d'Ouche. La Ferté-en-Ouche est située au sud-est de Lisieux, à environ 39 km à vol d'oiseau (Orne). Ses communes voisines : L'Aigle, Rugles, Gacé et Saint-Sulpice-sur-Risle. La commune compte environ 2 938 habitants sur 133 km², soit environ 22 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à L'Aigle ou à Rugles, nous pouvons regrouper les passages avec ceux de La Ferté-en-Ouche pour limiter les déplacements."
       ]
@@ -41503,7 +41503,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à La Ferté-en-Ouche selon le quartier",
       "paras": [
-        "La Ferté-en-Ouche est une commune de l'Orne, au cœur du pays d'Ouche. La Ferté-en-Ouche est située au sud-est de Lisieux, à environ 39 km à vol d'oiseau (Orne). Ses communes voisines : L'Aigle, Rugles, Gacé et Saint-Sulpice-sur-Risle.",
+        "La Ferté-en-Ouche est une commune de l'Orne, au cœur du pays d'Ouche. La Ferté-en-Ouche est située au sud-est de Lisieux, à environ 39 km à vol d'oiseau (Orne). Ses communes voisines : L'Aigle, Rugles, Gacé et Saint-Sulpice-sur-Risle. La commune compte environ 2 938 habitants sur 133 km², soit environ 22 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à L'Aigle ou à Rugles, nous pouvons regrouper les passages avec ceux de La Ferté-en-Ouche pour limiter les déplacements."
       ]
@@ -41590,7 +41590,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "La Ferté-en-Ouche : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "La Ferté-en-Ouche est une commune de l'Orne, au cœur du pays d'Ouche. La Ferté-en-Ouche est située au sud-est de Lisieux, à environ 39 km à vol d'oiseau (Orne). Ses communes voisines : L'Aigle, Rugles, Gacé et Saint-Sulpice-sur-Risle.",
+        "La Ferté-en-Ouche est une commune de l'Orne, au cœur du pays d'Ouche. La Ferté-en-Ouche est située au sud-est de Lisieux, à environ 39 km à vol d'oiseau (Orne). Ses communes voisines : L'Aigle, Rugles, Gacé et Saint-Sulpice-sur-Risle. La commune compte environ 2 938 habitants sur 133 km², soit environ 22 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à L'Aigle ou à Rugles, nous pouvons regrouper les passages avec ceux de La Ferté-en-Ouche pour limiter les déplacements."
       ]
@@ -41677,7 +41677,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "La Ferté-en-Ouche et ses jardins : repères du terrain",
       "paras": [
-        "La Ferté-en-Ouche est une commune de l'Orne, au cœur du pays d'Ouche. La Ferté-en-Ouche est située au sud-est de Lisieux, à environ 39 km à vol d'oiseau (Orne). Ses communes voisines : L'Aigle, Rugles, Gacé et Saint-Sulpice-sur-Risle.",
+        "La Ferté-en-Ouche est une commune de l'Orne, au cœur du pays d'Ouche. La Ferté-en-Ouche est située au sud-est de Lisieux, à environ 39 km à vol d'oiseau (Orne). Ses communes voisines : L'Aigle, Rugles, Gacé et Saint-Sulpice-sur-Risle. La commune compte environ 2 938 habitants sur 133 km², soit environ 22 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à L'Aigle ou à Rugles, nous pouvons regrouper les passages avec ceux de La Ferté-en-Ouche pour limiter les déplacements."
       ]
@@ -41764,7 +41764,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Gacé : ce que le terrain change pour l'élagage",
       "paras": [
-        "Gacé est un bourg de l'Orne, à la limite du Pays d'Auge et du pays d'Ouche. Gacé est située au sud de Lisieux, à environ 40 km à vol d'oiseau (Orne). Ses communes voisines : Gouffern en Auge, La Ferté-en-Ouche, L'Aigle et Sées.",
+        "Gacé est un bourg de l'Orne, à la limite du Pays d'Auge et du pays d'Ouche. Gacé est située au sud de Lisieux, à environ 40 km à vol d'oiseau (Orne). Ses communes voisines : Gouffern en Auge, La Ferté-en-Ouche, L'Aigle et Sées. La commune compte environ 1 766 habitants sur 6,5 km², soit environ 272 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Gouffern en Auge ou à La Ferté-en-Ouche, nous pouvons regrouper les passages avec ceux de Gacé pour limiter les déplacements."
       ]
@@ -41851,7 +41851,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Gacé : ce que le terrain change pour le jardin",
       "paras": [
-        "Gacé est un bourg de l'Orne, à la limite du Pays d'Auge et du pays d'Ouche. Gacé est située au sud de Lisieux, à environ 40 km à vol d'oiseau (Orne). Ses communes voisines : Gouffern en Auge, La Ferté-en-Ouche, L'Aigle et Sées.",
+        "Gacé est un bourg de l'Orne, à la limite du Pays d'Auge et du pays d'Ouche. Gacé est située au sud de Lisieux, à environ 40 km à vol d'oiseau (Orne). Ses communes voisines : Gouffern en Auge, La Ferté-en-Ouche, L'Aigle et Sées. La commune compte environ 1 766 habitants sur 6,5 km², soit environ 272 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Gouffern en Auge ou à La Ferté-en-Ouche, nous pouvons regrouper les passages avec ceux de Gacé pour limiter les déplacements."
       ]
@@ -41938,7 +41938,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Gacé selon le quartier",
       "paras": [
-        "Gacé est un bourg de l'Orne, à la limite du Pays d'Auge et du pays d'Ouche. Gacé est située au sud de Lisieux, à environ 40 km à vol d'oiseau (Orne). Ses communes voisines : Gouffern en Auge, La Ferté-en-Ouche, L'Aigle et Sées.",
+        "Gacé est un bourg de l'Orne, à la limite du Pays d'Auge et du pays d'Ouche. Gacé est située au sud de Lisieux, à environ 40 km à vol d'oiseau (Orne). Ses communes voisines : Gouffern en Auge, La Ferté-en-Ouche, L'Aigle et Sées. La commune compte environ 1 766 habitants sur 6,5 km², soit environ 272 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Gouffern en Auge ou à La Ferté-en-Ouche, nous pouvons regrouper les passages avec ceux de Gacé pour limiter les déplacements."
       ]
@@ -42025,7 +42025,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Gacé selon le quartier",
       "paras": [
-        "Gacé est un bourg de l'Orne, à la limite du Pays d'Auge et du pays d'Ouche. Gacé est située au sud de Lisieux, à environ 40 km à vol d'oiseau (Orne). Ses communes voisines : Gouffern en Auge, La Ferté-en-Ouche, L'Aigle et Sées.",
+        "Gacé est un bourg de l'Orne, à la limite du Pays d'Auge et du pays d'Ouche. Gacé est située au sud de Lisieux, à environ 40 km à vol d'oiseau (Orne). Ses communes voisines : Gouffern en Auge, La Ferté-en-Ouche, L'Aigle et Sées. La commune compte environ 1 766 habitants sur 6,5 km², soit environ 272 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Gouffern en Auge ou à La Ferté-en-Ouche, nous pouvons regrouper les passages avec ceux de Gacé pour limiter les déplacements."
       ]
@@ -42112,7 +42112,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Gacé : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Gacé est un bourg de l'Orne, à la limite du Pays d'Auge et du pays d'Ouche. Gacé est située au sud de Lisieux, à environ 40 km à vol d'oiseau (Orne). Ses communes voisines : Gouffern en Auge, La Ferté-en-Ouche, L'Aigle et Sées.",
+        "Gacé est un bourg de l'Orne, à la limite du Pays d'Auge et du pays d'Ouche. Gacé est située au sud de Lisieux, à environ 40 km à vol d'oiseau (Orne). Ses communes voisines : Gouffern en Auge, La Ferté-en-Ouche, L'Aigle et Sées. La commune compte environ 1 766 habitants sur 6,5 km², soit environ 272 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Gouffern en Auge ou à La Ferté-en-Ouche, nous pouvons regrouper les passages avec ceux de Gacé pour limiter les déplacements."
       ]
@@ -42199,7 +42199,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Gacé : ce que le terrain change pour l'entretien",
       "paras": [
-        "Gacé est un bourg de l'Orne, à la limite du Pays d'Auge et du pays d'Ouche. Gacé est située au sud de Lisieux, à environ 40 km à vol d'oiseau (Orne). Ses communes voisines : Gouffern en Auge, La Ferté-en-Ouche, L'Aigle et Sées.",
+        "Gacé est un bourg de l'Orne, à la limite du Pays d'Auge et du pays d'Ouche. Gacé est située au sud de Lisieux, à environ 40 km à vol d'oiseau (Orne). Ses communes voisines : Gouffern en Auge, La Ferté-en-Ouche, L'Aigle et Sées. La commune compte environ 1 766 habitants sur 6,5 km², soit environ 272 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Gouffern en Auge ou à La Ferté-en-Ouche, nous pouvons regrouper les passages avec ceux de Gacé pour limiter les déplacements."
       ]
@@ -42286,7 +42286,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "L'Aigle et ses arbres : repères du terrain",
       "paras": [
-        "L'Aigle s'étend sur la Risle, aux confins du Perche et du pays d'Ouche. L'Aigle est située au sud-est de Lisieux, à environ 51 km à vol d'oiseau (Orne). Ses communes voisines : Saint-Sulpice-sur-Risle, Rugles, La Ferté-en-Ouche et Verneuil d'Avre et d'Iton.",
+        "L'Aigle s'étend sur la Risle, aux confins du Perche et du pays d'Ouche. L'Aigle est située au sud-est de Lisieux, à environ 51 km à vol d'oiseau (Orne). Ses communes voisines : Saint-Sulpice-sur-Risle, Rugles, La Ferté-en-Ouche et Verneuil d'Avre et d'Iton. La commune compte environ 7 663 habitants sur 18,5 km², soit environ 415 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En fond de vallée, l'humidité favorise les peupliers, saules et aulnes, qui poussent vite et casent facilement. Nous les contrôlons régulièrement, surtout au bord des rivières et près des habitations.",
         "Si vous êtes à Saint-Sulpice-sur-Risle ou à Rugles, nous pouvons regrouper les passages avec ceux de L'Aigle pour limiter les déplacements."
       ]
@@ -42373,7 +42373,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à L'Aigle selon le quartier",
       "paras": [
-        "L'Aigle s'étend sur la Risle, aux confins du Perche et du pays d'Ouche. L'Aigle est située au sud-est de Lisieux, à environ 51 km à vol d'oiseau (Orne). Ses communes voisines : Saint-Sulpice-sur-Risle, Rugles, La Ferté-en-Ouche et Verneuil d'Avre et d'Iton.",
+        "L'Aigle s'étend sur la Risle, aux confins du Perche et du pays d'Ouche. L'Aigle est située au sud-est de Lisieux, à environ 51 km à vol d'oiseau (Orne). Ses communes voisines : Saint-Sulpice-sur-Risle, Rugles, La Ferté-en-Ouche et Verneuil d'Avre et d'Iton. La commune compte environ 7 663 habitants sur 18,5 km², soit environ 415 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En vallée humide, le sol reste frais : la pelouse se couvre de mousse, les massifs demandent un bon drainage. Nous adaptons tontes, désherbage et soins au terrain.",
         "Si vous êtes à Saint-Sulpice-sur-Risle ou à Rugles, nous pouvons regrouper les passages avec ceux de L'Aigle pour limiter les déplacements."
       ]
@@ -42460,7 +42460,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "L'Aigle : ce que le terrain change pour les haies",
       "paras": [
-        "L'Aigle s'étend sur la Risle, aux confins du Perche et du pays d'Ouche. L'Aigle est située au sud-est de Lisieux, à environ 51 km à vol d'oiseau (Orne). Ses communes voisines : Saint-Sulpice-sur-Risle, Rugles, La Ferté-en-Ouche et Verneuil d'Avre et d'Iton.",
+        "L'Aigle s'étend sur la Risle, aux confins du Perche et du pays d'Ouche. L'Aigle est située au sud-est de Lisieux, à environ 51 km à vol d'oiseau (Orne). Ses communes voisines : Saint-Sulpice-sur-Risle, Rugles, La Ferté-en-Ouche et Verneuil d'Avre et d'Iton. La commune compte environ 7 663 habitants sur 18,5 km², soit environ 415 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies de vallée aiment l'humidité mais souffrent de la mousse et des maladies : une taille aérée et un nettoyage du pied de haie les gardent en bonne santé.",
         "Si vous êtes à Saint-Sulpice-sur-Risle ou à Rugles, nous pouvons regrouper les passages avec ceux de L'Aigle pour limiter les déplacements."
       ]
@@ -42547,7 +42547,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "L'Aigle : ce que le terrain change pour la pelouse",
       "paras": [
-        "L'Aigle s'étend sur la Risle, aux confins du Perche et du pays d'Ouche. L'Aigle est située au sud-est de Lisieux, à environ 51 km à vol d'oiseau (Orne). Ses communes voisines : Saint-Sulpice-sur-Risle, Rugles, La Ferté-en-Ouche et Verneuil d'Avre et d'Iton.",
+        "L'Aigle s'étend sur la Risle, aux confins du Perche et du pays d'Ouche. L'Aigle est située au sud-est de Lisieux, à environ 51 km à vol d'oiseau (Orne). Ses communes voisines : Saint-Sulpice-sur-Risle, Rugles, La Ferté-en-Ouche et Verneuil d'Avre et d'Iton. La commune compte environ 7 663 habitants sur 18,5 km², soit environ 415 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur sol humide, la tonte demande de la patience : nous évitons les terrains détrempés pour ne pas creuser d'ornières et ramassons l'herbe pour limiter la mousse.",
         "Si vous êtes à Saint-Sulpice-sur-Risle ou à Rugles, nous pouvons regrouper les passages avec ceux de L'Aigle pour limiter les déplacements."
       ]
@@ -42634,7 +42634,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "L'Aigle et ses terrains : repères",
       "paras": [
-        "L'Aigle s'étend sur la Risle, aux confins du Perche et du pays d'Ouche. L'Aigle est située au sud-est de Lisieux, à environ 51 km à vol d'oiseau (Orne). Ses communes voisines : Saint-Sulpice-sur-Risle, Rugles, La Ferté-en-Ouche et Verneuil d'Avre et d'Iton.",
+        "L'Aigle s'étend sur la Risle, aux confins du Perche et du pays d'Ouche. L'Aigle est située au sud-est de Lisieux, à environ 51 km à vol d'oiseau (Orne). Ses communes voisines : Saint-Sulpice-sur-Risle, Rugles, La Ferté-en-Ouche et Verneuil d'Avre et d'Iton. La commune compte environ 7 663 habitants sur 18,5 km², soit environ 415 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les terrains de vallée se couvrent vite de végétation dense : ronces, roseaux, saules. Nous les reprenons avec un matériel adapté aux sols humides.",
         "Si vous êtes à Saint-Sulpice-sur-Risle ou à Rugles, nous pouvons regrouper les passages avec ceux de L'Aigle pour limiter les déplacements."
       ]
@@ -42721,7 +42721,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "L'Aigle et ses jardins : repères du terrain",
       "paras": [
-        "L'Aigle s'étend sur la Risle, aux confins du Perche et du pays d'Ouche. L'Aigle est située au sud-est de Lisieux, à environ 51 km à vol d'oiseau (Orne). Ses communes voisines : Saint-Sulpice-sur-Risle, Rugles, La Ferté-en-Ouche et Verneuil d'Avre et d'Iton.",
+        "L'Aigle s'étend sur la Risle, aux confins du Perche et du pays d'Ouche. L'Aigle est située au sud-est de Lisieux, à environ 51 km à vol d'oiseau (Orne). Ses communes voisines : Saint-Sulpice-sur-Risle, Rugles, La Ferté-en-Ouche et Verneuil d'Avre et d'Iton. La commune compte environ 7 663 habitants sur 18,5 km², soit environ 415 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Nous planifions les passages en tenant compte de l'humidité : travaux lourds quand le sol est ressuyé, entretien courant le reste du temps.",
         "Si vous êtes à Saint-Sulpice-sur-Risle ou à Rugles, nous pouvons regrouper les passages avec ceux de L'Aigle pour limiter les déplacements."
       ]
@@ -42808,7 +42808,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Putanges-le-Lac selon le quartier",
       "paras": [
-        "Putanges-le-Lac, au bord de l'Orne, se trouve près du lac de Rabodanges, aux portes de la Suisse normande. Putanges-le-Lac est située au sud-ouest de Lisieux, à environ 56 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Argentan, Potigny et Gouffern en Auge.",
+        "Putanges-le-Lac, au bord de l'Orne, se trouve près du lac de Rabodanges, aux portes de la Suisse normande. Putanges-le-Lac est située au sud-ouest de Lisieux, à environ 56 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Argentan, Potigny et Gouffern en Auge. La commune compte environ 2 093 habitants sur 77,4 km², soit environ 27 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En fond de vallée, l'humidité favorise les peupliers, saules et aulnes, qui poussent vite et casent facilement. Nous les contrôlons régulièrement, surtout au bord des rivières et près des habitations.",
         "Si vous êtes à Écouché-les-Vallées ou à Argentan, nous pouvons regrouper les passages avec ceux de Putanges-le-Lac pour limiter les déplacements."
       ]
@@ -42895,7 +42895,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Putanges-le-Lac : ce que le terrain change pour le jardin",
       "paras": [
-        "Putanges-le-Lac, au bord de l'Orne, se trouve près du lac de Rabodanges, aux portes de la Suisse normande. Putanges-le-Lac est située au sud-ouest de Lisieux, à environ 56 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Argentan, Potigny et Gouffern en Auge.",
+        "Putanges-le-Lac, au bord de l'Orne, se trouve près du lac de Rabodanges, aux portes de la Suisse normande. Putanges-le-Lac est située au sud-ouest de Lisieux, à environ 56 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Argentan, Potigny et Gouffern en Auge. La commune compte environ 2 093 habitants sur 77,4 km², soit environ 27 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En vallée humide, le sol reste frais : la pelouse se couvre de mousse, les massifs demandent un bon drainage. Nous adaptons tontes, désherbage et soins au terrain.",
         "Si vous êtes à Écouché-les-Vallées ou à Argentan, nous pouvons regrouper les passages avec ceux de Putanges-le-Lac pour limiter les déplacements."
       ]
@@ -42982,7 +42982,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Putanges-le-Lac selon le quartier",
       "paras": [
-        "Putanges-le-Lac, au bord de l'Orne, se trouve près du lac de Rabodanges, aux portes de la Suisse normande. Putanges-le-Lac est située au sud-ouest de Lisieux, à environ 56 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Argentan, Potigny et Gouffern en Auge.",
+        "Putanges-le-Lac, au bord de l'Orne, se trouve près du lac de Rabodanges, aux portes de la Suisse normande. Putanges-le-Lac est située au sud-ouest de Lisieux, à environ 56 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Argentan, Potigny et Gouffern en Auge. La commune compte environ 2 093 habitants sur 77,4 km², soit environ 27 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies de vallée aiment l'humidité mais souffrent de la mousse et des maladies : une taille aérée et un nettoyage du pied de haie les gardent en bonne santé.",
         "Si vous êtes à Écouché-les-Vallées ou à Argentan, nous pouvons regrouper les passages avec ceux de Putanges-le-Lac pour limiter les déplacements."
       ]
@@ -43069,7 +43069,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Putanges-le-Lac : ce que le terrain change pour la pelouse",
       "paras": [
-        "Putanges-le-Lac, au bord de l'Orne, se trouve près du lac de Rabodanges, aux portes de la Suisse normande. Putanges-le-Lac est située au sud-ouest de Lisieux, à environ 56 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Argentan, Potigny et Gouffern en Auge.",
+        "Putanges-le-Lac, au bord de l'Orne, se trouve près du lac de Rabodanges, aux portes de la Suisse normande. Putanges-le-Lac est située au sud-ouest de Lisieux, à environ 56 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Argentan, Potigny et Gouffern en Auge. La commune compte environ 2 093 habitants sur 77,4 km², soit environ 27 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur sol humide, la tonte demande de la patience : nous évitons les terrains détrempés pour ne pas creuser d'ornières et ramassons l'herbe pour limiter la mousse.",
         "Si vous êtes à Écouché-les-Vallées ou à Argentan, nous pouvons regrouper les passages avec ceux de Putanges-le-Lac pour limiter les déplacements."
       ]
@@ -43156,7 +43156,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Putanges-le-Lac : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Putanges-le-Lac, au bord de l'Orne, se trouve près du lac de Rabodanges, aux portes de la Suisse normande. Putanges-le-Lac est située au sud-ouest de Lisieux, à environ 56 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Argentan, Potigny et Gouffern en Auge.",
+        "Putanges-le-Lac, au bord de l'Orne, se trouve près du lac de Rabodanges, aux portes de la Suisse normande. Putanges-le-Lac est située au sud-ouest de Lisieux, à environ 56 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Argentan, Potigny et Gouffern en Auge. La commune compte environ 2 093 habitants sur 77,4 km², soit environ 27 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les terrains de vallée se couvrent vite de végétation dense : ronces, roseaux, saules. Nous les reprenons avec un matériel adapté aux sols humides.",
         "Si vous êtes à Écouché-les-Vallées ou à Argentan, nous pouvons regrouper les passages avec ceux de Putanges-le-Lac pour limiter les déplacements."
       ]
@@ -43243,7 +43243,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Putanges-le-Lac et ses jardins : repères du terrain",
       "paras": [
-        "Putanges-le-Lac, au bord de l'Orne, se trouve près du lac de Rabodanges, aux portes de la Suisse normande. Putanges-le-Lac est située au sud-ouest de Lisieux, à environ 56 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Argentan, Potigny et Gouffern en Auge.",
+        "Putanges-le-Lac, au bord de l'Orne, se trouve près du lac de Rabodanges, aux portes de la Suisse normande. Putanges-le-Lac est située au sud-ouest de Lisieux, à environ 56 km à vol d'oiseau (Orne). Ses communes voisines : Écouché-les-Vallées, Argentan, Potigny et Gouffern en Auge. La commune compte environ 2 093 habitants sur 77,4 km², soit environ 27 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Nous planifions les passages en tenant compte de l'humidité : travaux lourds quand le sol est ressuyé, entretien courant le reste du temps.",
         "Si vous êtes à Écouché-les-Vallées ou à Argentan, nous pouvons regrouper les passages avec ceux de Putanges-le-Lac pour limiter les déplacements."
       ]
@@ -43330,7 +43330,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Sées et ses arbres : repères du terrain",
       "paras": [
-        "Sées, dans l'Orne, est connue pour sa cathédrale gothique Notre-Dame. Sées est située au sud de Lisieux, à environ 60 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Gouffern en Auge, Gacé et Écouché-les-Vallées.",
+        "Sées, dans l'Orne, est connue pour sa cathédrale gothique Notre-Dame. Sées est située au sud de Lisieux, à environ 60 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Gouffern en Auge, Gacé et Écouché-les-Vallées. La commune compte environ 4 168 habitants sur 40,5 km², soit environ 103 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En centre ancien, les cours et jardins sont petits, l'accès est souvent étroit et les arbres touchent façades et toitures voisines : nous travaillons plutôt en grimpe, branche par branche, avec des protections et des cordes de rappel.",
         "Si vous êtes à Argentan ou à Gouffern en Auge, nous pouvons regrouper les passages avec ceux de Sées pour limiter les déplacements."
       ]
@@ -43417,7 +43417,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Sées selon le quartier",
       "paras": [
-        "Sées, dans l'Orne, est connue pour sa cathédrale gothique Notre-Dame. Sées est située au sud de Lisieux, à environ 60 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Gouffern en Auge, Gacé et Écouché-les-Vallées.",
+        "Sées, dans l'Orne, est connue pour sa cathédrale gothique Notre-Dame. Sées est située au sud de Lisieux, à environ 60 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Gouffern en Auge, Gacé et Écouché-les-Vallées. La commune compte environ 4 168 habitants sur 40,5 km², soit environ 103 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En centre ancien, les jardins sont petits et enclavés : pas de remorque devant la porte, parfois un passage par la maison. Nous organisons les passages en conséquence et évacuons les déchets nous-mêmes.",
         "Si vous êtes à Argentan ou à Gouffern en Auge, nous pouvons regrouper les passages avec ceux de Sées pour limiter les déplacements."
       ]
@@ -43504,7 +43504,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Sées : ce que le terrain change pour les haies",
       "paras": [
-        "Sées, dans l'Orne, est connue pour sa cathédrale gothique Notre-Dame. Sées est située au sud de Lisieux, à environ 60 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Gouffern en Auge, Gacé et Écouché-les-Vallées.",
+        "Sées, dans l'Orne, est connue pour sa cathédrale gothique Notre-Dame. Sées est située au sud de Lisieux, à environ 60 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Gouffern en Auge, Gacé et Écouché-les-Vallées. La commune compte environ 4 168 habitants sur 40,5 km², soit environ 103 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Dans les rues serrées, les haies bordent des trottoirs et des murs : la taille se fait proprement, avec bâches au sol et ramassage immédiat pour ne rien laisser sur la voie.",
         "Si vous êtes à Argentan ou à Gouffern en Auge, nous pouvons regrouper les passages avec ceux de Sées pour limiter les déplacements."
       ]
@@ -43591,7 +43591,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Sées selon le quartier",
       "paras": [
-        "Sées, dans l'Orne, est connue pour sa cathédrale gothique Notre-Dame. Sées est située au sud de Lisieux, à environ 60 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Gouffern en Auge, Gacé et Écouché-les-Vallées.",
+        "Sées, dans l'Orne, est connue pour sa cathédrale gothique Notre-Dame. Sées est située au sud de Lisieux, à environ 60 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Gouffern en Auge, Gacé et Écouché-les-Vallées. La commune compte environ 4 168 habitants sur 40,5 km², soit environ 103 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les petites pelouses de centre-ville se tondent vite mais demandent des finitions soignées le long des murs et des massifs, avec du matériel compact.",
         "Si vous êtes à Argentan ou à Gouffern en Auge, nous pouvons regrouper les passages avec ceux de Sées pour limiter les déplacements."
       ]
@@ -43678,7 +43678,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Sées : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Sées, dans l'Orne, est connue pour sa cathédrale gothique Notre-Dame. Sées est située au sud de Lisieux, à environ 60 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Gouffern en Auge, Gacé et Écouché-les-Vallées.",
+        "Sées, dans l'Orne, est connue pour sa cathédrale gothique Notre-Dame. Sées est située au sud de Lisieux, à environ 60 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Gouffern en Auge, Gacé et Écouché-les-Vallées. La commune compte environ 4 168 habitants sur 40,5 km², soit environ 103 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En ville, le débroussaillage concerne surtout des fonds de parcelle, des talus et des terrains vides : nous travaillons avec un matériel adapté aux accès étroits.",
         "Si vous êtes à Argentan ou à Gouffern en Auge, nous pouvons regrouper les passages avec ceux de Sées pour limiter les déplacements."
       ]
@@ -43765,7 +43765,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Sées : ce que le terrain change pour l'entretien",
       "paras": [
-        "Sées, dans l'Orne, est connue pour sa cathédrale gothique Notre-Dame. Sées est située au sud de Lisieux, à environ 60 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Gouffern en Auge, Gacé et Écouché-les-Vallées.",
+        "Sées, dans l'Orne, est connue pour sa cathédrale gothique Notre-Dame. Sées est située au sud de Lisieux, à environ 60 km à vol d'oiseau (Orne). Ses communes voisines : Argentan, Gouffern en Auge, Gacé et Écouché-les-Vallées. La commune compte environ 4 168 habitants sur 40,5 km², soit environ 103 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Petits jardins, murs et pots : l'entretien passe par des passages courts et réguliers, sans gros engins, avec un seul interlocuteur.",
         "Si vous êtes à Argentan ou à Gouffern en Auge, nous pouvons regrouper les passages avec ceux de Sées pour limiter les déplacements."
       ]
@@ -43852,7 +43852,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mesnil-en-Ouche et ses arbres : repères du terrain",
       "paras": [
-        "Mesnil-en-Ouche est une commune du pays d'Ouche, dans l'Eure, entre Bernay et Conches. Mesnil-en-Ouche est située au sud-est de Lisieux, à environ 37 km à vol d'oiseau (Eure). Ses communes voisines : Beaumont-le-Roger, Nassandres sur Risle, Conches-en-Ouche et Rugles.",
+        "Mesnil-en-Ouche est une commune du pays d'Ouche, dans l'Eure, entre Bernay et Conches. Mesnil-en-Ouche est située au sud-est de Lisieux, à environ 37 km à vol d'oiseau (Eure). Ses communes voisines : Beaumont-le-Roger, Nassandres sur Risle, Conches-en-Ouche et Rugles. La commune compte environ 4 414 habitants sur 166 km², soit environ 27 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "En pays de bocage et d'herbages, les arbres sont nombreux : chênes de haies, pommiers hautes tiges, frênes, peupliers. Nous élaguons au bon moment pour chaque essence, et sécurisons ceux qui surplombent chemins, clôtures et bâtiments.",
         "Si vous êtes à Beaumont-le-Roger ou à Nassandres sur Risle, nous pouvons regrouper les passages avec ceux de Mesnil-en-Ouche pour limiter les déplacements."
       ]
@@ -43939,7 +43939,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mesnil-en-Ouche : ce que le terrain change pour le jardin",
       "paras": [
-        "Mesnil-en-Ouche est une commune du pays d'Ouche, dans l'Eure, entre Bernay et Conches. Mesnil-en-Ouche est située au sud-est de Lisieux, à environ 37 km à vol d'oiseau (Eure). Ses communes voisines : Beaumont-le-Roger, Nassandres sur Risle, Conches-en-Ouche et Rugles.",
+        "Mesnil-en-Ouche est une commune du pays d'Ouche, dans l'Eure, entre Bernay et Conches. Mesnil-en-Ouche est située au sud-est de Lisieux, à environ 37 km à vol d'oiseau (Eure). Ses communes voisines : Beaumont-le-Roger, Nassandres sur Risle, Conches-en-Ouche et Rugles. La commune compte environ 4 414 habitants sur 166 km², soit environ 27 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les propriétés du bocage ont souvent de grands terrains, des vergers et des talus : nous planifions les passages par saison pour que tout reste maîtrisé sans y passer vos week-ends.",
         "Si vous êtes à Beaumont-le-Roger ou à Nassandres sur Risle, nous pouvons regrouper les passages avec ceux de Mesnil-en-Ouche pour limiter les déplacements."
       ]
@@ -44026,7 +44026,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mesnil-en-Ouche : ce que le terrain change pour les haies",
       "paras": [
-        "Mesnil-en-Ouche est une commune du pays d'Ouche, dans l'Eure, entre Bernay et Conches. Mesnil-en-Ouche est située au sud-est de Lisieux, à environ 37 km à vol d'oiseau (Eure). Ses communes voisines : Beaumont-le-Roger, Nassandres sur Risle, Conches-en-Ouche et Rugles.",
+        "Mesnil-en-Ouche est une commune du pays d'Ouche, dans l'Eure, entre Bernay et Conches. Mesnil-en-Ouche est située au sud-est de Lisieux, à environ 37 km à vol d'oiseau (Eure). Ses communes voisines : Beaumont-le-Roger, Nassandres sur Risle, Conches-en-Ouche et Rugles. La commune compte environ 4 414 habitants sur 166 km², soit environ 27 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Les haies champêtres de la campagne augeronne mêlent charmes, noisetiers, aubépines et érables. Une taille d'hiver régulière les garde denses et protège la faune qui y niche.",
         "Si vous êtes à Beaumont-le-Roger ou à Nassandres sur Risle, nous pouvons regrouper les passages avec ceux de Mesnil-en-Ouche pour limiter les déplacements."
       ]
@@ -44113,7 +44113,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Mesnil-en-Ouche selon le quartier",
       "paras": [
-        "Mesnil-en-Ouche est une commune du pays d'Ouche, dans l'Eure, entre Bernay et Conches. Mesnil-en-Ouche est située au sud-est de Lisieux, à environ 37 km à vol d'oiseau (Eure). Ses communes voisines : Beaumont-le-Roger, Nassandres sur Risle, Conches-en-Ouche et Rugles.",
+        "Mesnil-en-Ouche est une commune du pays d'Ouche, dans l'Eure, entre Bernay et Conches. Mesnil-en-Ouche est située au sud-est de Lisieux, à environ 37 km à vol d'oiseau (Eure). Ses communes voisines : Beaumont-le-Roger, Nassandres sur Risle, Conches-en-Ouche et Rugles. La commune compte environ 4 414 habitants sur 166 km², soit environ 27 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Sur les grands terrains de campagne, la pelouse côtoie prés et vergers : nous tondons les surfaces d'agrément et les bordures de chemins avec du matériel adapté aux grandes surfaces.",
         "Si vous êtes à Beaumont-le-Roger ou à Nassandres sur Risle, nous pouvons regrouper les passages avec ceux de Mesnil-en-Ouche pour limiter les déplacements."
       ]
@@ -44200,7 +44200,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mesnil-en-Ouche et ses terrains : repères",
       "paras": [
-        "Mesnil-en-Ouche est une commune du pays d'Ouche, dans l'Eure, entre Bernay et Conches. Mesnil-en-Ouche est située au sud-est de Lisieux, à environ 37 km à vol d'oiseau (Eure). Ses communes voisines : Beaumont-le-Roger, Nassandres sur Risle, Conches-en-Ouche et Rugles.",
+        "Mesnil-en-Ouche est une commune du pays d'Ouche, dans l'Eure, entre Bernay et Conches. Mesnil-en-Ouche est située au sud-est de Lisieux, à environ 37 km à vol d'oiseau (Eure). Ses communes voisines : Beaumont-le-Roger, Nassandres sur Risle, Conches-en-Ouche et Rugles. La commune compte environ 4 414 habitants sur 166 km², soit environ 27 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Autour des fermes et des vergers, les parcelles se referment vite : ronces, orties, jeunes arbres. Nous les reprenons en gardant les arbres utiles et les haies.",
         "Si vous êtes à Beaumont-le-Roger ou à Nassandres sur Risle, nous pouvons regrouper les passages avec ceux de Mesnil-en-Ouche pour limiter les déplacements."
       ]
@@ -44287,7 +44287,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Mesnil-en-Ouche : ce que le terrain change pour l'entretien",
       "paras": [
-        "Mesnil-en-Ouche est une commune du pays d'Ouche, dans l'Eure, entre Bernay et Conches. Mesnil-en-Ouche est située au sud-est de Lisieux, à environ 37 km à vol d'oiseau (Eure). Ses communes voisines : Beaumont-le-Roger, Nassandres sur Risle, Conches-en-Ouche et Rugles.",
+        "Mesnil-en-Ouche est une commune du pays d'Ouche, dans l'Eure, entre Bernay et Conches. Mesnil-en-Ouche est située au sud-est de Lisieux, à environ 37 km à vol d'oiseau (Eure). Ses communes voisines : Beaumont-le-Roger, Nassandres sur Risle, Conches-en-Ouche et Rugles. La commune compte environ 4 414 habitants sur 166 km², soit environ 27 habitants au km² : un territoire très étendu et peu dense : grandes propriétés, haies champêtres et arbres de pâture.",
         "Entre vergers, haies et grandes pelouses, nous proposons un forfait saisonnier qui couvre tonte, taille et ramassage, en gardant le charme de la propriété.",
         "Si vous êtes à Beaumont-le-Roger ou à Nassandres sur Risle, nous pouvons regrouper les passages avec ceux de Mesnil-en-Ouche pour limiter les déplacements."
       ]
@@ -44374,7 +44374,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beaumont-le-Roger et ses arbres : repères du terrain",
       "paras": [
-        "Beaumont-le-Roger, dans l'Eure, est un bourg de la vallée de la Risle. Beaumont-le-Roger est située à l'est de Lisieux, à environ 39 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Mesnil-en-Ouche, Le Neubourg et Conches-en-Ouche.",
+        "Beaumont-le-Roger, dans l'Eure, est un bourg de la vallée de la Risle. Beaumont-le-Roger est située à l'est de Lisieux, à environ 39 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Mesnil-en-Ouche, Le Neubourg et Conches-en-Ouche. La commune compte environ 2 769 habitants sur 36,5 km², soit environ 76 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En fond de vallée, l'humidité favorise les peupliers, saules et aulnes, qui poussent vite et casent facilement. Nous les contrôlons régulièrement, surtout au bord des rivières et près des habitations.",
         "Si vous êtes à Nassandres sur Risle ou à Mesnil-en-Ouche, nous pouvons regrouper les passages avec ceux de Beaumont-le-Roger pour limiter les déplacements."
       ]
@@ -44461,7 +44461,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beaumont-le-Roger et ses jardins : repères du terrain",
       "paras": [
-        "Beaumont-le-Roger, dans l'Eure, est un bourg de la vallée de la Risle. Beaumont-le-Roger est située à l'est de Lisieux, à environ 39 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Mesnil-en-Ouche, Le Neubourg et Conches-en-Ouche.",
+        "Beaumont-le-Roger, dans l'Eure, est un bourg de la vallée de la Risle. Beaumont-le-Roger est située à l'est de Lisieux, à environ 39 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Mesnil-en-Ouche, Le Neubourg et Conches-en-Ouche. La commune compte environ 2 769 habitants sur 36,5 km², soit environ 76 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En vallée humide, le sol reste frais : la pelouse se couvre de mousse, les massifs demandent un bon drainage. Nous adaptons tontes, désherbage et soins au terrain.",
         "Si vous êtes à Nassandres sur Risle ou à Mesnil-en-Ouche, nous pouvons regrouper les passages avec ceux de Beaumont-le-Roger pour limiter les déplacements."
       ]
@@ -44548,7 +44548,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beaumont-le-Roger et ses haies : repères du terrain",
       "paras": [
-        "Beaumont-le-Roger, dans l'Eure, est un bourg de la vallée de la Risle. Beaumont-le-Roger est située à l'est de Lisieux, à environ 39 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Mesnil-en-Ouche, Le Neubourg et Conches-en-Ouche.",
+        "Beaumont-le-Roger, dans l'Eure, est un bourg de la vallée de la Risle. Beaumont-le-Roger est située à l'est de Lisieux, à environ 39 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Mesnil-en-Ouche, Le Neubourg et Conches-en-Ouche. La commune compte environ 2 769 habitants sur 36,5 km², soit environ 76 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies de vallée aiment l'humidité mais souffrent de la mousse et des maladies : une taille aérée et un nettoyage du pied de haie les gardent en bonne santé.",
         "Si vous êtes à Nassandres sur Risle ou à Mesnil-en-Ouche, nous pouvons regrouper les passages avec ceux de Beaumont-le-Roger pour limiter les déplacements."
       ]
@@ -44635,7 +44635,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beaumont-le-Roger : ce que le terrain change pour la pelouse",
       "paras": [
-        "Beaumont-le-Roger, dans l'Eure, est un bourg de la vallée de la Risle. Beaumont-le-Roger est située à l'est de Lisieux, à environ 39 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Mesnil-en-Ouche, Le Neubourg et Conches-en-Ouche.",
+        "Beaumont-le-Roger, dans l'Eure, est un bourg de la vallée de la Risle. Beaumont-le-Roger est située à l'est de Lisieux, à environ 39 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Mesnil-en-Ouche, Le Neubourg et Conches-en-Ouche. La commune compte environ 2 769 habitants sur 36,5 km², soit environ 76 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur sol humide, la tonte demande de la patience : nous évitons les terrains détrempés pour ne pas creuser d'ornières et ramassons l'herbe pour limiter la mousse.",
         "Si vous êtes à Nassandres sur Risle ou à Mesnil-en-Ouche, nous pouvons regrouper les passages avec ceux de Beaumont-le-Roger pour limiter les déplacements."
       ]
@@ -44722,7 +44722,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beaumont-le-Roger et ses terrains : repères",
       "paras": [
-        "Beaumont-le-Roger, dans l'Eure, est un bourg de la vallée de la Risle. Beaumont-le-Roger est située à l'est de Lisieux, à environ 39 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Mesnil-en-Ouche, Le Neubourg et Conches-en-Ouche.",
+        "Beaumont-le-Roger, dans l'Eure, est un bourg de la vallée de la Risle. Beaumont-le-Roger est située à l'est de Lisieux, à environ 39 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Mesnil-en-Ouche, Le Neubourg et Conches-en-Ouche. La commune compte environ 2 769 habitants sur 36,5 km², soit environ 76 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les terrains de vallée se couvrent vite de végétation dense : ronces, roseaux, saules. Nous les reprenons avec un matériel adapté aux sols humides.",
         "Si vous êtes à Nassandres sur Risle ou à Mesnil-en-Ouche, nous pouvons regrouper les passages avec ceux de Beaumont-le-Roger pour limiter les déplacements."
       ]
@@ -44809,7 +44809,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Beaumont-le-Roger : ce que le terrain change pour l'entretien",
       "paras": [
-        "Beaumont-le-Roger, dans l'Eure, est un bourg de la vallée de la Risle. Beaumont-le-Roger est située à l'est de Lisieux, à environ 39 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Mesnil-en-Ouche, Le Neubourg et Conches-en-Ouche.",
+        "Beaumont-le-Roger, dans l'Eure, est un bourg de la vallée de la Risle. Beaumont-le-Roger est située à l'est de Lisieux, à environ 39 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Mesnil-en-Ouche, Le Neubourg et Conches-en-Ouche. La commune compte environ 2 769 habitants sur 36,5 km², soit environ 76 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Nous planifions les passages en tenant compte de l'humidité : travaux lourds quand le sol est ressuyé, entretien courant le reste du temps.",
         "Si vous êtes à Nassandres sur Risle ou à Mesnil-en-Ouche, nous pouvons regrouper les passages avec ceux de Beaumont-le-Roger pour limiter les déplacements."
       ]
@@ -44896,7 +44896,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Élaguer à Bosroumois selon le quartier",
       "paras": [
-        "Bosroumois est une commune du Roumois, dans l'Eure, entre campagne et bourgs. Bosroumois est située à l'est de Lisieux, à environ 53 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Les Monts du Roumois, Bourg-Achard et Le Neubourg.",
+        "Bosroumois est une commune du Roumois, dans l'Eure, entre campagne et bourgs. Bosroumois est située à l'est de Lisieux, à environ 53 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Les Monts du Roumois, Bourg-Achard et Le Neubourg. La commune compte environ 3 872 habitants sur 13,4 km², soit environ 289 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Grand Bourgtheroulde ou à Les Monts du Roumois, nous pouvons regrouper les passages avec ceux de Bosroumois pour limiter les déplacements."
       ]
@@ -44983,7 +44983,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bosroumois : ce que le terrain change pour le jardin",
       "paras": [
-        "Bosroumois est une commune du Roumois, dans l'Eure, entre campagne et bourgs. Bosroumois est située à l'est de Lisieux, à environ 53 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Les Monts du Roumois, Bourg-Achard et Le Neubourg.",
+        "Bosroumois est une commune du Roumois, dans l'Eure, entre campagne et bourgs. Bosroumois est située à l'est de Lisieux, à environ 53 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Les Monts du Roumois, Bourg-Achard et Le Neubourg. La commune compte environ 3 872 habitants sur 13,4 km², soit environ 289 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Grand Bourgtheroulde ou à Les Monts du Roumois, nous pouvons regrouper les passages avec ceux de Bosroumois pour limiter les déplacements."
       ]
@@ -45070,7 +45070,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bosroumois et ses haies : repères du terrain",
       "paras": [
-        "Bosroumois est une commune du Roumois, dans l'Eure, entre campagne et bourgs. Bosroumois est située à l'est de Lisieux, à environ 53 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Les Monts du Roumois, Bourg-Achard et Le Neubourg.",
+        "Bosroumois est une commune du Roumois, dans l'Eure, entre campagne et bourgs. Bosroumois est située à l'est de Lisieux, à environ 53 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Les Monts du Roumois, Bourg-Achard et Le Neubourg. La commune compte environ 3 872 habitants sur 13,4 km², soit environ 289 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Grand Bourgtheroulde ou à Les Monts du Roumois, nous pouvons regrouper les passages avec ceux de Bosroumois pour limiter les déplacements."
       ]
@@ -45157,7 +45157,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Bosroumois selon le quartier",
       "paras": [
-        "Bosroumois est une commune du Roumois, dans l'Eure, entre campagne et bourgs. Bosroumois est située à l'est de Lisieux, à environ 53 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Les Monts du Roumois, Bourg-Achard et Le Neubourg.",
+        "Bosroumois est une commune du Roumois, dans l'Eure, entre campagne et bourgs. Bosroumois est située à l'est de Lisieux, à environ 53 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Les Monts du Roumois, Bourg-Achard et Le Neubourg. La commune compte environ 3 872 habitants sur 13,4 km², soit environ 289 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Grand Bourgtheroulde ou à Les Monts du Roumois, nous pouvons regrouper les passages avec ceux de Bosroumois pour limiter les déplacements."
       ]
@@ -45244,7 +45244,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Bosroumois selon le terrain",
       "paras": [
-        "Bosroumois est une commune du Roumois, dans l'Eure, entre campagne et bourgs. Bosroumois est située à l'est de Lisieux, à environ 53 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Les Monts du Roumois, Bourg-Achard et Le Neubourg.",
+        "Bosroumois est une commune du Roumois, dans l'Eure, entre campagne et bourgs. Bosroumois est située à l'est de Lisieux, à environ 53 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Les Monts du Roumois, Bourg-Achard et Le Neubourg. La commune compte environ 3 872 habitants sur 13,4 km², soit environ 289 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Grand Bourgtheroulde ou à Les Monts du Roumois, nous pouvons regrouper les passages avec ceux de Bosroumois pour limiter les déplacements."
       ]
@@ -45331,7 +45331,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Bosroumois selon le quartier",
       "paras": [
-        "Bosroumois est une commune du Roumois, dans l'Eure, entre campagne et bourgs. Bosroumois est située à l'est de Lisieux, à environ 53 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Les Monts du Roumois, Bourg-Achard et Le Neubourg.",
+        "Bosroumois est une commune du Roumois, dans l'Eure, entre campagne et bourgs. Bosroumois est située à l'est de Lisieux, à environ 53 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Les Monts du Roumois, Bourg-Achard et Le Neubourg. La commune compte environ 3 872 habitants sur 13,4 km², soit environ 289 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Grand Bourgtheroulde ou à Les Monts du Roumois, nous pouvons regrouper les passages avec ceux de Bosroumois pour limiter les déplacements."
       ]
@@ -45418,7 +45418,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bourg-Achard : ce que le terrain change pour l'élagage",
       "paras": [
-        "Bourg-Achard est un bourg du Roumois, dans l'Eure, entre Pont-Audemer et Rouen. Bourg-Achard est située au nord-est de Lisieux, à environ 47 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Routot, Les Monts du Roumois et Bosroumois.",
+        "Bourg-Achard est un bourg du Roumois, dans l'Eure, entre Pont-Audemer et Rouen. Bourg-Achard est située au nord-est de Lisieux, à environ 47 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Routot, Les Monts du Roumois et Bosroumois. La commune compte environ 4 026 habitants sur 12,4 km², soit environ 325 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Grand Bourgtheroulde ou à Routot, nous pouvons regrouper les passages avec ceux de Bourg-Achard pour limiter les déplacements."
       ]
@@ -45505,7 +45505,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bourg-Achard : ce que le terrain change pour le jardin",
       "paras": [
-        "Bourg-Achard est un bourg du Roumois, dans l'Eure, entre Pont-Audemer et Rouen. Bourg-Achard est située au nord-est de Lisieux, à environ 47 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Routot, Les Monts du Roumois et Bosroumois.",
+        "Bourg-Achard est un bourg du Roumois, dans l'Eure, entre Pont-Audemer et Rouen. Bourg-Achard est située au nord-est de Lisieux, à environ 47 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Routot, Les Monts du Roumois et Bosroumois. La commune compte environ 4 026 habitants sur 12,4 km², soit environ 325 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Grand Bourgtheroulde ou à Routot, nous pouvons regrouper les passages avec ceux de Bourg-Achard pour limiter les déplacements."
       ]
@@ -45592,7 +45592,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bourg-Achard : ce que le terrain change pour les haies",
       "paras": [
-        "Bourg-Achard est un bourg du Roumois, dans l'Eure, entre Pont-Audemer et Rouen. Bourg-Achard est située au nord-est de Lisieux, à environ 47 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Routot, Les Monts du Roumois et Bosroumois.",
+        "Bourg-Achard est un bourg du Roumois, dans l'Eure, entre Pont-Audemer et Rouen. Bourg-Achard est située au nord-est de Lisieux, à environ 47 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Routot, Les Monts du Roumois et Bosroumois. La commune compte environ 4 026 habitants sur 12,4 km², soit environ 325 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Grand Bourgtheroulde ou à Routot, nous pouvons regrouper les passages avec ceux de Bourg-Achard pour limiter les déplacements."
       ]
@@ -45679,7 +45679,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bourg-Achard : ce que le terrain change pour la pelouse",
       "paras": [
-        "Bourg-Achard est un bourg du Roumois, dans l'Eure, entre Pont-Audemer et Rouen. Bourg-Achard est située au nord-est de Lisieux, à environ 47 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Routot, Les Monts du Roumois et Bosroumois.",
+        "Bourg-Achard est un bourg du Roumois, dans l'Eure, entre Pont-Audemer et Rouen. Bourg-Achard est située au nord-est de Lisieux, à environ 47 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Routot, Les Monts du Roumois et Bosroumois. La commune compte environ 4 026 habitants sur 12,4 km², soit environ 325 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Grand Bourgtheroulde ou à Routot, nous pouvons regrouper les passages avec ceux de Bourg-Achard pour limiter les déplacements."
       ]
@@ -45766,7 +45766,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bourg-Achard : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Bourg-Achard est un bourg du Roumois, dans l'Eure, entre Pont-Audemer et Rouen. Bourg-Achard est située au nord-est de Lisieux, à environ 47 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Routot, Les Monts du Roumois et Bosroumois.",
+        "Bourg-Achard est un bourg du Roumois, dans l'Eure, entre Pont-Audemer et Rouen. Bourg-Achard est située au nord-est de Lisieux, à environ 47 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Routot, Les Monts du Roumois et Bosroumois. La commune compte environ 4 026 habitants sur 12,4 km², soit environ 325 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Grand Bourgtheroulde ou à Routot, nous pouvons regrouper les passages avec ceux de Bourg-Achard pour limiter les déplacements."
       ]
@@ -45853,7 +45853,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Bourg-Achard : ce que le terrain change pour l'entretien",
       "paras": [
-        "Bourg-Achard est un bourg du Roumois, dans l'Eure, entre Pont-Audemer et Rouen. Bourg-Achard est située au nord-est de Lisieux, à environ 47 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Routot, Les Monts du Roumois et Bosroumois.",
+        "Bourg-Achard est un bourg du Roumois, dans l'Eure, entre Pont-Audemer et Rouen. Bourg-Achard est située au nord-est de Lisieux, à environ 47 km à vol d'oiseau (Eure). Ses communes voisines : Grand Bourgtheroulde, Routot, Les Monts du Roumois et Bosroumois. La commune compte environ 4 026 habitants sur 12,4 km², soit environ 325 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Grand Bourgtheroulde ou à Routot, nous pouvons regrouper les passages avec ceux de Bourg-Achard pour limiter les déplacements."
       ]
@@ -45940,7 +45940,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Grand Bourgtheroulde et ses arbres : repères du terrain",
       "paras": [
-        "Grand Bourgtheroulde est un bourg du Roumois, dans l'Eure, à l'est de Pont-Audemer. Grand Bourgtheroulde est située à l'est de Lisieux, à environ 49 km à vol d'oiseau (Eure). Ses communes voisines : Les Monts du Roumois, Bosroumois, Bourg-Achard et Routot.",
+        "Grand Bourgtheroulde est un bourg du Roumois, dans l'Eure, à l'est de Pont-Audemer. Grand Bourgtheroulde est située à l'est de Lisieux, à environ 49 km à vol d'oiseau (Eure). Ses communes voisines : Les Monts du Roumois, Bosroumois, Bourg-Achard et Routot. La commune compte environ 3 995 habitants sur 19,7 km², soit environ 203 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Les Monts du Roumois ou à Bosroumois, nous pouvons regrouper les passages avec ceux de Grand Bourgtheroulde pour limiter les déplacements."
       ]
@@ -46027,7 +46027,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Grand Bourgtheroulde selon le quartier",
       "paras": [
-        "Grand Bourgtheroulde est un bourg du Roumois, dans l'Eure, à l'est de Pont-Audemer. Grand Bourgtheroulde est située à l'est de Lisieux, à environ 49 km à vol d'oiseau (Eure). Ses communes voisines : Les Monts du Roumois, Bosroumois, Bourg-Achard et Routot.",
+        "Grand Bourgtheroulde est un bourg du Roumois, dans l'Eure, à l'est de Pont-Audemer. Grand Bourgtheroulde est située à l'est de Lisieux, à environ 49 km à vol d'oiseau (Eure). Ses communes voisines : Les Monts du Roumois, Bosroumois, Bourg-Achard et Routot. La commune compte environ 3 995 habitants sur 19,7 km², soit environ 203 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Les Monts du Roumois ou à Bosroumois, nous pouvons regrouper les passages avec ceux de Grand Bourgtheroulde pour limiter les déplacements."
       ]
@@ -46114,7 +46114,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Grand Bourgtheroulde : ce que le terrain change pour les haies",
       "paras": [
-        "Grand Bourgtheroulde est un bourg du Roumois, dans l'Eure, à l'est de Pont-Audemer. Grand Bourgtheroulde est située à l'est de Lisieux, à environ 49 km à vol d'oiseau (Eure). Ses communes voisines : Les Monts du Roumois, Bosroumois, Bourg-Achard et Routot.",
+        "Grand Bourgtheroulde est un bourg du Roumois, dans l'Eure, à l'est de Pont-Audemer. Grand Bourgtheroulde est située à l'est de Lisieux, à environ 49 km à vol d'oiseau (Eure). Ses communes voisines : Les Monts du Roumois, Bosroumois, Bourg-Achard et Routot. La commune compte environ 3 995 habitants sur 19,7 km², soit environ 203 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Les Monts du Roumois ou à Bosroumois, nous pouvons regrouper les passages avec ceux de Grand Bourgtheroulde pour limiter les déplacements."
       ]
@@ -46201,7 +46201,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Grand Bourgtheroulde selon le quartier",
       "paras": [
-        "Grand Bourgtheroulde est un bourg du Roumois, dans l'Eure, à l'est de Pont-Audemer. Grand Bourgtheroulde est située à l'est de Lisieux, à environ 49 km à vol d'oiseau (Eure). Ses communes voisines : Les Monts du Roumois, Bosroumois, Bourg-Achard et Routot.",
+        "Grand Bourgtheroulde est un bourg du Roumois, dans l'Eure, à l'est de Pont-Audemer. Grand Bourgtheroulde est située à l'est de Lisieux, à environ 49 km à vol d'oiseau (Eure). Ses communes voisines : Les Monts du Roumois, Bosroumois, Bourg-Achard et Routot. La commune compte environ 3 995 habitants sur 19,7 km², soit environ 203 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Les Monts du Roumois ou à Bosroumois, nous pouvons regrouper les passages avec ceux de Grand Bourgtheroulde pour limiter les déplacements."
       ]
@@ -46288,7 +46288,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Grand Bourgtheroulde : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Grand Bourgtheroulde est un bourg du Roumois, dans l'Eure, à l'est de Pont-Audemer. Grand Bourgtheroulde est située à l'est de Lisieux, à environ 49 km à vol d'oiseau (Eure). Ses communes voisines : Les Monts du Roumois, Bosroumois, Bourg-Achard et Routot.",
+        "Grand Bourgtheroulde est un bourg du Roumois, dans l'Eure, à l'est de Pont-Audemer. Grand Bourgtheroulde est située à l'est de Lisieux, à environ 49 km à vol d'oiseau (Eure). Ses communes voisines : Les Monts du Roumois, Bosroumois, Bourg-Achard et Routot. La commune compte environ 3 995 habitants sur 19,7 km², soit environ 203 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Les Monts du Roumois ou à Bosroumois, nous pouvons regrouper les passages avec ceux de Grand Bourgtheroulde pour limiter les déplacements."
       ]
@@ -46375,7 +46375,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Grand Bourgtheroulde et ses jardins : repères du terrain",
       "paras": [
-        "Grand Bourgtheroulde est un bourg du Roumois, dans l'Eure, à l'est de Pont-Audemer. Grand Bourgtheroulde est située à l'est de Lisieux, à environ 49 km à vol d'oiseau (Eure). Ses communes voisines : Les Monts du Roumois, Bosroumois, Bourg-Achard et Routot.",
+        "Grand Bourgtheroulde est un bourg du Roumois, dans l'Eure, à l'est de Pont-Audemer. Grand Bourgtheroulde est située à l'est de Lisieux, à environ 49 km à vol d'oiseau (Eure). Ses communes voisines : Les Monts du Roumois, Bosroumois, Bourg-Achard et Routot. La commune compte environ 3 995 habitants sur 19,7 km², soit environ 203 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Les Monts du Roumois ou à Bosroumois, nous pouvons regrouper les passages avec ceux de Grand Bourgtheroulde pour limiter les déplacements."
       ]
@@ -46462,7 +46462,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Breteuil et ses arbres : repères du terrain",
       "paras": [
-        "Breteuil, dans l'Eure, s'étend dans la vallée de l'Iton. Breteuil est située au sud-est de Lisieux, à environ 60 km à vol d'oiseau (Eure). Ses communes voisines : Verneuil d'Avre et d'Iton, Conches-en-Ouche, Rugles et Saint-Sulpice-sur-Risle.",
+        "Breteuil, dans l'Eure, s'étend dans la vallée de l'Iton. Breteuil est située au sud-est de Lisieux, à environ 60 km à vol d'oiseau (Eure). Ses communes voisines : Verneuil d'Avre et d'Iton, Conches-en-Ouche, Rugles et Saint-Sulpice-sur-Risle. La commune compte environ 4 282 habitants sur 55,3 km², soit environ 77 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En fond de vallée, l'humidité favorise les peupliers, saules et aulnes, qui poussent vite et casent facilement. Nous les contrôlons régulièrement, surtout au bord des rivières et près des habitations.",
         "Si vous êtes à Verneuil d'Avre et d'Iton ou à Conches-en-Ouche, nous pouvons regrouper les passages avec ceux de Breteuil pour limiter les déplacements."
       ]
@@ -46549,7 +46549,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Breteuil selon le quartier",
       "paras": [
-        "Breteuil, dans l'Eure, s'étend dans la vallée de l'Iton. Breteuil est située au sud-est de Lisieux, à environ 60 km à vol d'oiseau (Eure). Ses communes voisines : Verneuil d'Avre et d'Iton, Conches-en-Ouche, Rugles et Saint-Sulpice-sur-Risle.",
+        "Breteuil, dans l'Eure, s'étend dans la vallée de l'Iton. Breteuil est située au sud-est de Lisieux, à environ 60 km à vol d'oiseau (Eure). Ses communes voisines : Verneuil d'Avre et d'Iton, Conches-en-Ouche, Rugles et Saint-Sulpice-sur-Risle. La commune compte environ 4 282 habitants sur 55,3 km², soit environ 77 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "En vallée humide, le sol reste frais : la pelouse se couvre de mousse, les massifs demandent un bon drainage. Nous adaptons tontes, désherbage et soins au terrain.",
         "Si vous êtes à Verneuil d'Avre et d'Iton ou à Conches-en-Ouche, nous pouvons regrouper les passages avec ceux de Breteuil pour limiter les déplacements."
       ]
@@ -46636,7 +46636,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Breteuil : ce que le terrain change pour les haies",
       "paras": [
-        "Breteuil, dans l'Eure, s'étend dans la vallée de l'Iton. Breteuil est située au sud-est de Lisieux, à environ 60 km à vol d'oiseau (Eure). Ses communes voisines : Verneuil d'Avre et d'Iton, Conches-en-Ouche, Rugles et Saint-Sulpice-sur-Risle.",
+        "Breteuil, dans l'Eure, s'étend dans la vallée de l'Iton. Breteuil est située au sud-est de Lisieux, à environ 60 km à vol d'oiseau (Eure). Ses communes voisines : Verneuil d'Avre et d'Iton, Conches-en-Ouche, Rugles et Saint-Sulpice-sur-Risle. La commune compte environ 4 282 habitants sur 55,3 km², soit environ 77 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les haies de vallée aiment l'humidité mais souffrent de la mousse et des maladies : une taille aérée et un nettoyage du pied de haie les gardent en bonne santé.",
         "Si vous êtes à Verneuil d'Avre et d'Iton ou à Conches-en-Ouche, nous pouvons regrouper les passages avec ceux de Breteuil pour limiter les déplacements."
       ]
@@ -46723,7 +46723,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Breteuil et ses pelouses : repères du terrain",
       "paras": [
-        "Breteuil, dans l'Eure, s'étend dans la vallée de l'Iton. Breteuil est située au sud-est de Lisieux, à environ 60 km à vol d'oiseau (Eure). Ses communes voisines : Verneuil d'Avre et d'Iton, Conches-en-Ouche, Rugles et Saint-Sulpice-sur-Risle.",
+        "Breteuil, dans l'Eure, s'étend dans la vallée de l'Iton. Breteuil est située au sud-est de Lisieux, à environ 60 km à vol d'oiseau (Eure). Ses communes voisines : Verneuil d'Avre et d'Iton, Conches-en-Ouche, Rugles et Saint-Sulpice-sur-Risle. La commune compte environ 4 282 habitants sur 55,3 km², soit environ 77 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Sur sol humide, la tonte demande de la patience : nous évitons les terrains détrempés pour ne pas creuser d'ornières et ramassons l'herbe pour limiter la mousse.",
         "Si vous êtes à Verneuil d'Avre et d'Iton ou à Conches-en-Ouche, nous pouvons regrouper les passages avec ceux de Breteuil pour limiter les déplacements."
       ]
@@ -46810,7 +46810,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Breteuil selon le terrain",
       "paras": [
-        "Breteuil, dans l'Eure, s'étend dans la vallée de l'Iton. Breteuil est située au sud-est de Lisieux, à environ 60 km à vol d'oiseau (Eure). Ses communes voisines : Verneuil d'Avre et d'Iton, Conches-en-Ouche, Rugles et Saint-Sulpice-sur-Risle.",
+        "Breteuil, dans l'Eure, s'étend dans la vallée de l'Iton. Breteuil est située au sud-est de Lisieux, à environ 60 km à vol d'oiseau (Eure). Ses communes voisines : Verneuil d'Avre et d'Iton, Conches-en-Ouche, Rugles et Saint-Sulpice-sur-Risle. La commune compte environ 4 282 habitants sur 55,3 km², soit environ 77 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Les terrains de vallée se couvrent vite de végétation dense : ronces, roseaux, saules. Nous les reprenons avec un matériel adapté aux sols humides.",
         "Si vous êtes à Verneuil d'Avre et d'Iton ou à Conches-en-Ouche, nous pouvons regrouper les passages avec ceux de Breteuil pour limiter les déplacements."
       ]
@@ -46897,7 +46897,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Breteuil selon le quartier",
       "paras": [
-        "Breteuil, dans l'Eure, s'étend dans la vallée de l'Iton. Breteuil est située au sud-est de Lisieux, à environ 60 km à vol d'oiseau (Eure). Ses communes voisines : Verneuil d'Avre et d'Iton, Conches-en-Ouche, Rugles et Saint-Sulpice-sur-Risle.",
+        "Breteuil, dans l'Eure, s'étend dans la vallée de l'Iton. Breteuil est située au sud-est de Lisieux, à environ 60 km à vol d'oiseau (Eure). Ses communes voisines : Verneuil d'Avre et d'Iton, Conches-en-Ouche, Rugles et Saint-Sulpice-sur-Risle. La commune compte environ 4 282 habitants sur 55,3 km², soit environ 77 habitants au km² : un territoire rural où se côtoient maisons isolées, hameaux et grandes parcelles.",
         "Nous planifions les passages en tenant compte de l'humidité : travaux lourds quand le sol est ressuyé, entretien courant le reste du temps.",
         "Si vous êtes à Verneuil d'Avre et d'Iton ou à Conches-en-Ouche, nous pouvons regrouper les passages avec ceux de Breteuil pour limiter les déplacements."
       ]
@@ -46984,7 +46984,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Conches-en-Ouche : ce que le terrain change pour l'élagage",
       "paras": [
-        "Conches-en-Ouche est connue pour l'église Sainte-Foy et ses vitraux, et pour son château, dans l'Eure. Conches-en-Ouche est située au sud-est de Lisieux, à environ 55 km à vol d'oiseau (Eure). Ses communes voisines : Breteuil, Beaumont-le-Roger, Mesnil-en-Ouche et Verneuil d'Avre et d'Iton.",
+        "Conches-en-Ouche est connue pour l'église Sainte-Foy et ses vitraux, et pour son château, dans l'Eure. Conches-en-Ouche est située au sud-est de Lisieux, à environ 55 km à vol d'oiseau (Eure). Ses communes voisines : Breteuil, Beaumont-le-Roger, Mesnil-en-Ouche et Verneuil d'Avre et d'Iton. La commune compte environ 4 838 habitants sur 16,7 km², soit environ 290 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En centre ancien, les cours et jardins sont petits, l'accès est souvent étroit et les arbres touchent façades et toitures voisines : nous travaillons plutôt en grimpe, branche par branche, avec des protections et des cordes de rappel.",
         "Si vous êtes à Breteuil ou à Beaumont-le-Roger, nous pouvons regrouper les passages avec ceux de Conches-en-Ouche pour limiter les déplacements."
       ]
@@ -47071,7 +47071,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Conches-en-Ouche et ses jardins : repères du terrain",
       "paras": [
-        "Conches-en-Ouche est connue pour l'église Sainte-Foy et ses vitraux, et pour son château, dans l'Eure. Conches-en-Ouche est située au sud-est de Lisieux, à environ 55 km à vol d'oiseau (Eure). Ses communes voisines : Breteuil, Beaumont-le-Roger, Mesnil-en-Ouche et Verneuil d'Avre et d'Iton.",
+        "Conches-en-Ouche est connue pour l'église Sainte-Foy et ses vitraux, et pour son château, dans l'Eure. Conches-en-Ouche est située au sud-est de Lisieux, à environ 55 km à vol d'oiseau (Eure). Ses communes voisines : Breteuil, Beaumont-le-Roger, Mesnil-en-Ouche et Verneuil d'Avre et d'Iton. La commune compte environ 4 838 habitants sur 16,7 km², soit environ 290 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En centre ancien, les jardins sont petits et enclavés : pas de remorque devant la porte, parfois un passage par la maison. Nous organisons les passages en conséquence et évacuons les déchets nous-mêmes.",
         "Si vous êtes à Breteuil ou à Beaumont-le-Roger, nous pouvons regrouper les passages avec ceux de Conches-en-Ouche pour limiter les déplacements."
       ]
@@ -47158,7 +47158,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Conches-en-Ouche selon le quartier",
       "paras": [
-        "Conches-en-Ouche est connue pour l'église Sainte-Foy et ses vitraux, et pour son château, dans l'Eure. Conches-en-Ouche est située au sud-est de Lisieux, à environ 55 km à vol d'oiseau (Eure). Ses communes voisines : Breteuil, Beaumont-le-Roger, Mesnil-en-Ouche et Verneuil d'Avre et d'Iton.",
+        "Conches-en-Ouche est connue pour l'église Sainte-Foy et ses vitraux, et pour son château, dans l'Eure. Conches-en-Ouche est située au sud-est de Lisieux, à environ 55 km à vol d'oiseau (Eure). Ses communes voisines : Breteuil, Beaumont-le-Roger, Mesnil-en-Ouche et Verneuil d'Avre et d'Iton. La commune compte environ 4 838 habitants sur 16,7 km², soit environ 290 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans les rues serrées, les haies bordent des trottoirs et des murs : la taille se fait proprement, avec bâches au sol et ramassage immédiat pour ne rien laisser sur la voie.",
         "Si vous êtes à Breteuil ou à Beaumont-le-Roger, nous pouvons regrouper les passages avec ceux de Conches-en-Ouche pour limiter les déplacements."
       ]
@@ -47245,7 +47245,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Conches-en-Ouche : ce que le terrain change pour la pelouse",
       "paras": [
-        "Conches-en-Ouche est connue pour l'église Sainte-Foy et ses vitraux, et pour son château, dans l'Eure. Conches-en-Ouche est située au sud-est de Lisieux, à environ 55 km à vol d'oiseau (Eure). Ses communes voisines : Breteuil, Beaumont-le-Roger, Mesnil-en-Ouche et Verneuil d'Avre et d'Iton.",
+        "Conches-en-Ouche est connue pour l'église Sainte-Foy et ses vitraux, et pour son château, dans l'Eure. Conches-en-Ouche est située au sud-est de Lisieux, à environ 55 km à vol d'oiseau (Eure). Ses communes voisines : Breteuil, Beaumont-le-Roger, Mesnil-en-Ouche et Verneuil d'Avre et d'Iton. La commune compte environ 4 838 habitants sur 16,7 km², soit environ 290 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les petites pelouses de centre-ville se tondent vite mais demandent des finitions soignées le long des murs et des massifs, avec du matériel compact.",
         "Si vous êtes à Breteuil ou à Beaumont-le-Roger, nous pouvons regrouper les passages avec ceux de Conches-en-Ouche pour limiter les déplacements."
       ]
@@ -47332,7 +47332,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Débroussailler à Conches-en-Ouche selon le terrain",
       "paras": [
-        "Conches-en-Ouche est connue pour l'église Sainte-Foy et ses vitraux, et pour son château, dans l'Eure. Conches-en-Ouche est située au sud-est de Lisieux, à environ 55 km à vol d'oiseau (Eure). Ses communes voisines : Breteuil, Beaumont-le-Roger, Mesnil-en-Ouche et Verneuil d'Avre et d'Iton.",
+        "Conches-en-Ouche est connue pour l'église Sainte-Foy et ses vitraux, et pour son château, dans l'Eure. Conches-en-Ouche est située au sud-est de Lisieux, à environ 55 km à vol d'oiseau (Eure). Ses communes voisines : Breteuil, Beaumont-le-Roger, Mesnil-en-Ouche et Verneuil d'Avre et d'Iton. La commune compte environ 4 838 habitants sur 16,7 km², soit environ 290 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En ville, le débroussaillage concerne surtout des fonds de parcelle, des talus et des terrains vides : nous travaillons avec un matériel adapté aux accès étroits.",
         "Si vous êtes à Breteuil ou à Beaumont-le-Roger, nous pouvons regrouper les passages avec ceux de Conches-en-Ouche pour limiter les déplacements."
       ]
@@ -47419,7 +47419,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Conches-en-Ouche et ses jardins : repères du terrain",
       "paras": [
-        "Conches-en-Ouche est connue pour l'église Sainte-Foy et ses vitraux, et pour son château, dans l'Eure. Conches-en-Ouche est située au sud-est de Lisieux, à environ 55 km à vol d'oiseau (Eure). Ses communes voisines : Breteuil, Beaumont-le-Roger, Mesnil-en-Ouche et Verneuil d'Avre et d'Iton.",
+        "Conches-en-Ouche est connue pour l'église Sainte-Foy et ses vitraux, et pour son château, dans l'Eure. Conches-en-Ouche est située au sud-est de Lisieux, à environ 55 km à vol d'oiseau (Eure). Ses communes voisines : Breteuil, Beaumont-le-Roger, Mesnil-en-Ouche et Verneuil d'Avre et d'Iton. La commune compte environ 4 838 habitants sur 16,7 km², soit environ 290 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Petits jardins, murs et pots : l'entretien passe par des passages courts et réguliers, sans gros engins, avec un seul interlocuteur.",
         "Si vous êtes à Breteuil ou à Beaumont-le-Roger, nous pouvons regrouper les passages avec ceux de Conches-en-Ouche pour limiter les déplacements."
       ]
@@ -47506,7 +47506,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Neubourg et ses arbres : repères du terrain",
       "paras": [
-        "Le Neubourg est la petite ville du plateau du Neubourg, dans l'Eure, entre grandes cultures et vergers. Le Neubourg est située à l'est de Lisieux, à environ 48 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Beaumont-le-Roger, Les Monts du Roumois et Bosroumois.",
+        "Le Neubourg est la petite ville du plateau du Neubourg, dans l'Eure, entre grandes cultures et vergers. Le Neubourg est située à l'est de Lisieux, à environ 48 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Beaumont-le-Roger, Les Monts du Roumois et Bosroumois. La commune compte environ 4 199 habitants sur 9,9 km², soit environ 425 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Dans la plaine, les arbres de jardin sont souvent isolés et très exposés au vent. Sans voisinage pour les abriter, ils développent des couronnes denses que nous éclaircissons pour limiter les risques.",
         "Si vous êtes à Nassandres sur Risle ou à Beaumont-le-Roger, nous pouvons regrouper les passages avec ceux de Le Neubourg pour limiter les déplacements."
       ]
@@ -47593,7 +47593,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Neubourg : ce que le terrain change pour le jardin",
       "paras": [
-        "Le Neubourg est la petite ville du plateau du Neubourg, dans l'Eure, entre grandes cultures et vergers. Le Neubourg est située à l'est de Lisieux, à environ 48 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Beaumont-le-Roger, Les Monts du Roumois et Bosroumois.",
+        "Le Neubourg est la petite ville du plateau du Neubourg, dans l'Eure, entre grandes cultures et vergers. Le Neubourg est située à l'est de Lisieux, à environ 48 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Beaumont-le-Roger, Les Monts du Roumois et Bosroumois. La commune compte environ 4 199 habitants sur 9,9 km², soit environ 425 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les jardins de plaine sont ouverts, exposés et parfois grands : nous organisons des passages réguliers pour tonte, haies et ramassage, avec un matériel adapté aux surfaces.",
         "Si vous êtes à Nassandres sur Risle ou à Beaumont-le-Roger, nous pouvons regrouper les passages avec ceux de Le Neubourg pour limiter les déplacements."
       ]
@@ -47680,7 +47680,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Neubourg et ses haies : repères du terrain",
       "paras": [
-        "Le Neubourg est la petite ville du plateau du Neubourg, dans l'Eure, entre grandes cultures et vergers. Le Neubourg est située à l'est de Lisieux, à environ 48 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Beaumont-le-Roger, Les Monts du Roumois et Bosroumois.",
+        "Le Neubourg est la petite ville du plateau du Neubourg, dans l'Eure, entre grandes cultures et vergers. Le Neubourg est située à l'est de Lisieux, à environ 48 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Beaumont-le-Roger, Les Monts du Roumois et Bosroumois. La commune compte environ 4 199 habitants sur 9,9 km², soit environ 425 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En terrain ouvert, les haies jouent le rôle de brise-vent et de clôture. Nous les taillons régulièrement pour qu'elles restent denses et ne gênent ni la route ni le voisin.",
         "Si vous êtes à Nassandres sur Risle ou à Beaumont-le-Roger, nous pouvons regrouper les passages avec ceux de Le Neubourg pour limiter les déplacements."
       ]
@@ -47767,7 +47767,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Neubourg : ce que le terrain change pour la pelouse",
       "paras": [
-        "Le Neubourg est la petite ville du plateau du Neubourg, dans l'Eure, entre grandes cultures et vergers. Le Neubourg est située à l'est de Lisieux, à environ 48 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Beaumont-le-Roger, Les Monts du Roumois et Bosroumois.",
+        "Le Neubourg est la petite ville du plateau du Neubourg, dans l'Eure, entre grandes cultures et vergers. Le Neubourg est située à l'est de Lisieux, à environ 48 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Beaumont-le-Roger, Les Monts du Roumois et Bosroumois. La commune compte environ 4 199 habitants sur 9,9 km², soit environ 425 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur les grandes pelouses ouvertes, une tonte régulière avec du matériel adapté aux surfaces garde un gazon uniforme, avec bordures nettes.",
         "Si vous êtes à Nassandres sur Risle ou à Beaumont-le-Roger, nous pouvons regrouper les passages avec ceux de Le Neubourg pour limiter les déplacements."
       ]
@@ -47854,7 +47854,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Le Neubourg : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Le Neubourg est la petite ville du plateau du Neubourg, dans l'Eure, entre grandes cultures et vergers. Le Neubourg est située à l'est de Lisieux, à environ 48 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Beaumont-le-Roger, Les Monts du Roumois et Bosroumois.",
+        "Le Neubourg est la petite ville du plateau du Neubourg, dans l'Eure, entre grandes cultures et vergers. Le Neubourg est située à l'est de Lisieux, à environ 48 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Beaumont-le-Roger, Les Monts du Roumois et Bosroumois. La commune compte environ 4 199 habitants sur 9,9 km², soit environ 425 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En plaine, les terrains laissés à l'abandon se couvrent vite de ronces et d'orties : nous les reprenons et pouvons ensuite les entretenir chaque année.",
         "Si vous êtes à Nassandres sur Risle ou à Beaumont-le-Roger, nous pouvons regrouper les passages avec ceux de Le Neubourg pour limiter les déplacements."
       ]
@@ -47941,7 +47941,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Entretenir un jardin à Le Neubourg selon le quartier",
       "paras": [
-        "Le Neubourg est la petite ville du plateau du Neubourg, dans l'Eure, entre grandes cultures et vergers. Le Neubourg est située à l'est de Lisieux, à environ 48 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Beaumont-le-Roger, Les Monts du Roumois et Bosroumois.",
+        "Le Neubourg est la petite ville du plateau du Neubourg, dans l'Eure, entre grandes cultures et vergers. Le Neubourg est située à l'est de Lisieux, à environ 48 km à vol d'oiseau (Eure). Ses communes voisines : Nassandres sur Risle, Beaumont-le-Roger, Les Monts du Roumois et Bosroumois. La commune compte environ 4 199 habitants sur 9,9 km², soit environ 425 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Jardins ouverts et grandes surfaces : nous proposons des passages calés sur la pousse, avec un devis ferme annuel ou saisonnier.",
         "Si vous êtes à Nassandres sur Risle ou à Beaumont-le-Roger, nous pouvons regrouper les passages avec ceux de Le Neubourg pour limiter les déplacements."
       ]
@@ -48028,7 +48028,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Rugles et ses arbres : repères du terrain",
       "paras": [
-        "Rugles est un bourg de l'Eure, sur la Risle, aux portes du pays d'Ouche. Rugles est située au sud-est de Lisieux, à environ 50 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Sulpice-sur-Risle, L'Aigle, La Ferté-en-Ouche et Breteuil.",
+        "Rugles est un bourg de l'Eure, sur la Risle, aux portes du pays d'Ouche. Rugles est située au sud-est de Lisieux, à environ 50 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Sulpice-sur-Risle, L'Aigle, La Ferté-en-Ouche et Breteuil. La commune compte environ 2 199 habitants sur 14,1 km², soit environ 156 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En fond de vallée, l'humidité favorise les peupliers, saules et aulnes, qui poussent vite et casent facilement. Nous les contrôlons régulièrement, surtout au bord des rivières et près des habitations.",
         "Si vous êtes à Saint-Sulpice-sur-Risle ou à L'Aigle, nous pouvons regrouper les passages avec ceux de Rugles pour limiter les déplacements."
       ]
@@ -48115,7 +48115,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Jardiner à Rugles selon le quartier",
       "paras": [
-        "Rugles est un bourg de l'Eure, sur la Risle, aux portes du pays d'Ouche. Rugles est située au sud-est de Lisieux, à environ 50 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Sulpice-sur-Risle, L'Aigle, La Ferté-en-Ouche et Breteuil.",
+        "Rugles est un bourg de l'Eure, sur la Risle, aux portes du pays d'Ouche. Rugles est située au sud-est de Lisieux, à environ 50 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Sulpice-sur-Risle, L'Aigle, La Ferté-en-Ouche et Breteuil. La commune compte environ 2 199 habitants sur 14,1 km², soit environ 156 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "En vallée humide, le sol reste frais : la pelouse se couvre de mousse, les massifs demandent un bon drainage. Nous adaptons tontes, désherbage et soins au terrain.",
         "Si vous êtes à Saint-Sulpice-sur-Risle ou à L'Aigle, nous pouvons regrouper les passages avec ceux de Rugles pour limiter les déplacements."
       ]
@@ -48202,7 +48202,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tailler une haie à Rugles selon le quartier",
       "paras": [
-        "Rugles est un bourg de l'Eure, sur la Risle, aux portes du pays d'Ouche. Rugles est située au sud-est de Lisieux, à environ 50 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Sulpice-sur-Risle, L'Aigle, La Ferté-en-Ouche et Breteuil.",
+        "Rugles est un bourg de l'Eure, sur la Risle, aux portes du pays d'Ouche. Rugles est située au sud-est de Lisieux, à environ 50 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Sulpice-sur-Risle, L'Aigle, La Ferté-en-Ouche et Breteuil. La commune compte environ 2 199 habitants sur 14,1 km², soit environ 156 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les haies de vallée aiment l'humidité mais souffrent de la mousse et des maladies : une taille aérée et un nettoyage du pied de haie les gardent en bonne santé.",
         "Si vous êtes à Saint-Sulpice-sur-Risle ou à L'Aigle, nous pouvons regrouper les passages avec ceux de Rugles pour limiter les déplacements."
       ]
@@ -48289,7 +48289,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Tondre à Rugles selon le quartier",
       "paras": [
-        "Rugles est un bourg de l'Eure, sur la Risle, aux portes du pays d'Ouche. Rugles est située au sud-est de Lisieux, à environ 50 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Sulpice-sur-Risle, L'Aigle, La Ferté-en-Ouche et Breteuil.",
+        "Rugles est un bourg de l'Eure, sur la Risle, aux portes du pays d'Ouche. Rugles est située au sud-est de Lisieux, à environ 50 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Sulpice-sur-Risle, L'Aigle, La Ferté-en-Ouche et Breteuil. La commune compte environ 2 199 habitants sur 14,1 km², soit environ 156 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Sur sol humide, la tonte demande de la patience : nous évitons les terrains détrempés pour ne pas creuser d'ornières et ramassons l'herbe pour limiter la mousse.",
         "Si vous êtes à Saint-Sulpice-sur-Risle ou à L'Aigle, nous pouvons regrouper les passages avec ceux de Rugles pour limiter les déplacements."
       ]
@@ -48376,7 +48376,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Rugles : ce que le terrain change pour le débroussaillage",
       "paras": [
-        "Rugles est un bourg de l'Eure, sur la Risle, aux portes du pays d'Ouche. Rugles est située au sud-est de Lisieux, à environ 50 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Sulpice-sur-Risle, L'Aigle, La Ferté-en-Ouche et Breteuil.",
+        "Rugles est un bourg de l'Eure, sur la Risle, aux portes du pays d'Ouche. Rugles est située au sud-est de Lisieux, à environ 50 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Sulpice-sur-Risle, L'Aigle, La Ferté-en-Ouche et Breteuil. La commune compte environ 2 199 habitants sur 14,1 km², soit environ 156 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Les terrains de vallée se couvrent vite de végétation dense : ronces, roseaux, saules. Nous les reprenons avec un matériel adapté aux sols humides.",
         "Si vous êtes à Saint-Sulpice-sur-Risle ou à L'Aigle, nous pouvons regrouper les passages avec ceux de Rugles pour limiter les déplacements."
       ]
@@ -48463,7 +48463,7 @@ export const LOCAL_PAGES_RING = [
     "local": {
       "h2": "Rugles : ce que le terrain change pour l'entretien",
       "paras": [
-        "Rugles est un bourg de l'Eure, sur la Risle, aux portes du pays d'Ouche. Rugles est située au sud-est de Lisieux, à environ 50 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Sulpice-sur-Risle, L'Aigle, La Ferté-en-Ouche et Breteuil.",
+        "Rugles est un bourg de l'Eure, sur la Risle, aux portes du pays d'Ouche. Rugles est située au sud-est de Lisieux, à environ 50 km à vol d'oiseau (Eure). Ses communes voisines : Saint-Sulpice-sur-Risle, L'Aigle, La Ferté-en-Ouche et Breteuil. La commune compte environ 2 199 habitants sur 14,1 km², soit environ 156 habitants au km² : un mélange de bourg, de lotissements et de jardins plus spacieux en périphérie.",
         "Nous planifions les passages en tenant compte de l'humidité : travaux lourds quand le sol est ressuyé, entretien courant le reste du temps.",
         "Si vous êtes à Saint-Sulpice-sur-Risle ou à L'Aigle, nous pouvons regrouper les passages avec ceux de Rugles pour limiter les déplacements."
       ]
