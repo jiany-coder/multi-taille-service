@@ -10,10 +10,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "src", "data", "localPagesRing.js")
 PHONE = "07 67 23 41 23"
 
-COAST = {"Cabourg", "Dives-sur-Mer", "Blonville-sur-Mer", "Villers-sur-Mer", "Deauville", "Trouville-sur-Mer", "Houlgate", "Merville-Franceville-Plage", "Touques"}
+COAST = {"Ouistreham", "Luc-sur-Mer", "Cabourg", "Dives-sur-Mer", "Blonville-sur-Mer", "Villers-sur-Mer", "Deauville", "Trouville-sur-Mer", "Houlgate", "Merville-Franceville-Plage", "Touques"}
 HONFLEUR = {"Honfleur", "Équemauville", "La Rivière-Saint-Sauveur"}
-PLAIN = {"Argences", "Troarn", "Moult-Chicheboville", "Bavent", "Valambray", "Sannerville", "Bellengreville", "Frénouville", "Cagny", "Cuverville", "Démouville"}
-EURE = {"Thiberville", "Épaignes", "Beuzeville", "Bernay", "Menneval", "Pont-Audemer", "Brionne", "Serquigny"}
+PLAIN = {"Caen", "Hérouville-Saint-Clair", "Ifs", "Mondeville", "Colombelles", "Bretteville-sur-Odon", "Douvres-la-Délivrande", "Verson", "Argentan", "L'Aigle", "Gacé", "La Ferté-en-Ouche", "Écouché-les-Vallées", "Sées", "Putanges-le-Lac", "Argences", "Troarn", "Moult-Chicheboville", "Bavent", "Valambray", "Sannerville", "Bellengreville", "Frénouville", "Cagny", "Cuverville", "Démouville"}
+EURE = {"Rugles", "Beaumont-le-Roger", "Le Neubourg", "Bourg-Achard", "Grand Bourgtheroulde", "Conches-en-Ouche", "Breteuil", "Bosroumois", "Mesnil-en-Ouche", "Thiberville", "Épaignes", "Beuzeville", "Bernay", "Menneval", "Pont-Audemer", "Brionne", "Serquigny"}
 # tout le reste : arrière-pays augeron (Saint-Désir, Valorbiquet...)
 
 

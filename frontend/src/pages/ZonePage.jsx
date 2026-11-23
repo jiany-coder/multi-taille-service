@@ -13,7 +13,8 @@ const BANDS = [
   { max: 12, label: "De 5 à 12 km de Lisieux" },
   { max: 20, label: "De 12 à 20 km de Lisieux" },
   { max: 30, label: "De 20 à 30 km de Lisieux" },
-  { max: 60, label: "De 30 à 40 km, côte et vallées voisines" },
+  { max: 40, label: "De 30 à 40 km, côte et vallées voisines" },
+  { max: 60, label: "De 40 à 60 km, agglomération de Caen, Orne et Eure" },
 ];
 
 const ORDER = ["elagage", "taille-de-haie", "jardinier", "entretien-de-jardin", "tonte-de-pelouse", "debroussaillage", "paysagiste"];
@@ -37,7 +38,7 @@ export default function ZonePage() {
   }).filter((b) => b.items.length);
 
   const title = "Zone d'intervention autour de Lisieux | Multi Taille";
-  const description = `Élagueur, jardinier et entretien de jardin dans un rayon d'environ 40 km autour de Lisieux : ${cities.length} communes du Pays d'Auge et de la côte. Appelez le ${SITE.phoneDisplay}.`;
+  const description = `Élagueur, jardinier et entretien de jardin dans un rayon d'environ 60 km autour de Lisieux : ${cities.length} communes du Pays d'Auge, de la côte, de l'agglomération de Caen, de l'Orne et de l'Eure. Appelez le ${SITE.phoneDisplay}.`;
 
   return (
     <>
@@ -54,7 +55,7 @@ export default function ZonePage() {
           <p className="overline-tag mb-5">Où intervenons-nous ?</p>
         </FadeIn>
         <h1 className="max-w-4xl font-serif text-4xl font-semibold leading-[1.05] tracking-tight text-forest sm:text-5xl lg:text-6xl">
-          Une zone d'intervention de 40 km autour de Lisieux
+          Une zone d'intervention de 60 km autour de Lisieux
         </h1>
         <FadeIn delay={0.25}>
           <p className="mt-6 max-w-3xl text-base leading-relaxed text-charcoal/75 sm:text-lg">

@@ -65,3 +65,29 @@ Mézidon Vallée d'Auge|9766|19|14|à l'ouest|Belle Vie en Auge,Notre-Dame-d'Est
 Falaise|7680|41|14|au sud-ouest|Aubigny,Versainville,Eraines,Saint-Pierre-Canivet,Noron-l'Abbaye
 Vimoutiers|2978|25|61|au sud|Crouttes,Lisores,Camembert,Val-de-Vie,Pontchardon
 Cormeilles|1105|16|27|au nord-est|Saint-Pierre-de-Cormeilles,Saint-Sylvestre-de-Cormeilles,Le Bois-Hellain,La Chapelle-Bayvel,Bonneville-la-Louvet
+Caen|109400|44|14|à l'ouest|Hérouville-Saint-Clair,Bretteville-sur-Odon,Louvigny,Fleury-sur-Orne,Cormelles-le-Royal
+Hérouville-Saint-Clair|23470|41|14|à l'ouest|Colombelles,Blainville-sur-Orne,Caen,Mondeville,Biéville-Beuville
+Ifs|11937|41|14|à l'ouest|Cormelles-le-Royal,Fleury-sur-Orne,Mondeville,Soliers,Louvigny
+Mondeville|10331|39|14|à l'ouest|Giberville,Cormelles-le-Royal,Colombelles,Ifs,Hérouville-Saint-Clair
+Ouistreham|9212|38|14|à l'ouest|Colleville-Montgomery,Bénouville,Ranville,Hermanville-sur-Mer,Blainville-sur-Orne
+Colombelles|7243|38|14|à l'ouest|Giberville,Hérouville-Saint-Clair,Blainville-sur-Orne,Mondeville,Ranville
+Bretteville-sur-Odon|4494|47|14|à l'ouest|Carpiquet,Louvigny,Verson,Caen,Fleury-sur-Orne
+Douvres-la-Délivrande|5143|48|14|à l'ouest|Luc-sur-Mer,Saint-Aubin-sur-Mer,Lion-sur-Mer,Hermanville-sur-Mer,Colleville-Montgomery
+Luc-sur-Mer|3275|46|14|au nord-ouest|Lion-sur-Mer,Douvres-la-Délivrande,Saint-Aubin-sur-Mer,Hermanville-sur-Mer,Colleville-Montgomery
+Verson|4059|51|14|à l'ouest|Carpiquet,Bretteville-sur-Odon,Louvigny,Fleury-sur-Orne,Caen
+Argentan|13527|50|61|au sud|Écouché-les-Vallées,Gouffern en Auge,Sées,Putanges-le-Lac,Gacé
+Écouché-les-Vallées|2193|54|61|au sud-ouest|Argentan,Putanges-le-Lac,Gouffern en Auge,Sées,Potigny
+La Ferté-en-Ouche|2938|39|61|au sud-est|L'Aigle,Rugles,Gacé,Saint-Sulpice-sur-Risle,Mesnil-en-Ouche
+Gacé|1766|40|61|au sud|Gouffern en Auge,La Ferté-en-Ouche,L'Aigle,Sées,Argentan
+L'Aigle|7663|51|61|au sud-est|Saint-Sulpice-sur-Risle,Rugles,La Ferté-en-Ouche,Verneuil d'Avre et d'Iton,Breteuil
+Putanges-le-Lac|2093|56|61|au sud-ouest|Écouché-les-Vallées,Argentan,Potigny,Gouffern en Auge,Sées
+Sées|4168|60|61|au sud|Argentan,Gouffern en Auge,Gacé,Écouché-les-Vallées,La Ferté-en-Ouche
+Mesnil-en-Ouche|4414|37|27|au sud-est|Beaumont-le-Roger,Nassandres sur Risle,Conches-en-Ouche,Rugles,La Ferté-en-Ouche
+Beaumont-le-Roger|2769|39|27|à l'est|Nassandres sur Risle,Mesnil-en-Ouche,Le Neubourg,Conches-en-Ouche,Les Monts du Roumois
+Bosroumois|3872|53|27|à l'est|Grand Bourgtheroulde,Les Monts du Roumois,Bourg-Achard,Le Neubourg,Routot
+Bourg-Achard|4026|47|27|au nord-est|Grand Bourgtheroulde,Routot,Les Monts du Roumois,Bosroumois,Le Neubourg
+Grand Bourgtheroulde|3995|49|27|à l'est|Les Monts du Roumois,Bosroumois,Bourg-Achard,Routot,Le Neubourg
+Breteuil|4282|60|27|au sud-est|Verneuil d'Avre et d'Iton,Conches-en-Ouche,Rugles,Saint-Sulpice-sur-Risle,L'Aigle
+Conches-en-Ouche|4838|55|27|au sud-est|Breteuil,Beaumont-le-Roger,Mesnil-en-Ouche,Verneuil d'Avre et d'Iton,Le Neubourg
+Le Neubourg|4199|48|27|à l'est|Nassandres sur Risle,Beaumont-le-Roger,Les Monts du Roumois,Bosroumois,Grand Bourgtheroulde
+Rugles|2199|50|27|au sud-est|Saint-Sulpice-sur-Risle,L'Aigle,La Ferté-en-Ouche,Breteuil,Verneuil d'Avre et d'Iton
