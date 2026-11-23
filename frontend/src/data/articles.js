@@ -1,4 +1,6 @@
-export const ARTICLES = [
+import { NOUVEAUX_ARTICLES, LIENS_VERS_NOUVEAUX } from "@/data/articlesNouveaux";
+
+const ARTICLES_EXISTANTS = [
   {
     slug: "quand-tailler-sa-haie-en-normandie",
     category: "taille-de-haie",
@@ -2870,5 +2872,13 @@ export const ARTICLES = [
     ]
   },
 ];
+
+// Articles existants + liens vers les nouveaux, puis nouveaux articles.
+const avecLiens = ARTICLES_EXISTANTS.map((a) => {
+  const plus = LIENS_VERS_NOUVEAUX[a.slug];
+  return plus ? { ...a, links: [...a.links, ...plus] } : a;
+});
+
+export const ARTICLES = [...avecLiens, ...NOUVEAUX_ARTICLES];
 
 export const ARTICLES_BY_SLUG = Object.fromEntries(ARTICLES.map((a) => [a.slug, a]));

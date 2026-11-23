@@ -6,13 +6,17 @@ import { CallButton } from "@/components/CallButton";
 import { CtaBand } from "@/components/CtaBand";
 import { Faq } from "@/components/Faq";
 import { SITE, localBusinessSchema, breadcrumbSchema, faqSchema } from "@/data/site";
-import { ARTICLES_BY_SLUG } from "@/data/articles";
+import { ARTICLES, ARTICLES_BY_SLUG } from "@/data/articles";
 import NotFound from "@/pages/NotFound";
 
 export default function ArticlePage() {
   const { slug } = useParams();
   const article = ARTICLES_BY_SLUG[slug];
   if (!article) return <NotFound />;
+
+  const sameCat = ARTICLES.filter((a) => a.category === article.category && a.slug !== article.slug);
+  const start = Math.max(0, sameCat.findIndex((a) => a.slug > article.slug));
+  const similar = [...sameCat.slice(start), ...sameCat.slice(0, start)].filter((a) => !article.links.some((l) => l.to === `/conseils/${a.slug}`)).slice(0, 3);
 
   const schemas = [
     localBusinessSchema(),
@@ -22,6 +26,9 @@ export default function ArticlePage() {
       headline: article.h1,
       description: article.meta,
       datePublished: article.date,
+      dateModified: article.date,
+      inLanguage: "fr-FR",
+      about: article.categoryName,
       author: { "@type": "Organization", name: SITE.name },
       publisher: { "@type": "Organization", name: SITE.name },
       mainEntityOfPage: `${SITE.baseUrl}/conseils/${article.slug}`,
@@ -102,6 +109,20 @@ export default function ArticlePage() {
             ))}
           </div>
         </Reveal>
+
+        {similar.length > 0 && (
+          <Reveal className="mt-14">
+            <h2 className="font-serif text-2xl font-semibold tracking-tight text-forest">À lire aussi</h2>
+            <div className="mt-5 space-y-3">
+              {similar.map((a) => (
+                <Link key={a.slug} to={`/conseils/${a.slug}`} data-testid={`article-similar-${a.slug}`} className="group flex items-center justify-between rounded-lg border border-charcoal/10 bg-bone px-5 py-4 transition-colors hover:border-ember/50">
+                  <span className="font-sans text-base font-bold text-forest group-hover:text-ember">{a.h1}</span>
+                  <ArrowRight className="h-4 w-4 shrink-0 text-charcoal/40 transition-transform duration-300 group-hover:translate-x-1 group-hover:text-ember" />
+                </Link>
+              ))}
+            </div>
+          </Reveal>
+        )}
       </article>
 
       {article.faq && <Faq items={article.faq} title="Vos questions sur le sujet" testid={`faq-article-${article.slug}`} />}

@@ -1,4 +1,3 @@
-import { Leaf, TreeDeciduous, Scissors, Flower2, Sun, Sprout, Clock } from "lucide-react";
 import { Seo } from "@/components/Seo";
 import { Reveal, FadeIn } from "@/components/Reveal";
 import { CtaBand } from "@/components/CtaBand";
@@ -8,14 +7,9 @@ import { ARTICLES } from "@/data/articles";
 import { Link } from "react-router-dom";
 import { ArrowRight } from "lucide-react";
 
-const CAT_ICONS = {
-  "elagage": TreeDeciduous,
-  "jardinage": Leaf,
-  "taille-de-haie": Scissors,
-  "arbres": TreeDeciduous,
-  "paysagisme": Flower2,
-  "entretien-de-jardin": Sun,
-};
+const GROUPS = BLOG_CATEGORIES
+  .map((c) => ({ ...c, items: ARTICLES.filter((a) => a.category === c.slug) }))
+  .filter((g) => g.items.length > 0);
 
 export default function BlogIndex() {
   return (
@@ -49,14 +43,25 @@ export default function BlogIndex() {
         </div>
       </section>
 
-      <section data-testid="blog-articles" className="mx-auto max-w-7xl px-6 pt-16 sm:px-10 sm:pt-24">
-        <Reveal>
-          <h2 className="font-serif text-3xl font-semibold tracking-tight text-forest sm:text-4xl">Nos derniers conseils</h2>
-        </Reveal>
-        <div className="mt-10 grid gap-5 lg:grid-cols-3">
-          {ARTICLES.map((a, i) => (
-            <Reveal key={a.slug} delay={i * 0.06}>
-              <Link to={`/conseils/${a.slug}`} data-testid={`article-card-${a.slug}`} className="group flex h-full flex-col rounded-lg border border-charcoal/10 bg-bone p-7 transition-[transform,box-shadow] duration-300 hover:-translate-y-1 hover:shadow-[0_16px_40px_rgba(10,42,26,0.12)]">
+      <section data-testid="blog-categories" className="mx-auto max-w-7xl px-6 pt-12 sm:px-10 sm:pt-16">
+        <nav aria-label="Rubriques du blog" className="flex flex-wrap gap-3">
+          {GROUPS.map((g) => (
+            <a key={g.slug} href={`#rubrique-${g.slug}`} data-testid={`blog-category-${g.slug}`} className="inline-flex items-center gap-2 rounded-full border border-charcoal/15 bg-bone px-4 py-2 text-sm font-bold text-forest transition-colors hover:border-ember hover:text-ember">
+              {g.name} <span className="text-xs font-semibold text-charcoal/45">{g.items.length}</span>
+            </a>
+          ))}
+        </nav>
+      </section>
+
+      {GROUPS.map((g) => (
+        <section key={g.slug} id={`rubrique-${g.slug}`} data-testid={`blog-articles-${g.slug}`} className="mx-auto max-w-7xl scroll-mt-24 px-6 pt-14 sm:px-10 sm:pt-20">
+          <Reveal>
+            <h2 className="font-serif text-3xl font-semibold tracking-tight text-forest sm:text-4xl">{g.name}</h2>
+            <p className="mt-3 max-w-2xl text-base leading-relaxed text-charcoal/65">{g.desc}</p>
+          </Reveal>
+          <div className="mt-8 grid gap-5 lg:grid-cols-3">
+            {g.items.map((a) => (
+              <Link key={a.slug} to={`/conseils/${a.slug}`} data-testid={`article-card-${a.slug}`} className="group flex h-full flex-col rounded-lg border border-charcoal/10 bg-bone p-7 transition-[transform,box-shadow] duration-300 hover:-translate-y-1 hover:shadow-[0_16px_40px_rgba(10,42,26,0.12)]">
                 <span className="overline-tag">{a.categoryName}</span>
                 <span className="mt-3 block font-serif text-2xl font-semibold leading-snug text-forest group-hover:text-ember">{a.h1}</span>
                 <span className="mt-3 block flex-1 text-sm leading-relaxed text-charcoal/65">{a.excerpt}</span>
@@ -65,39 +70,17 @@ export default function BlogIndex() {
                   <span className="inline-flex items-center gap-1.5 font-bold text-ember">Lire <ArrowRight className="h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1" /></span>
                 </span>
               </Link>
-            </Reveal>
-          ))}
-        </div>
-      </section>
+            ))}
+          </div>
+        </section>
+      ))}
 
-      <section data-testid="blog-categories" className="mx-auto max-w-7xl px-6 py-16 sm:px-10 sm:py-24">
+      <section className="mx-auto max-w-7xl px-6 py-16 sm:px-10 sm:py-24">
         <Reveal>
-          <h2 className="font-serif text-3xl font-semibold tracking-tight text-forest sm:text-4xl">Nos rubriques</h2>
-        </Reveal>
-        <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {BLOG_CATEGORIES.map((cat, i) => {
-            const Icon = CAT_ICONS[cat.slug] || Sprout;
-            return (
-              <Reveal key={cat.slug} delay={i * 0.06}>
-                <div data-testid={`blog-category-${cat.slug}`} className="flex h-full flex-col rounded-lg border border-charcoal/10 bg-bone p-7 transition-[transform,box-shadow] duration-300 hover:-translate-y-1 hover:shadow-[0_16px_40px_rgba(10,42,26,0.12)]">
-                  <span className="mb-5 inline-flex w-fit rounded-full bg-forest p-3 text-bone">
-                    <Icon className="h-5 w-5" />
-                  </span>
-                  <h3 className="font-serif text-2xl font-semibold text-forest">{cat.name}</h3>
-                  <p className="mt-2 flex-1 text-sm leading-relaxed text-charcoal/65">{cat.desc}</p>
-                  <span className="mt-5 inline-flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-charcoal/40">
-                    <Clock className="h-3.5 w-3.5" /> Bientôt disponible
-                  </span>
-                </div>
-              </Reveal>
-            );
-          })}
-        </div>
-        <Reveal delay={0.2}>
-          <p className="mt-12 max-w-2xl rounded-lg border border-ember/25 bg-ember/5 p-6 text-sm leading-relaxed text-charcoal/75">
+          <p className="max-w-2xl rounded-lg border border-ember/25 bg-ember/5 p-6 text-sm leading-relaxed text-charcoal/75">
             <span className="font-bold text-forest">Une question en attendant ?</span> Rien ne remplace un diagnostic sur place : appelez-nous au{" "}
             <a href={SITE.tel} data-testid="blog-call-link" className="font-bold text-ember link-underline">{SITE.phoneDisplay}</a>{" "}
-           , appel direct, réponse rapide, devis gratuit.
+            , appel direct, réponse rapide, devis gratuit.
           </p>
         </Reveal>
       </section>

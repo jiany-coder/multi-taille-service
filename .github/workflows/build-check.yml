@@ -1,0 +1,24 @@
+name: build-check
+on:
+  push:
+    branches: [seo-geo-60, seo-geo]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: if [ -f package-lock.json ]; then npm ci --legacy-peer-deps; else npm install --legacy-peer-deps; fi
+      - run: npm run build
+        env:
+          CI: "false"
+          INDEXABLE: "true"
+      - run: grep -c "<loc>" build/sitemap.xml
+      - run: ls build/conseils | wc -l
+      - run: test -f build/conseils/prix-elagage-arbre/index.html && grep -c "ld+json" build/conseils/prix-elagage-arbre/index.html

@@ -39,6 +39,7 @@ export const BLOG_CATEGORIES = [
   { slug: "elagage", name: "Élagage", desc: "Techniques de taille, périodes idéales et soins aux arbres d'ornement et fruitiers." },
   { slug: "jardinage", name: "Jardinage", desc: "Conseils de jardinier pour un jardin beau et sain au fil des saisons." },
   { slug: "taille-de-haie", name: "Taille de haie", desc: "Haies libres ou taillées, essences, calendrier et règles de voisinage." },
+  { slug: "abattage", name: "Abattage", desc: "Quand abattre, comment se déroule le chantier, prix, dessouchage et arbres tombés après une tempête." },
   { slug: "arbres", name: "Arbres", desc: "Reconnaître les essences du Pays d'Auge et préserver vos sujets remarquables." },
   { slug: "paysagisme", name: "Paysagisme", desc: "Idées d'aménagement pour les jardins et propriétés du bocage augeron." },
   { slug: "entretien-de-jardin", name: "Entretien de jardin", desc: "Tonte, débroussaillage et gestion des espaces verts toute l'année." },
