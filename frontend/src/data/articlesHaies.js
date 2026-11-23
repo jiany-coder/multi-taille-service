@@ -524,17 +524,16 @@ export const RAW_HAIES = [
       {
         h2: "Résidences secondaires : planifier",
         paras: [
-          "Beaucoup de propriétés de la côte sont occupées par intermittence. Une haie non taillée pendant une saison peut vite déborder. Un passage avant la saison estivale, un autre à l'automne : un contrat d'entretien est souvent adapté. Disponibilité à confirmer par téléphone selon votre adresse.",
+          "Beaucoup de propriétés de la côte sont occupées par intermittence. Une haie non taillée pendant une saison peut vite déborder. Un passage avant la saison estivale, un autre à l'automne : un contrat d'entretien est souvent adapté.",
         ],
       },
     ],
     faq: [
-      { q: "Intervenez-vous à Cabourg et Houlgate ?", a: "Ces communes sont dans notre rayon d'environ 60 km autour de Lisieux. Appelez-nous avec votre adresse pour confirmer le déplacement." },
+      { q: "Intervenez-vous à Cabourg et Houlgate ?", a: "Oui, nous intervenons dans ces communes. Appelez-nous pour fixer un diagnostic." },
       { q: "Quelle haie résiste le mieux aux embruns ?", a: "Les essences littorales comme le tamaris ou l'escallonia, mais chaque jardin est particulier. Un conseil sur place est plus fiable." },
     ],
     related: ["elagueur-deauville-trouville", "entretien-jardin-residence-secondaire-cote-fleurie", "frequence-entretien-haie"],
     local: ["elagage-cabourg", "taille-de-haie-lisieux"],
-    confirm: "Cabourg / Houlgate / Deauville : à confirmer (zone réelle).",
   },
   {
     slug: "taille-de-haie-vimoutiers-livarot",
@@ -562,7 +561,7 @@ export const RAW_HAIES = [
       {
         h2: "Vergers et parcelles",
         paras: [
-          "Les haies de clôture des vergers protègent du vent et des animaux. Leur entretien régulier évite de les voir envahies de ronces. Nous pouvons aussi nous occuper des arbres du verger. Disponibilité à confirmer par téléphone.",
+          "Les haies de clôture des vergers protègent du vent et des animaux. Leur entretien régulier évite de les voir envahies de ronces. Nous pouvons aussi nous occuper des arbres du verger.",
         ],
       },
     ],
@@ -572,6 +571,5 @@ export const RAW_HAIES = [
     ],
     related: ["tailler-une-haie-champetre-bocage", "nidification-et-taille-des-haies", "abattage-arbre-orbec-livarot-cambremer"],
     local: ["elagage-vimoutiers", "elagage-livarot", "taille-de-haie-lisieux"],
-    confirm: "Vimoutiers / Livarot : à confirmer (zone réelle).",
   },
 ];

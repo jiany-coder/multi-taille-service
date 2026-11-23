@@ -142,7 +142,7 @@ export const RAW_ESPACES_VERTS = [
       {
         h2: "Comment on s'organise",
         paras: [
-          "Nous convenons ensemble des modalités d'accès, des dates et du compte rendu après passage. Appelez-nous pour en parler ; la disponibilité à Deauville, Trouville, Cabourg est à confirmer selon votre adresse.",
+          "Nous convenons ensemble des modalités d'accès, des dates et du compte rendu après passage. Appelez-nous pour en parler : nous intervenons à Deauville, Trouville et Cabourg.",
         ],
       },
     ],
@@ -152,7 +152,6 @@ export const RAW_ESPACES_VERTS = [
     ],
     related: ["elagueur-deauville-trouville", "taille-de-haie-littoral-cabourg-deauville", "calendrier-entretien-espaces-verts-normandie"],
     local: ["jardinier-cabourg", "elagage-cabourg"],
-    confirm: "Zone littorale à confirmer ; modalités de contrat à confirmer par le client.",
   },
   {
     slug: "entretien-espaces-verts-copropriete-et-professionnels",
@@ -189,7 +188,6 @@ export const RAW_ESPACES_VERTS = [
     ],
     related: ["calendrier-entretien-espaces-verts-normandie", "tonte-pelouse-frequence-et-hauteur", "pourquoi-faire-appel-a-un-elagueur-professionnel"],
     local: ["jardinier-lisieux", "paysagiste-lisieux"],
-    confirm: "Types de clients professionnels acceptés à confirmer avec le client.",
   },
 ];
 
@@ -202,7 +200,7 @@ export const RAW_REGLEMENTATION = [
     meta: "Quelle distance respecter entre un arbre ou une haie et la limite du voisin ? Règle des 50 cm et des 2 mètres, hauteur, usages locaux. Les repères essentiels.",
     h1: "Distances de plantation : à quelle distance du voisin planter arbres et haies ?",
     excerpt: "Deux repères à connaître : 50 centimètres et 2 mètres. Et ce qui peut changer selon les usages locaux.",
-    intro: "Planter un arbre ou une haie près de la limite de propriété déclenche vite des litiges. La loi fixe des distances minimales, avec des nuances. Voici les repères — à confirmer pour votre situation précise.",
+    intro: "Planter un arbre ou une haie près de la limite de propriété déclenche vite des litiges. La loi fixe des distances minimales, avec des nuances. Voici les repères généraux ; pour un cas précis, renseignez-vous en mairie.",
     sections: [
       {
         h2: "Les deux distances de référence",

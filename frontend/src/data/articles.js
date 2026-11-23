@@ -6,6 +6,9 @@ import { RAW_ESPACES_VERTS, RAW_REGLEMENTATION } from "@/data/articlesAutres";
 import { EXTRA_ELAGAGE } from "@/data/extrasElagage";
 import { EXTRA_HAIES } from "@/data/extrasHaies";
 import { EXTRA_ABATTAGE } from "@/data/extrasAbattage";
+import { EXTRA2_ELAGAGE } from "@/data/extras2Elagage";
+import { EXTRA2_HAIES } from "@/data/extras2Haies";
+import { EXTRA2_ABATTAGE } from "@/data/extras2Abattage";
 
 const BASE_ARTICLES = [
   {
@@ -255,15 +258,16 @@ const RAW_GROUPS = [
 ];
 
 const EXTRAS = { ...EXTRA_ELAGAGE, ...EXTRA_HAIES, ...EXTRA_ABATTAGE };
+const EXTRAS2 = { ...EXTRA2_ELAGAGE, ...EXTRA2_HAIES, ...EXTRA2_ABATTAGE };
 
 // Fusionne le contenu complémentaire (sections, questions, liens) dans chaque article.
 const withExtras = (a) => {
-  const x = EXTRAS[a.slug];
-  if (!x) return a;
+  const x = EXTRAS[a.slug] || {};
+  const y = EXTRAS2[a.slug] || {};
   return {
     ...a,
-    sections: [...a.sections, ...(x.sections || [])],
-    faq: [...(a.faq || []), ...(x.faq || [])],
+    sections: [...a.sections, ...(x.sections || []), ...(y.sections || [])],
+    faq: [...(a.faq || []), ...(x.faq || []), ...(y.faq || [])],
     related: [...(a.related || []), ...(x.relatedAdd || [])],
   };
 };

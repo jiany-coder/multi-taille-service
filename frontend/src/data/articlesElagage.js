@@ -558,17 +558,16 @@ export const RAW_ELAGAGE = [
         h2: "Secteurs protégés : à vérifier avant d'agir",
         paras: [
           "Certains quartiers de Honfleur se trouvent dans des secteurs patrimoniaux ou aux abords de monuments, où des règles d'urbanisme peuvent encadrer les travaux sur les arbres. Avant un abattage ou une grosse taille, renseignez-vous auprès de la mairie. Pour un simple entretien, aucune démarche n'est en général nécessaire, mais vérifiez.",
-          "Notre intervention à Honfleur est à confirmer selon votre secteur précis : appelez-nous avec votre adresse, nous vous dirons si nous pouvons nous déplacer et dans quel délai.",
+          "Nous intervenons à Honfleur : appelez-nous avec votre adresse, nous fixons ensemble le diagnostic.",
         ],
       },
     ],
     faq: [
-      { q: "Intervenez-vous à Honfleur ?", a: "Honfleur se situe dans notre rayon d'environ 60 km autour de Lisieux. Appelez-nous avec votre adresse pour confirmer le déplacement et fixer un diagnostic." },
+      { q: "Intervenez-vous à Honfleur ?", a: "Oui, nous intervenons à Honfleur. Appelez-nous pour fixer un diagnostic." },
       { q: "Faut-il une autorisation pour abattre un arbre à Honfleur ?", a: "Cela dépend de votre secteur et du document d'urbanisme. Renseignez-vous auprès de la mairie avant d'agir ; nous pouvons vous aider à poser les bonnes questions." },
     ],
     related: ["elagueur-deauville-trouville", "elagage-apres-tempete", "abattage-arbre-dangereux"],
     local: ["elagage-pont-l-eveque", "elagage-lisieux"],
-    confirm: "Honfleur : à confirmer par le client (zone réelle, délais).",
   },
   {
     slug: "elagueur-deauville-trouville",
@@ -597,7 +596,7 @@ export const RAW_ELAGAGE = [
         h2: "Précautions et règles locales",
         paras: [
           "Certains secteurs de Deauville et Trouville-sur-Mer, très encadrés sur le plan patrimonial, peuvent soumettre les travaux sur les arbres à des règles particulières. Avant un abattage ou une taille importante, vérifiez auprès de la mairie. Pour l'entretien courant, nous restons dans les règles de l'art.",
-          "Disponibilité à Deauville et Trouville : à confirmer selon l'adresse. Appelez-nous pour en parler.",
+          "Nous intervenons à Deauville et Trouville. Appelez-nous pour en parler.",
         ],
       },
     ],
@@ -607,7 +606,6 @@ export const RAW_ELAGAGE = [
     ],
     related: ["elagueur-honfleur", "entretien-jardin-residence-secondaire-cote-fleurie", "elagage-avec-nacelle"],
     local: ["elagage-cabourg", "elagage-pont-l-eveque"],
-    confirm: "Deauville / Trouville : à confirmer (zone réelle, secteurs).",
   },
   {
     slug: "elagueur-bernay",
@@ -635,17 +633,16 @@ export const RAW_ELAGAGE = [
       {
         h2: "Comment nous intervenons à Bernay",
         paras: [
-          "Nous nous déplaçons pour un diagnostic gratuit, remettons un devis écrit et planifions le chantier. Selon l'accès, grimpe ou nacelle. Les branches sont broyées ou évacuées selon votre choix. Disponibilité à confirmer au téléphone selon votre adresse : Bernay se situe à la limite de notre zone d'environ 60 km autour de Lisieux.",
+          "Nous nous déplaçons pour un diagnostic gratuit, remettons un devis écrit et planifions le chantier. Selon l'accès, grimpe ou nacelle. Les branches sont broyées ou évacuées selon votre choix.",
         ],
       },
     ],
     faq: [
-      { q: "Bernay est-elle dans votre zone d'intervention ?", a: "Bernay est dans notre rayon d'environ 60 km autour de Lisieux. Appelez-nous avec votre adresse pour confirmer le déplacement." },
+      { q: "Bernay est-elle dans votre zone d'intervention ?", a: "Oui, nous intervenons à Bernay. Appelez-nous pour fixer un diagnostic." },
       { q: "Taillez-vous aussi les pommiers de verger ?", a: "Oui, nous taillons fruitiers et pommiers hautes-tiges. Voir notre article sur la taille du pommier dans le Pays d'Auge." },
     ],
     related: ["elagueur-pont-audemer", "tailler-un-pommier-pays-d-auge", "elaguer-arbres-bord-de-riviere-touques-dives"],
     local: ["elagage-lisieux", "elagage-orbec"],
-    confirm: "Bernay : à confirmer par le client (zone réelle).",
   },
   {
     slug: "elagueur-pont-audemer",
@@ -683,7 +680,6 @@ export const RAW_ELAGAGE = [
     ],
     related: ["elagueur-bernay", "elagueur-honfleur", "elaguer-arbres-bord-de-riviere-touques-dives"],
     local: ["elagage-lisieux", "elagage-moyaux"],
-    confirm: "Pont-Audemer : à confirmer par le client (zone réelle).",
   },
   {
     slug: "elagueur-gace",
@@ -711,7 +707,7 @@ export const RAW_ELAGAGE = [
       {
         h2: "Distance et organisation",
         paras: [
-          "Gacé est à la lisière de notre zone d'environ 60 km. Nous regroupons volontiers les chantiers d'un même secteur : si plusieurs voisins ont des arbres à faire élaguer, appelez-nous — c'est l'occasion d'organiser un passage commun. Disponibilité à confirmer par téléphone selon votre adresse.",
+          "Nous intervenons à Gacé. Nous regroupons volontiers les chantiers d'un même secteur : si plusieurs voisins ont des arbres à faire élaguer, appelez-nous — c'est l'occasion d'organiser un passage commun.",
         ],
       },
     ],
@@ -721,7 +717,6 @@ export const RAW_ELAGAGE = [
     ],
     related: ["abattage-arbre-vimoutiers-gace", "elaguer-un-chene", "tailler-un-pommier-pays-d-auge"],
     local: ["elagage-vimoutiers", "elagage-livarot"],
-    confirm: "Gacé : à confirmer par le client (zone réelle).",
   },
   {
     slug: "elagueur-beuvron-en-auge",
@@ -749,7 +744,7 @@ export const RAW_ELAGAGE = [
       {
         h2: "Précautions près des bâtiments anciens",
         paras: [
-          "Autour des maisons anciennes, un arbre trop proche peut abîmer toiture ou maçonnerie. L'élagage se fait alors avec protections et, si besoin, à la nacelle. Dans les secteurs protégés, vérifiez les règles d'urbanisme avant un abattage. Disponibilité à confirmer par téléphone selon votre adresse.",
+          "Autour des maisons anciennes, un arbre trop proche peut abîmer toiture ou maçonnerie. L'élagage se fait alors avec protections et, si besoin, à la nacelle. Dans les secteurs protégés, vérifiez les règles d'urbanisme avant un abattage.",
         ],
       },
     ],
@@ -759,7 +754,6 @@ export const RAW_ELAGAGE = [
     ],
     related: ["tailler-un-pommier-pays-d-auge", "elagueur-gace", "elaguer-un-chene"],
     local: ["elagage-cambremer", "elagage-saint-pierre-en-auge", "elagage-pont-l-eveque"],
-    confirm: "Beuvron-en-Auge / Crèvecœur-en-Auge : à confirmer (zone réelle).",
   },
   {
     slug: "elaguer-pres-d-une-ligne-electrique",

@@ -489,7 +489,7 @@ export const RAW_ABATTAGE = [
       {
         h2: "Le bois sur place",
         paras: [
-          "À la campagne, le bois a souvent une valeur : bûches de chauffage, bois d'œuvre. Nous convenons avec vous de ce que vous gardez. Vimoutiers est dans notre zone d'environ 60 km ; Gacé en lisière : disponibilité à confirmer par téléphone.",
+          "À la campagne, le bois a souvent une valeur : bûches de chauffage, bois d'œuvre. Nous convenons avec vous de ce que vous gardez. Nous intervenons à Vimoutiers et à Gacé.",
         ],
       },
     ],
@@ -499,7 +499,6 @@ export const RAW_ABATTAGE = [
     ],
     related: ["abattage-frene-dependissement", "elagueur-gace", "abattage-grand-arbre-par-demontage"],
     local: ["elagage-vimoutiers", "elagage-livarot"],
-    confirm: "Gacé : à confirmer (zone réelle).",
   },
   {
     slug: "abattage-arbre-cabourg-dives-sur-mer",
@@ -527,7 +526,7 @@ export const RAW_ABATTAGE = [
       {
         h2: "Règles et secteur",
         paras: [
-          "Certains secteurs du littoral sont soumis à des règles particulières (espaces protégés, secteurs patrimoniaux). Vérifiez en mairie avant d'abattre. Disponibilité à confirmer par téléphone.",
+          "Certains secteurs du littoral sont soumis à des règles particulières (espaces protégés, secteurs patrimoniaux). Vérifiez en mairie avant d'abattre.",
         ],
       },
     ],
@@ -537,7 +536,6 @@ export const RAW_ABATTAGE = [
     ],
     related: ["taille-de-haie-littoral-cabourg-deauville", "abattage-arbre-pres-d-une-maison", "elagueur-deauville-trouville"],
     local: ["elagage-cabourg", "elagage-dives-sur-mer"],
-    confirm: "Cabourg / Dives-sur-Mer : à confirmer (zone réelle, secteurs).",
   },
   {
     slug: "abattage-arbre-orbec-livarot-cambremer",
