@@ -1,4 +1,5 @@
 import { NOUVEAUX_ARTICLES, LIENS_VERS_NOUVEAUX } from "@/data/articlesNouveaux";
+import { ARTICLES_PLUS } from "@/data/articlesPlus";
 
 const ARTICLES_EXISTANTS = [
   {
@@ -2879,6 +2880,11 @@ const avecLiens = ARTICLES_EXISTANTS.map((a) => {
   return plus ? { ...a, links: [...a.links, ...plus] } : a;
 });
 
-export const ARTICLES = [...avecLiens, ...NOUVEAUX_ARTICLES];
+const nouveaux = NOUVEAUX_ARTICLES.map((a) => {
+  const x = ARTICLES_PLUS[a.slug];
+  return x ? { ...a, sections: [...a.sections, ...x.sections], faq: [...(a.faq || []), ...(x.faq || [])] } : a;
+});
+
+export const ARTICLES = [...avecLiens, ...nouveaux];
 
 export const ARTICLES_BY_SLUG = Object.fromEntries(ARTICLES.map((a) => [a.slug, a]));

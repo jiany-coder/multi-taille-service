@@ -85,6 +85,12 @@ export default function ArticlePage() {
                 ))}
               </ul>
             )}
+            {i === 1 && (
+              <div className="mt-10 flex flex-col items-start gap-4 rounded-lg border border-ember/30 bg-ember/5 p-6 sm:flex-row sm:items-center sm:justify-between">
+                <p className="font-serif text-xl font-semibold text-forest">Un doute sur votre arbre ou votre haie ? Appelez-nous, la visite est gratuite.</p>
+                <CallButton size="md" testid={`call-cta-inline-${article.slug}`} />
+              </div>
+            )}
           </Reveal>
         ))}
 
