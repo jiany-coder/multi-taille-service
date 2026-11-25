@@ -7,6 +7,7 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { SITE, breadcrumbSchema, localBusinessSchema } from "@/data/site";
 import { SERVICES_BY_SLUG } from "@/data/services";
 import { LOCAL_PAGES } from "@/data/localPages";
+import { COMMUNES_SANS_PAGE } from "@/data/communesSansPage";
 
 const BANDS = [
   { max: 5, label: "Autour de Lisieux, moins de 5 km" },
@@ -38,7 +39,7 @@ export default function ZonePage() {
   }).filter((b) => b.items.length);
 
   const title = "Zone d'intervention autour de Lisieux | Multi Taille";
-  const description = `Élagueur, jardinier et entretien de jardin dans un rayon d'environ 60 km autour de Lisieux : ${cities.length} communes du Pays d'Auge, de la côte, de l'agglomération de Caen, de l'Orne et de l'Eure. Appelez le ${SITE.phoneDisplay}.`;
+  const description = `Élagueur, jardinier et entretien de jardin dans un rayon d'environ 60 km autour de Lisieux : ${cities.length + COMMUNES_SANS_PAGE.length} communes du Pays d'Auge, de la côte, de l'agglomération de Caen, de l'Orne et de l'Eure. Appelez le ${SITE.phoneDisplay}.`;
 
   return (
     <>
@@ -96,6 +97,22 @@ export default function ZonePage() {
           </div>
         </section>
       ))}
+
+      {COMMUNES_SANS_PAGE.length > 0 && (
+        <section className="mx-auto max-w-7xl px-6 pt-16 sm:px-10" data-testid="zone-autres-communes">
+          <h2 className="font-serif text-2xl font-semibold tracking-tight text-forest sm:text-3xl">Autres communes où nous intervenons</h2>
+          <p className="mt-4 max-w-3xl text-base leading-relaxed text-charcoal/75">
+            Nous nous déplaçons aussi dans les communes ci-dessous, sur demande : visite et devis gratuits, par téléphone au {SITE.phoneDisplay}.
+          </p>
+          <div className="mt-6 flex flex-wrap gap-2.5">
+            {COMMUNES_SANS_PAGE.map((c) => (
+              <span key={c.city} className="rounded-full border border-charcoal/15 bg-bone px-4 py-1.5 text-sm font-medium text-charcoal/70">
+                {c.city}
+              </span>
+            ))}
+          </div>
+        </section>
+      )}
 
       <section className="mx-auto max-w-4xl px-6 pt-16 sm:px-10">
         <h2 className="font-serif text-2xl font-semibold tracking-tight text-forest sm:text-3xl">Votre commune n'est pas dans la liste ?</h2>
