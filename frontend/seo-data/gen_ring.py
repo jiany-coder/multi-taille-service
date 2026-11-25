@@ -5,6 +5,7 @@ geo.api.gouv.fr ; aucune information locale inventée : les conseils sont des g�
 type de territoire (littoral, plaine, bocage, vallée de la Risle...)."""
 import hashlib, json, os, re, unicodedata
 from local_enrich import enrich
+from local_unique import UNIQ
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "src", "data", "localPagesRing.js")
@@ -396,8 +397,12 @@ def build():
         rows.append(dict(n=n, p=int(p), d=int(d), dep=dep, dir=direction, nb=nb.split(",")))
 
     pages = []
+    global REMOVED
+    REMOVED = [r for r in rows if r["n"] not in UNIQ]
     for r in rows:
         c = r["n"]
+        if c not in UNIQ:
+            continue
         arch = archetype(c, r["p"])
         for svc in ("elagage", "jardinier", "taille-de-haie"):
             slug = f"{svc}-{slugify(c)}"
@@ -471,6 +476,9 @@ def build():
             ]
             _page = {"city": c, "serviceSlug": svc}
             local, cas, tips, extra_faq = enrich(_page, r, arch, listfr)
+            _u = UNIQ.get(c, {}).get(svc)
+            if _u:
+                local["paras"].insert(0, _u)
             faq = faq + extra_faq
             sections = []
             if svc == "jardinier":
@@ -517,12 +525,19 @@ def build():
 
 
 def write_redirects(pages):
-    """Écrit public/_redirects : anciennes URLs fusionnées -> page jardinier de la commune (301)."""
-    cities = sorted({p["citySlug"] for p in pages})
-    lines = [f"/{svc}-{c} /jardinier-{c} 301" for c in cities for svc in NEWSVC]
+    """public/_redirects : URLs fusionnées ou retirées (301). Communes gardées : tonte/débroussaillage/entretien -> jardinier.
+    Communes sans page : tous les anciens services -> /zone-d-intervention."""
+    kept = sorted({p["citySlug"] for p in pages})
+    lines = [f"/{svc}-{c} /jardinier-{c} 301" for c in kept for svc in NEWSVC]
+    gone = sorted(slugify(r["n"]) for r in REMOVED)
+    lines += [f"/{svc}-{c} /zone-d-intervention 301" for c in gone for svc in ("elagage", "jardinier", "taille-de-haie") + NEWSVC]
     path = os.path.join(HERE, "..", "public", "_redirects")
     open(path, "w", encoding="utf-8").write("\n".join(lines) + "\n")
     print(f"{len(lines)} redirections écrites dans {path}")
+    # communes sans page : listées en texte sur la page zone d'intervention
+    rows = sorted(({"city": r["n"], "km": r["d"]} for r in REMOVED), key=lambda x: (x["km"], x["city"]))
+    open(os.path.join(HERE, "..", "src", "data", "communesSansPage.js"), "w", encoding="utf-8").write(
+        "// Fichier généré par seo-data/gen_ring.py : communes desservies sans page dédiée.\nexport const COMMUNES_SANS_PAGE = " + json.dumps(rows, ensure_ascii=False) + ";\n")
 
 
 if __name__ == "__main__":
