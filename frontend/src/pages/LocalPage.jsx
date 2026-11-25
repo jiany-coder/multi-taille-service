@@ -117,6 +117,27 @@ export default function LocalPage({ page }) {
         </section>
       )}
 
+      {/* SECTIONS FUSIONNÉES (tonte, débroussaillage, entretien) */}
+      {page.sections && (
+        <section data-testid={`local-sections-${page.slug}`} className="mx-auto max-w-4xl px-6 pb-16 sm:px-10 sm:pb-24">
+          {page.sections.map((sec) => (
+            <Reveal key={sec.h2} className="mt-12 first:mt-0">
+              <h2 className="font-serif text-3xl font-semibold tracking-tight text-forest sm:text-4xl">{sec.h2}</h2>
+              {sec.paras.map((p, i) => (
+                <p key={i} className="mt-5 text-base leading-relaxed text-charcoal/75">{p}</p>
+              ))}
+              {sec.list && (
+                <ul className="mt-4 space-y-2">
+                  {sec.list.map((t) => (
+                    <li key={t} className="flex items-start gap-3 text-base text-charcoal/75"><Check className="mt-1 h-5 w-5 shrink-0 text-ember" strokeWidth={3} /> {t}</li>
+                  ))}
+                </ul>
+              )}
+            </Reveal>
+          ))}
+        </section>
+      )}
+
       {/* PRESTATIONS LOCALES */}
       <section data-testid={`local-prestations-${page.slug}`} className="border-y border-charcoal/10 bg-cream/60">
         <div className="mx-auto max-w-7xl px-6 py-16 sm:px-10 sm:py-20">

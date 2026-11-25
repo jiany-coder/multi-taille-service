@@ -399,7 +399,7 @@ def build():
     for r in rows:
         c = r["n"]
         arch = archetype(c, r["p"])
-        for svc in ("elagage", "jardinier", "taille-de-haie") + NEWSVC:
+        for svc in ("elagage", "jardinier", "taille-de-haie"):
             slug = f"{svc}-{slugify(c)}"
             kmp = km_phrase(r["d"])
             ctx = dict(c=c, dir=r["dir"], kmp=kmp, pop=pop_fmt(r["p"]))
@@ -472,6 +472,18 @@ def build():
             _page = {"city": c, "serviceSlug": svc}
             local, cas, tips, extra_faq = enrich(_page, r, arch, listfr)
             faq = faq + extra_faq
+            sections = []
+            if svc == "jardinier":
+                # Fusion : tonte, débroussaillage et entretien ne sont plus des pages séparées (doublons) ;
+                # ils deviennent des sections de la page « jardinier » de la commune.
+                for s2 in NEWSVC:
+                    sections.append({
+                        "h2": pick(c, s2 + "h2", EXTRA_H2[s2](c)),
+                        "paras": [pick(c, s2 + "A", ARCH[s2][arch]), pick(c, s2 + "B", GENERIC_B[s2])],
+                        "list": [PRESTA[s2][(h(c, s2 + "p", 10) + i * 3) % 10] for i in range(4)],
+                    })
+                    fq2 = FAQ_SPECIFIC[s2][h(c, s2 + "f", 3)]
+                    faq.append({"q": fq2[0], "a": fq2[1]})
             pages.append({
                 "local": local,
                 "cas": cas,
@@ -497,14 +509,25 @@ def build():
                     ],
                 },
                 "prestations": prest,
+                **({"sections": sections} if sections else {}),
                 "communes": nb3,
                 "faq": faq,
             })
     return pages
 
 
+def write_redirects(pages):
+    """Écrit public/_redirects : anciennes URLs fusionnées -> page jardinier de la commune (301)."""
+    cities = sorted({p["citySlug"] for p in pages})
+    lines = [f"/{svc}-{c} /jardinier-{c} 301" for c in cities for svc in NEWSVC]
+    path = os.path.join(HERE, "..", "public", "_redirects")
+    open(path, "w", encoding="utf-8").write("\n".join(lines) + "\n")
+    print(f"{len(lines)} redirections écrites dans {path}")
+
+
 if __name__ == "__main__":
     pages = build()
+    write_redirects(pages)
     js = "// Fichier généré par seo-data/gen_ring.py : ne pas modifier à la main.\nexport const LOCAL_PAGES_RING = " + json.dumps(pages, ensure_ascii=False, indent=2) + ";\n"
     open(OUT, "w", encoding="utf-8").write(js)
     print(f"{len(pages)} pages écrites dans {OUT}")
